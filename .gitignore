@@ -1,0 +1,25 @@
+# Node / wrangler
+node_modules/
+.wrangler/
+.dev.vars
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Logs (per-run; checked-in state goes under logs/state/)
+*.log
+logs/runs/
+
+# Secrets (defense in depth)
+*.pem
+*.key
+*_secret*
+credentials.json

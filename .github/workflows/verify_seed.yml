@@ -1,0 +1,112 @@
+name: verify_seed
+
+# Polls the project wallets every 5 minutes and appends a state line to
+# logs/state/usdc_base.tsv whenever the balance changes. When USDC moves
+# from zero to anything ≥ $0.01 we open a GitHub issue so the operator
+# notices that the seed funds have arrived.
+#
+# Scheduled at 7,17,27,37,47,57 (off the round 5-minute boundary so we
+# don't pile onto GitHub's most-congested cron windows — the docs warn
+# that on-the-minute schedules can be delayed up to 15 minutes).
+
+on:
+  schedule:
+    - cron: '7,17,27,37,47,57 * * * *'
+  workflow_dispatch: {}     # allow manual run for debugging
+
+# Single concurrent run per branch — if a previous tick is still
+# fetching when the next one fires, drop the new one.
+concurrency:
+  group: verify-seed
+  cancel-in-progress: false
+
+permissions:
+  contents: write           # to commit log updates
+  issues: write             # to open the "seed arrived" issue
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    env:
+      WALLET_ETH: '0xE60544C5248897B4AB8Bee08d4999095523C7E14'
+      USDC_BASE:  '0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913'
+      RPC_BASE:   'https://mainnet.base.org'
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Query USDC balance via JSON-RPC
+        id: usdc
+        run: |
+          set -euo pipefail
+          # ERC20 balanceOf(address) selector = 0x70a08231
+          DATA="0x70a08231000000000000000000000000${WALLET_ETH:2}"
+          PAYLOAD=$(jq -n --arg to "$USDC_BASE" --arg data "$DATA" '{
+            jsonrpc:"2.0", id:1, method:"eth_call",
+            params:[{to:$to, data:$data}, "latest"]
+          }')
+          RESP=$(curl -fsS -X POST -H "Content-Type: application/json" \
+            --max-time 20 -d "$PAYLOAD" "$RPC_BASE")
+          HEX=$(echo "$RESP" | jq -r '.result // empty')
+          if [[ -z "$HEX" || "$HEX" == "0x" ]]; then
+            echo "RPC returned no result: $RESP"; exit 1
+          fi
+          # USDC is 6 decimals
+          RAW=$(printf '%d' "$HEX")
+          DOLLARS=$(awk "BEGIN { printf \"%.6f\", $RAW/1000000 }")
+          echo "raw=$RAW"             >> "$GITHUB_OUTPUT"
+          echo "dollars=$DOLLARS"     >> "$GITHUB_OUTPUT"
+          echo "USDC balance: \$$DOLLARS ($RAW)"
+
+      - name: Append to state log if changed
+        id: log
+        env:
+          DOLLARS: ${{ steps.usdc.outputs.dollars }}
+          RAW:     ${{ steps.usdc.outputs.raw }}
+        run: |
+          set -euo pipefail
+          mkdir -p logs/state
+          FILE=logs/state/usdc_base.tsv
+          if [[ ! -f $FILE ]]; then
+            printf 'timestamp\tbalance_raw\tbalance_usd\n' > "$FILE"
+          fi
+          PREV=$(awk -F'\t' 'END{print $2}' "$FILE")
+          if [[ "$PREV" == "$RAW" ]]; then
+            echo "unchanged ($RAW); not committing"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          NOW=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+          printf '%s\t%s\t%s\n' "$NOW" "$RAW" "$DOLLARS" >> "$FILE"
+          echo "changed=true"            >> "$GITHUB_OUTPUT"
+          echo "prev_raw=${PREV:-0}"     >> "$GITHUB_OUTPUT"
+          echo "new_raw=$RAW"            >> "$GITHUB_OUTPUT"
+          echo "new_dollars=$DOLLARS"    >> "$GITHUB_OUTPUT"
+
+      - name: Commit log change
+        if: steps.log.outputs.changed == 'true'
+        run: |
+          set -euo pipefail
+          git config user.name  'verify-seed-bot'
+          git config user.email 'verify-seed@users.noreply.github.com'
+          git add logs/state/usdc_base.tsv
+          git commit -m "verify_seed: USDC = \$${{ steps.log.outputs.new_dollars }}"
+          git push
+
+      - name: Open seed-arrived issue on first non-zero balance
+        if: steps.log.outputs.changed == 'true' && steps.log.outputs.prev_raw == '0' && steps.log.outputs.new_raw != '0'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const dollars = '${{ steps.log.outputs.new_dollars }}';
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo:  context.repo.repo,
+              title: `Seed USDC arrived: $${dollars}`,
+              body:
+                `Base USDC balance just moved from 0 to **$${dollars}** ` +
+                `for wallet \`${process.env.WALLET_ETH || ''}\`.\n\n` +
+                `Detected at ${new Date().toISOString()}.\n\n` +
+                `_This issue is opened automatically by the \`verify_seed\` workflow._`,
+              labels: ['seed-arrived', 'auto']
+            });
