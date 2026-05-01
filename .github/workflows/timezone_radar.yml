@@ -1,0 +1,66 @@
+name: timezone_radar
+
+# Improvement #5 — 跨時區套利雷達
+# 只在 UTC 03:00-06:00（亞洲日間 / 美洲深夜空窗）排程
+# 目標：搶歐美深夜新貼的 SN/GitHub bounty，0 評論時 first-mover
+
+on:
+  schedule:
+    # 每 15 分鐘，僅 UTC 03 / 04 / 05
+    - cron: '*/15 3-5 * * *'
+  workflow_dispatch: {}
+
+concurrency:
+  group: tz-radar
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Run timezone radar
+        id: radar
+        run: |
+          mkdir -p data/timezone
+          OUT_DIR=data/timezone node scripts/timezone_radar.mjs --force > /tmp/tz.out 2>&1 || true
+          cat /tmp/tz.out
+          LATEST=$(ls -t data/timezone/tz_*.tsv 2>/dev/null | head -1)
+          if [ -n "$LATEST" ]; then
+            FLC=$(awk -F'\t' '$1=="FRESH_LOW_COMP"' "$LATEST" | head -6)
+            echo "flc<<EOF" >> $GITHUB_OUTPUT
+            echo "$FLC" >> $GITHUB_OUTPUT
+            echo "EOF" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/timezone/ || true
+          git diff --cached --quiet || git commit -m "tz_radar: scan $(date -u +%FT%TZ)"
+          git push || true
+
+      - name: Open issue if FRESH_LOW_COMP found
+        if: steps.radar.outputs.flc != ''
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const body = `Timezone radar — 亞洲日間 first-mover 機會:\n\n\`\`\`\n${{ steps.radar.outputs.flc }}\n\`\`\``;
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `[tz-radar] FRESH_LOW_COMP ${new Date().toISOString().slice(0,16)}`,
+              body,
+              labels: ['radar', 'timezone']
+            });
