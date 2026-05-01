@@ -1,0 +1,12 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	2.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1482108	Latest Strikes S03E17 - April 20th - 26th 2026
+4	sn/bitcoin	5.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1482000	How much of Bitcoin mining economics does the average Bitcoiner misunderstand?
+3	sn/bitcoin	23.1	333 sats	OPEN_NEED	https://stacker.news/items/1481567	What the hell is a Bitcoin super-app?
+3	github	33.6	$165	OPEN_ISSUE,LOW_COMP	https://github.com/Cypher-CP0/fluxpay/issues/1	feat: replace hardcoded SOL price with live price feed from backend
+2	sn/bitcoin	22.1	-	OPEN_NEED	https://stacker.news/items/1481605	Are we in a bear market of money itself?
+2	github	40.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/yuribodo/zksettle/issues/96	feat(frontend): implement CSV/JSON export in audit log (RF-08)
+2	github	42.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emoji-dot/drips-wave-dashboard/issues/14	[10 points] Add currency formatting for multiple currencies
+2	github	46.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/unleaktrade/app/issues/27	Phase 1 verification — sign-off checklist (blocks Phase 2 / #12)
+0	github	17.8	-	OPEN_ISSUE	https://github.com/INDIGOAZUL/la-tanda-web/issues/269	[BOUNTY] Cosmos Ecosystem Comms Sprint: 4-week content rhythm (750 LTD)
+0	github	18.0	-	OPEN_ISSUE	https://github.com/INDIGOAZUL/la-tanda-web/issues/268	[BOUNTY] Notification Center improvements: grouping + inline actions + history page (750 LTD)
+0	github	23.5	-	OPEN_ISSUE	https://github.com/INDIGOAZUL/la-tanda-web/issues/267	[BOUNTY] Prometheus + Grafana monitoring stack for La Tanda Chain validators (1,000 LTD)
