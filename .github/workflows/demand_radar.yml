@@ -1,0 +1,66 @@
+name: demand_radar
+
+# Improvement #1 — Demand-side radar
+# 每 30 min 抓 SN/GitHub/Reddit 公開「我需要 X 願付 Y」訊號
+# 結果寫 data/demand/demand_<UTC>.tsv；高優先 (score≥5 & age≤4h) 開 issue
+
+on:
+  schedule:
+    - cron: '7,37 * * * *'
+  workflow_dispatch: {}
+
+concurrency:
+  group: demand-radar
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Run demand radar
+        id: radar
+        run: |
+          mkdir -p data/demand
+          OUT_DIR=data/demand node scripts/demand_radar.mjs > /tmp/demand.out 2>&1 || true
+          cat /tmp/demand.out
+          LATEST=$(ls -t data/demand/demand_*.tsv 2>/dev/null | head -1)
+          if [ -n "$LATEST" ]; then
+            # score >= 5 且 age_h <= 4 視為高優先（與本機 banner 規則一致）
+            HOT=$(awk -F'\t' '$1 ~ /^[5-9]|^[1-9][0-9]/ && $3+0 <= 4' "$LATEST" | head -8)
+            echo "hot<<EOF" >> $GITHUB_OUTPUT
+            echo "$HOT" >> $GITHUB_OUTPUT
+            echo "EOF" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/demand/ || true
+          git diff --cached --quiet || git commit -m "demand_radar: scan $(date -u +%FT%TZ)"
+          git push || true
+
+      - name: Open issue if high-priority demand found
+        if: steps.radar.outputs.hot != ''
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const body = `Demand-side radar 高優先訊號:\n\n\`\`\`\n${{ steps.radar.outputs.hot }}\n\`\`\``;
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `[demand] high-priority ${new Date().toISOString().slice(0,16)}`,
+              body,
+              labels: ['radar', 'demand']
+            });
