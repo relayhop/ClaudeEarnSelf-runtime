@@ -1,0 +1,68 @@
+name: whitelist_scan
+
+# Batch 2.2 (#7) — 白名單平台健康 cron
+# 每 30 分鐘抓所有 CLAUDE.md 候選平台首頁 + listing endpoint，
+# 結果寫 data/opportunities/<platform>/<UTC>.json
+# 探索動作改成「讀本地 JSONL」而非每輪重訪
+#
+# 部署: cp 到 relayhop/ClaudeEarnSelf-runtime/.github/workflows/whitelist_scan.yml
+
+on:
+  schedule:
+    - cron: '12,42 * * * *'
+  workflow_dispatch: {}
+
+concurrency:
+  group: whitelist-scan
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Probe platform endpoints
+        run: |
+          set +e
+          mkdir -p data/opportunities
+          TS=$(date -u +%Y%m%dT%H%M)
+          DAY=$(date -u +%Y-%m-%d)
+
+          # SN bounty sub
+          curl -sS -m 15 'https://stacker.news/api/graphql' \
+            -H 'content-type: application/json' \
+            -d '{"query":"query { items(sub: \"bounty\", sort: \"recent\", when: \"day\", limit: 20) { items { id title bounty bountyPaidTo ncomments createdAt } } }","operationName":"items"}' \
+            > data/opportunities/sn_bounty_${TS}.json
+
+          # bountycaster public listing
+          curl -sS -m 15 'https://www.bountycaster.xyz/api/bounties?limit=30' \
+            > data/opportunities/bountycaster_${TS}.json || true
+
+          # algora public bounties
+          curl -sS -m 15 'https://console.algora.io/api/trpc/bounty.bounties?input=%7B%22json%22%3A%7B%22status%22%3A%22active%22%7D%7D' \
+            -H 'content-type: application/json' \
+            > data/opportunities/algora_${TS}.json || true
+
+          # polar.sh issues with reward
+          curl -sS -m 15 'https://api.polar.sh/v1/issues/search?have_pledge=true&limit=30' \
+            > data/opportunities/polar_${TS}.json || true
+
+          # Layer3 quests (公開 listing)
+          curl -sS -m 15 'https://layer3.xyz/api/quests?status=live&limit=30' \
+            > data/opportunities/layer3_${TS}.json || true
+
+          # 整理: 只保留每天最新一份 (避免 repo 膨脹)
+          find data/opportunities -name "*.json" -mtime +2 -delete || true
+
+      - name: Commit
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/opportunities/ || true
+          git diff --cached --quiet || git commit -m "whitelist_scan: $(date -u +%FT%TZ)"
+          git push || true
