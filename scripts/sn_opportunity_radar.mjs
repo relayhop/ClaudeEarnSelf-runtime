@@ -74,7 +74,7 @@ function classify(item) {
 
 (async () => {
   const ts = new Date().toISOString().replace(/[:.]/g, '-').slice(0, 19);
-  const out = path.resolve('logs/opportunities');
+  const out = path.resolve(process.env.OUT_DIR || 'logs/opportunities');
   fs.mkdirSync(out, { recursive: true });
 
   const all = [];
