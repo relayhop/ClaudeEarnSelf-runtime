@@ -1,0 +1,15 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	2.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1482302	Payments Adoption Weekly Brief 2026/18
+6	sn/bitcoin	3.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1482254	Have you ever messed up a transaction?
+4	sn/bitcoin	4.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1482210	What Can You Actually Buy With Bitcoin in Canada in 2026?
+4	sn/bitcoin	9.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1482000	How much of Bitcoin mining economics does the average Bitcoiner misunderstand?
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/972	[BOUNTY] Suggestion #748
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/971	[BOUNTY] Refactor quirks and place them in the splurt modular
+3	github	37.5	$165	OPEN_ISSUE,LOW_COMP	https://github.com/Cypher-CP0/fluxpay/issues/1	feat: replace hardcoded SOL price with live price feed from backend
+2	sn/bitcoin	6.4	-	OPEN_NEED	https://stacker.news/items/1482108	Latest Strikes S03E17 - April 20th - 26th 2026
+2	github	44.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/yuribodo/zksettle/issues/96	feat(frontend): implement CSV/JSON export in audit log (RF-08)
+2	github	46.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emoji-dot/drips-wave-dashboard/issues/14	[10 points] Add currency formatting for multiple currencies
+2	github	50.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/unleaktrade/app/issues/27	Phase 1 verification — sign-off checklist (blocks Phase 2 / #12)
+0	github	21.7	-	OPEN_ISSUE	https://github.com/INDIGOAZUL/la-tanda-web/issues/269	[BOUNTY] Cosmos Ecosystem Comms Sprint: 4-week content rhythm (750 LTD)
+0	github	21.9	-	OPEN_ISSUE	https://github.com/INDIGOAZUL/la-tanda-web/issues/268	[BOUNTY] Notification Center improvements: grouping + inline actions + history page (750 LTD)
+0	github	27.5	-	OPEN_ISSUE	https://github.com/INDIGOAZUL/la-tanda-web/issues/267	[BOUNTY] Prometheus + Grafana monitoring stack for La Tanda Chain validators (1,000 LTD)
