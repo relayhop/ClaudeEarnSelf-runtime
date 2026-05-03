@@ -1,0 +1,18 @@
+# score	source	age_h	payout_hint	tags	url	title
+2	sn/bitcoin	18.7	-	OPEN_NEED	https://stacker.news/items/1482875	Where should JoinMarket development focus next?
+2	sn/bitcoin	16.6	-	OPEN_NEED	https://stacker.news/items/1482952	What part of Bitcoin took you longest to understand?
+2	github	10.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/amaanjaved1/Coursify-WebApp/issues/289	Bounty: Landing Page, Navigation and Design System
+2	github	10.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/amaanjaved1/Coursify-WebApp/issues/288	Bounty: Database
+2	github	10.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/amaanjaved1/Coursify-WebApp/issues/287	Bounty: API Layer
+2	github	10.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/amaanjaved1/Coursify-WebApp/issues/286	Bounty: Queens Answers + Redis
+2	github	10.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/amaanjaved1/Coursify-WebApp/issues/285	Bounty: Grade Distribution Upload
+2	github	10.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/amaanjaved1/Coursify-WebApp/issues/284	Bounty: Course Detail & Grade Distributions
+2	github	19.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Monero-Merchant/monero-merchant/issues/30	Umbrel Integration & Admin Dashboard for Monero Merchant
+2	github	39.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/972	[BOUNTY] Suggestion #748
+2	github	41.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/971	[BOUNTY] Refactor quirks and place them in the splurt modular
+2	github	47.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Monero-Merchant/monero-merchant/issues/29	Accept Bitcoin Lightning payments via Trocador API
+0	github	8.2	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/issues/37	[BOUNTY $100] 🐜 Best-in-Class Integration: CrewAI + Memanto Agentic Memory
+0	github	10.9	-	OPEN_ISSUE	https://github.com/amaanjaved1/Coursify-WebApp/issues/283	Bug Bounty - Search courses
+0	github	60.2	-	OPEN_ISSUE	https://github.com/INDIGOAZUL/la-tanda-web/issues/269	[BOUNTY] Cosmos Ecosystem Comms Sprint: 4-week content rhythm (750 LTD)
+0	github	60.4	-	OPEN_ISSUE	https://github.com/INDIGOAZUL/la-tanda-web/issues/268	[BOUNTY] Notification Center improvements: grouping + inline actions + history page (750 LTD)
+0	github	65.9	-	OPEN_ISSUE	https://github.com/INDIGOAZUL/la-tanda-web/issues/267	[BOUNTY] Prometheus + Grafana monitoring stack for La Tanda Chain validators (1,000 LTD)
