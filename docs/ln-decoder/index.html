@@ -1,0 +1,46 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>Lightning Invoice Decoder · BOLT11</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>body{font:14px/1.5 -apple-system,sans-serif;max-width:680px;margin:2em auto;padding:1em}
+textarea{width:100%;height:80px;font-family:monospace;font-size:12px;padding:.5em}
+.field{margin:.5em 0;padding:.5em;background:#f7f7f7;border-radius:4px}
+.field b{display:inline-block;min-width:140px}
+button{padding:.5em 1em;background:#f7931a;color:#fff;border:0;border-radius:4px;cursor:pointer}
+.tip{background:#fff8e7;padding:.6em;border-radius:6px;margin-top:1.5em}
+code{background:#f4f4f4;padding:.2em .4em;border-radius:3px}
+</style></head><body>
+<h1>Lightning Invoice Decoder</h1>
+<p>Paste a BOLT11 LN invoice (lnbc / lntb / lnbcrt). Decodes prefix, network, amount, and timestamp client-side. No data leaves your browser.</p>
+<textarea id="inv" placeholder="lnbc1500n1pj..."></textarea>
+<p><button onclick="decode()">Decode</button></p>
+<div id="out"></div>
+<div class="tip">⚡ If useful, tip via Lightning: <code>jeffchu@coinos.io</code></div>
+<script>
+function decode(){
+  const inv = document.getElementById('inv').value.trim().toLowerCase();
+  const out = document.getElementById('out');
+  out.innerHTML = '';
+  if (!inv) return;
+  // Prefix detection
+  const m = inv.match(/^ln(bc|tb|bcrt)(\d+)?([munp])?1/);
+  if (!m) { out.innerHTML = '<p style="color:red">Not a BOLT11 invoice (must start with lnbc / lntb / lnbcrt).</p>'; return; }
+  const network = m[1]==='bc'?'Mainnet':m[1]==='tb'?'Testnet':'Regtest';
+  let amount = 'unspecified (any-amount invoice)';
+  let sats = null;
+  if (m[2]) {
+    const num = parseInt(m[2]);
+    const unit = m[3];
+    let btc = num;
+    if (unit==='m') btc = num * 0.001;
+    else if (unit==='u') btc = num * 1e-6;
+    else if (unit==='n') btc = num * 1e-9;
+    else if (unit==='p') btc = num * 1e-12;
+    sats = Math.round(btc * 1e8);
+    amount = sats.toLocaleString() + ' sats (' + btc.toFixed(8) + ' BTC)';
+  }
+  const fields = [
+    ['Prefix', 'ln' + m[1]], ['Network', network], ['Amount', amount],
+    ['Length', inv.length + ' chars'], ['Format check', /^[a-z0-9]+$/.test(inv) ? '✅ valid base32' : '⚠ invalid chars']
+  ];
+  out.innerHTML = fields.map(f => '<div class="field"><b>' + f[0] + ':</b> ' + f[1] + '</div>').join('');
+}
+</script></body></html>
