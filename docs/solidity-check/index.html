@@ -1,0 +1,40 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>Solidity Reentrancy Quick-Check</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>body{font:14px/1.5 -apple-system,sans-serif;max-width:760px;margin:2em auto;padding:1em}
+textarea{width:100%;height:200px;font-family:'SF Mono',Monaco,monospace;font-size:12px;padding:.5em}
+button{padding:.5em 1em;background:#444;color:#fff;border:0;border-radius:4px;cursor:pointer;margin-right:.4em}
+.warn{background:#fff3cd;padding:.6em;border-left:3px solid #ffc107;margin:.5em 0}
+.bad{background:#f8d7da;padding:.6em;border-left:3px solid #dc3545;margin:.5em 0}
+.ok{background:#d4edda;padding:.6em;border-left:3px solid #28a745;margin:.5em 0}
+.tip{background:#fff8e7;padding:.6em;border-radius:6px;margin-top:1.5em}
+code{background:#f4f4f4;padding:.2em .4em;border-radius:3px}
+</style></head><body>
+<h1>Solidity Reentrancy Quick-Check</h1>
+<p>Paste Solidity source. The tool runs <strong>regex heuristics</strong> on common reentrancy / access-control patterns. <strong>Not a substitute for full audit</strong> — fails fast on red-flag patterns only.</p>
+<textarea id="src" placeholder="contract Vault { function withdraw() public { ... } }"></textarea>
+<p><button onclick="check()">Run heuristic check</button></p>
+<div id="out"></div>
+<div class="tip">⚡ Tip if useful: <code>jeffchu@coinos.io</code></div>
+<script>
+const RULES = [
+  {re:/\.call\{value:\s*[^}]*\}\(""\)\s*;[\s\S]{0,200}?(balance|state|user|owner|amount)\s*[-=+]/i, sev:'bad', msg:'Possible reentrancy: external .call before state update (CEI violation)'},
+  {re:/transfer\(.*\);[\s\S]{0,200}?(balance|state|user|owner|amount)\s*[-=+]/i, sev:'warn', msg:'Possible state mutation after .transfer (low risk; gas-stipended)'},
+  {re:/tx\.origin/, sev:'bad', msg:'Use of tx.origin (phishing risk; use msg.sender)'},
+  {re:/block\.timestamp\b.*[<>=]/, sev:'warn', msg:'block.timestamp comparisons can be miner-manipulated by ±15s'},
+  {re:/selfdestruct/, sev:'warn', msg:'selfdestruct deprecated post-Cancun; behaviour changed'},
+  {re:/\.call\(.*\).*returns/i, sev:'warn', msg:'Low-level .call without return-value check'},
+  {re:/owner\s*=\s*msg\.sender/i, sev:'warn', msg:'Owner reassignment without access guard'},
+  {re:/onlyOwner|onlyAdmin|nonReentrant/, sev:'ok', msg:'Detected access/reentrancy modifier — verify scope coverage'},
+  {re:/(uint8|uint16|uint32|uint64|uint128)\s+\w+\s*=/, sev:'warn', msg:'Sub-256 uint usage — overflow on upcast not auto-checked pre-0.8'},
+  {re:/pragma solidity \^?0\.[0-7]\./, sev:'bad', msg:'Solidity <0.8 — no built-in overflow checks'}
+];
+function check(){
+  const src = document.getElementById('src').value;
+  const out = document.getElementById('out');
+  out.innerHTML = '';
+  if (!src) return;
+  const hits = RULES.filter(r => r.re.test(src));
+  if (!hits.length) { out.innerHTML = '<div class="ok">No red-flag heuristic matched. Still recommend full audit.</div>'; return; }
+  hits.forEach(h => out.innerHTML += '<div class="' + h.sev + '">[' + h.sev.toUpperCase() + '] ' + h.msg + '</div>');
+}
+</script></body></html>
