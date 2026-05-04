@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>BTC Fee Dashboard · live mempool sat/vB</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+body{font:14px/1.5 -apple-system,BlinkMacSystemFont,sans-serif;max-width:640px;margin:2em auto;padding:1em;color:#222}
+h1{font-size:1.4em}
+.card{border:1px solid #ddd;border-radius:8px;padding:1em;margin:.8em 0}
+.fee{font-size:1.6em;font-weight:600;color:#f7931a}
+.row{display:flex;justify-content:space-between;gap:1em;flex-wrap:wrap}
+.row>div{flex:1;min-width:140px}
+small{color:#666}
+footer{margin-top:2em;border-top:1px solid #eee;padding-top:1em;font-size:.9em;color:#555}
+code{background:#f4f4f4;padding:.2em .4em;border-radius:3px}
+.tip{background:#fff8e7;padding:.6em;border-radius:6px;margin-top:.6em}
+</style>
+</head>
+<body>
+<h1>BTC Fee Dashboard</h1>
+<p>Live mempool fee tiers (sat/vB) + recommended next-block fees. Source: <a href="https://mempool.space/docs/api/rest" target="_blank">mempool.space public API</a> (no auth).</p>
+
+<div class="card">
+  <h3>Recommended fees</h3>
+  <div class="row">
+    <div><small>Fastest (next block)</small><div class="fee" id="fast">…</div></div>
+    <div><small>Half hour</small><div class="fee" id="half">…</div></div>
+    <div><small>Hour</small><div class="fee" id="hour">…</div></div>
+    <div><small>Economy</small><div class="fee" id="econ">…</div></div>
+  </div>
+</div>
+
+<div class="card">
+  <h3>Mempool depth (vsize MB)</h3>
+  <div id="depth">…</div>
+</div>
+
+<div class="card">
+  <h3>Estimate cost for typical tx</h3>
+  <p>Standard P2WPKH 1-in/2-out ≈ 141 vB. Cost at fastest rate: <span id="cost">…</span> sats</p>
+</div>
+
+<footer>
+<p><strong>Free open tool.</strong> If useful, send a sat tip via Lightning:</p>
+<div class="tip">⚡ Lightning Address: <code>jeffchu@coinos.io</code></div>
+<p><small>Built atop public <a href="https://mempool.space" target="_blank">mempool.space</a> API. Source: <a href="https://github.com/relayhop/ClaudeEarnSelf-runtime" target="_blank">relayhop/ClaudeEarnSelf-runtime</a>. No tracking, no ads.</small></p>
+</footer>
+
+<script>
+async function load(){
+  try {
+    const [r1, r2] = await Promise.all([
+      fetch('https://mempool.space/api/v1/fees/recommended').then(r=>r.json()),
+      fetch('https://mempool.space/api/v1/fees/mempool-blocks').then(r=>r.json())
+    ]);
+    document.getElementById('fast').textContent = r1.fastestFee + ' sat/vB';
+    document.getElementById('half').textContent = r1.halfHourFee + ' sat/vB';
+    document.getElementById('hour').textContent = r1.hourFee + ' sat/vB';
+    document.getElementById('econ').textContent = r1.economyFee + ' sat/vB';
+    document.getElementById('cost').textContent = (r1.fastestFee * 141).toLocaleString();
+    const totalMB = r2.reduce((s,b)=>s + b.blockVSize/1e6, 0);
+    document.getElementById('depth').textContent = totalMB.toFixed(2) + ' MB across ' + r2.length + ' projected blocks';
+  } catch(e) {
+    document.body.innerHTML += '<p style="color:red">load fail: '+e.message+'</p>';
+  }
+}
+load(); setInterval(load, 60000);
+</script>
+</body>
+</html>
