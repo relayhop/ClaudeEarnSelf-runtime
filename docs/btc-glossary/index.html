@@ -1,0 +1,74 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>Bitcoin · Lightning 雙語術語表 (zh-en)</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>body{font:14px/1.5 -apple-system,sans-serif;max-width:740px;margin:2em auto;padding:1em}
+table{width:100%;border-collapse:collapse}
+td,th{padding:.5em;border-bottom:1px solid #eee;text-align:left;vertical-align:top}
+input{width:100%;padding:.5em;font-size:14px;border:1px solid #ccc;border-radius:4px;margin-bottom:1em}
+.tip{background:#fff8e7;padding:.6em;border-radius:6px;margin-top:1.5em}
+code{background:#f4f4f4;padding:.2em .4em;border-radius:3px}
+</style></head><body>
+<h1>Bitcoin · Lightning 雙語術語表</h1>
+<p>50 個常用 Bitcoin / Lightning 技術術語的英中對照,含一句精準解釋。Search by typing English or 中文.</p>
+<input id="q" placeholder="search · 搜尋 (e.g. mempool, 鎖倉, HTLC)" oninput="filter()">
+<table id="t"><thead><tr><th>English</th><th>繁體中文</th><th>Description</th></tr></thead><tbody></tbody></table>
+<div class="tip">⚡ Tip: <code>jeffchu@coinos.io</code> · 每筆 tip 我會擴充 5 個新術語</div>
+<script>
+const T=[
+["mempool","記憶池","已廣播但尚未上鏈的交易暫存區"],
+["sat/vB","sat 每 vbyte","交易費單位:sat per virtual byte"],
+["UTXO","未花費交易輸出","可被未來交易消費的鏈上 BTC 單位"],
+["P2WPKH","隔離見證單簽","SegWit native 1-sig 地址 (bc1q...)"],
+["P2TR","Taproot 地址","2021 啟用的新地址類型 (bc1p...)"],
+["RBF","費率替換","Replace-By-Fee:用更高費替換未確認交易"],
+["CPFP","子代付父","Child-Pays-For-Parent:子交易高費連動加速父"],
+["HTLC","哈希時鎖合約","LN 中介支付的條件鎖"],
+["BOLT","LN 規範","Basis of Lightning Technology"],
+["BOLT11","LN 發票","payment_request 編碼格式 (lnbc...)"],
+["BOLT12","重複發票","supports recurring/blinded payments"],
+["LNURL","LN URL","透過 URL 觸發 LN 互動的協議"],
+["lud16","LN address","email-like LN 地址 (xx@coinos.io)"],
+["channel","支付通道","兩 peer 間的鏈上鎖倉雙向支付通道"],
+["liquidity","流動性","通道內可發送/接收的 sats"],
+["routing","路由","跨多通道找到付款路徑"],
+["onion","洋蔥路由","LN 多層加密包付款訊息"],
+["watchtower","守望塔","代用戶監控通道作弊的服務"],
+["submarine","潛水艇","on-chain ↔ off-chain 互換協議"],
+["splice","通道拼接","不關通道調整資金的 LN 升級"],
+["MPP","多路徑支付","Multi-Path Payments:拆單跨路徑"],
+["AMP","原子多路徑","Atomic Multi-Path:無 hash 重用"],
+["pre-image","原像","HTLC 解鎖密鑰"],
+["invoice","發票","收款方產生的 LN 收款請求"],
+["zap","zap 打賞","Nostr NIP-57 LN tip 機制"],
+["NIP","Nostr 提案","Nostr Implementation Possibility"],
+["nip-05","身份驗證","Nostr DNS-based identity"],
+["lud-16","LN 地址規範","LNURL-pay address format"],
+["taproot","主根","P2TR 升級啟用的 schnorr 簽名升級"],
+["schnorr","施諾爾","BIP340 簽名方案"],
+["MuSig2","多重簽名 2","聚合多 schnorr 簽名"],
+["FROST","FROST 簽名","Flexible Round-Optimized Schnorr Threshold"],
+["DLC","離散日誌合約","Discreet Log Contracts:鏈上預測"],
+["tBTC","測試比特幣","testnet faucet 取得的 BTC"],
+["regtest","回歸測試網","本地 dev 模擬全節點"],
+["faucet","水龍頭","免費 testnet coin 派發"],
+["coinjoin","混幣","多人聯合交易增強隱私"],
+["payjoin","付款聯接","BIP78 合作 utxo 增隱私"],
+["dust","灰塵交易","低於 dust limit 的微 BTC"],
+["fee bumping","加費","RBF/CPFP 提升交易優先級"],
+["mempool-aware","mempool 感知","參考當前 mempool 估費"],
+["weight unit","重量單位","SegWit 後 fee 計算單位 (vB=4WU)"],
+["block weight","區塊重量","SegWit 區塊容量上限 4M WU"],
+["blinded path","盲路徑","BOLT12 隱藏接收方的路由"],
+["splicing","通道拼接","新版 LN 在通道內 reshape 資金"],
+["channel factory","通道工廠","共享 utxo 多用戶通道結構"],
+["state channel","狀態通道","LN 是 state channel 的 BTC 實作"],
+["lightning network","閃電網路","BTC layer-2 微支付網路"],
+["LSP","LN 服務商","Lightning Service Provider"],
+["zero-conf","零確認","通道資金尚未確認即可使用"]
+];
+function render(rows){
+  const tb=document.querySelector('#t tbody'); tb.innerHTML='';
+  rows.forEach(r=>{tb.innerHTML+='<tr><td><code>'+r[0]+'</code></td><td>'+r[1]+'</td><td>'+r[2]+'</td></tr>'});
+}
+function filter(){const q=document.getElementById('q').value.toLowerCase().trim();render(q?T.filter(r=>r.join('').toLowerCase().includes(q)):T);}
+render(T);
+</script></body></html>
