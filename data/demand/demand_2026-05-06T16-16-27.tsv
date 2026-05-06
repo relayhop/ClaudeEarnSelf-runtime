@@ -1,0 +1,12 @@
+# score	source	age_h	payout_hint	tags	url	title
+8	sn/bitcoin	0.2	1000sats	BOUNTY,LOW_COMP	https://stacker.news/items/1485327	Bitcoin Math Puzzle #004: Selfish Mining Pt. 4
+4	sn/bitcoin	22.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1484790	How to decode an arcade address (and a bitcoin address) - James Scaur
+2	github	49.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/spiffamani/swiftpay/issues/4	[MEDIUM] Build the Post a Job form
+2	github	50.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/spiffamani/swiftpay/issues/2	[TRIVIAL] Create a reusable JobCard component
+2	github	11.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/atharvnaik1/ipaship-app-reviewer/issues/92	Add debugger ai like concept to debug in code but with prompts and breakpoints
+2	github	32.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/atharvnaik1/ipaship-app-reviewer/issues/86	Solve minor bugs, and run the application bounty ₹2000
+2	github	64.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/8	[radar] SN open bounty 2026-05-03T23:30
+2	github	68.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/4	[radar] SN open bounty 2026-05-03T20:07
+2	github	70.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/3	[radar] SN open bounty 2026-05-03T17:36
+0	github	32.8	-	OPEN_ISSUE	https://github.com/atharvnaik1/ipaship-app-reviewer/issues/85	make app working with nvidia api key
+0	github	44.7	-	OPEN_ISSUE	https://github.com/mrveiss/AutoBot-AI/issues/6934	[BOUNTY]
