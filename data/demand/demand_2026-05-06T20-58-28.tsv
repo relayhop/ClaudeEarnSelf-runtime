@@ -1,0 +1,16 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	4.9	1000sats	BOUNTY,LOW_COMP	https://stacker.news/items/1485327	Bitcoin Math Puzzle #004: Selfish Mining Pt. 4
+5	sn/bitcoin	4.4	3800 sats	OPEN_NEED,LOW_COMP	https://stacker.news/items/1485357	Spams/Scams on Bitcoin... are limited by Limited Blockspace and Fees
+4	sn/bitcoin	4.0	-	OPEN_NEED	https://stacker.news/items/1485376	What do stackers think of Unchained's new ad video in The Atlantic?
+4	sn/bitcoin	6.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1485263	Are we self-sovereign PKI yet?
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/15	[radar] SN open bounty 2026-05-06T20:54
+3	github	1.7	$300	OPEN_ISSUE	https://github.com/illbnm/homelab-stack/issues/504	[BOUNTY $300] SSO Stack — 统一身份认证
+2	github	54.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/spiffamani/swiftpay/issues/4	[MEDIUM] Build the Post a Job form
+2	github	54.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/spiffamani/swiftpay/issues/2	[TRIVIAL] Create a reusable JobCard component
+2	github	4.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/14	[radar] SN open bounty 2026-05-06T16:16
+2	github	15.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/atharvnaik1/ipaship-app-reviewer/issues/92	Add debugger ai like concept to debug in code but with prompts and breakpoints
+2	github	23.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/tenstorrent/tt-metal/issues/43670	[Bounty $10k] Optimise fp32 comparison ops
+2	github	37.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/atharvnaik1/ipaship-app-reviewer/issues/86	Solve minor bugs, and run the application bounty ₹2000
+2	github	69.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/8	[radar] SN open bounty 2026-05-03T23:30
+0	github	37.5	-	OPEN_ISSUE	https://github.com/atharvnaik1/ipaship-app-reviewer/issues/85	make app working with nvidia api key
+0	github	49.4	-	OPEN_ISSUE	https://github.com/mrveiss/AutoBot-AI/issues/6934	[BOUNTY]
