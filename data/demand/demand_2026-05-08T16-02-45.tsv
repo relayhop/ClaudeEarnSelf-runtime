@@ -1,0 +1,24 @@
+# score	source	age_h	payout_hint	tags	url	title
+7	sn/bitcoin	3.7	$500	OPEN_NEED,LOW_COMP	https://stacker.news/items/1486473	Two Solo Blocks, One Operator, Over $500,000 - Solo Satoshi
+4	sn/bitcoin	3.0	-	OPEN_NEED	https://stacker.news/items/1486509	Bitnodes.io shutting down?
+2	sn/bitcoin	23.1	-	OPEN_NEED	https://stacker.news/items/1485997	Mitigating Undercutting Attacks: Mining and Tx Fee Behavior - Claire Bao
+2	github	24.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Satoshi-Dashboard/main/issues/7	feat(S21): complete Big Mac Sats Tracker — wire API endpoint and validate data
+2	github	68.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/BenGWeeks/lightning-piggy-mobile/issues/390	Amount entry: SATS↔GBP swap button is too easy to miss as a button
+2	github	6.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Chimera-Protocol/csl-core/issues/51	policy: Web3 "Cross-Chain Bridge Transaction" Limit Guard
+2	github	29.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/AfriWage/AfriWage/issues/11	feat: implement QR code generation for worker payment requests
+2	github	29.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/AfriWage/AfriWage/issues/7	[FEAT] implement Yellow Card anchor off-ramp integration for NGN/GHS
+2	github	15.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/26	[radar] SN open bounty 2026-05-08T00:08
+2	github	19.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/25	[radar] SN open bounty 2026-05-07T20:49
+2	github	19.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/24	[radar] SN open bounty 2026-05-07T20:49
+2	github	23.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/23	[radar] SN open bounty 2026-05-07T16:24
+2	github	24.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/22	[radar] SN open bounty 2026-05-07T15:56
+2	github	27.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/21	[radar] SN open bounty 2026-05-07T12:21
+2	github	30.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/20	[radar] SN open bounty 2026-05-07T09:17
+2	github	32.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/19	[radar] SN open bounty 2026-05-07T08:03
+2	github	40.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/17	[radar] SN open bounty 2026-05-06T23:37
+2	github	42.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/16	[radar] SN open bounty 2026-05-06T21:20
+2	github	43.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/15	[radar] SN open bounty 2026-05-06T20:54
+2	github	47.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/14	[radar] SN open bounty 2026-05-06T16:16
+2	github	58.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/atharvnaik1/ipaship-app-reviewer/issues/92	Add debugger ai like concept to debug in code but with prompts and breakpoints
+1	github	44.7	$300	OPEN_ISSUE	https://github.com/illbnm/homelab-stack/issues/504	[BOUNTY $300] SSO Stack — 统一身份认证
+0	github	15.9	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/27	[radar] SN open bounty 2026-05-08T00:10
