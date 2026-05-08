@@ -1,0 +1,8 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	7.9	000 sats	OPEN_NEED,LOW_COMP	https://stacker.news/items/1486608	Latest Strikes S03E18 - April 27th - May 3rd 2026
+3	sn/bitcoin	11.4	$500	OPEN_NEED	https://stacker.news/items/1486473	Two Solo Blocks, One Operator, Over $500,000 - Solo Satoshi
+2	sn/bitcoin	10.7	-	OPEN_NEED	https://stacker.news/items/1486509	Bitnodes.io shutting down?
+2	sn/bitcoin	5.5	-	OPEN_NEED	https://stacker.news/items/1486704	What’s the biggest barrier to Bitcoin adoption right now?
+2	github	14.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Chimera-Protocol/csl-core/issues/51	policy: Web3 "Cross-Chain Bridge Transaction" Limit Guard
+2	github	36.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/AfriWage/AfriWage/issues/11	feat: implement QR code generation for worker payment requests
+2	github	37.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/AfriWage/AfriWage/issues/7	[FEAT] implement Yellow Card anchor off-ramp integration for NGN/GHS
