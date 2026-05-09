@@ -1,0 +1,61 @@
+name: Gumroad prohibited content filter
+on:
+  workflow_run:
+    workflows: ["Gumroad ratings snapshot (daily)"]
+    types: [completed]
+  workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+jobs:
+  filter:
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Pull latest snapshot (workflow_run runs on stale ref)
+        run: git pull origin main --rebase || true
+      - name: Find latest snapshot
+        id: find
+        run: |
+          DATE=$(ls -1 data/gumroad_ratings/ | sort | tail -1)
+          echo "date=$DATE" >> $GITHUB_OUTPUT
+          echo "snapshot file: data/gumroad_ratings/$DATE/snapshot.jsonl"
+          if [ ! -f "data/gumroad_ratings/$DATE/snapshot.jsonl" ]; then
+            echo "No snapshot file found"
+            exit 1
+          fi
+          wc -l data/gumroad_ratings/$DATE/snapshot.jsonl
+      - name: Run prohibited-content scanner
+        id: scan
+        run: |
+          DATE=${{ steps.find.outputs.date }}
+          mkdir -p data/gumroad_violations/$DATE
+          python3 scripts/gumroad_filter.py \
+            --snapshot data/gumroad_ratings/$DATE/snapshot.jsonl \
+            --keywords data/keywords/gumroad_prohibited_keywords.json \
+            --out data/gumroad_violations/$DATE/violations.jsonl \
+            --summary data/gumroad_violations/$DATE/summary.json
+          cat data/gumroad_violations/$DATE/summary.json
+          v_count=$(jq '.violation_count' data/gumroad_violations/$DATE/summary.json)
+          echo "violations=$v_count" >> $GITHUB_OUTPUT
+      - name: Commit results
+        run: |
+          git config user.name "relayhop"
+          git config user.email "relayhop@proton.me"
+          git add data/gumroad_violations/
+          git commit -m "Gumroad prohibited filter ${{ steps.find.outputs.date }} — ${{ steps.scan.outputs.violations }} violations" || echo "no changes"
+          git push
+      - name: Open issue if violations found
+        if: ${{ steps.scan.outputs.violations != '0' }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          DATE=${{ steps.find.outputs.date }}
+          V=${{ steps.scan.outputs.violations }}
+          BODY="Detected $V prohibited-content matches in Gumroad snapshot $DATE. See data/gumroad_violations/$DATE/summary.json + violations.jsonl."
+          curl -sS -X POST -H "Authorization: token $GH_TOKEN" -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/${{ github.repository }}/issues \
+            -d "$(jq -n --arg t "Gumroad prohibited matches: $V on $DATE" --arg b "$BODY" '{title: $t, body: $b, labels: ["prohibited", "gumroad"]}')"

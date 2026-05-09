@@ -24,7 +24,7 @@ jobs:
               curl -sS --max-time 30 -A "Mozilla/5.0" \
                 "https://gumroad.com/products/search?taxonomy=${cat}&sort=${sort}&from=0&size=200" \
                 | jq -c --arg cat "$cat" --arg sort "$sort" --arg ts "$(date -u +%Y-%m-%dT%H:%M:%SZ)" \
-                  '.products[] | {ts: $ts, cat: $cat, sort: $sort, id, name, price_cents, ratings_count: .ratings.count, ratings_avg: .ratings.average, seller_id: .seller.id}' \
+                  '.products[] | {ts: $ts, cat: $cat, sort: $sort, id, name, price_cents, ratings_count: .ratings.count, ratings_avg: .ratings.average, seller_id: .seller.id, native_type, is_pwyw: .is_pay_what_you_want, desc_preview: ((.description // "") | .[0:300]), url}' \
                 >> $OUT/snapshot.jsonl
               sleep 0.3
             done
