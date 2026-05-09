@@ -1,0 +1,20 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	4.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1487159	Bitnodes.io went down and we felt it firsthand Shall we bring it back together?
+4	sn/bitcoin	11.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1487003	How to use "OrangeClock mini"? Can't find much information about it
+2	github	55.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Satoshi-Dashboard/main/issues/7	feat(S21): complete Big Mac Sats Tracker — wire API endpoint and validate data
+2	github	7.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-Project-Hub/MobileMoneyBridge-Contracts/issues/10	escrow: write comprehensive integration tests using Soroban test utilities
+2	github	37.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Chimera-Protocol/csl-core/issues/51	policy: Web3 "Cross-Chain Bridge Transaction" Limit Guard
+2	github	59.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/AfriWage/AfriWage/issues/11	feat: implement QR code generation for worker payment requests
+2	github	59.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/AfriWage/AfriWage/issues/7	[FEAT] implement Yellow Card anchor off-ramp integration for NGN/GHS
+2	github	11.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/du82/nonograph/pull/16	Add client-side WYSIWYG editor with markdown serialization
+2	github	12.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/35	[radar] SN open bounty 2026-05-09T10:15
+2	github	54.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/23	[radar] SN open bounty 2026-05-07T16:24
+2	github	54.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/22	[radar] SN open bounty 2026-05-07T15:56
+2	github	58.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/21	[radar] SN open bounty 2026-05-07T12:21
+2	github	61.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/20	[radar] SN open bounty 2026-05-07T09:17
+2	github	62.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/19	[radar] SN open bounty 2026-05-07T08:03
+2	github	70.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/17	[radar] SN open bounty 2026-05-06T23:37
+0	github	46.3	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/27	[radar] SN open bounty 2026-05-08T00:10
+0	github	46.3	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/26	[radar] SN open bounty 2026-05-08T00:08
+0	github	49.6	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/25	[radar] SN open bounty 2026-05-07T20:49
+0	github	49.6	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/24	[radar] SN open bounty 2026-05-07T20:49
