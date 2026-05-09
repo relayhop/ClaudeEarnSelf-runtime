@@ -1,0 +1,71 @@
+name: check_zaps
+
+# Polls Nostr relays every 10 minutes for kind:9735 zap_receipt events
+# targeting relayhop's pubkey. Persists seen IDs in logs/state/zaps_seen.tsv.
+# On any new zap, commits state and opens an issue with the delta.
+#
+# Replaces the broken local launchd zappoller (Mac FDA failure makes
+# bash-based launchd plists unreliable; cloud cron is independent).
+
+on:
+  schedule:
+    - cron: '3,13,23,33,43,53 * * * *'  # off-the-minute to avoid GitHub cron pile-up
+  workflow_dispatch: {}
+
+concurrency:
+  group: check-zaps
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install ws
+        run: npm install --no-save --no-audit --no-fund ws
+
+      - name: Query relays for new zaps
+        id: zaps
+        run: node scripts/check_zaps_cloud.mjs
+
+      - name: Commit state if changed
+        if: steps.zaps.outputs.new_zaps != '' && steps.zaps.outputs.new_zaps != '0'
+        run: |
+          set -euo pipefail
+          git config user.name  'check-zaps-bot'
+          git config user.email 'check-zaps@users.noreply.github.com'
+          git add logs/state/zaps_seen.tsv
+          git commit -m "check_zaps: +${{ steps.zaps.outputs.new_zaps }} zaps, +${{ steps.zaps.outputs.total_sats }} sats"
+          git push
+
+      - name: Open zap-arrived issue
+        if: steps.zaps.outputs.new_zaps != '' && steps.zaps.outputs.new_zaps != '0'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const newZaps = '${{ steps.zaps.outputs.new_zaps }}';
+            const totalSats = '${{ steps.zaps.outputs.total_sats }}';
+            const summary = `${{ steps.zaps.outputs.summary }}`;
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo:  context.repo.repo,
+              title: `Zap arrived: +${totalSats} sats (${newZaps} event${newZaps === '1' ? '' : 's'})`,
+              body:
+                `New Nostr zap_receipt(s) targeting relayhop pubkey detected.\n\n` +
+                `**Total: +${totalSats} sats** across ${newZaps} event(s).\n\n` +
+                '```\n' + summary + '\n```\n\n' +
+                `Detected at ${new Date().toISOString()}.\n\n` +
+                `_Opened automatically by the \`check_zaps\` workflow._`,
+              labels: ['zap', 'income', 'auto']
+            });
