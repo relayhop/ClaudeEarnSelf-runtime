@@ -1,0 +1,35 @@
+name: Gumroad ratings snapshot (daily)
+on:
+  schedule:
+    - cron: '0 1 * * *'  # 09:00 UTC+8 = 01:00 UTC
+  workflow_dispatch:
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch 16 cats × 3 sorts × top 200 each
+        run: |
+          mkdir -p data/gumroad_ratings/$(date -u +%Y-%m-%d)
+          OUT=data/gumroad_ratings/$(date -u +%Y-%m-%d)
+          for cat in 3d design drawing-and-painting software-development self-improvement \
+                     fitness-and-health music-and-sound-design photography business-and-money \
+                     education writing-and-publishing comics-and-graphic-novels audio \
+                     recorded-music films gaming; do
+            for sort in best_selling hot_and_new highest_rated; do
+              curl -sS --max-time 30 -A "Mozilla/5.0" \
+                "https://gumroad.com/products/search?taxonomy=${cat}&sort=${sort}&from=0&size=200" \
+                | jq -c --arg cat "$cat" --arg sort "$sort" --arg ts "$(date -u +%Y-%m-%dT%H:%M:%SZ)" \
+                  '.products[] | {ts: $ts, cat: $cat, sort: $sort, id, name, price_cents, ratings_count: .ratings.count, ratings_avg: .ratings.average, seller_id: .seller.id}' \
+                >> $OUT/snapshot.jsonl
+              sleep 0.3
+            done
+          done
+          wc -l $OUT/snapshot.jsonl
+      - name: Commit snapshot
+        run: |
+          git config user.name "relayhop"
+          git config user.email "relayhop@proton.me"
+          git add data/gumroad_ratings/
+          git commit -m "ratings snapshot $(date -u +%Y-%m-%d)" || echo "no changes"
+          git push
