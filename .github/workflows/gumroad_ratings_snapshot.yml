@@ -8,14 +8,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Fetch 16 cats × 3 sorts × top 200 each
+      - name: Fetch 18 cats × 3 sorts × top 200 each
         run: |
           mkdir -p data/gumroad_ratings/$(date -u +%Y-%m-%d)
           OUT=data/gumroad_ratings/$(date -u +%Y-%m-%d)
-          for cat in 3d design drawing-and-painting software-development self-improvement \
-                     fitness-and-health music-and-sound-design photography business-and-money \
-                     education writing-and-publishing comics-and-graphic-novels audio \
-                     recorded-music films gaming; do
+          # Official 18 top-level taxonomies from gumroad_taxonomy_official.json
+          for cat in 3d audio business-and-money comics-and-graphic-novels design \
+                     drawing-and-painting education fiction-books films \
+                     fitness-and-health gaming music-and-sound-design other \
+                     photography recorded-music self-improvement \
+                     software-development writing-and-publishing; do
             for sort in best_selling hot_and_new highest_rated; do
               curl -sS --max-time 30 -A "Mozilla/5.0" \
                 "https://gumroad.com/products/search?taxonomy=${cat}&sort=${sort}&from=0&size=200" \
