@@ -1,0 +1,11 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	13.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1487928	TCP hole punching for Bitcoin nodes behind home NATs?
+4	sn/tech	6.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1488175	GrapheneOS on Google's new reCAPTCHA approach
+4	github	3.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/SustainOpen/Stellink/issues/4	Set up Vitest + a starter test suite for lib/
+4	github	3.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/SustainOpen/Stellink/issues/1	Auto-create USDC trustline for recipients who don't have one
+3	sn/bitcoin	9.1	50 BTC	OPEN_NEED	https://stacker.news/items/1488055	Grin lesson for bitcoin?
+2	github	12.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/w3-kit/registry/issues/7	Registry: Add stablecoin (USDC, USDT, DAI) addresses across all supported chains
+2	github	56.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-Project-Hub/MobileMoneyBridge-Contracts/issues/10	escrow: write comprehensive integration tests using Soroban test utilities
+2	github	60.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/35	[radar] SN open bounty 2026-05-09T10:15
+1	github	8.0	$100	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/issues/397	[BOUNTY $100] 🐜 The Memanto + LangGraph Integration Challenge: Give Your Graph a Permanent Brain
+0	github	59.9	-	OPEN_ISSUE	https://github.com/du82/nonograph/pull/16	Add client-side WYSIWYG editor with markdown serialization
