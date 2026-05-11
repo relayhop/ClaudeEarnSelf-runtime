@@ -1,0 +1,11 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	2.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1487758	What’s the best advice another Bitcoiner gave you?
+6	sn/bitcoin	2.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1487771	Piggy now speaks Nostr. It signs its own notes. You can't post as it.
+4	github	1.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/obro79/maintaineros-routing-fixture/issues/10	Create bounty brief for flaky browser test cleanup
+2	sn/bitcoin	4.5	-	OPEN_NEED	https://stacker.news/items/1487702	The paradox of maturity for Bitcoin
+2	sn/bitcoin	6.8	-	OPEN_NEED	https://stacker.news/items/1487644	Sunday Survey: What's the biggest problem in Lightning right now?
+2	github	33.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-Project-Hub/MobileMoneyBridge-Contracts/issues/10	escrow: write comprehensive integration tests using Soroban test utilities
+2	github	63.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Chimera-Protocol/csl-core/issues/51	policy: Web3 "Cross-Chain Bridge Transaction" Limit Guard
+2	github	38.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/35	[radar] SN open bounty 2026-05-09T10:15
+2	github	64.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/atharvnaik1/ipaship-app-reviewer/issues/97	Beyond compare like Binary Compare module and cli agent.
+0	github	37.4	-	OPEN_ISSUE	https://github.com/du82/nonograph/pull/16	Add client-side WYSIWYG editor with markdown serialization
