@@ -1,0 +1,15 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	0.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1488858	My attempt at orange pilling the devs at NewPipe
+3	github	6.0	$250	OPEN_ISSUE,LOW_COMP	https://github.com/eunseobchoi/NIPS26_A_CV2024/issues/11	Archestra #3854 bounty artifact: admin audit log implementation report
+2	sn/bitcoin	13.6	-	OPEN_NEED	https://stacker.news/items/1488428	Knots new release v29.3 includes bip 110 RDTS
+2	github	21.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/SustainOpen/Stellink/issues/4	Set up Vitest + a starter test suite for lib/
+2	github	21.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/SustainOpen/Stellink/issues/1	Auto-create USDC trustline for recipients who don't have one
+2	github	30.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/w3-kit/registry/issues/7	Registry: Add stablecoin (USDC, USDT, DAI) addresses across all supported chains
+2	github	6.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/eunseobchoi/NIPS26_A_CV2024/issues/10	Human-Connection #1832 patch artifact: hide email existence disclosure
+2	github	6.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/eunseobchoi/NIPS26_A_CV2024/issues/9	Claude Builders #3 patch artifact: destructive Bash PreToolUse hook
+2	github	6.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/eunseobchoi/NIPS26_A_CV2024/issues/8	UPLC-CAPE #187 security patch: reject submission-local cape-tests.json
+2	github	6.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/eunseobchoi/NIPS26_A_CV2024/issues/7	Doichain #116 security patch: bound sendrawtransaction body parameters
+2	github	9.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/eunseobchoi/NIPS26_A_CV2024/issues/5	RustChain #66 x402 bounty: report and patch ready, direct target write blocked
+1	github	25.9	$100	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/issues/397	[BOUNTY $100] 🐜 The Memanto + LangGraph Integration Challenge: Give Your Graph a Permanent Brain
+0	github	8.8	-	OPEN_ISSUE	https://github.com/eunseobchoi/NIPS26_A_CV2024/issues/6	RustChain #1112 /attest/submit fuzzing proof: 160 local adversarial cases
+0	github	9.6	-	OPEN_ISSUE	https://github.com/eunseobchoi/NIPS26_A_CV2024/issues/4	RustChain #2819 UTXO red-team finding: malformed field validation hardening
