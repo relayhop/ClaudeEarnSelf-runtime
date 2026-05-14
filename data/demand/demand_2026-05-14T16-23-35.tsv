@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	2.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1490135	hodlhodl testing "lightning" trades via arkade
+4	github	3.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/midnightntwrk/contributor-hub/issues/463	[Bounty]:
+3	sn/bitcoin	21.9	603btc	OPEN_NEED	https://stacker.news/items/1489650	[for sale] Super Satoshi Children's Book & Bitcoin Education playing card decks
+3	github	8.8	00 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Novachron-Pay/stellar-micro-streams/issues/3	[Frontend] Animate active stream balances in real-time
+2	sn/bitcoin	17.4	-	OPEN_NEED	https://stacker.news/items/1489832	Welcome to the Nordic Node, a Newsletter from BTCHEL – BTCHEL2026
+2	github	9.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Lumina-Yield/soroban-vault-protocol/issues/2	[Frontend] Connect Freighter Wallet and Fetch User Balance
+2	github	17.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/RBKunnela/paybot-sdk/issues/3	🤝 Founding Contributors — Join the open agent payment protocol
+2	github	68.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/SustainOpen/Stellink/issues/4	Set up Vitest + a starter test suite for lib/
+2	github	68.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/SustainOpen/Stellink/issues/1	Auto-create USDC trustline for recipients who don't have one
+2	github	5.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/waxeye7/screeps-bounty-arena/issues/100	challenge: add Memory schema validation edge-case tests
+2	github	6.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/waxeye7/screeps-bounty-arena/issues/95	challenge: add safe remote-mining planning proof
+2	github	11.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/waxeye7/screeps-bounty-arena/issues/80	bug-hunt: find and fix stale Memory regression
+2	github	11.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/waxeye7/screeps-bounty-arena/issues/77	bug-hunt: find a reproducible bot or simulator bug
+2	github	12.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/waxeye7/screeps-bounty-arena/issues/75	challenge: add repeated-tick idempotence tests
+2	github	12.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/waxeye7/screeps-bounty-arena/issues/72	challenge: add simulation failure diagnostics for gate regressions
+2	github	12.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/waxeye7/screeps-bounty-arena/issues/69	challenge: test construction-site limits and duplicate site prevention
+0	github	46.6	-	OPEN_ISSUE	https://github.com/darioandyoshi-tech/ai-work-market/issues/1	Looking for 5 agent builders to test escrow-backed AI work
+0	github	5.5	-	OPEN_ISSUE	https://github.com/waxeye7/screeps-bounty-arena/issues/101	challenge: add simulation failure replay breadcrumbs
+0	github	5.5	-	OPEN_ISSUE	https://github.com/waxeye7/screeps-bounty-arena/issues/99	bounty: catch spawn-priority starvation under constrained energy
+0	github	5.5	-	OPEN_ISSUE	https://github.com/waxeye7/screeps-bounty-arena/issues/98	challenge: add named fixture matrix simulation gate
+0	github	5.5	-	OPEN_ISSUE	https://github.com/waxeye7/screeps-bounty-arena/issues/97	challenge: add shared private-server URL redaction helper
+0	github	11.6	-	OPEN_ISSUE	https://github.com/waxeye7/screeps-bounty-arena/issues/82	challenge: read real local private-server status when available
+0	github	11.6	-	OPEN_ISSUE	https://github.com/waxeye7/screeps-bounty-arena/issues/81	challenge: implement safe local private-server code upload
+0	github	11.9	-	OPEN_ISSUE	https://github.com/waxeye7/screeps-bounty-arena/issues/78	bug-hunt: regression test plus fix jackpot
