@@ -1,0 +1,7 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH_LOW_COMP	github	0.4	0	0	https://github.com/waxeye7/screeps-bounty-arena/issues/101	challenge: add simulation failure replay breadcrumbs
+FRESH_LOW_COMP	github	0.4	0	0	https://github.com/waxeye7/screeps-bounty-arena/issues/100	challenge: add Memory schema validation edge-case tests
+FRESH_LOW_COMP	github	0.5	0	0	https://github.com/waxeye7/screeps-bounty-arena/issues/99	bounty: catch spawn-priority starvation under constrained energy
+FRESH_LOW_COMP	github	0.5	0	0	https://github.com/waxeye7/screeps-bounty-arena/issues/98	challenge: add named fixture matrix simulation gate
+FRESH_LOW_COMP	github	0.5	0	0	https://github.com/waxeye7/screeps-bounty-arena/issues/97	challenge: add shared private-server URL redaction helper
+FRESH_LOW_COMP	github	1.2	0	0	https://github.com/waxeye7/screeps-bounty-arena/issues/95	challenge: add safe remote-mining planning proof
