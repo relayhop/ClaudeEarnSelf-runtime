@@ -1,0 +1,22 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	3.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1490794	CAMP NAKAMOTO IS 1 MONTH AWAY!
+3	github	37.1	00 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Novachron-Pay/stellar-micro-streams/issues/3	[Frontend] Animate active stream balances in real-time
+2	sn/bitcoin	5.6	-	OPEN_NEED	https://stacker.news/items/1490735	Our new Bitcoin Education app's Geyser campaign is live! ⚡️🧑‍🎓
+2	sn/bitcoin	22.4	-	OPEN_NEED	https://stacker.news/items/1490380	I built an open-source Bitcoin loan calculator. Looking for feedback.
+2	github	37.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Lumina-Yield/soroban-vault-protocol/issues/2	[Frontend] Connect Freighter Wallet and Fetch User Balance
+2	github	4.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/tenstorrent/tt-metal/issues/44507	[Bounty $3k] Optimise exp2 fp32/bf16
+2	github	27.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/tenstorrent/tt-metal/issues/44392	[Bounty $10000] Optimise int32/uint32/uint16 comparison ops
+2	github	31.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/midnightntwrk/contributor-hub/issues/463	[Bounty]:
+0	github	46.2	-	OPEN_ISSUE	https://github.com/RBKunnela/paybot-sdk/issues/3	🤝 Founding Contributors — Join the open agent payment protocol
+0	github	12.6	-	OPEN_ISSUE	https://github.com/BAWES-Universe/studenthub-staff/issues/33	[UPGRADE] Replace ng5-slider with @angular-slider/ngx-slider
+0	github	12.7	-	OPEN_ISSUE	https://github.com/BAWES-Universe/studenthub-staff/issues/32	[UPGRADE] Replace angular-instantsearch (deprecated) with instantsearch.js + algoliasearch v5
+0	github	12.7	-	OPEN_ISSUE	https://github.com/BAWES-Universe/studenthub-staff/issues/31	[UPGRADE] Replace moment.js with date-fns v3
+0	github	12.7	-	OPEN_ISSUE	https://github.com/BAWES-Universe/studenthub-staff/issues/30	[UPGRADE] Capacitor 4 → 7 migration
+0	github	12.7	-	OPEN_ISSUE	https://github.com/BAWES-Universe/studenthub-staff/issues/29	[UPGRADE] Ionic 6 → 8 migration
+0	github	12.7	-	OPEN_ISSUE	https://github.com/BAWES-Universe/studenthub-staff/issues/28	[UPGRADE] Angular 18 → 19 + standalone schematic + new control flow
+0	github	12.7	-	OPEN_ISSUE	https://github.com/BAWES-Universe/studenthub-staff/issues/27	[UPGRADE] Angular 17 → 18 incremental migration
+0	github	12.8	-	OPEN_ISSUE	https://github.com/BAWES-Universe/studenthub-staff/issues/26	[UPGRADE] Angular 16 → 17 incremental migration
+0	github	12.8	-	OPEN_ISSUE	https://github.com/BAWES-Universe/studenthub-staff/issues/25	[UPGRADE] Angular 15 → 16 incremental migration
+0	github	33.8	-	OPEN_ISSUE	https://github.com/waxeye7/screeps-bounty-arena/issues/101	challenge: add simulation failure replay breadcrumbs
+0	github	33.8	-	OPEN_ISSUE	https://github.com/waxeye7/screeps-bounty-arena/issues/99	bounty: catch spawn-priority starvation under constrained energy
+0	github	34.6	-	OPEN_ISSUE	https://github.com/waxeye7/screeps-bounty-arena/issues/95	challenge: add safe remote-mining planning proof
