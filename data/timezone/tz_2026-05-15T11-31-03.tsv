@@ -1,0 +1,11 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH	sn/jobs	1.3	0	1	https://stacker.news/items/1490572	DevOps Engineer
+FRESH	github	3.5	0	3	https://github.com/BAWES-Universe/studenthub-staff/issues/33	[UPGRADE] Replace ng5-slider with @angular-slider/ngx-slider
+FRESH	github	3.5	0	1	https://github.com/BAWES-Universe/studenthub-staff/issues/32	[UPGRADE] Replace angular-instantsearch (deprecated) with instantsearch.js + algoliasearch v5
+FRESH	github	3.5	0	2	https://github.com/BAWES-Universe/studenthub-staff/issues/31	[UPGRADE] Replace moment.js with date-fns v3
+FRESH	github	3.5	0	1	https://github.com/BAWES-Universe/studenthub-staff/issues/30	[UPGRADE] Capacitor 4 → 7 migration
+FRESH	github	3.5	0	1	https://github.com/BAWES-Universe/studenthub-staff/issues/29	[UPGRADE] Ionic 6 → 8 migration
+FRESH	github	3.5	0	1	https://github.com/BAWES-Universe/studenthub-staff/issues/28	[UPGRADE] Angular 18 → 19 + standalone schematic + new control flow
+FRESH	github	3.6	0	1	https://github.com/BAWES-Universe/studenthub-staff/issues/27	[UPGRADE] Angular 17 → 18 incremental migration
+FRESH	github	3.6	0	1	https://github.com/BAWES-Universe/studenthub-staff/issues/26	[UPGRADE] Angular 16 → 17 incremental migration
+FRESH	github	3.6	0	2	https://github.com/BAWES-Universe/studenthub-staff/issues/25	[UPGRADE] Angular 15 → 16 incremental migration
