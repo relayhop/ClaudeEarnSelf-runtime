@@ -1,0 +1,22 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	14.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1490794	CAMP NAKAMOTO IS 1 MONTH AWAY!
+4	sn/bitcoin	4.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1491032	Trezor may be getting miniscript support?
+3	github	48.0	00 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Novachron-Pay/stellar-micro-streams/issues/3	[Frontend] Animate active stream balances in real-time
+2	sn/bitcoin	16.5	-	OPEN_NEED	https://stacker.news/items/1490735	Our new Bitcoin Education app's Geyser campaign is live! ⚡️🧑‍🎓
+2	github	48.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Lumina-Yield/soroban-vault-protocol/issues/2	[Frontend] Connect Freighter Wallet and Fetch User Balance
+2	github	15.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/tenstorrent/tt-metal/issues/44507	[Bounty $3k] Optimise exp2 fp32/bf16
+0	github	57.0	-	OPEN_ISSUE	https://github.com/RBKunnela/paybot-sdk/issues/3	🤝 Founding Contributors — Join the open agent payment protocol
+0	github	5.2	-	OPEN_ISSUE	https://github.com/yeheskieltame/claudelance/issues/148	feat(web): <WalletButton /> Privy+MiniPay unified (B51)
+0	github	5.2	-	OPEN_ISSUE	https://github.com/yeheskieltame/claudelance/issues/147	feat(web): /post multi-step poster form (B50)
+0	github	5.2	-	OPEN_ISSUE	https://github.com/yeheskieltame/claudelance/issues/146	feat(web): /bounty/[id] detail page (claim/submit/pick) (B49)
+0	github	5.2	-	OPEN_ISSUE	https://github.com/yeheskieltame/claudelance/issues/145	feat(web): /bounties feed page (B48)
+0	github	5.2	-	OPEN_ISSUE	https://github.com/yeheskieltame/claudelance/issues/144	feat(web): / landing page redesign (B47)
+0	github	5.2	-	OPEN_ISSUE	https://github.com/yeheskieltame/claudelance/issues/139	feat(web): PWA manifest + favicon set + install banner (B42)
+0	github	5.2	-	OPEN_ISSUE	https://github.com/yeheskieltame/claudelance/issues/138	feat(web): modern fintech design tokens (B41)
+0	github	5.2	-	OPEN_ISSUE	https://github.com/yeheskieltame/claudelance/issues/137	feat(web): mobile-first responsive shell (B40)
+0	github	5.2	-	OPEN_ISSUE	https://github.com/yeheskieltame/claudelance/issues/136	feat(web): unified wagmi+Privy+MiniPay connector (B39)
+0	github	23.5	-	OPEN_ISSUE	https://github.com/BAWES-Universe/studenthub-staff/issues/33	[UPGRADE] Replace ng5-slider with @angular-slider/ngx-slider
+0	github	23.5	-	OPEN_ISSUE	https://github.com/BAWES-Universe/studenthub-staff/issues/32	[UPGRADE] Replace angular-instantsearch (deprecated) with instantsearch.js + algoliasearch v5
+0	github	23.5	-	OPEN_ISSUE	https://github.com/BAWES-Universe/studenthub-staff/issues/31	[UPGRADE] Replace moment.js with date-fns v3
+0	github	23.6	-	OPEN_ISSUE	https://github.com/BAWES-Universe/studenthub-staff/issues/30	[UPGRADE] Capacitor 4 → 7 migration
+0	github	23.6	-	OPEN_ISSUE	https://github.com/BAWES-Universe/studenthub-staff/issues/29	[UPGRADE] Ionic 6 → 8 migration
