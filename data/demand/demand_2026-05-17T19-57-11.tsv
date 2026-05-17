@@ -1,0 +1,21 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	github	3.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/payshield-labs/payshield-contracts/issues/2	Implement cancel_escrow function to refund client before job acceptance
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/pci-tamper-protect/e-skimming-labs/issues/242	OFFICIAL AI extensions for skimming?
+3	github	8.2	001 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/doiios/x402-mcp-server/issues/4	[TOOLS] Add three example paid tools
+2	sn/bitcoin	4.9	-	OPEN_NEED	https://stacker.news/items/1491683	Sunday Survey: Have you ever used a decentralized exchange for Bitcoin?
+2	sn/bitcoin	17.6	-	OPEN_NEED	https://stacker.news/items/1491490	Anyone Read: "Satoshi Nakamoto and the Origins of Bitcoin" Before? Review?
+2	sn/bitcoin	23.5	-	OPEN_NEED	https://stacker.news/items/1491375	How important is it that every Bitcoiner validate the whole blockchain?
+2	github	9.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Reqrefusion/FreeCAD-Documentation-Project/issues/30	Adding missing information to Release_notes_1.2 page.
+2	github	9.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Reqrefusion/FreeCAD-Documentation-Project/issues/29	Tutorial Updates
+2	github	10.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Reqrefusion/FreeCAD-Documentation-Project/issues/27	Draft Workbench: Adding Missing Information
+2	github	10.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Reqrefusion/FreeCAD-Documentation-Project/issues/26	BIM Workbench: Adding Missing Information
+2	github	33.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/43	[radar] SN open bounty 2026-05-16T10:46
+1	github	4.9	$780	OPEN_ISSUE	https://github.com/SecureBananaLabs/bug-bounty/issues/80	Pixel Art Creation with high Creative Thinking
+1	github	4.9	$430	OPEN_ISSUE	https://github.com/SecureBananaLabs/bug-bounty/issues/76	Technical Poem Generation and Content Creation
+0	github	9.8	-	OPEN_ISSUE	https://github.com/Reqrefusion/FreeCAD-Documentation-Project/issues/28	Updating outdated information.
+0	github	10.5	-	OPEN_ISSUE	https://github.com/Reqrefusion/FreeCAD-Documentation-Project/issues/25	CAM Workbench: Adding Missing Information
+0	github	14.0	-	OPEN_ISSUE	https://github.com/SecureBananaLabs/bug-bounty/issues/30	Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB
+0	github	14.1	-	OPEN_ISSUE	https://github.com/SecureBananaLabs/bug-bounty/issues/29	Implement a fully functional Admin Panel
+0	github	27.1	-	OPEN_ISSUE	https://github.com/SecureBananaLabs/bug-bounty/issues/1	Implement Secure Payment Gateway and Payment Service
+0	github	41.6	-	OPEN_ISSUE	https://github.com/yeheskieltame/claudelance/issues/148	feat(web): <WalletButton /> Privy+MiniPay unified (B51)
+0	github	41.6	-	OPEN_ISSUE	https://github.com/yeheskieltame/claudelance/issues/147	feat(web): /post multi-step poster form (B50)
