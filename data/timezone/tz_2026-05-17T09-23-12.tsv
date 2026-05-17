@@ -1,0 +1,3 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH	github	3.5	0	9	https://github.com/SecureBananaLabs/bug-bounty/issues/30	Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB
+FRESH	github	3.5	0	9	https://github.com/SecureBananaLabs/bug-bounty/issues/29	Implement a fully functional Admin Panel
