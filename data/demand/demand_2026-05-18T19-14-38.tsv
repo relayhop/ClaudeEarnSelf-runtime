@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	1.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1492552	Schnorr, But with Vectors – Lattice-based Signatures Explained
+4	sn/bitcoin	5.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1492349	Alby Hub v1.22.2 Marc Horowitz — CLN support, on-chain wallet, AI & agents
+3	sn/bitcoin	6.7	$5	OPEN_NEED	https://stacker.news/items/1492293	BITCOIN HISTORY MONTH ON STACKER NEWS - 400k SATS IN PRIZES!
+3	github	15.2	00 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Immex171/Stellar-PayLink-SDK/issues/85	Add payment amount formatter with locale-aware thousands separators
+3	github	31.5	001 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/doiios/x402-mcp-server/issues/4	[TOOLS] Add three example paid tools
+2	github	15.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Immex171/Stellar-PayLink-SDK/issues/16	Add 'What is Stellar?' explainer section to landing page
+2	github	27.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/payshield-labs/payshield-contracts/issues/2	Implement cancel_escrow function to refund client before job acceptance
+2	github	56.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/43	[radar] SN open bounty 2026-05-16T10:46
+1	github	28.2	$780	OPEN_ISSUE	https://github.com/SecureBananaLabs/bug-bounty/issues/80	Pixel Art Creation with high Creative Thinking
+1	github	28.2	$430	OPEN_ISSUE	https://github.com/SecureBananaLabs/bug-bounty/issues/76	Technical Poem Generation and Content Creation
+0	github	4.4	-	OPEN_ISSUE	https://github.com/Reqrefusion/FreeCAD-Documentation-Project/issues/79	PartDesign Workbench: Adding Missing Information
+0	github	4.9	-	OPEN_ISSUE	https://github.com/tari-project/wallet-benchmarks/issues/1	Create wallet benchmarks
+0	github	25.4	-	OPEN_ISSUE	https://github.com/pci-tamper-protect/e-skimming-labs/issues/242	OFFICIAL AI extensions for skimming?
+0	github	33.1	-	OPEN_ISSUE	https://github.com/Reqrefusion/FreeCAD-Documentation-Project/issues/30	Adding missing information to Release_notes_1.2 page.
+0	github	33.1	-	OPEN_ISSUE	https://github.com/Reqrefusion/FreeCAD-Documentation-Project/issues/29	Tutorial Updates
+0	github	33.1	-	OPEN_ISSUE	https://github.com/Reqrefusion/FreeCAD-Documentation-Project/issues/28	Updating outdated information.
+0	github	33.8	-	OPEN_ISSUE	https://github.com/Reqrefusion/FreeCAD-Documentation-Project/issues/27	Draft Workbench: Adding Missing Information
+0	github	33.8	-	OPEN_ISSUE	https://github.com/Reqrefusion/FreeCAD-Documentation-Project/issues/26	BIM Workbench: Adding Missing Information
+0	github	33.8	-	OPEN_ISSUE	https://github.com/Reqrefusion/FreeCAD-Documentation-Project/issues/25	CAM Workbench: Adding Missing Information
+0	github	37.3	-	OPEN_ISSUE	https://github.com/SecureBananaLabs/bug-bounty/issues/30	Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB
+0	github	37.4	-	OPEN_ISSUE	https://github.com/SecureBananaLabs/bug-bounty/issues/29	Implement a fully functional Admin Panel
+0	github	50.4	-	OPEN_ISSUE	https://github.com/SecureBananaLabs/bug-bounty/issues/1	Implement Secure Payment Gateway and Payment Service
