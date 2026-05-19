@@ -1,0 +1,22 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	4.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1493162	New African Bitcoiners Website
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/90	[ Bounty $6k ] [ Metrics ] Avoid lock re-entry in stop_timer — timer recording
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/88	[ Bounty $4k ] [ Config ] Report JSON parse failures with path context — file loading
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/73	[ Bounty $4k ] [ API ] Prevent partial batch update success masking failures — agent config API
+4	github	2.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/65	[ Bounty $8k ] [ API ] Prevent stale ETag overwrite of agent config — optimistic updates
+3	github	42.7	00 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Immex171/Stellar-PayLink-SDK/issues/85	Add payment amount formatter with locale-aware thousands separators
+3	github	59.0	001 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/doiios/x402-mcp-server/issues/4	[TOOLS] Add three example paid tools
+2	sn/bitcoin	5.7	-	OPEN_NEED	https://stacker.news/items/1493130	Mempool Policy is Bitcoin’s Administrative State - Buck Perley
+2	github	42.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Immex171/Stellar-PayLink-SDK/issues/16	Add 'What is Stellar?' explainer section to landing page
+2	github	54.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/payshield-labs/payshield-contracts/issues/2	Implement cancel_escrow function to refund client before job acceptance
+2	github	0.9	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/81	[ Bounty $8k ] [ Orchestrator ] Reconcile queue and state divergence — partial dispatch failures
+2	github	1.2	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/78	[ Bounty $6k ] [ Docker ] Remove build arguments from final layers — image metadata
+2	github	2.2	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/68	[ Bounty $6k ] [ Workflow ] Block downstream after partial rollback — compensating actions
+2	github	2.8	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/57	[ Bounty $6k ] [ Config ] Detect case-colliding environment overrides — case handling
+2	github	3.1	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/52	[ Bounty $6k ] [ Webhook ] Avoid leaking internal run metadata in public events — payload shaping
+2	github	3.6	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/42	[ Bounty $9k ] [ Runtime ] Stop retry loop after terminal run state — retry runtime
+2	github	3.9	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/35	[ Bounty $7k ] [ Middleware ] Prevent gzip bomb expansion in request decompression — body middleware
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/31	[ Bounty $4k ] [ Registry ] Pin resolved handler per attempt — mid-run registry updates
+0	github	4.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/24	[ Bounty $4k ] [ API ] Scope search indexing queries to workspace — run search API
+0	github	5.0	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/19	[ Bounty $3k ] [ Registry ] Prevent handler name path traversal — local plugin metadata
+0	github	5.6	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/12	[ Bounty $4k ] [ Config ] Block branch replacement by scalar env values — nested merge safety
