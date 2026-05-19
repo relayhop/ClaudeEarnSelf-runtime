@@ -1,0 +1,21 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	1.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1493130	Mempool Policy is Bitcoin’s Administrative State - Buck Perley
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/24	[ Bounty $4k ] [ API ] Scope search indexing queries to workspace — run search API
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/19	[ Bounty $3k ] [ Registry ] Prevent handler name path traversal — local plugin metadata
+3	github	38.2	00 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Immex171/Stellar-PayLink-SDK/issues/85	Add payment amount formatter with locale-aware thousands separators
+3	github	54.6	001 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/doiios/x402-mcp-server/issues/4	[TOOLS] Add three example paid tools
+3	github	2.8	$500	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1	IDOR in Task Assignment Mechanism
+2	github	38.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Immex171/Stellar-PayLink-SDK/issues/16	Add 'What is Stellar?' explainer section to landing page
+2	github	50.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/payshield-labs/payshield-contracts/issues/2	Implement cancel_escrow function to refund client before job acceptance
+2	github	1.1	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/12	[ Bounty $4k ] [ Config ] Block branch replacement by scalar env values — nested merge safety
+2	github	1.7	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/8	[ Bounty $4k ] [ Registry ] Pin resolved handler per attempt — mid-run registry updates
+2	github	2.0	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/6	[ Bounty $3k ] [ CLI ] Reject unsupported output modes — argument validation
+2	github	2.3	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/5	[ Bounty $5k ] [ Config ] Validate sandbox resource limit config — config-to-sandbox boundary
+2	github	20.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Reqrefusion/FreeCAD-Documentation-Project/issues/94	Sketcher Workbench: Adding Missing Information
+1	github	51.3	$780	OPEN_ISSUE	https://github.com/SecureBananaLabs/bug-bounty/issues/80	Pixel Art Creation with high Creative Thinking
+1	github	51.3	$430	OPEN_ISSUE	https://github.com/SecureBananaLabs/bug-bounty/issues/76	Technical Poem Generation and Content Creation
+0	github	27.5	-	OPEN_ISSUE	https://github.com/Reqrefusion/FreeCAD-Documentation-Project/issues/79	PartDesign Workbench: Adding Missing Information
+0	github	28.0	-	OPEN_ISSUE	https://github.com/tari-project/wallet-benchmarks/issues/1	Create wallet benchmarks
+0	github	48.5	-	OPEN_ISSUE	https://github.com/pci-tamper-protect/e-skimming-labs/issues/242	OFFICIAL AI extensions for skimming?
+0	github	56.1	-	OPEN_ISSUE	https://github.com/Reqrefusion/FreeCAD-Documentation-Project/issues/30	Adding missing information to Release_notes_1.2 page.
+0	github	56.2	-	OPEN_ISSUE	https://github.com/Reqrefusion/FreeCAD-Documentation-Project/issues/29	Tutorial Updates
