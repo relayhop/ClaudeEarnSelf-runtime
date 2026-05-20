@@ -1,0 +1,22 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	3.7	-	OPEN_NEED	https://stacker.news/items/1493848	The Bitcoin Lebowski
+4	sn/bitcoin	9.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1493561	Bitcoin for Nonprofits: A Guide To Help Your Movement Achieve Financial Freedom
+3	github	67.8	00 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Immex171/Stellar-PayLink-SDK/issues/85	Add payment amount formatter with locale-aware thousands separators
+2	sn/bitcoin	8.7	-	OPEN_NEED	https://stacker.news/items/1493609	Instant Lightning → Debit Card Top-Up Mini App Using Satora.io
+2	github	18.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/iarturo/ElaraPay/issues/2	Add USDT support alongside USDC
+2	github	67.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Immex171/Stellar-PayLink-SDK/issues/16	Add 'What is Stellar?' explainer section to landing page
+2	github	0.2	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/886	[ Bounty $7k ] [ CI ] Enforce protected refs for package publishing — registry release job
+2	github	0.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/882	[ Bounty $2k ] [ Runtime ] Record failure reason before worker shutdown — lifecycle runtime
+2	github	0.9	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/865	[ Bounty $5k ] [ Docker ] Validate architecture-specific images before manifest push — multi-arch release
+2	github	1.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/854	[ Bounty $3k ] [ Orchestrator ] Preserve parent failure after child success — late child events
+2	github	1.9	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/849	[ Bounty $2k ] [ Deploy ] Check metrics label cardinality before rollout — observability safety
+2	github	2.2	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/841	[ Bounty $6k ] [ Storage ] Add data corruption alert on manifest digest mismatch — artifact reads
+2	github	2.4	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/834	[ Bounty $4k ] [ Metrics ] Compute histogram aggregates once — snapshot efficiency
+2	github	2.7	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/828	[ Bounty $4k ] [ Storage ] Guard retention deletion with legal hold flag — artifact lifecycle
+2	github	3.2	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/819	[ Bounty $3k ] [ Docker ] Set read-only filesystem for sidecars — runtime compose config
+2	github	3.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/811	[ Bounty $2k ] [ Metrics ] Reject non-numeric gauge values — gauge integrity
+2	github	3.9	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/800	[ Bounty $7k ] [ Deploy ] Run migrations before application rollout — database release order
+0	github	4.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/786	[ Bounty $4k ] [ Metrics ] Protect snapshots from caller mutation — snapshot isolation
+0	github	4.8	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/781	[ Bounty $6k ] [ Deploy ] Validate feature flag defaults before production rollout — config safety
+0	github	5.4	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/764	[ Bounty $6k ] [ API ] Reject unsafe callback URLs at registration — integration endpoint
+0	github	5.6	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/760	[ Bounty $7k ] [ Runtime ] Persist run state before emitting completion event — state machine
