@@ -1,0 +1,21 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	5.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1493561	Bitcoin for Nonprofits: A Guide To Help Your Movement Achieve Financial Freedom
+3	github	63.5	00 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Immex171/Stellar-PayLink-SDK/issues/85	Add payment amount formatter with locale-aware thousands separators
+2	sn/bitcoin	4.4	-	OPEN_NEED	https://stacker.news/items/1493609	Instant Lightning → Debit Card Top-Up Mini App Using Satora.io
+2	github	13.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/iarturo/ElaraPay/issues/2	Add USDT support alongside USDC
+2	github	63.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Immex171/Stellar-PayLink-SDK/issues/16	Add 'What is Stellar?' explainer section to landing page
+2	github	0.2	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/786	[ Bounty $4k ] [ Metrics ] Protect snapshots from caller mutation — snapshot isolation
+2	github	0.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/781	[ Bounty $6k ] [ Deploy ] Validate feature flag defaults before production rollout — config safety
+2	github	1.0	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/764	[ Bounty $6k ] [ API ] Reject unsafe callback URLs at registration — integration endpoint
+2	github	1.3	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/760	[ Bounty $7k ] [ Runtime ] Persist run state before emitting completion event — state machine
+2	github	1.7	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/738	[ Bounty $6k ] [ Config ] Reject oversized config files before parsing — resource guard
+2	github	2.0	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/725	[ Bounty $5k ] [ Docker ] Validate architecture-specific images before manifest push — multi-arch release
+2	github	2.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/693	[ Bounty $4k ] [ SDK ] Validate agent decorator version strings — agent metadata
+2	github	2.8	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/690	[ Bounty $4k ] [ Webhook ] Enforce per-endpoint rate limit during fanout — dispatch controls
+2	github	3.3	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/675	[ Bounty $2k ] [ Middleware ] Treat OPTIONS preflight without bypassing auth on real calls — CORS middleware
+2	github	3.6	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/658	[ Bounty $5k ] [ Config ] Own nested config state at boundaries — state isolation
+2	github	3.9	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/641	[ Bounty $4k ] [ CI ] Pin reusable action references — workflow supply-chain checks
+0	github	4.1	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/635	[ Bounty $4k ] [ Sandbox ] Treat zero exit as stopped — runtime state
+0	github	4.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/625	[ Bounty $10k ] [ Auth ] Revalidate revoked API keys on long polling — task monitor
+0	github	4.7	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/611	[ Bounty $3k ] [ Config ] Avoid importing unrelated AO_ variables — environment scope
+0	github	5.0	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/597	[ Bounty $8k ] [ Middleware ] Attach audit actor after successful auth only — audit middleware
