@@ -1,0 +1,17 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH	github	0.1	0	5	https://github.com/orchestration-agent/AgentOrchestration/issues/503	[ Bounty $4k ] [ Config ] Add typed getter for integer limits — consumer API
+FRESH	github	0.3	0	6	https://github.com/orchestration-agent/AgentOrchestration/issues/494	[ Bounty $6k ] [ CI ] Validate runner image provenance — self-hosted build fleet
+FRESH	github	0.7	0	1	https://github.com/bolivian-peru/marketplace-service-template/issues/463	[BOUNTY] Claim: <Mobile SERP Tracker - Working Submission ($50 Wave 2)>
+FRESH	github	1.1	0	7	https://github.com/orchestration-agent/AgentOrchestration/issues/467	[ Bounty $8k ] [ Registry ] Recheck authorization on cached resolution — permission changes
+FRESH	github	1.4	0	7	https://github.com/orchestration-agent/AgentOrchestration/issues/458	[ Bounty $7k ] [ CI ] Enforce protected refs for package publishing — registry release job
+FRESH	github	1.7	0	7	https://github.com/orchestration-agent/AgentOrchestration/issues/449	[ Bounty $3k ] [ Runtime ] Enforce deterministic cleanup for temporary run files — file runtime
+FRESH	github	2.1	0	7	https://github.com/orchestration-agent/AgentOrchestration/issues/439	[ Bounty $8k ] [ Storage ] Require transactional state update with artifact manifest — task finalization
+FRESH	github	2.5	0	12	https://github.com/orchestration-agent/AgentOrchestration/issues/426	[ Bounty $3k ] [ Queue ] Persist visibility timeout extensions — long running agents
+FRESH	github	2.8	0	8	https://github.com/orchestration-agent/AgentOrchestration/issues/417	[ Bounty $3k ] [ API ] Check run state before approving human step — approval endpoint
+FRESH	sn/bitcoin	2.9	0	0	https://stacker.news/items/1493422	Greenhouse Update: 58,606/300,000 sats for solar installation
+FRESH	github	3.1	0	7	https://github.com/orchestration-agent/AgentOrchestration/issues/400	[ Bounty $8k ] [ API ] Return 404 for cross-project artifact lookup — artifact download API
+FRESH	github	3.4	0	9	https://github.com/orchestration-agent/AgentOrchestration/issues/382	[ Bounty $10k ] [ Runtime ] Release database advisory locks on exception — lock manager
+FRESH	github	3.7	0	9	https://github.com/orchestration-agent/AgentOrchestration/issues/366	[ Bounty $4k ] [ CLI ] Use stderr for errors and stdout for data — shell integration
+FRESH	github	4.1	0	8	https://github.com/orchestration-agent/AgentOrchestration/issues/356	[ Bounty $5k ] [ CI ] Protect release signing from concurrency cancellation — tagged builds
+FRESH	github	4.5	0	9	https://github.com/orchestration-agent/AgentOrchestration/issues/340	[ Bounty $4k ] [ Data ] Escape spreadsheet formulas in CSV exports — reporting downloads
+FRESH	github	4.9	0	10	https://github.com/orchestration-agent/AgentOrchestration/issues/323	[ Bounty $4k ] [ CI ] Pin reusable action references — workflow supply-chain checks
