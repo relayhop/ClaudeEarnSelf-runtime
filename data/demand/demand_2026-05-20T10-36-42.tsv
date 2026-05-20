@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	16.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1493162	New African Bitcoiners Website
+3	github	54.5	00 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Immex171/Stellar-PayLink-SDK/issues/85	Add payment amount formatter with locale-aware thousands separators
+3	github	70.9	001 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/doiios/x402-mcp-server/issues/4	[TOOLS] Add three example paid tools
+2	sn/bitcoin	17.5	-	OPEN_NEED	https://stacker.news/items/1493130	Mempool Policy is Bitcoin’s Administrative State - Buck Perley
+2	github	4.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/iarturo/ElaraPay/issues/2	Add USDT support alongside USDC
+2	github	54.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Immex171/Stellar-PayLink-SDK/issues/16	Add 'What is Stellar?' explainer section to landing page
+2	github	66.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/payshield-labs/payshield-contracts/issues/2	Implement cancel_escrow function to refund client before job acceptance
+2	github	0.2	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/449	[ Bounty $3k ] [ Runtime ] Enforce deterministic cleanup for temporary run files — file runtime
+2	github	0.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/439	[ Bounty $8k ] [ Storage ] Require transactional state update with artifact manifest — task finalization
+2	github	0.9	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/426	[ Bounty $3k ] [ Queue ] Persist visibility timeout extensions — long running agents
+2	github	1.2	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/417	[ Bounty $3k ] [ API ] Check run state before approving human step — approval endpoint
+2	github	1.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/400	[ Bounty $8k ] [ API ] Return 404 for cross-project artifact lookup — artifact download API
+2	github	1.8	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/382	[ Bounty $10k ] [ Runtime ] Release database advisory locks on exception — lock manager
+2	github	2.1	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/366	[ Bounty $4k ] [ CLI ] Use stderr for errors and stdout for data — shell integration
+2	github	2.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/356	[ Bounty $5k ] [ CI ] Protect release signing from concurrency cancellation — tagged builds
+2	github	2.9	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/340	[ Bounty $4k ] [ Data ] Escape spreadsheet formulas in CSV exports — reporting downloads
+2	github	3.3	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/323	[ Bounty $4k ] [ CI ] Pin reusable action references — workflow supply-chain checks
+2	github	3.6	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/308	[ Bounty $6k ] [ SDK ] Validate task decorator timeout values — decorator guardrails
+2	github	3.8	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/300	[ Bounty $4k ] [ Config ] Block branch replacement by scalar env values — nested merge safety
+0	github	4.4	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/290	[ Bounty $10k ] [ API ] Enforce max body size on artifact upload — artifact ingestion
+0	github	4.7	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/283	[ Bounty $3k ] [ Storage ] Add checksum validation to download cache — artifact consumers
+0	github	5.0	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/278	[ Bounty $6k ] [ Docker ] Sign container images after vulnerability gate — registry publish
