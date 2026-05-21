@@ -1,0 +1,8 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH	sn/bitcoin	2.1	0	1	https://stacker.news/items/1494146	🔥 Te hablo desde un futuro posible. 📈 DCA + bitcoin
+FRESH	github	3.7	0	6	https://github.com/orchestration-agent/AgentOrchestration/issues/1471	[ Bounty $3k ] [ Middleware ] Validate multipart boundary before buffering upload — upload middleware
+FRESH	github	4.0	0	9	https://github.com/orchestration-agent/AgentOrchestration/issues/1463	[ Bounty $7k ] [ Workflow ] Validate artifact retention policies — cleanup scheduling
+FRESH	github	4.4	0	6	https://github.com/orchestration-agent/AgentOrchestration/issues/1452	[ Bounty $4k ] [ Deploy ] Verify backup freshness before destructive migrations — release preflight
+FRESH	github	5.0	0	13	https://github.com/orchestration-agent/AgentOrchestration/issues/1432	[ Bounty $8k ] [ Data ] Prevent stale authorization in cached report results — reporting cache
+FRESH	github	5.4	0	10	https://github.com/orchestration-agent/AgentOrchestration/issues/1421	[ Bounty $5k ] [ Config ] Support YAML config or reject it explicitly — format handling
+FRESH	github	5.9	0	10	https://github.com/orchestration-agent/AgentOrchestration/issues/1402	[ Bounty $3k ] [ Config ] Avoid importing unrelated AO_ variables — environment scope
