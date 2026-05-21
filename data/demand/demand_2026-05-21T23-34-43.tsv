@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	16.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1494067	On Lightning Network Privacy
+3	sn/bitcoin	9.0	$150	OPEN_NEED	https://stacker.news/items/1494193	Bitcoin Doesn't Work Like a Bank Account
+2	sn/bitcoin	8.2	-	OPEN_NEED	https://stacker.news/items/1494229	Do you want to be a BIP editor?
+2	sn/bitcoin	10.4	-	OPEN_NEED	https://stacker.news/items/1494159	Quantum computing and bitcoin - making my call right here and now
+2	github	7.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/vant-xyz/backend-core/issues/10	[Base] GG20 Threshold ECDSA (Non-Custodial Keypair)
+2	github	8.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/vant-xyz/backend-core/issues/9	[Solana] FROST Threshold Signing (Non-Custodial Keypair)
+2	github	41.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/iarturo/ElaraPay/issues/2	Add USDT support alongside USDC
+2	github	0.2	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1835	[ Bounty $5k ] [ Queue ] Reclaim abandoned reserved jobs — worker disconnects
+2	github	0.4	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1832	[ Bounty $4k ] [ Sandbox ] Create sandbox directories with restrictive modes — filesystem permissions
+2	github	0.6	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1821	[ Bounty $5k ] [ CLI ] Validate logs tail is non-negative — logs arguments
+2	github	1.0	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1809	[ Bounty $3k ] [ Auth ] Enforce JWT audience for service-to-service calls — agent workers
+2	github	1.2	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1804	[ Bounty $8k ] [ API ] Prevent stale ETag overwrite of agent config — optimistic updates
+2	github	1.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1799	[ Bounty $6k ] [ Sandbox ] Store cancellation results for executions — task execution
+2	github	1.8	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1795	[ Bounty $7k ] [ Queue ] Throttle poison job redelivery — worker crash loops
+2	github	1.9	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1790	[ Bounty $10k ] [ API ] Enforce max body size on artifact upload — artifact ingestion
+2	github	2.2	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1781	[ Bounty $2k ] [ Docker ] Add healthcheck to scheduler image — container orchestration
+2	github	2.4	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1775	[ Bounty $4k ] [ Middleware ] Sanitize exception detail before JSON serialization — error middleware
+2	github	2.7	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1765	[ Bounty $2k ] [ Deploy ] Add dry-run validation for manifest rendering — release preview
+2	github	3.0	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1760	[ Bounty $4k ] [ Data ] Separate operational logs from audit records — event retention
+2	github	3.3	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1751	[ Bounty $4k ] [ CLI ] Handle interrupts in status watch — long-running command
+2	github	3.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1741	[ Bounty $6k ] [ Webhook ] Avoid leaking internal run metadata in public events — payload shaping
+2	github	3.7	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1739	[ Bounty $6k ] [ Sandbox ] Drain runtime stdout and stderr pipes — process lifecycle
