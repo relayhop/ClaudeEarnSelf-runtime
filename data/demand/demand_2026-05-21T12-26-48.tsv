@@ -1,0 +1,21 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	5.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1494067	On Lightning Network Privacy
+4	sn/bitcoin	22.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1493561	Bitcoin for Nonprofits: A Guide To Help Your Movement Achieve Financial Freedom
+2	sn/bitcoin	21.3	-	OPEN_NEED	https://stacker.news/items/1493609	Instant Lightning → Debit Card Top-Up Mini App Using Satora.io
+2	sn/bitcoin	16.2	-	OPEN_NEED	https://stacker.news/items/1493848	The Bitcoin Lebowski
+2	github	30.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/iarturo/ElaraPay/issues/2	Add USDT support alongside USDC
+2	github	1.8	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1471	[ Bounty $3k ] [ Middleware ] Validate multipart boundary before buffering upload — upload middleware
+2	github	2.1	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1463	[ Bounty $7k ] [ Workflow ] Validate artifact retention policies — cleanup scheduling
+2	github	2.6	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1452	[ Bounty $4k ] [ Deploy ] Verify backup freshness before destructive migrations — release preflight
+2	github	3.1	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1432	[ Bounty $8k ] [ Data ] Prevent stale authorization in cached report results — reporting cache
+2	github	3.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1421	[ Bounty $5k ] [ Config ] Support YAML config or reject it explicitly — format handling
+2	github	4.0	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1402	[ Bounty $3k ] [ Config ] Avoid importing unrelated AO_ variables — environment scope
+0	github	4.4	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1378	[ Bounty $4k ] [ Runtime ] Validate plugin manifest before loading hooks — plugin runtime
+0	github	4.9	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1360	[ Bounty $3k ] [ Auth ] Enforce JWT audience for service-to-service calls — agent workers
+0	github	5.3	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1285	[ Bounty $3k ] [ Workflow ] Reject reserved metadata keys — user definition metadata
+0	github	5.6	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1228	[ Bounty $7k ] [ Auth ] Require auth for OpenAPI schema with internal routes — documentation endpoint
+0	github	6.2	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1196	[ Bounty $4k ] [ SDK ] Normalize base_url before joining API paths — client URL assembly
+0	github	6.6	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1182	[ Bounty $3k ] [ Config ] Keep reload atomic when parsing fails — reload behavior
+0	github	6.9	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1174	[ Bounty $3k ] [ Webhook ] Enforce TLS URL requirement in production — webhook registration
+0	github	7.3	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1159	[ Bounty $2k ] [ SDK ] Reject missing API keys clearly — authentication setup
+0	github	7.6	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1145	[ Bounty $5k ] [ SDK ] Handle sync task functions explicitly — developer ergonomics
