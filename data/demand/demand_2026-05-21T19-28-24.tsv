@@ -1,0 +1,24 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	4.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1494229	Do you want to be a BIP editor?
+4	sn/bitcoin	12.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1494067	On Lightning Network Privacy
+4	github	3.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/vant-xyz/backend-core/issues/10	[Base] GG20 Threshold ECDSA (Non-Custodial Keypair)
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/vant-xyz/backend-core/issues/9	[Solana] FROST Threshold Signing (Non-Custodial Keypair)
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/1728	[ Bounty $8k ] [ Middleware ] Apply security headers to error responses — exception middleware
+3	sn/bitcoin	4.9	$150	OPEN_NEED	https://stacker.news/items/1494193	Bitcoin Doesn't Work Like a Bank Account
+2	sn/bitcoin	6.3	-	OPEN_NEED	https://stacker.news/items/1494159	Quantum computing and bitcoin - making my call right here and now
+2	sn/bitcoin	23.2	-	OPEN_NEED	https://stacker.news/items/1493848	The Bitcoin Lebowski
+2	github	37.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/iarturo/ElaraPay/issues/2	Add USDT support alongside USDC
+2	github	0.3	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1723	[ Bounty $4k ] [ Storage ] Make checkpoint writes idempotent — resumable workers
+2	github	0.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1716	[ Bounty $3k ] [ SDK ] Reject blank agent names before POST — registration validation
+2	github	0.8	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1711	[ Bounty $4k ] [ Data ] Validate redaction in JSON exports — structured data downloads
+2	github	1.2	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1701	[ Bounty $8k ] [ Workflow ] Enforce branch output namespaces — parallel branch joins
+2	github	1.4	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1692	[ Bounty $4k ] [ Orchestrator ] Reject events for archived runs — late worker messages
+2	github	1.7	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1675	[ Bounty $6k ] [ Metrics ] Avoid lock re-entry in stop_timer — timer recording
+2	github	2.0	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1667	[ Bounty $6k ] [ Queue ] Make dead-letter writes idempotent — acknowledgement retries
+2	github	2.2	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1664	[ Bounty $4k ] [ Deploy ] Verify backup freshness before destructive migrations — release preflight
+2	github	2.4	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1618	[ Bounty $4k ] [ Middleware ] Sanitize exception detail before JSON serialization — error middleware
+2	github	2.6	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1612	[ Bounty $5k ] [ SDK ] Handle sync task functions explicitly — developer ergonomics
+2	github	2.9	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1602	[ Bounty $6k ] [ Sandbox ] Resolve base_path before use — path boundary checks
+2	github	3.2	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1592	[ Bounty $2k ] [ Runtime ] Record failure reason before worker shutdown — lifecycle runtime
+2	github	3.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1580	[ Bounty $4k ] [ Registry ] Block incompatible protocol upgrades — agent RPC negotiation
+2	github	3.8	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/1574	[ Bounty $4k ] [ Docker ] Enforce network-off final packaging stage — deterministic images
