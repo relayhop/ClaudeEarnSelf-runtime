@@ -1,0 +1,22 @@
+# score	source	age_h	payout_hint	tags	url	title
+7	sn/bitcoin	3.5	$1	OPEN_NEED,LOW_COMP	https://stacker.news/items/1494883	Latest Strikes S03E20 - May 11th-17th 2026
+5	github	1.6	$3	OPEN_ISSUE,LOW_COMP	https://github.com/aLexzzz430/Cognitive-OS/issues/5	[ Bounty $3k ] [ Research ] Collect and compare AI-generated AGI architecture proposals
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/2600	[ Bounty $4k ] [ Config ] Report JSON parse failures with path context — file loading
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/2594	[ Bounty $2k ] [ Queue ] Handle malformed job payloads safely — legacy queue records
+4	github	0.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/2591	[ Bounty $6k ] [ Workflow ] Block downstream after partial rollback — compensating actions
+4	github	1.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/2575	[ Bounty $3k ] [ CI ] Scan all worker images in matrix — container security job
+2	sn/bitcoin	5.1	-	OPEN_NEED	https://stacker.news/items/1494838	Square Terminal Trainwreck
+2	github	7.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/karagozemin/OverSync/issues/9	SDK canonical testnet asset-pair mapping
+2	github	29.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/vant-xyz/backend-core/issues/10	[Base] GG20 Threshold ECDSA (Non-Custodial Keypair)
+2	github	30.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/vant-xyz/backend-core/issues/9	[Solana] FROST Threshold Signing (Non-Custodial Keypair)
+2	github	64.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/iarturo/ElaraPay/issues/2	Add USDT support alongside USDC
+2	github	0.9	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/2588	[ Bounty $5k ] [ Config ] Support literal underscores in override keys — env key mapping
+2	github	1.3	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/2583	[ Bounty $3k ] [ Queue ] Keep delayed jobs out of ready scans — priority queue polling
+2	github	1.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/2580	[ Bounty $5k ] [ CLI ] Validate logs tail is non-negative — logs arguments
+2	github	2.2	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/2572	[ Bounty $6k ] [ Queue ] Validate batch acknowledgement ownership — worker ack batching
+2	github	2.4	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/2570	[ Bounty $2k ] [ CI ] Record dependency review decisions — security exception workflow
+2	github	2.6	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/2564	[ Bounty $3k ] [ Metrics ] Reject non-numeric histogram observations — histogram integrity
+2	github	2.9	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/2559	[ Bounty $4k ] [ Metrics ] Include min and max in histograms — observability fidelity
+2	github	3.2	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/2554	[ Bounty $6k ] [ CLI ] Inject SDK clients into CLI handlers — test isolation
+2	github	3.4	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/2550	[ Bounty $5k ] [ Middleware ] Bound request timeout for streaming endpoints — timeout middleware
+2	github	3.7	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/2544	[ Bounty $7k ] [ Workflow ] Validate artifact retention policies — cleanup scheduling
