@@ -1,0 +1,16 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH	github	0.2	0	3	https://github.com/orchestration-agent/AgentOrchestration/issues/2349	[ Bounty $2k ] [ Registry ] Validate route weight totals — traffic splitting
+FRESH	github	0.5	0	3	https://github.com/orchestration-agent/AgentOrchestration/issues/2338	[ Bounty $4k ] [ Registry ] Block incompatible protocol upgrades — agent RPC negotiation
+FRESH	github	0.8	0	5	https://github.com/orchestration-agent/AgentOrchestration/issues/2324	[ Bounty $5k ] [ SDK ] Validate task retry counts — decorator guardrails
+FRESH	github	1.1	0	4	https://github.com/orchestration-agent/AgentOrchestration/issues/2318	[ Bounty $8k ] [ Webhook ] Validate event type allowlist at subscription create — webhook API
+FRESH	github	1.4	0	5	https://github.com/orchestration-agent/AgentOrchestration/issues/2313	[ Bounty $3k ] [ Config ] Validate config root is an object — file loading
+FRESH	github	1.7	0	9	https://github.com/orchestration-agent/AgentOrchestration/issues/2297	[ Bounty $5k ] [ Config ] Own nested config state at boundaries — state isolation
+FRESH	github	2.0	0	8	https://github.com/orchestration-agent/AgentOrchestration/issues/2287	[ Bounty $3k ] [ Storage ] Add checksum validation to download cache — artifact consumers
+FRESH	github	2.2	0	9	https://github.com/orchestration-agent/AgentOrchestration/issues/2276	[ Bounty $7k ] [ CI ] Add provenance attestation for release artifacts — agent package publish
+FRESH	github	2.5	0	13	https://github.com/orchestration-agent/AgentOrchestration/issues/2258	[ Bounty $5k ] [ API ] Use consistent error codes for validation failures — public API clients
+FRESH	github	2.7	0	12	https://github.com/orchestration-agent/AgentOrchestration/issues/2243	[ Bounty $5k ] [ Auth ] Require MFA challenge on privileged key creation — API key settings
+FRESH	github	2.9	0	9	https://github.com/orchestration-agent/AgentOrchestration/issues/2227	[ Bounty $10k ] [ Auth ] Revalidate revoked API keys on long polling — task monitor
+FRESH	github	3.1	0	10	https://github.com/orchestration-agent/AgentOrchestration/issues/2218	[ Bounty $2k ] [ Storage ] Record storage class transitions in artifact metadata — cost controls
+FRESH	github	3.4	0	12	https://github.com/orchestration-agent/AgentOrchestration/issues/2209	[ Bounty $9k ] [ Workflow ] Sandbox expression side effects — workflow condition evaluation
+FRESH	github	3.5	0	11	https://github.com/orchestration-agent/AgentOrchestration/issues/2201	[ Bounty $5k ] [ Metrics ] Expose reset for scoped collectors — collector lifecycle
+FRESH	github	3.7	0	10	https://github.com/orchestration-agent/AgentOrchestration/issues/2190	[ Bounty $9k ] [ Scheduler ] Separate fairness budgets by priority class — urgent workflow lanes
