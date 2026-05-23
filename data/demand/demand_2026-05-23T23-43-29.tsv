@@ -1,0 +1,27 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/issueflow-buidl/issueflow-chain/issues/1	[CONTRACTS] Implement bounty creation function
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/3434	[ Bounty $5k ] [ Storage ] Validate encryption settings on new buckets — infrastructure provisioning
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Reqrefusion/FreeCAD-Documentation-Project/issues/332	Maintaining Macros
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Reqrefusion/FreeCAD-Documentation-Project/issues/331	External Add-on Documentation
+4	github	3.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Reqrefusion/FreeCAD-Documentation-Project/issues/329	Updating the Developer Hub
+3	sn/bitcoin	11.3	000 BTC	OPEN_NEED	https://stacker.news/items/1495185	Why nobody talks about the guy who received 10,000 Bitcoin for two pizzas?
+3	github	17.9	0 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/49	Add a Stellar testnet faucet link when USDC balance is zero
+2	github	17.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/54	Add MCP `get_search_stats` tool to expose server health to Claude
+2	github	17.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/50	Add support for x402 `exact` scheme on mainnet USDC asset address
+2	github	17.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/40	Add an empty state illustration when no search has been made yet
+2	github	18.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/29	Add CONTRIBUTING.md with setup guide and PR conventions
+2	github	33.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/karagozemin/OverSync/issues/9	SDK canonical testnet asset-pair mapping
+2	github	55.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/vant-xyz/backend-core/issues/10	[Base] GG20 Threshold ECDSA (Non-Custodial Keypair)
+2	github	56.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/vant-xyz/backend-core/issues/9	[Solana] FROST Threshold Signing (Non-Custodial Keypair)
+2	github	0.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3421	[ Bounty $3k ] [ Data ] Validate export filters before job enqueue — bulk downloads
+2	github	0.8	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3413	[ Bounty $8k ] [ Scheduler ] Prevent run creation after deletion — workflow removal race
+2	github	1.1	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3411	[ Bounty $4k ] [ Sandbox ] Bound stored executor results — memory management
+2	github	1.6	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3396	[ Bounty $9k ] [ Workflow ] Sandbox expression side effects — workflow condition evaluation
+2	github	2.0	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3384	[ Bounty $5k ] [ Config ] Own nested config state at boundaries — state isolation
+2	github	2.3	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3378	[ Bounty $4k ] [ Auth ] Separate machine token and user token permissions — automation auth
+2	github	2.6	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3370	[ Bounty $7k ] [ Storage ] Enforce row-level workspace scope on task state — database access
+2	github	3.2	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3355	[ Bounty $5k ] [ Metrics ] Expose reset for scoped collectors — collector lifecycle
+2	github	3.6	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3346	[ Bounty $3k ] [ Queue ] Persist visibility timeout extensions — long running agents
+2	github	3.9	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3338	[ Bounty $6k ] [ Storage ] Record content digest before artifact deduplication — blob store
+0	github	26.9	-	OPEN_ISSUE	https://github.com/issueflow-buidl/issueflow-terminal/issues/3	[CLI] Implement bounty command
+0	github	4.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3328	[ Bounty $3k ] [ Orchestrator ] Keep retry counters attempt scoped — parallel branch retries
