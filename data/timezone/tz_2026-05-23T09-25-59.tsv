@@ -1,0 +1,16 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH	github	0.2	0	6	https://github.com/orchestration-agent/AgentOrchestration/issues/3034	[ Bounty $3k ] [ Docker ] Exclude local environment files from build context — dockerignore policy
+FRESH	github	0.4	0	4	https://github.com/orchestration-agent/AgentOrchestration/issues/3025	[ Bounty $4k ] [ SDK ] Attach task metadata to the returned wrapper — decorator introspection
+FRESH	github	0.7	0	4	https://github.com/orchestration-agent/AgentOrchestration/issues/3015	[ Bounty $3k ] [ Config ] Provide redacted config snapshots — diagnostic output
+FRESH	github	1.0	0	4	https://github.com/orchestration-agent/AgentOrchestration/issues/3007	[ Bounty $2k ] [ Data ] Add data owner to retention exceptions — governance metadata
+FRESH	github	1.2	0	5	https://github.com/orchestration-agent/AgentOrchestration/issues/2999	[ Bounty $4k ] [ CI ] Fail on unpublished workspace package drift — monorepo release
+FRESH	github	1.5	0	6	https://github.com/orchestration-agent/AgentOrchestration/issues/2992	[ Bounty $5k ] [ Sandbox ] Enforce disk_mb or remove the option — resource limits
+FRESH	github	1.7	0	5	https://github.com/orchestration-agent/AgentOrchestration/issues/2984	[ Bounty $3k ] [ Data ] Track export access in audit trail — data download events
+FRESH	github	1.9	0	5	https://github.com/orchestration-agent/AgentOrchestration/issues/2974	[ Bounty $6k ] [ Runtime ] Cancel orphaned subprocesses after run timeout — worker runtime
+FRESH	github	2.2	0	5	https://github.com/orchestration-agent/AgentOrchestration/issues/2964	[ Bounty $6k ] [ Storage ] Extend job lease TTL for large artifact uploads — queue reliability
+FRESH	github	2.4	0	4	https://github.com/orchestration-agent/AgentOrchestration/issues/2958	[ Bounty $2k ] [ CI ] Record dependency review decisions — security exception workflow
+FRESH	github	2.7	0	6	https://github.com/orchestration-agent/AgentOrchestration/issues/2949	[ Bounty $2k ] [ Scheduler ] Use monotonic time for heartbeats — system clock adjustments
+FRESH	github	3.0	0	7	https://github.com/orchestration-agent/AgentOrchestration/issues/2915	[ Bounty $4k ] [ Webhook ] Enforce per-endpoint rate limit during fanout — dispatch controls
+FRESH	github	3.3	0	4	https://github.com/orchestration-agent/AgentOrchestration/issues/2893	[ Bounty $6k ] [ Webhook ] Avoid leaking internal run metadata in public events — payload shaping
+FRESH	github	3.5	0	5	https://github.com/orchestration-agent/AgentOrchestration/issues/2855	[ Bounty $10k ] [ Runtime ] Restore contextvars after nested agent calls — context runtime
+FRESH	github	3.7	0	6	https://github.com/orchestration-agent/AgentOrchestration/issues/2846	[ Bounty $3k ] [ Docker ] Add image build context size budget — repository hygiene
