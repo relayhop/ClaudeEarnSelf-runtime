@@ -1,0 +1,27 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	17.6	$1	OPEN_NEED,LOW_COMP	https://stacker.news/items/1494883	Latest Strikes S03E20 - May 11th-17th 2026
+4	github	0.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/3107	[ Bounty $5k ] [ Queue ] Reclaim abandoned reserved jobs — worker disconnects
+3	github	6.0	0 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/49	Add a Stellar testnet faucet link when USDC balance is zero
+2	sn/bitcoin	19.1	-	OPEN_NEED	https://stacker.news/items/1494838	Square Terminal Trainwreck
+2	github	6.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/54	Add MCP `get_search_stats` tool to expose server health to Claude
+2	github	6.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/50	Add support for x402 `exact` scheme on mainnet USDC asset address
+2	github	6.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/40	Add an empty state illustration when no search has been made yet
+2	github	6.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/29	Add CONTRIBUTING.md with setup guide and PR conventions
+2	github	21.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/karagozemin/OverSync/issues/9	SDK canonical testnet asset-pair mapping
+2	github	43.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/vant-xyz/backend-core/issues/10	[Base] GG20 Threshold ECDSA (Non-Custodial Keypair)
+2	github	44.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/vant-xyz/backend-core/issues/9	[Solana] FROST Threshold Signing (Non-Custodial Keypair)
+2	github	0.3	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3099	[ Bounty $7k ] [ API ] Guard nested filter depth in trace query API — trace explorer
+2	github	0.6	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3091	[ Bounty $4k ] [ Webhook ] Enforce replay window on webhook signatures — inbound security
+2	github	0.9	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3082	[ Bounty $9k ] [ Orchestrator ] Quarantine unknown event types — rolling version upgrades
+2	github	1.2	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3076	[ Bounty $9k ] [ Orchestrator ] Quarantine unknown event types — rolling version upgrades
+2	github	1.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3066	[ Bounty $6k ] [ Data ] Cascade deletion to derived embeddings — retention workflow
+2	github	1.7	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3055	[ Bounty $4k ] [ Metrics ] Reject non-finite gauge values — numeric safety
+2	github	2.0	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3048	[ Bounty $7k ] [ Middleware ] Keep correlation IDs from crossing tenants — request context
+2	github	2.2	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3043	[ Bounty $9k ] [ Runtime ] Enforce memory limit on trace aggregation — trace runtime
+2	github	2.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3034	[ Bounty $3k ] [ Docker ] Exclude local environment files from build context — dockerignore policy
+2	github	2.8	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3025	[ Bounty $4k ] [ SDK ] Attach task metadata to the returned wrapper — decorator introspection
+2	github	3.0	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3015	[ Bounty $3k ] [ Config ] Provide redacted config snapshots — diagnostic output
+2	github	3.3	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3007	[ Bounty $2k ] [ Data ] Add data owner to retention exceptions — governance metadata
+2	github	3.6	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/2999	[ Bounty $4k ] [ CI ] Fail on unpublished workspace package drift — monorepo release
+2	github	3.8	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/2992	[ Bounty $5k ] [ Sandbox ] Enforce disk_mb or remove the option — resource limits
+0	github	14.9	-	OPEN_ISSUE	https://github.com/issueflow-buidl/issueflow-terminal/issues/3	[CLI] Implement bounty command
