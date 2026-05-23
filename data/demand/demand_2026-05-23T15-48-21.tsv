@@ -1,0 +1,28 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	3.4	000 BTC	OPEN_NEED	https://stacker.news/items/1495185	Why nobody talks about the guy who received 10,000 Bitcoin for two pizzas?
+5	sn/bitcoin	21.6	$1	OPEN_NEED,LOW_COMP	https://stacker.news/items/1494883	Latest Strikes S03E20 - May 11th-17th 2026
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/3254	[ Bounty $6k ] [ Sandbox ] Store cancellation results for executions — task execution
+3	github	10.0	0 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/49	Add a Stellar testnet faucet link when USDC balance is zero
+2	sn/bitcoin	23.1	-	OPEN_NEED	https://stacker.news/items/1494838	Square Terminal Trainwreck
+2	github	10.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/54	Add MCP `get_search_stats` tool to expose server health to Claude
+2	github	10.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/50	Add support for x402 `exact` scheme on mainnet USDC asset address
+2	github	10.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/40	Add an empty state illustration when no search has been made yet
+2	github	10.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/29	Add CONTRIBUTING.md with setup guide and PR conventions
+2	github	25.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/karagozemin/OverSync/issues/9	SDK canonical testnet asset-pair mapping
+2	github	47.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/vant-xyz/backend-core/issues/10	[Base] GG20 Threshold ECDSA (Non-Custodial Keypair)
+2	github	48.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/vant-xyz/backend-core/issues/9	[Solana] FROST Threshold Signing (Non-Custodial Keypair)
+2	github	0.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3249	[ Bounty $5k ] [ CI ] Reduce write permissions for validation jobs — pull request workflows
+2	github	0.8	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3238	[ Bounty $3k ] [ Auth ] Enforce JWT audience for service-to-service calls — agent workers
+2	github	1.1	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3224	[ Bounty $3k ] [ Sandbox ] Validate stop timeout before signaling — process shutdown
+2	github	1.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3213	[ Bounty $6k ] [ Queue ] Validate batch acknowledgement ownership — worker ack batching
+2	github	1.8	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3204	[ Bounty $4k ] [ Docker ] Prune package manager caches from runtime image — image hardening
+2	github	2.0	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3197	[ Bounty $5k ] [ API ] Cap pagination window on run events — event stream API
+2	github	2.3	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3187	[ Bounty $7k ] [ Orchestrator ] Stop polling after workflow deletion — cleanup races
+2	github	2.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3160	[ Bounty $4k ] [ Metrics ] Include min and max in histograms — observability fidelity
+2	github	2.7	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3152	[ Bounty $6k ] [ Storage ] Add consistency guard for cross-region artifact reads — replicated buckets
+2	github	3.0	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3142	[ Bounty $8k ] [ Registry ] Prevent stale schema reuse — capability contract changes
+2	github	3.3	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3135	[ Bounty $5k ] [ Config ] Coerce numeric environment overrides — AO_ parsing
+2	github	3.6	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3125	[ Bounty $7k ] [ Middleware ] Keep correlation IDs from crossing tenants — request context
+2	github	3.8	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3114	[ Bounty $9k ] [ Scheduler ] Persist limiter decisions for audit — capacity troubleshooting
+2	github	4.0	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3107	[ Bounty $5k ] [ Queue ] Reclaim abandoned reserved jobs — worker disconnects
+0	github	19.0	-	OPEN_ISSUE	https://github.com/issueflow-buidl/issueflow-terminal/issues/3	[CLI] Implement bounty command
