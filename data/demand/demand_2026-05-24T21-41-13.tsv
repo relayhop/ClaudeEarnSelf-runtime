@@ -1,0 +1,27 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	3.3	-	OPEN_NEED	https://stacker.news/items/1495768	Sunday Survey: What do you think of rented hash rates?
+4	sn/bitcoin	4.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1495741	Free Zone Frontier and Cryptoanarchy - Juraj Bednar
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/3912	[ Bounty $9k ] [ Auth ] Require auth on websocket token minting — live updates
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/3911	[ Bounty $4k ] [ Storage ] Clean orphaned blobs after failed tasks — artifact retention
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/3907	[ Bounty $3k ] [ CLI ] Reject unsupported output modes — argument validation
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/3897	[ Bounty $6k ] [ API ] Preserve tenant scope in batch cancel endpoint — queued jobs
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/3894	[ Bounty $3k ] [ Registry ] Prevent handler name path traversal — local plugin metadata
+4	github	1.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/3893	[ Bounty $5k ] [ Deploy ] De-duplicate scheduled jobs during rollout — cron workers
+4	github	1.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/3884	[ Bounty $7k ] [ Deploy ] Require signed deployment bundles — environment promotion
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/3880	[ Bounty $4k ] [ Orchestrator ] Reject events for archived runs — late worker messages
+4	github	2.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/3870	[ Bounty $2k ] [ Scheduler ] Respect daylight saving transitions — localized cron schedules
+4	github	2.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/3862	[ Bounty $2k ] [ Auth ] Bind refresh tokens to session rotation — dashboard login
+4	github	2.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/3859	[ Bounty $3k ] [ CI ] Scan all worker images in matrix — container security job
+3	github	39.9	0 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/49	Add a Stellar testnet faucet link when USDC balance is zero
+2	sn/tech	11.2	-	OPEN_NEED	https://stacker.news/items/1495593	Why do grocery stores invest billions in self scan tech?
+2	github	22.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/issueflow-buidl/issueflow-chain/issues/1	[CONTRACTS] Implement bounty creation function
+2	github	39.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/54	Add MCP `get_search_stats` tool to expose server health to Claude
+2	github	39.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/50	Add support for x402 `exact` scheme on mainnet USDC asset address
+2	github	39.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/40	Add an empty state illustration when no search has been made yet
+2	github	39.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/29	Add CONTRIBUTING.md with setup guide and PR conventions
+2	github	55.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/karagozemin/OverSync/issues/9	SDK canonical testnet asset-pair mapping
+2	github	0.8	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3899	[ Bounty $4k ] [ Middleware ] Redact Authorization header in structured logs — request logging
+2	github	2.3	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3873	[ Bounty $4k ] [ Metrics ] Reject non-finite gauge values — numeric safety
+2	github	3.2	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3857	[ Bounty $4k ] [ API ] Reject duplicate idempotency keys across users — task creation endpoint
+2	github	3.4	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3854	[ Bounty $2k ] [ Registry ] Avoid leaking disabled entries in listings — capability discovery API
+0	github	48.8	-	OPEN_ISSUE	https://github.com/issueflow-buidl/issueflow-terminal/issues/3	[CLI] Implement bounty command
