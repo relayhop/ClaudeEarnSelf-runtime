@@ -1,0 +1,26 @@
+# score	source	age_h	payout_hint	tags	url	title
+3	github	33.0	0 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/49	Add a Stellar testnet faucet link when USDC balance is zero
+2	github	15.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/issueflow-buidl/issueflow-chain/issues/1	[CONTRACTS] Implement bounty creation function
+2	github	33.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/54	Add MCP `get_search_stats` tool to expose server health to Claude
+2	github	33.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/50	Add support for x402 `exact` scheme on mainnet USDC asset address
+2	github	33.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/40	Add an empty state illustration when no search has been made yet
+2	github	33.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/29	Add CONTRIBUTING.md with setup guide and PR conventions
+2	github	48.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/karagozemin/OverSync/issues/9	SDK canonical testnet asset-pair mapping
+2	github	70.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/vant-xyz/backend-core/issues/10	[Base] GG20 Threshold ECDSA (Non-Custodial Keypair)
+2	github	71.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/vant-xyz/backend-core/issues/9	[Solana] FROST Threshold Signing (Non-Custodial Keypair)
+2	github	0.2	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3773	[ Bounty $7k ] [ Middleware ] Require HTTPS scheme under production proxy mode — security middleware
+2	github	0.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3771	[ Bounty $7k ] [ Runtime ] Protect run event ordering across async producers — event bus
+2	github	0.8	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3765	[ Bounty $5k ] [ SDK ] Run cleanup when BaseAgent setup fails — agent lifecycle
+2	github	1.0	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3757	[ Bounty $2k ] [ Config ] Add typed getter for boolean flags — consumer API
+2	github	1.3	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3745	[ Bounty $9k ] [ API ] Redact execution metadata in public health response — diagnostics API
+2	github	1.6	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3739	[ Bounty $4k ] [ Storage ] Make checkpoint writes idempotent — resumable workers
+2	github	1.8	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3732	[ Bounty $6k ] [ Data ] Add consent gate for training data exports — dataset pipeline
+2	github	2.0	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3729	[ Bounty $5k ] [ Queue ] Reclaim abandoned reserved jobs — worker disconnects
+2	github	2.2	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3728	[ Bounty $4k ] [ CI ] Check workflow path filters against release files — selective CI
+2	github	2.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3724	[ Bounty $2k ] [ SDK ] Reject missing API keys clearly — authentication setup
+2	github	2.7	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3719	[ Bounty $8k ] [ Runtime ] Validate JSON serialization of tool results — result runtime
+2	github	3.0	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3712	[ Bounty $5k ] [ Registry ] Invalidate cached registry lookups — agent disablement
+2	github	3.2	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3711	[ Bounty $5k ] [ SDK ] Handle sync task functions explicitly — developer ergonomics
+2	github	3.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3709	[ Bounty $6k ] [ Data ] Prevent raw payloads in exception tracking — error pipeline
+2	github	3.7	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3707	[ Bounty $5k ] [ Registry ] Invalidate cached registry lookups — agent disablement
+0	github	41.9	-	OPEN_ISSUE	https://github.com/issueflow-buidl/issueflow-terminal/issues/3	[CLI] Implement bounty command
