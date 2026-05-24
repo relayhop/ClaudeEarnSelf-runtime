@@ -1,0 +1,27 @@
+# score	source	age_h	payout_hint	tags	url	title
+3	sn/bitcoin	20.7	000 BTC	OPEN_NEED	https://stacker.news/items/1495185	Why nobody talks about the guy who received 10,000 Bitcoin for two pizzas?
+3	github	27.4	0 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/49	Add a Stellar testnet faucet link when USDC balance is zero
+2	github	9.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/issueflow-buidl/issueflow-chain/issues/1	[CONTRACTS] Implement bounty creation function
+2	github	27.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/54	Add MCP `get_search_stats` tool to expose server health to Claude
+2	github	27.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/50	Add support for x402 `exact` scheme on mainnet USDC asset address
+2	github	27.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/40	Add an empty state illustration when no search has been made yet
+2	github	27.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/29	Add CONTRIBUTING.md with setup guide and PR conventions
+2	github	42.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/karagozemin/OverSync/issues/9	SDK canonical testnet asset-pair mapping
+2	github	65.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/vant-xyz/backend-core/issues/10	[Base] GG20 Threshold ECDSA (Non-Custodial Keypair)
+2	github	65.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/vant-xyz/backend-core/issues/9	[Solana] FROST Threshold Signing (Non-Custodial Keypair)
+2	github	0.2	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3650	[ Bounty $6k ] [ Queue ] Ensure ack timeout exceeds visibility — worker protocol settings
+2	github	0.4	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3638	[ Bounty $2k ] [ Deploy ] Validate resource requests for background workers — capacity planning
+2	github	0.9	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3623	[ Bounty $10k ] [ Middleware ] Enforce CORS allowlist on credentialed requests — browser clients
+2	github	1.4	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3616	[ Bounty $8k ] [ Auth ] Validate auth scheme casing consistently — bearer parsing
+2	github	1.8	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3611	[ Bounty $7k ] [ API ] Guard nested filter depth in trace query API — trace explorer
+2	github	2.0	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3608	[ Bounty $8k ] [ Scheduler ] Prevent run creation after deletion — workflow removal race
+2	github	2.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3601	[ Bounty $9k ] [ Middleware ] Enforce same request ID on background task logs — observability
+2	github	2.9	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3596	[ Bounty $10k ] [ Auth ] Check token not-before time on worker requests — worker auth
+2	github	3.2	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3592	[ Bounty $8k ] [ Runtime ] Fail closed when policy engine is unavailable — policy runtime
+2	github	3.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3586	[ Bounty $5k ] [ Webhook ] Store last delivery status without overwriting newer result — delivery audit
+2	github	3.7	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3584	[ Bounty $3k ] [ CLI ] Propagate deploy failure exit codes — exit status
+2	github	4.0	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3574	[ Bounty $5k ] [ Scheduler ] Defer runs during dependency outages — external service health gates
+0	github	36.3	-	OPEN_ISSUE	https://github.com/issueflow-buidl/issueflow-terminal/issues/3	[CLI] Implement bounty command
+0	github	4.2	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3570	[ Bounty $2k ] [ Data ] Remove raw samples from test fixtures — repository hygiene
+0	github	4.4	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3567	[ Bounty $6k ] [ Storage ] Record content digest before artifact deduplication — blob store
+0	github	4.9	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3560	[ Bounty $5k ] [ CLI ] Validate logs tail is non-negative — logs arguments
