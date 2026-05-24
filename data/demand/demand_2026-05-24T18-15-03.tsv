@@ -1,0 +1,26 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	1.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1495741	Free Zone Frontier and Cryptoanarchy - Juraj Bednar
+3	github	36.5	0 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/49	Add a Stellar testnet faucet link when USDC balance is zero
+2	sn/tech	7.7	-	OPEN_NEED	https://stacker.news/items/1495593	Why do grocery stores invest billions in self scan tech?
+2	github	18.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/issueflow-buidl/issueflow-chain/issues/1	[CONTRACTS] Implement bounty creation function
+2	github	36.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/54	Add MCP `get_search_stats` tool to expose server health to Claude
+2	github	36.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/50	Add support for x402 `exact` scheme on mainnet USDC asset address
+2	github	36.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/40	Add an empty state illustration when no search has been made yet
+2	github	36.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/29	Add CONTRIBUTING.md with setup guide and PR conventions
+2	github	52.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/karagozemin/OverSync/issues/9	SDK canonical testnet asset-pair mapping
+2	github	0.2	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3850	[ Bounty $6k ] [ Storage ] Add data corruption alert on manifest digest mismatch — artifact reads
+2	github	0.4	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3846	[ Bounty $4k ] [ Metrics ] Handle exporter counter range limits — large counters
+2	github	0.7	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3840	[ Bounty $4k ] [ Data ] Escape spreadsheet formulas in CSV exports — reporting downloads
+2	github	0.9	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3835	[ Bounty $3k ] [ CLI ] Reject unsupported output modes — argument validation
+2	github	1.2	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3820	[ Bounty $4k ] [ SDK ] Handle 204 responses without JSON decoding — delete workflow
+2	github	1.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3812	[ Bounty $4k ] [ Metrics ] Reject non-finite gauge values — numeric safety
+2	github	1.8	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3802	[ Bounty $4k ] [ Registry ] Pin resolved handler per attempt — mid-run registry updates
+2	github	2.0	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3797	[ Bounty $10k ] [ Middleware ] Avoid swallowing validation exceptions in audit middleware — API errors
+2	github	2.3	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3792	[ Bounty $10k ] [ Webhook ] Handle 410 Gone by disabling endpoint safely — webhook delivery
+2	github	2.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3788	[ Bounty $4k ] [ Sandbox ] Create sandbox directories with restrictive modes — filesystem permissions
+2	github	2.7	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3787	[ Bounty $7k ] [ Storage ] Add tenant boundary to artifact lookup — shared storage API
+2	github	2.9	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3786	[ Bounty $6k ] [ Runtime ] Cancel orphaned subprocesses after run timeout — worker runtime
+2	github	3.0	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3784	[ Bounty $2k ] [ Registry ] Reject unknown registry fields — configuration drift
+2	github	3.3	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3781	[ Bounty $4k ] [ Deploy ] Verify backup freshness before destructive migrations — release preflight
+2	github	3.5	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/3778	[ Bounty $8k ] [ Data ] Enforce purpose limitation in data lake writes — pipeline governance
+0	github	45.4	-	OPEN_ISSUE	https://github.com/issueflow-buidl/issueflow-terminal/issues/3	[CLI] Implement bounty command
