@@ -1,0 +1,16 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH_LOW_COMP	github	0.0	0	0	https://github.com/orchestration-agent/AgentOrchestration/issues/3695	[ Bounty $5k ] [ Orchestrator ] Avoid child retry after parent cancel — cancellation propagation
+FRESH	github	0.5	0	4	https://github.com/orchestration-agent/AgentOrchestration/issues/3688	[ Bounty $7k ] [ Docker ] Verify registry namespace before image push — release script
+FRESH	github	1.0	0	4	https://github.com/orchestration-agent/AgentOrchestration/issues/3662	[ Bounty $4k ] [ Queue ] Release capacity when enqueue rolls back — transaction failures
+FRESH	github	1.2	0	5	https://github.com/orchestration-agent/AgentOrchestration/issues/3650	[ Bounty $6k ] [ Queue ] Ensure ack timeout exceeds visibility — worker protocol settings
+FRESH	github	1.5	0	4	https://github.com/orchestration-agent/AgentOrchestration/issues/3638	[ Bounty $2k ] [ Deploy ] Validate resource requests for background workers — capacity planning
+FRESH	github	1.9	0	4	https://github.com/orchestration-agent/AgentOrchestration/issues/3623	[ Bounty $10k ] [ Middleware ] Enforce CORS allowlist on credentialed requests — browser clients
+FRESH	github	2.5	0	8	https://github.com/orchestration-agent/AgentOrchestration/issues/3616	[ Bounty $8k ] [ Auth ] Validate auth scheme casing consistently — bearer parsing
+FRESH	github	2.8	0	5	https://github.com/orchestration-agent/AgentOrchestration/issues/3611	[ Bounty $7k ] [ API ] Guard nested filter depth in trace query API — trace explorer
+FRESH	github	3.1	0	4	https://github.com/orchestration-agent/AgentOrchestration/issues/3608	[ Bounty $8k ] [ Scheduler ] Prevent run creation after deletion — workflow removal race
+FRESH	github	3.5	0	6	https://github.com/orchestration-agent/AgentOrchestration/issues/3601	[ Bounty $9k ] [ Middleware ] Enforce same request ID on background task logs — observability
+FRESH	github	4.0	0	6	https://github.com/orchestration-agent/AgentOrchestration/issues/3596	[ Bounty $10k ] [ Auth ] Check token not-before time on worker requests — worker auth
+FRESH	github	4.3	0	5	https://github.com/orchestration-agent/AgentOrchestration/issues/3592	[ Bounty $8k ] [ Runtime ] Fail closed when policy engine is unavailable — policy runtime
+FRESH	github	4.6	0	6	https://github.com/orchestration-agent/AgentOrchestration/issues/3586	[ Bounty $5k ] [ Webhook ] Store last delivery status without overwriting newer result — delivery audit
+FRESH	github	4.8	0	8	https://github.com/orchestration-agent/AgentOrchestration/issues/3584	[ Bounty $3k ] [ CLI ] Propagate deploy failure exit codes — exit status
+FRESH	github	5.0	0	5	https://github.com/orchestration-agent/AgentOrchestration/issues/3574	[ Bounty $5k ] [ Scheduler ] Defer runs during dependency outages — external service health gates
