@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	4.8	100 sats	OPEN_NEED,LOW_COMP	https://stacker.news/items/1496281	Cash App: Sorry, your withdrawal could not be processed [LN payment issue]
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/4513	[ Bounty $2k ] [ API ] Validate run ownership before status polling — orchestration runs
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/4508	[ Bounty $5k ] [ Scheduler ] Stagger periodic reconciliation jobs — cluster startup
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/4506	[ Bounty $7k ] [ Identity ] Reject duplicate verified email claims — email verification
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/4501	[ Bounty $8k ] [ Runtime ] Fail closed when policy engine is unavailable — policy runtime
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/4498	[ Bounty $5k ] [ Runtime ] Isolate per-agent environment variables — worker sandbox
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/4496	[ Bounty $5k ] [ Config ] Support literal underscores in override keys — env key mapping
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/4492	[ Bounty $4k ] [ Webhook ] Enforce per-endpoint rate limit during fanout — dispatch controls
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/4491	[ Bounty $8k ] [ Runtime ] Validate JSON serialization of tool results — result runtime
+4	github	1.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/4488	[ Bounty $3k ] [ Orchestrator ] Preserve parent failure after child success — late child events
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/4484	[ Bounty $6k ] [ SDK ] Validate register_agent config is a mapping — agent registration
+4	github	2.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/4479	[ Bounty $9k ] [ Auth ] Require auth on websocket token minting — live updates
+4	github	2.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/4478	[ Bounty $9k ] [ UI ] Debounce destructive action double-clicks — destructive action buttons
+4	github	2.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/4474	[ Bounty $7k ] [ Identity ] Reject duplicate verified email claims — email verification
+4	github	3.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/4472	[ Bounty $3k ] [ SDK ] Reject blank agent names before POST — registration validation
+4	github	3.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/4471	[ Bounty $7k ] [ Webhook ] Handle DNS resolution failures without blocking workers — delivery runtime
+3	github	64.5	0 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/49	Add a Stellar testnet faucet link when USDC balance is zero
+2	sn/bitcoin	18.9	-	OPEN_NEED	https://stacker.news/items/1495967	What Is Bitcoin Becoming?
+2	github	17.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/ford442/grok_zephyr/issues/26	[Rendering] Activate Dormant Advanced Rendering Stack — TAA, PostProcessStack, Volumetric Beams, Satellite LOD
+2	github	46.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/issueflow-buidl/issueflow-chain/issues/1	[CONTRACTS] Implement bounty creation function
+2	github	64.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/54	Add MCP `get_search_stats` tool to expose server health to Claude
+2	github	64.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/50	Add support for x402 `exact` scheme on mainnet USDC asset address
+2	github	64.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/40	Add an empty state illustration when no search has been made yet
+2	github	64.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/29	Add CONTRIBUTING.md with setup guide and PR conventions
