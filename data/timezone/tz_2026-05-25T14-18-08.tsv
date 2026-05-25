@@ -1,0 +1,16 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH	github	0.2	0	1	https://github.com/orchestration-agent/AgentOrchestration/issues/4356	[ Bounty $3k ] [ Middleware ] Reject conflicting forwarded headers — proxy middleware
+FRESH	github	0.3	0	1	https://github.com/orchestration-agent/AgentOrchestration/issues/4353	[ Bounty $2k ] [ Webhook ] Use idempotency keys per event delivery — duplicate prevention
+FRESH	github	0.6	0	1	https://github.com/orchestration-agent/AgentOrchestration/issues/4350	[ Bounty $3k ] [ Config ] Avoid importing unrelated AO_ variables — environment scope
+FRESH	github	0.9	0	2	https://github.com/orchestration-agent/AgentOrchestration/issues/4340	[ Bounty $4k ] [ Sandbox ] Validate positive ResourceLimits values — constructor guardrails
+FRESH	github	1.2	0	2	https://github.com/orchestration-agent/AgentOrchestration/issues/4325	[ Bounty $5k ] [ CI ] Protect release signing from concurrency cancellation — tagged builds
+FRESH	github	1.5	0	4	https://github.com/orchestration-agent/AgentOrchestration/issues/4321	[ Bounty $3k ] [ Storage ] Add checksum validation to download cache — artifact consumers
+FRESH	github	1.7	0	5	https://github.com/orchestration-agent/AgentOrchestration/issues/4319	[ Bounty $2k ] [ CI ] Record dependency review decisions — security exception workflow
+FRESH	github	2.0	0	4	https://github.com/orchestration-agent/AgentOrchestration/issues/4315	[ Bounty $10k ] [ API ] Normalize agent IDs before route matching — mixed-case identifiers
+FRESH	github	2.2	0	3	https://github.com/orchestration-agent/AgentOrchestration/issues/4312	[ Bounty $9k ] [ Runtime ] Bound recursive agent delegation depth — orchestration runtime
+FRESH	github	2.4	0	3	https://github.com/orchestration-agent/AgentOrchestration/issues/4291	[ Bounty $4k ] [ Workflow ] Prevent implicit dependency on declaration order — parallel node scheduling
+FRESH	github	2.6	0	2	https://github.com/orchestration-agent/AgentOrchestration/issues/4290	[ Bounty $3k ] [ Runtime ] Prevent worker heartbeat from reviving completed runs — heartbeat monitor
+FRESH	github	2.9	0	1	https://github.com/orchestration-agent/AgentOrchestration/issues/4285	[ Bounty $5k ] [ CI ] Protect release signing from concurrency cancellation — tagged builds
+FRESH	github	3.1	0	3	https://github.com/orchestration-agent/AgentOrchestration/issues/4264	[ Bounty $10k ] [ Auth ] Check token not-before time on worker requests — worker auth
+FRESH	github	3.3	0	4	https://github.com/orchestration-agent/AgentOrchestration/issues/4260	[ Bounty $6k ] [ Deploy ] Roll back configuration with application version — release rollback
+FRESH	github	3.5	0	2	https://github.com/orchestration-agent/AgentOrchestration/issues/4254	[ Bounty $5k ] [ Deploy ] Add graceful queue pause before schema changes — maintenance release
