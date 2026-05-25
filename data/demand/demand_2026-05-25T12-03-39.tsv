@@ -1,0 +1,28 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	19.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1495741	Free Zone Frontier and Cryptoanarchy - Juraj Bednar
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/4291	[ Bounty $4k ] [ Workflow ] Prevent implicit dependency on declaration order — parallel node scheduling
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/4290	[ Bounty $3k ] [ Runtime ] Prevent worker heartbeat from reviving completed runs — heartbeat monitor
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/4285	[ Bounty $5k ] [ CI ] Protect release signing from concurrency cancellation — tagged builds
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/4254	[ Bounty $5k ] [ Deploy ] Add graceful queue pause before schema changes — maintenance release
+4	github	1.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/4251	[ Bounty $5k ] [ Metrics ] Add namespace support for agent metrics — multi-agent observability
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/4242	[ Bounty $3k ] [ Auth ] Require confirmation before deleting SSO mappings — auth settings
+3	github	54.3	0 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/49	Add a Stellar testnet faucet link when USDC balance is zero
+2	sn/bitcoin	8.6	-	OPEN_NEED	https://stacker.news/items/1495967	What Is Bitcoin Becoming?
+2	sn/bitcoin	17.7	-	OPEN_NEED	https://stacker.news/items/1495768	Sunday Survey: What do you think of rented hash rates?
+2	github	7.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ford442/grok_zephyr/issues/26	[Rendering] Activate Dormant Advanced Rendering Stack — TAA, PostProcessStack, Volumetric Beams, Satellite LOD
+2	github	36.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/issueflow-buidl/issueflow-chain/issues/1	[CONTRACTS] Implement bounty creation function
+2	github	54.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/54	Add MCP `get_search_stats` tool to expose server health to Claude
+2	github	54.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/50	Add support for x402 `exact` scheme on mainnet USDC asset address
+2	github	54.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/40	Add an empty state illustration when no search has been made yet
+2	github	54.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/29	Add CONTRIBUTING.md with setup guide and PR conventions
+2	github	69.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/karagozemin/OverSync/issues/9	SDK canonical testnet asset-pair mapping
+2	github	0.8	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/4264	[ Bounty $10k ] [ Auth ] Check token not-before time on worker requests — worker auth
+2	github	1.1	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/4260	[ Bounty $6k ] [ Deploy ] Roll back configuration with application version — release rollback
+2	github	1.8	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/4247	[ Bounty $7k ] [ Queue ] Apply rate limits before prefetch — worker local buffers
+2	github	1.9	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/132	[BOUNTY] [level:advanced] Containerize Backend Services with Multi-Stage Docker Builds and Automate Kubernetes Deploymen
+2	github	1.9	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/131	[BOUNTY] [level:critical] Establish Distributed Redis Caching Layer for AI Categorization and Sentence Transformer Embed
+2	github	1.9	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/130	[BOUNTY] [level:critical] Implement Secure HTTP-Only Cookie Session Storage for Supabase JWTs in Mobile and Web
+2	github	1.9	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/129	[BOUNTY] [level:critical] Establish Distributed Redis Caching Layer for AI Categorization and Sentence Transformer Embed
+2	github	1.9	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/128	[BOUNTY] [level:critical] Implement Secure HTTP-Only Cookie Session Storage for Supabase JWTs in Mobile and Web
+2	github	2.1	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/125	[BUG] Frontend lint still fails because Jest files use browser-only ESLint globals
+0	github	63.2	-	OPEN_ISSUE	https://github.com/issueflow-buidl/issueflow-terminal/issues/3	[CLI] Implement bounty command
