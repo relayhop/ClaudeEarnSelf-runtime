@@ -1,0 +1,11 @@
+# score	source	age_h	payout_hint	tags	url	title
+7	sn/bitcoin	0.6	100 sats	OPEN_NEED,LOW_COMP	https://stacker.news/items/1496281	Cash App: Sorry, your withdrawal could not be processed [LN payment issue]
+3	github	60.4	0 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/49	Add a Stellar testnet faucet link when USDC balance is zero
+2	sn/bitcoin	14.8	-	OPEN_NEED	https://stacker.news/items/1495967	What Is Bitcoin Becoming?
+2	sn/bitcoin	23.8	-	OPEN_NEED	https://stacker.news/items/1495768	Sunday Survey: What do you think of rented hash rates?
+2	github	42.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/issueflow-buidl/issueflow-chain/issues/1	[CONTRACTS] Implement bounty creation function
+2	github	60.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/54	Add MCP `get_search_stats` tool to expose server health to Claude
+2	github	60.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/50	Add support for x402 `exact` scheme on mainnet USDC asset address
+2	github	60.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/40	Add an empty state illustration when no search has been made yet
+2	github	60.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-Search/issues/29	Add CONTRIBUTING.md with setup guide and PR conventions
+0	github	69.4	-	OPEN_ISSUE	https://github.com/issueflow-buidl/issueflow-terminal/issues/3	[CLI] Implement bounty command
