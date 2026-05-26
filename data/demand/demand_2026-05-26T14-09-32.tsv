@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	0.8	$0.02	OPEN_NEED	https://stacker.news/items/1496619	Onchain Zaps in Ditto: Bitcoin Tipping Without Lightning - Alex Gleason
+5	github	2.1	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Agora-Events/agora/issues/674	Add `ticket_payment` unit test for `set_withdrawal_cap` enforcement
+5	github	2.1	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Agora-Events/agora/issues/664	Add `ticket_payment` unit test for `partial_refund`
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Agora-Events/agora/issues/602	Add `GET /api/v1/rates` response caching
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/tari-project/rfcs/issues/171	Retro bounty: TIP-1 Tari Improvement Proposals process
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/issues/21	[1500 MRG] Live project creation updates on dashboard and homepage via WebSocket
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/issues/20	[200 MRG] Fix logout bug
+4	github	1.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/issues/19	[3000 MRG] Implement public and logged-in notifications
+4	github	1.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/issues/18	[2000 MRG] Add dashboard payment history after login
+4	github	1.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/issues/17	[2000 MRG] Fix project view after login from dashboard
+4	github	1.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/issues/16	[2000 MRG] Fix dashboard layout after login
+4	github	1.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/orchestration-agent/AgentOrchestration/issues/5086	[ Bounty $9k ] [ Security ] Bind CSRF token to organization switch actions — organization switch
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/14	fix(frontend): adjust auth modal responsive scrolling (Fixes #13)
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/issues/13	[500 MRG] Test and fix login/logout modal responsive behavior
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/issues/12	[3000 MRG] Improve create-project flow for new projects and existing bug fixes
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/issues/11	[2000 MRG] Frontend homepage responsive QA and layout breakage check
+4	github	2.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/10	[1500 MRG] AI project evaluation with LLM integration
+3	sn/bitcoin	20.6	100 sats	OPEN_NEED	https://stacker.news/items/1496281	Cash App: Sorry, your withdrawal could not be processed [LN payment issue]
+2	github	33.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/ford442/grok_zephyr/issues/26	[Rendering] Activate Dormant Advanced Rendering Stack — TAA, PostProcessStack, Volumetric Beams, Satellite LOD
+2	github	6.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritik4ever/stellar-stream/issues/453	Add `assetCode` filter to `GET /api/streams`
+2	github	62.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/issueflow-buidl/issueflow-chain/issues/1	[CONTRACTS] Implement bounty creation function
+2	github	2.1	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/5079	[ Bounty $5k ] [ API ] Cap pagination window on run events — event stream API
+2	github	2.3	-	OPEN_ISSUE	https://github.com/orchestration-agent/AgentOrchestration/issues/5076	[ Bounty $3k ] [ CI ] Normalize line endings before checksum generation — release archives
+0	github	4.6	-	OPEN_ISSUE	https://github.com/ramimbo/mergework/issues/395	MRWK bounty: current transfer and future bridge status docs
