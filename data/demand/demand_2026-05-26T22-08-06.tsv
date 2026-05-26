@@ -1,0 +1,26 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	3.2	107 BTC	OPEN_NEED	https://stacker.news/items/1496859	What actually makes a address be a burn address?
+3	sn/bitcoin	8.8	$0.02	OPEN_NEED	https://stacker.news/items/1496619	Onchain Zaps in Ditto: Bitcoin Tipping Without Lightning - Alex Gleason
+2	github	41.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/ford442/grok_zephyr/issues/26	[Rendering] Activate Dormant Advanced Rendering Stack — TAA, PostProcessStack, Volumetric Beams, Satellite LOD
+2	github	4.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/jhlauret/solar-cells-rwa/issues/8	Prompt #4 Crée maintenant : docs/frontend-spec.md
+2	github	10.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Agora-Events/agora/issues/602	Add `GET /api/v1/rates` response caching
+2	github	70.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/issueflow-buidl/issueflow-chain/issues/1	[CONTRACTS] Implement bounty creation function
+2	github	4.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/39	[3000 MRG] Implement public and logged-in notifications
+2	github	4.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/38	[2000 MRG] Add dashboard payment history after login
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/37	[2000 MRG] Fix dashboard layout after login
+2	github	4.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/36	Feature/realtime project updates
+2	github	5.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/34	Add dashboard notification center
+2	github	5.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/33	feat: add project mode selector for new vs bugfix (Fixes #12)
+2	github	5.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/32	Add dashboard payment history
+2	github	5.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/31	fix: project view responsive layout after login (Fixes #17)
+2	github	5.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/30	fix: homepage responsive layout issues (Fixes #11)
+2	github	5.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/29	Fix dashboard project selection focus
+2	github	5.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/28	fix: navigate to home page after logout (Fixes #20)
+2	github	6.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/27	[500+2000+2000 MRG] Bundle: fix modal, dashboard & homepage responsive
+2	github	6.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/26	[200 MRG] Fix logout bug
+2	github	6.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/25	fix(payment): implement secure usdt webhook callback with replay protection #8
+1	github	10.1	100 USDC	OPEN_ISSUE	https://github.com/Agora-Events/agora/issues/674	Add `ticket_payment` unit test for `set_withdrawal_cap` enforcement
+1	github	10.1	100 USDC	OPEN_ISSUE	https://github.com/Agora-Events/agora/issues/664	Add `ticket_payment` unit test for `partial_refund`
+0	github	12.6	-	OPEN_ISSUE	https://github.com/ramimbo/mergework/issues/395	MRWK bounty: current transfer and future bridge status docs
+0	github	14.7	-	OPEN_ISSUE	https://github.com/ritik4ever/stellar-stream/issues/453	Add `assetCode` filter to `GET /api/streams`
+0	github	4.8	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/pull/35	feat(ws): add WebSocket real-time events for project creation (#21)
