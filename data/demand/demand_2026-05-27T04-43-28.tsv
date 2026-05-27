@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	1.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1497099	#SovEng T-Shirt Design Contest - WIN 1M SATS!
+4	sn/bitcoin	3.1	-	OPEN_NEED	https://stacker.news/items/1497058	TABConf 8 will be the last TABConf
+4	github	0.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/54	Fix dashboard layout after login for responsive viewports
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/53	Improve login/logout modal responsive behavior
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/51	feat(notifications): add real notification center panel (rebased)
+4	github	2.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/50	feat(notifications): add real notification center panel for public and logged-in users
+4	github	3.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/48	feat(payment): USDT crypto payment gateway webhook (#8)
+3	sn/bitcoin	9.8	107 BTC	OPEN_NEED	https://stacker.news/items/1496859	What actually makes a address be a burn address?
+3	sn/bitcoin	15.4	$0.02	OPEN_NEED	https://stacker.news/items/1496619	Onchain Zaps in Ditto: Bitcoin Tipping Without Lightning - Alex Gleason
+2	github	48.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/ford442/grok_zephyr/issues/26	[Rendering] Activate Dormant Advanced Rendering Stack — TAA, PostProcessStack, Volumetric Beams, Satellite LOD
+2	github	5.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/crowdpay/issues/80	Add campaign search and filtering
+2	github	11.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/jhlauret/solar-cells-rwa/issues/8	Prompt #4 Crée maintenant : docs/frontend-spec.md
+2	github	16.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Agora-Events/agora/issues/602	Add `GET /api/v1/rates` response caching
+2	github	1.1	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/pull/52	Fix logout bug: clear session and redirect to home
+2	github	2.7	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/pull/49	fix(payment): add PayPal webhook handler for sandbox payment flow
+2	github	6.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/47	fix: Homepage responsive QA + logout navigation bug (Bounty #11)
+2	github	7.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/46	fix: navigate to homepage after logout (bounty #20)
+2	github	8.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/45	fix: invalidate all user sessions on logout and clear frontend state
+2	github	9.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/43	Improve auth modal on small screens
+2	github	9.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/42	Fix logout redirect to public home
+2	github	9.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/41	feat(evaluation): implement structured gemini-powered ai project price suggester #3
+2	github	10.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/40	fix: resolve bounty #20 — [200 MRG] Fix logout bug
+2	github	10.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/39	[3000 MRG] Implement public and logged-in notifications
+1	github	16.7	100 USDC	OPEN_ISSUE	https://github.com/Agora-Events/agora/issues/674	Add `ticket_payment` unit test for `set_withdrawal_cap` enforcement
+1	github	16.7	100 USDC	OPEN_ISSUE	https://github.com/Agora-Events/agora/issues/664	Add `ticket_payment` unit test for `partial_refund`
+0	github	5.6	-	OPEN_ISSUE	https://github.com/Savitura/crowdpay/issues/84	Add input validation with express-validator across all API routes
+0	github	19.2	-	OPEN_ISSUE	https://github.com/ramimbo/mergework/issues/395	MRWK bounty: current transfer and future bridge status docs
+0	github	21.3	-	OPEN_ISSUE	https://github.com/ritik4ever/stellar-stream/issues/453	Add `assetCode` filter to `GET /api/streams`
