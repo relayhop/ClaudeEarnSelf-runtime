@@ -1,0 +1,30 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	3.9	$75	OPEN_NEED	https://stacker.news/items/1497176	BTC vote: Do you feel bullish or bearish on Bitcoin?
+4	sn/bitcoin	9.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1497099	#SovEng T-Shirt Design Contest - WIN 1M SATS!
+4	github	2.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/66	feat(frontend): add dashboard notification center
+4	github	2.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/65	feat: project category selection step (Bounty #12)
+3	sn/bitcoin	17.5	107 BTC	OPEN_NEED	https://stacker.news/items/1496859	What actually makes a address be a burn address?
+3	sn/bitcoin	23.1	$0.02	OPEN_NEED	https://stacker.news/items/1496619	Onchain Zaps in Ditto: Bitcoin Tipping Without Lightning - Alex Gleason
+2	sn/bitcoin	10.9	-	OPEN_NEED	https://stacker.news/items/1497058	TABConf 8 will be the last TABConf
+2	github	56.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/ford442/grok_zephyr/issues/26	[Rendering] Activate Dormant Advanced Rendering Stack — TAA, PostProcessStack, Volumetric Beams, Satellite LOD
+2	github	19.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/jhlauret/solar-cells-rwa/issues/8	Prompt #4 Crée maintenant : docs/frontend-spec.md
+2	github	24.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Agora-Events/agora/issues/602	Add `GET /api/v1/rates` response caching
+2	github	1.6	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/pull/67	fix: properly reset UI state after logout (#20)
+2	github	3.2	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/issues/64	[300 MRG per PR] Test submitted PRs and verify bounty evidence
+2	github	4.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/61	feat: integrasi PayPal Sandbox checkout flow untuk project funding (#7)
+2	github	4.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/60	feat: USDT crypto payment gateway with webhook callback (Fixes #8)
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/59	fix: auth modal responsive behavior and keyboard accessibility (Fixes #13)
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/58	fix: comprehensive dashboard responsive layout (Fixes #16)
+2	github	4.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/57	fix: responsive homepage, auth modal & create-project flow (#11, #12, #13)
+1	github	24.4	100 USDC	OPEN_ISSUE	https://github.com/Agora-Events/agora/issues/674	Add `ticket_payment` unit test for `set_withdrawal_cap` enforcement
+1	github	24.5	100 USDC	OPEN_ISSUE	https://github.com/Agora-Events/agora/issues/664	Add `ticket_payment` unit test for `partial_refund`
+0	github	13.4	-	OPEN_ISSUE	https://github.com/Savitura/crowdpay/issues/84	Add input validation with express-validator across all API routes
+0	github	13.4	-	OPEN_ISSUE	https://github.com/Savitura/crowdpay/issues/80	Add campaign search and filtering
+0	github	26.9	-	OPEN_ISSUE	https://github.com/ramimbo/mergework/issues/395	MRWK bounty: current transfer and future bridge status docs
+0	github	29.1	-	OPEN_ISSUE	https://github.com/ritik4ever/stellar-stream/issues/453	Add `assetCode` filter to `GET /api/streams`
+0	github	5.9	-	OPEN_ISSUE	https://github.com/SecureBananaLabs/bug-bounty/issues/743	Low Handing Fruit Automation
+0	github	7.9	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/pull/55	fix(frontend): reset authenticated views on logout
+0	github	8.6	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/227	chore: add .eslintrc.json for static analysis and linting
+0	github	8.6	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/226	docs: add CHANGELOG.md file
+0	github	8.6	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/225	chore: add .prettierrc configuration file
+0	github	8.6	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/224	chore: add .editorconfig file for consistent editor settings
