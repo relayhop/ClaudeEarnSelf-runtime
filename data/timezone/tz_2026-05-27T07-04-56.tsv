@@ -1,0 +1,16 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH	github	0.5	0	5	https://github.com/SecureBananaLabs/bug-bounty/issues/743	Low Handing Fruit Automation
+FRESH	github	2.5	0	5	https://github.com/mergeos-bounties/mergeos/pull/55	fix(frontend): reset authenticated views on logout
+FRESH	github	3.1	0	3	https://github.com/mergeos-bounties/mergeos/pull/54	Fix dashboard layout after login for responsive viewports
+FRESH	github	3.2	0	3	https://github.com/ritesh-1918/HELPDESK.AI/issues/227	chore: add .eslintrc.json for static analysis and linting
+FRESH	github	3.2	0	5	https://github.com/ritesh-1918/HELPDESK.AI/issues/226	docs: add CHANGELOG.md file
+FRESH	github	3.2	0	5	https://github.com/ritesh-1918/HELPDESK.AI/issues/225	chore: add .prettierrc configuration file
+FRESH	github	3.2	0	4	https://github.com/ritesh-1918/HELPDESK.AI/issues/224	chore: add .editorconfig file for consistent editor settings
+FRESH	github	3.2	0	5	https://github.com/ritesh-1918/HELPDESK.AI/issues/223	docs: add pull request template
+FRESH	github	3.2	0	3	https://github.com/mergeos-bounties/mergeos/pull/53	Improve login/logout modal responsive behavior
+FRESH	github	3.5	0	6	https://github.com/mergeos-bounties/mergeos/pull/52	Fix logout bug: clear session and redirect to home
+FRESH	github	4.1	0	5	https://github.com/mergeos-bounties/mergeos/pull/51	feat(notifications): add real notification center panel (rebased)
+FRESH	sn/bitcoin	4.3	0	0	https://stacker.news/items/1497099	#SovEng T-Shirt Design Contest - WIN 1M SATS!
+FRESH	github	4.8	0	5	https://github.com/mergeos-bounties/mergeos/pull/50	feat(notifications): add real notification center panel for public and logged-in users
+FRESH	sn/bitcoin	5.5	0	7	https://stacker.news/items/1497058	TABConf 8 will be the last TABConf
+FRESH	github	5.6	0	2	https://github.com/mergeos-bounties/mergeos/pull/48	feat(payment): USDT crypto payment gateway webhook (#8)
