@@ -1,0 +1,32 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	1.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1497527	Square Terminal Trainwreck - Back on Track! (and other tortured metaphors)
+6	sn/bitcoin	0.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1497558	Use the ₿ symbol - When will the madness end?
+6	sn/tech	0.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1497545	Linux users of SN: What distro you running? Are you a "ricer"?
+5	sn/bitcoin	7.2	$13	OPEN_NEED,LOW_COMP	https://stacker.news/items/1497320	Breez x Bringin: Instant Bitcoin for Europeans 🇪🇺⚡️
+4	sn/bitcoin	18.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1497099	#SovEng T-Shirt Design Contest - WIN 1M SATS!
+4	github	1.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/86	feat: add dashboard payment history after login (#18)
+3	sn/bitcoin	12.5	$75	OPEN_NEED	https://stacker.news/items/1497176	BTC vote: Do you feel bullish or bearish on Bitcoin?
+2	sn/bitcoin	19.5	-	OPEN_NEED	https://stacker.news/items/1497058	TABConf 8 will be the last TABConf
+2	github	64.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/ford442/grok_zephyr/issues/26	[Rendering] Activate Dormant Advanced Rendering Stack — TAA, PostProcessStack, Volumetric Beams, Satellite LOD
+2	github	22.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/crowdpay/issues/80	Add campaign search and filtering
+2	github	27.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/jhlauret/solar-cells-rwa/issues/8	Prompt #4 Crée maintenant : docs/frontend-spec.md
+2	github	33.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Agora-Events/agora/issues/602	Add `GET /api/v1/rates` response caching
+2	github	2.1	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/pull/85	[1000 MRG] USDT crypto payment gateway with webhook (#8)
+2	github	2.2	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/pull/84	[1500 MRG] AI project evaluation with LLM integration (#3)
+2	github	2.4	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/pull/83	[500 MRG] Fix login/logout modal responsive behavior (#13)
+2	github	2.5	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/pull/82	[2000 MRG] Frontend homepage responsive QA and layout breakage check (#11)
+2	github	2.5	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/pull/81	[2000 MRG] Fix project view after login from dashboard (#17)
+2	github	2.5	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/pull/80	[1000 MRG] Implement PayPal Sandbox payment flow (#7)
+2	github	3.8	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/pull/77	fix: show Log in button on mobile viewports under 760px
+2	github	6.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/73	feat: add dashboard payment history view (#18)
+2	github	7.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/70	fix(auth): prevent logout from getting stuck when API fails
+1	github	33.1	100 USDC	OPEN_ISSUE	https://github.com/Agora-Events/agora/issues/674	Add `ticket_payment` unit test for `set_withdrawal_cap` enforcement
+1	github	33.1	100 USDC	OPEN_ISSUE	https://github.com/Agora-Events/agora/issues/664	Add `ticket_payment` unit test for `partial_refund`
+0	github	22.0	-	OPEN_ISSUE	https://github.com/Savitura/crowdpay/issues/84	Add input validation with express-validator across all API routes
+0	github	35.5	-	OPEN_ISSUE	https://github.com/ramimbo/mergework/issues/395	MRWK bounty: current transfer and future bridge status docs
+0	github	37.7	-	OPEN_ISSUE	https://github.com/ritik4ever/stellar-stream/issues/453	Add `assetCode` filter to `GET /api/streams`
+0	github	4.3	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/pull/76	feat: add hamburger mobile navigation for responsive homepage (fixes #11)
+0	github	6.2	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/pull/74	feat(project): add project type selector to create-project flow
+0	github	6.8	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/pull/72	feat: improve create-project flow with type selection (Issue #12)
+0	github	7.2	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/pull/71	fix: logout bug leaving users stuck on broken screen (#20)
+0	github	8.6	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/pull/69	fix(auth): prevent logout from getting stuck when API fails
