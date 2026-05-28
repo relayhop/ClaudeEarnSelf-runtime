@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	18.9	$13	OPEN_NEED,LOW_COMP	https://stacker.news/items/1497320	Breez x Bringin: Instant Bitcoin for Europeans 🇪🇺⚡️
+2	sn/bitcoin	12.8	-	OPEN_NEED	https://stacker.news/items/1497527	Square Terminal Trainwreck - Back on Track! (and other tortured metaphors)
+2	sn/bitcoin	12.0	-	OPEN_NEED	https://stacker.news/items/1497558	Use the ₿ symbol - When will the madness end?
+2	sn/tech	12.3	-	OPEN_NEED	https://stacker.news/items/1497545	Linux users of SN: What distro you running? Are you a "ricer"?
+2	github	11.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellarkit-lab-devtools/stellarkit-api/issues/76	Add asset code format validator endpoint
+2	github	33.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/crowdpay/issues/80	Add campaign search and filtering
+2	github	39.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/jhlauret/solar-cells-rwa/issues/8	Prompt #4 Crée maintenant : docs/frontend-spec.md
+2	github	44.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Agora-Events/agora/issues/602	Add `GET /api/v1/rates` response caching
+1	github	44.8	100 USDC	OPEN_ISSUE	https://github.com/Agora-Events/agora/issues/674	Add `ticket_payment` unit test for `set_withdrawal_cap` enforcement
+1	github	44.8	100 USDC	OPEN_ISSUE	https://github.com/Agora-Events/agora/issues/664	Add `ticket_payment` unit test for `partial_refund`
+0	github	33.7	-	OPEN_ISSUE	https://github.com/Savitura/crowdpay/issues/84	Add input validation with express-validator across all API routes
+0	github	47.3	-	OPEN_ISSUE	https://github.com/ramimbo/mergework/issues/395	MRWK bounty: current transfer and future bridge status docs
+0	github	49.5	-	OPEN_ISSUE	https://github.com/ritik4ever/stellar-stream/issues/453	Add `assetCode` filter to `GET /api/streams`
+0	github	20.9	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/297	test : add unit tests for DuplicateService check_duplicate method
+0	github	23.1	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/279	test : add unit tests for auto_close_service.py utility
+0	github	23.5	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/issues/64	[300 MRG per PR] Test submitted PRs and verify bounty evidence
+0	github	24.7	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/276	[BUG] Frontend environment variable name mismatch (VITE_API_URL vs VITE_BACKEND_URL) prevents local development connecti
+0	github	26.0	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/254	DOCS: add a PR template for improving PR quality
+0	github	26.0	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/253	[BUG]: error in password handling in admin signup
+0	github	26.1	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/250	[Feature]: Add Scroll-to-Top Button for Improved User Navigation
+0	github	26.2	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/249	CRITICAL: Hardcoded Supabase service_role JWT exposed in Git-tracked migration files
+0	github	26.3	-	OPEN_ISSUE	https://github.com/SecureBananaLabs/bug-bounty/issues/743	Low Handing Fruit Automation
+0	github	28.9	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/227	chore: add .eslintrc.json for static analysis and linting
+0	github	28.9	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/226	docs: add CHANGELOG.md file
+0	github	28.9	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/225	chore: add .prettierrc configuration file
+0	github	28.9	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/224	chore: add .editorconfig file for consistent editor settings
+0	github	28.9	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/223	docs: add pull request template
+0	github	41.7	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/217	Chore: Setup markdownlint to enforce consistent documentation standards
