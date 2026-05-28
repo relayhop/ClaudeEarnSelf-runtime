@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	github	1.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/warpspeedopen-source/warpspeed-bounties/issues/7	[PAID BOUNTY - $660] Note Locking - Biometrics/PIN
+4	github	1.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/warpspeedopen-source/warpspeed-bounties/issues/6	[PAID BOUNTY - $660] Enhanced Image Preview
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/warpspeedopen-source/warpspeed-bounties/issues/5	[PAID BOUNTY - $660] Inline Image Editing
+4	github	3.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1032	[BOUNTY] Suggestion #864
+3	github	2.5	$330	OPEN_ISSUE	https://github.com/warpspeedopen-source/warpspeed-bounties/issues/2	[PAID BOUNTY - $330] Email Inbox Classic View Page UI
+3	github	2.6	$960	OPEN_ISSUE	https://github.com/warpspeedopen-source/warpspeed-bounties/issues/1	[PAID BOUNTY - $960] Attachment Summarizer Service
+2	sn/bitcoin	6.4	-	OPEN_NEED	https://stacker.news/items/1498047	War is Peace, Surveillance is Freedom (FT, Martin Arnold)
+2	sn/bitcoin	9.1	-	OPEN_NEED	https://stacker.news/items/1497946	We need less P2P and more H2H
+2	github	7.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/LabsCrypt/remitlend/issues/1017	[Testing] Add unit tests for frontend utils/amount.ts
+2	github	8.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellarkit-lab-devtools/stellarkit-api/issues/122	Stellar Asset Format Reference in README
+2	github	47.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/crowdpay/issues/80	Add campaign search and filtering
+2	github	52.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/jhlauret/solar-cells-rwa/issues/8	Prompt #4 Crée maintenant : docs/frontend-spec.md
+2	github	58.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Agora-Events/agora/issues/602	Add `GET /api/v1/rates` response caching
+2	github	1.0	-	OPEN_ISSUE	https://github.com/warpspeedopen-source/warpspeed-bounties/issues/9	[PAID BOUNTY - $750] Audio Note Recording
+2	github	2.4	-	OPEN_ISSUE	https://github.com/warpspeedopen-source/warpspeed-bounties/issues/4	[PAID BOUNTY - $750] Email Threads API
+2	github	2.5	-	OPEN_ISSUE	https://github.com/warpspeedopen-source/warpspeed-bounties/issues/3	[PAID BOUNTY - $440] Messenger Group Chat Poll Creation & Voting UI
+2	github	5.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/pull/121	[1000 MRG] USDT crypto payment gateway with webhook (#8) - retry CI
+1	github	58.0	100 USDC	OPEN_ISSUE	https://github.com/Agora-Events/agora/issues/674	Add `ticket_payment` unit test for `set_withdrawal_cap` enforcement
+1	github	58.0	100 USDC	OPEN_ISSUE	https://github.com/Agora-Events/agora/issues/664	Add `ticket_payment` unit test for `partial_refund`
+0	github	24.6	-	OPEN_ISSUE	https://github.com/stellarkit-lab-devtools/stellarkit-api/issues/76	Add asset code format validator endpoint
+0	github	47.0	-	OPEN_ISSUE	https://github.com/Savitura/crowdpay/issues/84	Add input validation with express-validator across all API routes
+0	github	60.5	-	OPEN_ISSUE	https://github.com/ramimbo/mergework/issues/395	MRWK bounty: current transfer and future bridge status docs
+0	github	62.7	-	OPEN_ISSUE	https://github.com/ritik4ever/stellar-stream/issues/453	Add `assetCode` filter to `GET /api/streams`
+0	github	11.7	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/pull/118	fix: dashboard layout after login — responsive QA pass (fixes #16)
+0	github	12.9	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/pull/117	feat: AI-powered project price evaluation using LLM (#3)
+0	github	34.1	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/297	test : add unit tests for DuplicateService check_duplicate method
+0	github	36.3	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/279	test : add unit tests for auto_close_service.py utility
+0	github	36.7	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/issues/64	[300 MRG per PR] Test submitted PRs and verify bounty evidence
