@@ -1,0 +1,31 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	3.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1498498	Would transaction labels make bitcoin bookkeeping & tax reporting less painful?
+4	sn/bitcoin	4.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1498479	Stablecoins are now available on Cash App
+4	sn/bitcoin	13.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1498328	Dog Park - Privacy in Bark
+3	github	9.4	01 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/18510139999/agentmesh/issues/1	AgentMesh Quick Start Guide — Register, Call API, Earn Commissions
+2	sn/bitcoin	20.2	-	OPEN_NEED	https://stacker.news/items/1498047	War is Peace, Surveillance is Freedom (FT, Martin Arnold)
+2	sn/bitcoin	22.9	-	OPEN_NEED	https://stacker.news/items/1497946	We need less P2P and more H2H
+2	github	22.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellarkit-lab-devtools/stellarkit-api/issues/122	Stellar Asset Format Reference in README
+2	github	60.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/crowdpay/issues/80	Add campaign search and filtering
+2	github	66.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/jhlauret/solar-cells-rwa/issues/8	Prompt #4 Crée maintenant : docs/frontend-spec.md
+2	github	71.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Agora-Events/agora/issues/602	Add `GET /api/v1/rates` response caching
+2	github	6.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/SecureBananaLabs/bug-bounty/issues/1426	fix: prevent admin role self-assignment
+2	github	9.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/mergeos/issues/141	[5000 MRG] Build public test-mode Publish Settings for database-backed integration keys
+2	github	11.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Arrow-air/website/issues/167	Test Bounty
+1	github	71.8	100 USDC	OPEN_ISSUE	https://github.com/Agora-Events/agora/issues/674	Add `ticket_payment` unit test for `set_withdrawal_cap` enforcement
+1	github	71.8	100 USDC	OPEN_ISSUE	https://github.com/Agora-Events/agora/issues/664	Add `ticket_payment` unit test for `partial_refund`
+1	github	16.3	$330	OPEN_ISSUE	https://github.com/warpspeedopen-source/warpspeed-bounties/issues/2	[PAID BOUNTY - $330] Email Inbox Classic View Page UI
+1	github	16.4	$960	OPEN_ISSUE	https://github.com/warpspeedopen-source/warpspeed-bounties/issues/1	[PAID BOUNTY - $960] Attachment Summarizer Service
+0	github	21.2	-	OPEN_ISSUE	https://github.com/LabsCrypt/remitlend/issues/1017	[Testing] Add unit tests for frontend utils/amount.ts
+0	github	38.4	-	OPEN_ISSUE	https://github.com/stellarkit-lab-devtools/stellarkit-api/issues/76	Add asset code format validator endpoint
+0	github	60.8	-	OPEN_ISSUE	https://github.com/Savitura/crowdpay/issues/84	Add input validation with express-validator across all API routes
+0	github	5.1	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/pull/146	feat: implement notification center with read/unread state and mark-as-read
+0	github	5.3	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/pull/145	[1000 MRG] Implement PayPal Sandbox payment flow (#7)
+0	github	5.6	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/pull/144	feat: implement strict USDT crypto payment gateway webhook (Fixes #8)
+0	github	14.5	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/pull/137	fix: login/logout modal responsive behavior (fixes #13)
+0	github	14.8	-	OPEN_ISSUE	https://github.com/warpspeedopen-source/warpspeed-bounties/issues/9	[PAID BOUNTY - $750] Audio Note Recording
+0	github	14.9	-	OPEN_ISSUE	https://github.com/warpspeedopen-source/warpspeed-bounties/issues/7	[PAID BOUNTY - $660] Note Locking - Biometrics/PIN
+0	github	14.9	-	OPEN_ISSUE	https://github.com/warpspeedopen-source/warpspeed-bounties/issues/6	[PAID BOUNTY - $660] Enhanced Image Preview
+0	github	16.1	-	OPEN_ISSUE	https://github.com/warpspeedopen-source/warpspeed-bounties/issues/5	[PAID BOUNTY - $660] Inline Image Editing
+0	github	16.2	-	OPEN_ISSUE	https://github.com/warpspeedopen-source/warpspeed-bounties/issues/4	[PAID BOUNTY - $750] Email Threads API
+0	github	16.3	-	OPEN_ISSUE	https://github.com/warpspeedopen-source/warpspeed-bounties/issues/3	[PAID BOUNTY - $440] Messenger Group Chat Poll Creation & Voting UI
