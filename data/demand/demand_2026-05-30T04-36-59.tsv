@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	21.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1498479	Stablecoins are now available on Cash App
+4	sn/bitcoin	19.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1498498	Would transaction labels make bitcoin bookkeeping & tax reporting less painful?
+3	github	26.1	01 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/18510139999/agentmesh/issues/1	AgentMesh Quick Start Guide — Register, Call API, Earn Commissions
+2	github	11.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/LabsCrypt/flowfi/issues/552	[Frontend] Create-stream token select offers unsupported FLOW and omits supported EURC
+2	github	8.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/tenstorrent/tt-metal/issues/45607	[Bounty $5000] Optimise exp(x) for fp32
+2	github	9.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/641	[BOUNTY] [level:intermediate] Build Interactive Swagger API Documentation Theme and Comprehensive Postman Collection
+2	github	9.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/635	[BOUNTY] [level:critical] Implement Full E2E Cypress Test Suite for Admin Settings and Auto-Close Notification Workflows
+2	github	9.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/634	[BOUNTY] [level:critical] Vectorize Sentence-Transformers Cosine Similarity Computations with NumPy and ONNX Runtime
+2	github	13.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/610	Feature Request: Automated Tenant Isolation Security Audit Framework
+2	github	13.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/609	Feature Request: AI-Powered SLA Breach Prediction Engine
+0	github	37.9	-	OPEN_ISSUE	https://github.com/LabsCrypt/remitlend/issues/1017	[Testing] Add unit tests for frontend utils/amount.ts
+0	github	39.5	-	OPEN_ISSUE	https://github.com/stellarkit-lab-devtools/stellarkit-api/issues/122	Stellar Asset Format Reference in README
+0	github	55.2	-	OPEN_ISSUE	https://github.com/stellarkit-lab-devtools/stellarkit-api/issues/76	Add asset code format validator endpoint
+0	github	9.4	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/642	[BOUNTY] [level:intermediate] Fix Ticket Timeline Date Parsing Discrepancies on Older Safari Web Browsers
+0	github	9.4	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/640	[BOUNTY] [level:intermediate] Add Interactive Keyboard Shortcuts for Rapid Admin Dashboard Navigation
+0	github	9.4	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/639	[BOUNTY] [level:advanced] Refactor React State Managers to Centralize LocalStorage Sync and Error Boundaries
+0	github	9.4	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/638	[BOUNTY] [level:advanced] Implement Lazy Image Loading and Route Chunking for Faster Web App Initial Load
+0	github	9.4	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/637	[BOUNTY] [level:advanced] Standardize Helmet.js Security Headers and CORS Policy Restrictions for Production Deployments
+0	github	9.4	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/636	[BOUNTY] [level:critical] Build Automated Prometheus Metrics and Grafana Dashboard Manifests for FastAPI Backend Monitor
+0	github	9.4	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/632	[BOUNTY] [level:critical] Implement AES-256 GCM Payload Encryption and PII Redaction for Supabase Database Backups
+0	github	10.1	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/624	Enhance About Page with Interactive Product Storytelling, Team Vision, and Trust Indicators
+0	github	13.0	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/611	Feature Request: AI-Powered Knowledge Gap Detection Engine
