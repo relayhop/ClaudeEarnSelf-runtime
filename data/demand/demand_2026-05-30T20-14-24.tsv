@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	github	2.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/0xdungki/arc-yield-agent/issues/2	Add --json output mode to scripts/status.js
+3	sn/bitcoin	7.4	000 sats	OPEN_NEED	https://stacker.news/items/1499235	BTC vote: Do you support the U.S. pausing arms sales to Taiwan?
+3	github	41.8	01 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/18510139999/agentmesh/issues/1	AgentMesh Quick Start Guide — Register, Call API, Earn Commissions
+2	github	27.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/LabsCrypt/flowfi/issues/552	[Frontend] Create-stream token select offers unsupported FLOW and omits supported EURC
+2	github	11.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/45	[radar] SN open bounty 2026-05-30T08:38
+2	github	15.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/SecureBananaLabs/bug-bounty/issues/1810	Settings page should provide actionable account controls
+2	github	15.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/SecureBananaLabs/bug-bounty/issues/1795	Settings page should provide actionable account controls
+2	github	16.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/SecureBananaLabs/bug-bounty/issues/1783	fix: enforce authentication on job creation endpoint
+2	github	16.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/SecureBananaLabs/bug-bounty/issues/1781	fix: prevent DoS on search endpoint via query length limit and input validation
+2	github	16.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/SecureBananaLabs/bug-bounty/issues/1779	Patch PostCSS audit advisory from Next dependency lockfile
+2	github	17.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/SecureBananaLabs/bug-bounty/issues/1777	Search endpoint has no input validation or length limit on query
+2	github	17.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/SecureBananaLabs/bug-bounty/issues/1776	Job creation endpoint lacks authentication — anyone can post jobs
+2	github	17.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/SecureBananaLabs/bug-bounty/issues/1775	Refresh token endpoint ignores the provided refresh token
+2	github	17.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/SecureBananaLabs/bug-bounty/issues/1774	CORS configured with no origin restrictions — allows any domain
+2	github	17.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/SecureBananaLabs/bug-bounty/issues/1773	User creation endpoint has no input validation
+2	github	17.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/SecureBananaLabs/bug-bounty/issues/1772	Payment endpoint lacks authentication — unauthenticated payment creation
+2	github	17.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/SecureBananaLabs/bug-bounty/issues/1771	Upload endpoint lacks authentication — unauthenticated file uploads allowed
+0	github	53.6	-	OPEN_ISSUE	https://github.com/LabsCrypt/remitlend/issues/1017	[Testing] Add unit tests for frontend utils/amount.ts
+0	github	55.1	-	OPEN_ISSUE	https://github.com/stellarkit-lab-devtools/stellarkit-api/issues/122	Stellar Asset Format Reference in README
+0	github	70.8	-	OPEN_ISSUE	https://github.com/stellarkit-lab-devtools/stellarkit-api/issues/76	Add asset code format validator endpoint
+0	github	14.7	-	OPEN_ISSUE	https://github.com/SecureBananaLabs/bug-bounty/issues/1823	Bug: Admin role self-assignment via registration endpoint
+0	github	16.7	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/pull/152	fix(auth): correct logout state clearing sequence
