@@ -1,0 +1,7 @@
+# score	source	age_h	payout_hint	tags	url	title
+7	sn/bitcoin	1.4	000 sats	OPEN_NEED,LOW_COMP	https://stacker.news/items/1499235	BTC vote: Do you support the U.S. pausing arms sales to Taiwan?
+3	github	35.8	01 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/18510139999/agentmesh/issues/1	AgentMesh Quick Start Guide — Register, Call API, Earn Commissions
+2	github	21.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/LabsCrypt/flowfi/issues/552	[Frontend] Create-stream token select offers unsupported FLOW and omits supported EURC
+0	github	47.6	-	OPEN_ISSUE	https://github.com/LabsCrypt/remitlend/issues/1017	[Testing] Add unit tests for frontend utils/amount.ts
+0	github	49.1	-	OPEN_ISSUE	https://github.com/stellarkit-lab-devtools/stellarkit-api/issues/122	Stellar Asset Format Reference in README
+0	github	64.8	-	OPEN_ISSUE	https://github.com/stellarkit-lab-devtools/stellarkit-api/issues/76	Add asset code format validator endpoint
