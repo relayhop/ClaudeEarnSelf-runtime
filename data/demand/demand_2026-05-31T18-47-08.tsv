@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	2.4	-	OPEN_NEED	https://stacker.news/items/1499888	My Thoughts on Security, Decentralization, and Convenience
+4	sn/tech	20.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1499529	The Last Technical Interview - Steve Yegge
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/tommycet/proofworks-genlayer/issues/13	Add DEMO.md describing the live demo flow
+3	github	64.3	01 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/18510139999/agentmesh/issues/1	AgentMesh Quick Start Guide — Register, Call API, Earn Commissions
+2	sn/bitcoin	4.7	-	OPEN_NEED	https://stacker.news/items/1499821	Sunday Survey: When will NAKA sell BTC?
+2	github	18.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/teethaking/GrantStream/issues/1	feat: Solidity escrow contract implementation
+2	github	25.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/0xdungki/arc-yield-agent/issues/2	Add --json output mode to scripts/status.js
+2	github	49.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/LabsCrypt/flowfi/issues/552	[Frontend] Create-stream token select offers unsupported FLOW and omits supported EURC
+2	github	6.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/SecureBananaLabs/bug-bounty/issues/2850	upload endpoint accepts empty file submissions as successful uploads
+2	github	6.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/SecureBananaLabs/bug-bounty/issues/2849	Freelancer profile route should resolve mock profiles by username
+2	github	6.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/SecureBananaLabs/bug-bounty/issues/2847	auth refresh endpoint issues tokens without verifying the requester
+2	github	6.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/SecureBananaLabs/bug-bounty/issues/2845	registerUser access token can reference a different user id
+2	github	7.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/SecureBananaLabs/bug-bounty/issues/2835	Reject inverted job budget ranges in job validation
+2	github	7.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/SecureBananaLabs/bug-bounty/issues/2833	Search endpoint has no input validation or length limit on query
+2	github	7.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/SecureBananaLabs/bug-bounty/issues/2832	fix: prevent admin role self-assignment during registration
+2	github	7.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/SecureBananaLabs/bug-bounty/issues/2827	Reject inverted job budget ranges in job validation
+2	github	8.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/SecureBananaLabs/bug-bounty/issues/2822	Settings page should provide actionable account controls
+2	github	8.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/SecureBananaLabs/bug-bounty/issues/2790	Job detail route should resolve mock jobs by id (reissue via #743)
+2	github	8.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/SecureBananaLabs/bug-bounty/issues/2787	@freelanceflow/ui package entrypoint should be directly importable (reissue via #743)
+1	github	5.8	$1200	OPEN_ISSUE	https://github.com/SecureBananaLabs/bug-bounty/issues/2883	Calculate the exact value of PI #2872
+0	github	5.8	-	OPEN_ISSUE	https://github.com/SecureBananaLabs/bug-bounty/issues/2885	Calculate the exact value of PI
+0	github	6.0	-	OPEN_ISSUE	https://github.com/SecureBananaLabs/bug-bounty/issues/2853	Job validation should reject inverted budget ranges
