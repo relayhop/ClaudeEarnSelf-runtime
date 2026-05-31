@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/tech	23.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1499529	The Last Technical Interview - Steve Yegge
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/917	[BOUNTY] [level:intermediate] test : add unit tests for supabase utilities
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/916	[BOUNTY] [level:intermediate] test : add unit tests for classifier_service
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/915	[BOUNTY] [level:intermediate] test : add unit tests for translation_service
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/914	[BOUNTY] [level:intermediate] [FEATURE] SLA Breach Real-Time Escalation Engine — Automated Alert + Team Re-Routing When 
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/913	[BOUNTY] [level:intermediate] [BUG] Auto-Resolve Toggle in Admin Settings Has No Effect — Backend Always Defaults to Dis
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/912	[BOUNTY] [level:intermediate] Fix Ticket Timeline Date Parsing Discrepancies on Older Safari Web Browsers
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/911	[BOUNTY] [level:intermediate] Add Interactive Keyboard Shortcuts for Rapid Admin Dashboard Navigation
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/910	[BOUNTY] [level:intermediate] Build Interactive Swagger API Documentation Theme and Comprehensive Postman Collection
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/909	[BOUNTY] [level:critical] Authorization bypass via client-side persisted profile cache in authStore
+4	github	1.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/908	[BOUNTY] [level:critical] Hardcoded Supabase anon key in MobileApp source enables programmatic DB access and prevents ke
+4	github	1.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/907	[BOUNTY] [level:critical] [BUG] Backend CI smoke test fails — Python import of FastAPI app exits with code 1
+4	github	1.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/906	[BOUNTY] [level:critical] Race Condition in Duplicate Detection Service Causes Data Loss and Inconsistent State
+4	github	1.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/905	[BOUNTY] [level:critical] [Performance] No rate limiting on AI/ML inference endpoints enabling resource exhaustion
+4	github	1.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/904	[BOUNTY] [level:critical] [Accessibility] Missing ARIA roles and labels on the ticket management interface
+4	github	1.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/903	[BOUNTY] [level:critical] Implement Secure Cryptographic AES-256 Encryption for PII fields in Ticket Database
+3	github	67.1	01 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/18510139999/agentmesh/issues/1	AgentMesh Quick Start Guide — Register, Call API, Earn Commissions
+2	sn/bitcoin	5.3	-	OPEN_NEED	https://stacker.news/items/1499888	My Thoughts on Security, Decentralization, and Convenience
+2	sn/bitcoin	7.5	-	OPEN_NEED	https://stacker.news/items/1499821	Sunday Survey: When will NAKA sell BTC?
+2	github	20.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/teethaking/GrantStream/issues/1	feat: Solidity escrow contract implementation
+2	github	28.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/0xdungki/arc-yield-agent/issues/2	Add --json output mode to scripts/status.js
+2	github	52.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/LabsCrypt/flowfi/issues/552	[Frontend] Create-stream token select offers unsupported FLOW and omits supported EURC
