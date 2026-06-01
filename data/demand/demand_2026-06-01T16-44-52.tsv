@@ -1,0 +1,26 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	1.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1500396	Least favorite BIP39 words?
+5	sn/bitcoin	2.7	$38	OPEN_NEED	https://stacker.news/items/1500336	[HM] A History of Heatpunkery - Where can I get a bitcoin miner water heater?
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/LabsCrypt/flowfi/issues/655	[Frontend] Stream detail page TOKEN_SYMBOLS map is incomplete (missing FLOW) and stale
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/LabsCrypt/flowfi/issues/613	[Docs] HowItWorks.tsx says 'We support ETH, USDC, and 100+ ERC-20s' — wrong chain family
+3	github	18.6	$10	OPEN_ISSUE,LOW_COMP	https://github.com/commaai/opendbc/issues/3426	[$10k bounty] Ford F-150 2026 (TRON) support
+2	sn/bitcoin	6.2	-	OPEN_NEED	https://stacker.news/items/1500255	P2P Billpay
+2	sn/bitcoin	18.7	-	OPEN_NEED	https://stacker.news/items/1500083	What's primarily holding back Bitcoin today from adoption?
+2	github	39.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/teethaking/GrantStream/issues/1	feat: Solidity escrow contract implementation
+2	github	47.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/0xdungki/arc-yield-agent/issues/2	Add --json output mode to scripts/status.js
+2	github	11.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/tommycet/proofworks-genlayer/issues/26	Add CONTRIBUTING.md with three core sections
+2	github	20.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/914	[BOUNTY] [level:intermediate] [FEATURE] SLA Breach Real-Time Escalation Engine — Automated Alert + Team Re-Routing When 
+2	github	20.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/911	[BOUNTY] [level:intermediate] Add Interactive Keyboard Shortcuts for Rapid Admin Dashboard Navigation
+2	github	20.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/909	[BOUNTY] [level:critical] Authorization bypass via client-side persisted profile cache in authStore
+2	github	20.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/908	[BOUNTY] [level:critical] Hardcoded Supabase anon key in MobileApp source enables programmatic DB access and prevents ke
+2	github	20.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/907	[BOUNTY] [level:critical] [BUG] Backend CI smoke test fails — Python import of FastAPI app exits with code 1
+2	github	20.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/906	[BOUNTY] [level:critical] Race Condition in Duplicate Detection Service Causes Data Loss and Inconsistent State
+2	github	20.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/905	[BOUNTY] [level:critical] [Performance] No rate limiting on AI/ML inference endpoints enabling resource exhaustion
+0	github	7.4	-	OPEN_ISSUE	https://github.com/Savitura/crowdpay/issues/160	Create backend .env.example — no template exists for environment setup
+0	github	71.6	-	OPEN_ISSUE	https://github.com/LabsCrypt/flowfi/issues/552	[Frontend] Create-stream token select offers unsupported FLOW and omits supported EURC
+0	github	20.6	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/917	[BOUNTY] [level:intermediate] test : add unit tests for supabase utilities
+0	github	20.6	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/916	[BOUNTY] [level:intermediate] test : add unit tests for classifier_service
+0	github	20.6	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/915	[BOUNTY] [level:intermediate] test : add unit tests for translation_service
+0	github	20.6	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/913	[BOUNTY] [level:intermediate] [BUG] Auto-Resolve Toggle in Admin Settings Has No Effect — Backend Always Defaults to Dis
+0	github	20.6	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/912	[BOUNTY] [level:intermediate] Fix Ticket Timeline Date Parsing Discrepancies on Older Safari Web Browsers
+0	github	20.6	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/910	[BOUNTY] [level:intermediate] Build Interactive Swagger API Documentation Theme and Comprehensive Postman Collection
