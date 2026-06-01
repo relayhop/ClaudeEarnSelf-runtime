@@ -1,0 +1,8 @@
+# score	source	age_h	payout_hint	tags	url	title
+2	sn/bitcoin	18.6	-	OPEN_NEED	https://stacker.news/items/1499888	My Thoughts on Security, Decentralization, and Convenience
+2	sn/bitcoin	12.9	-	OPEN_NEED	https://stacker.news/items/1500083	What's primarily holding back Bitcoin today from adoption?
+2	sn/bitcoin	20.8	-	OPEN_NEED	https://stacker.news/items/1499821	Sunday Survey: When will NAKA sell BTC?
+2	github	1.6	-	OPEN_ISSUE	https://github.com/Savitura/crowdpay/issues/160	Create backend .env.example — no template exists for environment setup
+2	github	34.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/teethaking/GrantStream/issues/1	feat: Solidity escrow contract implementation
+2	github	41.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/0xdungki/arc-yield-agent/issues/2	Add --json output mode to scripts/status.js
+2	github	65.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/LabsCrypt/flowfi/issues/552	[Frontend] Create-stream token select offers unsupported FLOW and omits supported EURC
