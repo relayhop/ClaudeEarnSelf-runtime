@@ -1,0 +1,26 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	3.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1501167	ECDSA.fail - can you break ECDSA?
+6	sn/tech	3.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1501167	ECDSA.fail - can you break ECDSA?
+5	sn/bitcoin	3.1	$1	OPEN_NEED	https://stacker.news/items/1501189	Mint your own Casascius style bitcoin with $1 NFC tags, new FOSS bitcoin project
+4	sn/bitcoin	4.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1501134	Solving Bitcoin's Biggest Problem through Human-to-Human Communication
+4	sn/bitcoin	2.4	-	OPEN_NEED	https://stacker.news/items/1501227	Does bitcoin have to 'go up' to be a good currency?
+4	sn/bitcoin	9.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1500952	📃 What Would Be The Best Update For This List?
+2	github	31.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/LabsCrypt/flowfi/issues/613	[Docs] HowItWorks.tsx says 'We support ETH, USDC, and 100+ ERC-20s' — wrong chain family
+2	github	70.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/teethaking/GrantStream/issues/1	feat: Solidity escrow contract implementation
+2	github	5.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1411	[BOUNTY] [level:intermediate] Fix Ticket Timeline Date Parsing Discrepancies on Older Safari Web Browsers
+2	github	5.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1410	[BOUNTY] [level:intermediate] Build Interactive Swagger API Documentation Theme and Comprehensive Postman Collection
+2	github	5.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1409	[BOUNTY] [level:intermediate] Add Interactive Keyboard Shortcuts for Rapid Admin Dashboard Navigation
+2	github	5.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1408	[BOUNTY] [level:advanced] Refactor React State Managers to Centralize LocalStorage Sync and Error Boundaries
+2	github	5.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1407	[BOUNTY] [level:advanced] Implement Lazy Image Loading and Route Chunking for Faster Web App Initial Load
+2	github	5.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1406	[BOUNTY] [level:advanced] Standardize Helmet.js Security Headers and CORS Policy Restrictions for Production Deployments
+2	github	5.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1405	[BOUNTY] [level:critical] Build Automated Prometheus Metrics and Grafana Dashboard Manifests for FastAPI Backend Monitor
+2	github	5.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1404	[BOUNTY] [level:critical] Implement Full E2E Cypress Test Suite for Admin Settings and Auto-Close Notification Workflows
+2	github	5.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1403	[BOUNTY] [level:critical] Vectorize Sentence-Transformers Cosine Similarity Computations with NumPy and ONNX Runtime
+2	github	5.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1402	[BOUNTY] [level:critical] Implement AES-256 GCM Payload Encryption and PII Redaction for Supabase Database Backups
+2	github	5.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1401	Hardcoded Supabase anon key in MobileApp source enables programmatic DB access and prevents key rotation (Refreshed)
+2	github	5.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1400	[Feature] Add Ticket Export to PDF and CSV for Admin Dashboard (Refreshed)
+2	github	5.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1399	SECURITY/BUG: Environment .env Files with Secrets Committed to Repository (Refreshed)
+2	github	5.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1398	[FEATURE] Create a dedicated About Us page (Refreshed)
+2	github	5.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1397	Chore: Add standard SECURITY.md policy file (Refreshed)
+0	github	30.9	-	OPEN_ISSUE	https://github.com/LabsCrypt/flowfi/issues/655	[Frontend] Stream detail page TOKEN_SYMBOLS map is incomplete (missing FLOW) and stale
+0	github	37.9	-	OPEN_ISSUE	https://github.com/Savitura/crowdpay/issues/160	Create backend .env.example — no template exists for environment setup
