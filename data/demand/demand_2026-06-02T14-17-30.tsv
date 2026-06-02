@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+2	sn/bitcoin	20.3	-	OPEN_NEED	https://stacker.news/items/1500520	I built a browser game that pays you sats – try it, no signup needed
+2	sn/bitcoin	22.5	-	OPEN_NEED	https://stacker.news/items/1500396	Least favorite BIP39 words?
+2	github	22.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/LabsCrypt/flowfi/issues/613	[Docs] HowItWorks.tsx says 'We support ETH, USDC, and 100+ ERC-20s' — wrong chain family
+2	github	61.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/teethaking/GrantStream/issues/1	feat: Solidity escrow contract implementation
+2	github	68.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/0xdungki/arc-yield-agent/issues/2	Add --json output mode to scripts/status.js
+2	github	18.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1160	Test: Add unit tests for dateUtils.js formatTimelineDate function (Refreshed)
+0	github	21.9	-	OPEN_ISSUE	https://github.com/LabsCrypt/flowfi/issues/655	[Frontend] Stream detail page TOKEN_SYMBOLS map is incomplete (missing FLOW) and stale
+0	github	28.9	-	OPEN_ISSUE	https://github.com/Savitura/crowdpay/issues/160	Create backend .env.example — no template exists for environment setup
+0	github	18.4	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1174	[BOUNTY] [level:intermediate] Fix Ticket Timeline Date Parsing Discrepancies on Older Safari Web Browsers
+0	github	18.4	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1173	[BOUNTY] [level:intermediate] Build Interactive Swagger API Documentation Theme and Comprehensive Postman Collection
+0	github	18.4	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1172	[BOUNTY] [level:intermediate] Add Interactive Keyboard Shortcuts for Rapid Admin Dashboard Navigation
+0	github	18.4	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1171	[BOUNTY] [level:advanced] Refactor React State Managers to Centralize LocalStorage Sync and Error Boundaries
+0	github	18.4	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1170	[BOUNTY] [level:advanced] Implement Lazy Image Loading and Route Chunking for Faster Web App Initial Load
+0	github	18.5	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1169	[BOUNTY] [level:advanced] Standardize Helmet.js Security Headers and CORS Policy Restrictions for Production Deployments
+0	github	18.5	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1168	[BOUNTY] [level:critical] Build Automated Prometheus Metrics and Grafana Dashboard Manifests for FastAPI Backend Monitor
+0	github	18.5	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1167	[BOUNTY] [level:critical] Implement Full E2E Cypress Test Suite for Admin Settings and Auto-Close Notification Workflows
+0	github	18.5	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1166	[BOUNTY] [level:critical] Vectorize Sentence-Transformers Cosine Similarity Computations with NumPy and ONNX Runtime
+0	github	18.5	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1165	[BOUNTY] [level:critical] Implement AES-256 GCM Payload Encryption and PII Redaction for Supabase Database Backups
+0	github	18.5	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1164	Feature: Implement Redis caching for database queries in HELPDESK.AI (Refreshed)
+0	github	18.5	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1163	Feature: Set up automated unit and integration test suite for HELPDESK.AI core controllers (Refreshed)
+0	github	18.5	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1162	test : add unit tests for notification_routing should_send methods (Refreshed)
+0	github	18.5	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1161	Test: Add unit tests for formatTicketId utility function (Refreshed)
