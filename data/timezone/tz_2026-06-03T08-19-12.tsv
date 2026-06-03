@@ -1,0 +1,17 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH	github	1.8	0	2	https://github.com/xevrion-v2/agent-playground/issues/33	Bug Bounty Program — How to Participate
+FRESH	github	2.4	0	2	https://github.com/xevrion-v2/agent-playground/issues/17	Calculate the exact value of PI
+FRESH	github	2.5	0	2	https://github.com/xevrion-v2/agent-playground/issues/14	Improve PI calculation accuracy
+FRESH	github	2.5	0	5	https://github.com/xevrion-v2/agent-playground/issues/15	Implement infinite sequence iterator
+FRESH	github	2.5	0	1	https://github.com/xevrion-v2/agent-playground/issues/11	Write unit tests for leaderboard updates
+FRESH	github	2.5	0	2	https://github.com/xevrion-v2/agent-playground/issues/12	Write unit tests for user routes
+FRESH	github	2.5	0	2	https://github.com/xevrion-v2/agent-playground/issues/13	Write unit tests for UI Button stub
+FRESH	github	2.5	0	3	https://github.com/xevrion-v2/agent-playground/issues/10	Improve API route TODO coverage
+FRESH	github	2.5	0	3	https://github.com/xevrion-v2/agent-playground/issues/9	Add request body size limit
+FRESH	github	2.5	0	1	https://github.com/xevrion-v2/agent-playground/issues/8	Normalize health check response shape
+FRESH	github	2.5	0	2	https://github.com/xevrion-v2/agent-playground/issues/7	Add API error handling helper
+FRESH	github	2.5	0	1	https://github.com/xevrion-v2/agent-playground/issues/6	Add input validation to user routes
+FRESH	github	2.5	0	1	https://github.com/xevrion-v2/agent-playground/issues/3	Add type annotations to shared Button props
+FRESH	github	2.5	0	2	https://github.com/xevrion-v2/agent-playground/issues/4	Document environment variables
+FRESH	github	2.5	0	1	https://github.com/xevrion-v2/agent-playground/issues/5	Improve Prisma schema comments
+FRESH	sn/bitcoin	6.0	0	2	https://stacker.news/items/1501409	Tetrapolar - Bitcoin-Native Settlement for Global Trade
