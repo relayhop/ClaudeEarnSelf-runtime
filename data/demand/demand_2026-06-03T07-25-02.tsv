@@ -1,0 +1,26 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	0.9	$50	OPEN_ISSUE,LOW_COMP	https://github.com/xevrion-v2/agent-playground/issues/33	Bug Bounty Program — How to Participate
+5	github	1.6	$50	OPEN_ISSUE,LOW_COMP	https://github.com/xevrion-v2/agent-playground/issues/14	Improve PI calculation accuracy
+5	github	1.6	$50	OPEN_ISSUE,LOW_COMP	https://github.com/xevrion-v2/agent-playground/issues/11	Write unit tests for leaderboard updates
+5	github	1.6	$50	OPEN_ISSUE,LOW_COMP	https://github.com/xevrion-v2/agent-playground/issues/12	Write unit tests for user routes
+5	github	1.6	$50	OPEN_ISSUE,LOW_COMP	https://github.com/xevrion-v2/agent-playground/issues/13	Write unit tests for UI Button stub
+5	github	1.6	$50	OPEN_ISSUE,LOW_COMP	https://github.com/xevrion-v2/agent-playground/issues/10	Improve API route TODO coverage
+5	github	1.6	$50	OPEN_ISSUE,LOW_COMP	https://github.com/xevrion-v2/agent-playground/issues/8	Normalize health check response shape
+5	github	1.6	$50	OPEN_ISSUE,LOW_COMP	https://github.com/xevrion-v2/agent-playground/issues/6	Add input validation to user routes
+5	github	1.6	$50	OPEN_ISSUE,LOW_COMP	https://github.com/xevrion-v2/agent-playground/issues/7	Add API error handling helper
+5	github	1.6	$50	OPEN_ISSUE,LOW_COMP	https://github.com/xevrion-v2/agent-playground/issues/3	Add type annotations to shared Button props
+5	github	1.6	$50	OPEN_ISSUE,LOW_COMP	https://github.com/xevrion-v2/agent-playground/issues/5	Improve Prisma schema comments
+5	github	1.6	$50	OPEN_ISSUE,LOW_COMP	https://github.com/xevrion-v2/agent-playground/issues/4	Document environment variables
+4	sn/bitcoin	5.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1501409	Tetrapolar - Bitcoin-Native Settlement for Global Trade
+4	sn/bitcoin	11.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1501167	ECDSA.fail - can you break ECDSA?
+4	sn/tech	11.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1501167	ECDSA.fail - can you break ECDSA?
+4	github	1.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/xevrion-v2/agent-playground/issues/17	Calculate the exact value of PI
+3	sn/bitcoin	11.2	$1	OPEN_NEED	https://stacker.news/items/1501189	Mint your own Casascius style bitcoin with $1 NFC tags, new FOSS bitcoin project
+3	github	1.6	$50	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/15	Implement infinite sequence iterator
+3	github	1.6	$50	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/9	Add request body size limit
+2	sn/bitcoin	10.5	-	OPEN_NEED	https://stacker.news/items/1501227	Does bitcoin have to 'go up' to be a good currency?
+2	sn/bitcoin	12.8	-	OPEN_NEED	https://stacker.news/items/1501134	Solving Bitcoin's Biggest Problem through Human-to-Human Communication
+2	sn/bitcoin	17.1	-	OPEN_NEED	https://stacker.news/items/1500952	📃 What Would Be The Best Update For This List?
+2	github	39.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/LabsCrypt/flowfi/issues/613	[Docs] HowItWorks.tsx says 'We support ETH, USDC, and 100+ ERC-20s' — wrong chain family
+0	github	39.1	-	OPEN_ISSUE	https://github.com/LabsCrypt/flowfi/issues/655	[Frontend] Stream detail page TOKEN_SYMBOLS map is incomplete (missing FLOW) and stale
+0	github	46.1	-	OPEN_ISSUE	https://github.com/Savitura/crowdpay/issues/160	Create backend .env.example — no template exists for environment setup
