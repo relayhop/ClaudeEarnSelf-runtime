@@ -1,0 +1,13 @@
+# score	source	age_h	payout_hint	tags	url	title
+7	sn/bitcoin	0.1	000 sats	OPEN_NEED,LOW_COMP	https://stacker.news/items/1501746	BTC vote: Do you miss Gary Gensler?
+4	sn/bitcoin	15.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1501409	Tetrapolar - Bitcoin-Native Settlement for Global Trade
+4	sn/bitcoin	22.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1501167	ECDSA.fail - can you break ECDSA?
+4	sn/tech	22.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1501167	ECDSA.fail - can you break ECDSA?
+3	sn/bitcoin	21.3	$1	OPEN_NEED	https://stacker.news/items/1501189	Mint your own Casascius style bitcoin with $1 NFC tags, new FOSS bitcoin project
+2	sn/bitcoin	5.9	-	OPEN_NEED	https://stacker.news/items/1501563	Trezor says your crypto is safe after Ledger audit exposes a hardware flaw
+2	sn/bitcoin	20.6	-	OPEN_NEED	https://stacker.news/items/1501227	Does bitcoin have to 'go up' to be a good currency?
+2	sn/bitcoin	22.9	-	OPEN_NEED	https://stacker.news/items/1501134	Solving Bitcoin's Biggest Problem through Human-to-Human Communication
+2	sn/tech	5.9	-	OPEN_NEED	https://stacker.news/items/1501563	Trezor says your crypto is safe after Ledger audit exposes a hardware flaw
+2	github	49.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/LabsCrypt/flowfi/issues/613	[Docs] HowItWorks.tsx says 'We support ETH, USDC, and 100+ ERC-20s' — wrong chain family
+0	github	49.2	-	OPEN_ISSUE	https://github.com/LabsCrypt/flowfi/issues/655	[Frontend] Stream detail page TOKEN_SYMBOLS map is incomplete (missing FLOW) and stale
+0	github	56.2	-	OPEN_ISSUE	https://github.com/Savitura/crowdpay/issues/160	Create backend .env.example — no template exists for environment setup
