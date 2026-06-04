@@ -1,0 +1,24 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	4.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1502040	Wallet of Satoshi teasing stablecoins?
+3	sn/bitcoin	10.8	$6.7	OPEN_NEED	https://stacker.news/items/1501858	What the heck is digital credit?
+3	sn/bitcoin	10.3	$5.02	OPEN_NEED	https://stacker.news/items/1501869	[HM] - The Finnish Kid Nobody Remembers
+2	sn/bitcoin	19.5	-	OPEN_NEED	https://stacker.news/items/1501563	Trezor says your crypto is safe after Ledger audit exposes a hardware flaw
+2	sn/tech	19.5	-	OPEN_NEED	https://stacker.news/items/1501563	Trezor says your crypto is safe after Ledger audit exposes a hardware flaw
+2	github	62.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/LabsCrypt/flowfi/issues/613	[Docs] HowItWorks.tsx says 'We support ETH, USDC, and 100+ ERC-20s' — wrong chain family
+1	github	5.2	$2	OPEN_ISSUE	https://github.com/promptpolish-ai/git-context/issues/2	Add --json output mode (Bounty: $2 crypto)
+1	github	24.6	$50	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/33	Bug Bounty Program — How to Participate
+1	github	25.3	$50	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/14	Improve PI calculation accuracy
+1	github	25.3	$50	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/15	Implement infinite sequence iterator
+1	github	25.3	$50	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/12	Write unit tests for user routes
+1	github	25.3	$50	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/13	Write unit tests for UI Button stub
+1	github	25.3	$50	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/11	Write unit tests for leaderboard updates
+1	github	25.3	$50	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/10	Improve API route TODO coverage
+1	github	25.3	$50	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/9	Add request body size limit
+1	github	25.3	$50	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/7	Add API error handling helper
+1	github	25.3	$50	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/6	Add input validation to user routes
+1	github	25.3	$50	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/8	Normalize health check response shape
+1	github	25.3	$50	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/4	Document environment variables
+0	github	62.8	-	OPEN_ISSUE	https://github.com/LabsCrypt/flowfi/issues/655	[Frontend] Stream detail page TOKEN_SYMBOLS map is incomplete (missing FLOW) and stale
+0	github	69.8	-	OPEN_ISSUE	https://github.com/Savitura/crowdpay/issues/160	Create backend .env.example — no template exists for environment setup
+0	github	12.5	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/13040	[BOUNTY: 10–40 RTC by tier · 500 RTC pool] Build a RustChain Integration — Skill, MCP Tool, or Client Library
+0	github	25.2	-	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/17	Calculate the exact value of PI
