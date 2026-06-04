@@ -1,0 +1,20 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/jhosepm352-design/oabp-langchain-tool/issues/1	Tracking: AIGEN mission mis_334ad09eccaa (300 AIGEN)
+3	sn/bitcoin	21.2	$6.7	OPEN_NEED	https://stacker.news/items/1501858	What the heck is digital credit?
+3	sn/bitcoin	20.7	$5.02	OPEN_NEED	https://stacker.news/items/1501869	[HM] - The Finnish Kid Nobody Remembers
+2	sn/bitcoin	15.0	-	OPEN_NEED	https://stacker.news/items/1502040	Wallet of Satoshi teasing stablecoins?
+2	github	7.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Nodus-protocol/Nodus-Protocol-Backend/issues/5	feat(stellar): add Stellar contract address validation middleware and config
+2	github	20.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/tenstorrent/tt-metal/issues/46006	[Bounty $5000] exp2 fp32 precision
+1	github	15.6	$2	OPEN_ISSUE	https://github.com/promptpolish-ai/git-context/issues/2	Add --json output mode (Bounty: $2 crypto)
+1	github	35.0	$50	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/33	Bug Bounty Program — How to Participate
+1	github	35.7	$50	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/15	Implement infinite sequence iterator
+1	github	35.7	$50	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/14	Improve PI calculation accuracy
+1	github	35.7	$50	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/13	Write unit tests for UI Button stub
+1	github	35.7	$50	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/11	Write unit tests for leaderboard updates
+1	github	35.7	$50	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/12	Write unit tests for user routes
+1	github	35.7	$50	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/10	Improve API route TODO coverage
+1	github	35.7	$50	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/9	Add request body size limit
+1	github	35.7	$50	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/6	Add input validation to user routes
+1	github	35.7	$50	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/7	Add API error handling helper
+0	github	22.9	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/13040	[BOUNTY: 10–40 RTC by tier · 500 RTC pool] Build a RustChain Integration — Skill, MCP Tool, or Client Library
+0	github	35.6	-	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/17	Calculate the exact value of PI
