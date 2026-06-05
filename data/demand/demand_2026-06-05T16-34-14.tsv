@@ -1,0 +1,34 @@
+# score	source	age_h	payout_hint	tags	url	title
+7	sn/tech	1.9	$25	OPEN_NEED,LOW_COMP	https://stacker.news/items/1503054	Nick Slaney looking for beta testers - $25
+6	sn/bitcoin	2.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1503044	How I paid with bitcoin using my glasses by Vincenzo Palazzo
+5	github	2.3	$10	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/brand/issues/7	L0: Add a toast notification component to the design system
+5	github	2.3	$10	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/fhe/issues/6	L0: Verify all 4 example directories build and run
+5	github	2.3	$35	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/depeg-monitor/issues/33	L1: Add dark mode toggle to the monitoring dashboard
+5	github	2.3	$10	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/arbitrum-cli/issues/19	L0: Fix all cargo clippy warnings
+5	github	2.3	$10	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/token-simulator/issues/10	L0: Add a standard-dao YAML preset
+5	github	2.3	$10	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/scout/issues/8	L0: Add LayerZero, Eigenlayer, Hyperlane protocol targets
+5	github	2.3	$10	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/erc721-ai/issues/30	L0: Replace 'Setup instructions coming soon' with actual quickstart
+5	github	2.3	$10	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/quoter/issues/30	L0: Add a simple-amm-lp YAML preset
+5	github	2.3	$35	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/audit-checklist/issues/37	L1: Add unchecked low-level call return value check
+5	github	2.3	$40	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/scout/issues/9	L1: Add Basescan API backend for Base chain activity tracking
+5	github	2.3	$100	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/erc721-ai/issues/32	L2: Build a Model Marketplace dApp (React or vanilla JS)
+5	github	2.3	$100	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/tt-crypto-primitives/issues/1	L2: Implement NTT for polynomial multiplication
+5	github	2.3	$75	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/stablecoin-toolkit/issues/63	L2: AgentEscrow access control formal review + Foundry tests
+5	github	2.3	$35	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/depeg-monitor/issues/33	L1: Add dark mode toggle to the monitoring dashboard
+5	github	2.3	$35	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/erc721-ai/issues/31	L1: Add GitHub Actions CI for forge build + forge test
+5	github	2.3	$100	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/arka/issues/22	L2: Implement Solana chain module
+5	github	2.3	$40	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/stylus-profiler/issues/8	L1: Add unit tests for WASM binary analysis
+5	github	2.3	$10	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/arbitrum-cli/issues/19	L0: Fix all cargo clippy warnings
+5	github	2.3	$75	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/escrow-oracles/issues/21	L2: Implement hash_check oracle — verify IPFS CID content integrity
+5	github	2.3	$75	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/switchboard/issues/97	L2: Reconcile gas_budget.py and gas_tracker.py into unified GasManager
+5	github	2.3	$10	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/token-simulator/issues/10	L0: Add a standard-dao YAML preset
+4	sn/bitcoin	14.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1502667	Proof of Work: AudioBook bridging the gap between Photography and Bitcoin
+4	sn/bitcoin	19.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1502588	Bitcoin’s Quiet Role in the World Cup Economy
+4	sn/tech	7.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1502866	Smartify your vintage linear turntable
+3	sn/bitcoin	22.0	$200	OPEN_NEED	https://stacker.news/items/1502494	YOU will build the roads.
+3	github	2.3	$25	OPEN_ISSUE	https://github.com/kcolbchain/switchboard/issues/96	L1: Fix def/events syntax error in test_payment_protocol.py
+3	github	2.3	$10	OPEN_ISSUE	https://github.com/kcolbchain/audit-checklist/issues/35	L0: Verify audit suite builds + runs locally, fix any setup friction
+3	github	2.3	$50	OPEN_ISSUE	https://github.com/kcolbchain/research/issues/21	L1: Write a research brief on agent-to-agent payment protocols (2026 landscape)
+3	github	2.3	$25	OPEN_ISSUE	https://github.com/kcolbchain/switchboard/issues/96	L1: Fix def/events syntax error in test_payment_protocol.py
+2	sn/bitcoin	13.8	-	OPEN_NEED	https://stacker.news/items/1502689	The Orchard Counterfeiting Vulnerability - zooko
+2	github	30.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Nodus-protocol/Nodus-Protocol-Backend/issues/5	feat(stellar): add Stellar contract address validation middleware and config
