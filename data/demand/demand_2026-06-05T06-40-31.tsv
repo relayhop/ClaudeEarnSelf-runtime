@@ -1,0 +1,21 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	3.9	-	OPEN_NEED	https://stacker.news/items/1502689	The Orchard Counterfeiting Vulnerability - zooko
+4	sn/bitcoin	4.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1502667	Proof of Work: AudioBook bridging the gap between Photography and Bitcoin
+4	sn/bitcoin	9.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1502588	Bitcoin’s Quiet Role in the World Cup Economy
+3	sn/bitcoin	12.1	$200	OPEN_NEED	https://stacker.news/items/1502494	YOU will build the roads.
+2	github	20.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Nodus-protocol/Nodus-Protocol-Backend/issues/5	feat(stellar): add Stellar contract address validation middleware and config
+2	github	8.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/asyncapi/tck/pull/258	feat(246): introduce v3 tests
+2	github	14.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/jhosepm352-design/oabp-langchain-tool/issues/1	Tracking: AIGEN mission mis_334ad09eccaa (300 AIGEN)
+2	github	19.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1736	docs: Add GSSoC V2 classifier testing reference guide
+2	github	19.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1734	docs: Add GSSoC dev environment onboarding checklist reference guide
+2	github	19.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1732	docs: Add GSSoC automated backup scheduling reference guide
+2	github	19.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1730	docs: Add GSSoC React routing optimization reference guide
+2	github	19.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1728	docs: Add GSSoC API response payload schema reference guide
+2	github	19.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1726	docs: Add GSSoC Redis sentinel clustering reference guide
+2	github	19.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1724	docs: Add GSSoC system health logging reference guide
+2	github	19.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1722	docs: Add GSSoC secure cookie storage reference guide
+2	github	19.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1720	docs: Add GSSoC duplicate ticket clustering reference guide
+2	github	19.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1718	docs: Add GSSoC SLA breach escalation routing reference guide
+2	github	19.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1717	docs: Add GSSoC SLA breach escalation routing reference guide
+2	github	19.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1714	docs: Add GSSoC admin dashboard customization reference guide
+0	github	14.0	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1743	Add Client-Side PDF Validation and Robust Server-Side OCR Error Handling for Ticket Attachments
