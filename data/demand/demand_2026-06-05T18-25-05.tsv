@@ -1,0 +1,35 @@
+# score	source	age_h	payout_hint	tags	url	title
+7	sn/tech	3.7	$25	OPEN_NEED,LOW_COMP	https://stacker.news/items/1503054	Nick Slaney looking for beta testers - $25
+6	sn/bitcoin	1.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1503153	Quantum threat: let's not turn Bitcoin into an altcoin - Antoine Ponsoit
+6	sn/bitcoin	4.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1503044	How I paid with bitcoin using my glasses by Vincenzo Palazzo
+4	sn/bitcoin	16.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1502667	Proof of Work: AudioBook bridging the gap between Photography and Bitcoin
+4	sn/bitcoin	21.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1502588	Bitcoin’s Quiet Role in the World Cup Economy
+4	sn/tech	8.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1502866	Smartify your vintage linear turntable
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/aozorayama45/Apache-DolphinScheduler/issues/1	🎯 Bug: Memory Leak in Master/Worker Recovery Daemon (OSD) During Continuous Failover Operations
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/aozorayama45/Traefik/issues/3	🎯 Optimize Metrics Collection and Exporting to Prevent High Memory Usage Under Heavy Load
+3	sn/bitcoin	23.9	$200	OPEN_NEED	https://stacker.news/items/1502494	YOU will build the roads.
+3	github	4.1	$10	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/brand/issues/7	L0: Add a toast notification component to the design system
+3	github	4.1	$10	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/fhe/issues/6	L0: Verify all 4 example directories build and run
+3	github	4.1	$35	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/depeg-monitor/issues/33	L1: Add dark mode toggle to the monitoring dashboard
+3	github	4.1	$10	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/arbitrum-cli/issues/19	L0: Fix all cargo clippy warnings
+3	github	4.1	$10	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/token-simulator/issues/10	L0: Add a standard-dao YAML preset
+3	github	4.1	$10	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/scout/issues/8	L0: Add LayerZero, Eigenlayer, Hyperlane protocol targets
+3	github	4.2	$10	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/erc721-ai/issues/30	L0: Replace 'Setup instructions coming soon' with actual quickstart
+3	github	4.1	$35	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/audit-checklist/issues/37	L1: Add unchecked low-level call return value check
+3	github	4.1	$100	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/tt-crypto-primitives/issues/1	L2: Implement NTT for polynomial multiplication
+3	github	4.1	$75	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/stablecoin-toolkit/issues/63	L2: AgentEscrow access control formal review + Foundry tests
+3	github	4.1	$35	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/depeg-monitor/issues/33	L1: Add dark mode toggle to the monitoring dashboard
+3	github	4.1	$35	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/erc721-ai/issues/31	L1: Add GitHub Actions CI for forge build + forge test
+3	github	4.1	$100	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/arka/issues/22	L2: Implement Solana chain module
+3	github	4.1	$40	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/stylus-profiler/issues/8	L1: Add unit tests for WASM binary analysis
+3	github	4.1	$10	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/arbitrum-cli/issues/19	L0: Fix all cargo clippy warnings
+2	sn/bitcoin	15.7	-	OPEN_NEED	https://stacker.news/items/1502689	The Orchard Counterfeiting Vulnerability - zooko
+2	github	31.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Nodus-protocol/Nodus-Protocol-Backend/issues/5	feat(stellar): add Stellar contract address validation middleware and config
+1	github	4.1	$25	OPEN_ISSUE	https://github.com/kcolbchain/switchboard/issues/96	L1: Fix def/events syntax error in test_payment_protocol.py
+1	github	4.2	$10	OPEN_ISSUE	https://github.com/kcolbchain/quoter/issues/30	L0: Add a simple-amm-lp YAML preset
+1	github	4.2	$10	OPEN_ISSUE	https://github.com/kcolbchain/audit-checklist/issues/35	L0: Verify audit suite builds + runs locally, fix any setup friction
+1	github	4.1	$50	OPEN_ISSUE	https://github.com/kcolbchain/research/issues/21	L1: Write a research brief on agent-to-agent payment protocols (2026 landscape)
+1	github	4.1	$40	OPEN_ISSUE	https://github.com/kcolbchain/scout/issues/9	L1: Add Basescan API backend for Base chain activity tracking
+1	github	4.1	$100	OPEN_ISSUE	https://github.com/kcolbchain/erc721-ai/issues/32	L2: Build a Model Marketplace dApp (React or vanilla JS)
+1	github	4.1	$75	OPEN_ISSUE	https://github.com/kcolbchain/escrow-oracles/issues/21	L2: Implement hash_check oracle — verify IPFS CID content integrity
+1	github	4.1	$75	OPEN_ISSUE	https://github.com/kcolbchain/switchboard/issues/97	L2: Reconcile gas_budget.py and gas_tracker.py into unified GasManager
