@@ -1,0 +1,6 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	9.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1502667	Proof of Work: AudioBook bridging the gap between Photography and Bitcoin
+4	sn/bitcoin	13.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1502588	Bitcoin’s Quiet Role in the World Cup Economy
+3	sn/bitcoin	16.3	$200	OPEN_NEED	https://stacker.news/items/1502494	YOU will build the roads.
+2	sn/bitcoin	8.2	-	OPEN_NEED	https://stacker.news/items/1502689	The Orchard Counterfeiting Vulnerability - zooko
+2	github	24.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Nodus-protocol/Nodus-Protocol-Backend/issues/5	feat(stellar): add Stellar contract address validation middleware and config
