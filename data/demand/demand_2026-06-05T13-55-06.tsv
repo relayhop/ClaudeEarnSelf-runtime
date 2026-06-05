@@ -1,0 +1,22 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	12.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1502667	Proof of Work: AudioBook bridging the gap between Photography and Bitcoin
+4	sn/bitcoin	16.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1502588	Bitcoin’s Quiet Role in the World Cup Economy
+4	sn/tech	4.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1502866	Smartify your vintage linear turntable
+3	sn/bitcoin	19.4	$200	OPEN_NEED	https://stacker.news/items/1502494	YOU will build the roads.
+2	sn/bitcoin	11.2	-	OPEN_NEED	https://stacker.news/items/1502689	The Orchard Counterfeiting Vulnerability - zooko
+2	github	27.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Nodus-protocol/Nodus-Protocol-Backend/issues/5	feat(stellar): add Stellar contract address validation middleware and config
+2	github	4.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1824	[Critical] duplicate_service.py: empty-store RuntimeError crash + concurrent JSON corruption + missing thread lock + zer
+2	github	4.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1822	Critical: Rate limiter dead code (0/20 endpoints protected), missing auth docstrings & Swagger theme config
+2	github	4.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1819	## Feature: Admin Analytics Dashboard with Ticket Volume Trends and SLA Metrics
+2	github	4.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1816	[CRITICAL] classifier_service.py: keyword override corrupts subcategory/priority/auto_resolve, category poisoning via su
+2	github	4.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1811	## Feature: User Profile Settings Page with Avatar Upload and Notification Preferences
+0	github	4.5	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1820	## Feature: Locust Load Testing Suite for Critical API Endpoints with Benchmarking Reports
+0	github	4.6	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1818	## Feature: Advanced Ticket Search with Multi-Filter Search and Saved Queries
+0	github	4.6	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1817	## Bug: WebSocket Connection Lacks Reconnection Strategy and Connection Status Indicators
+0	github	4.6	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1815	## Feature: File Attachment Management System with Storage Quota and Cleanup
+0	github	4.6	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1814	[Enhancement] Real-Time Team Performance Dashboard
+0	github	4.6	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1813	## Feature: Email Notification Service for Ticket Status Changes
+0	github	4.6	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1812	## Feature: Email Notification Service for Ticket Status Changes
+0	github	4.6	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1810	[Enhancement] Dark Mode & Accessibility Preferences
+0	github	4.6	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1809	## Feature: GitHub Actions CI Workflow for Automated Linting, Tests, and Build Verification
+0	github	4.6	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1808	[Enhancement] AI-Generated Resolution Summary
