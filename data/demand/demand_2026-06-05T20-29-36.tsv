@@ -1,0 +1,24 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	3.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1503153	Quantum threat: let's not turn Bitcoin into an altcoin - Antoine Ponsoit
+5	sn/tech	5.8	$25	OPEN_NEED,LOW_COMP	https://stacker.news/items/1503054	Nick Slaney looking for beta testers - $25
+4	sn/bitcoin	6.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1503044	How I paid with bitcoin using my glasses by Vincenzo Palazzo
+4	sn/bitcoin	18.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1502667	Proof of Work: AudioBook bridging the gap between Photography and Bitcoin
+4	sn/bitcoin	23.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1502588	Bitcoin’s Quiet Role in the World Cup Economy
+4	sn/tech	10.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1502866	Smartify your vintage linear turntable
+4	github	3.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/aozorayama45/Traefik/issues/3	🎯 Optimize Metrics Collection and Exporting to Prevent High Memory Usage Under Heavy Load
+2	sn/bitcoin	17.8	-	OPEN_NEED	https://stacker.news/items/1502689	The Orchard Counterfeiting Vulnerability - zooko
+2	github	33.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Nodus-protocol/Nodus-Protocol-Backend/issues/5	feat(stellar): add Stellar contract address validation middleware and config
+2	github	3.3	-	OPEN_ISSUE	https://github.com/aozorayama45/Apache-DolphinScheduler/issues/1	🎯 Bug: Memory Leak in Master/Worker Recovery Daemon (OSD) During Continuous Failover Operations
+2	github	6.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/audit-checklist/issues/37	L1: Add unchecked low-level call return value check
+2	github	6.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/tt-crypto-primitives/issues/1	L2: Implement NTT for polynomial multiplication
+2	github	6.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/stablecoin-toolkit/issues/63	L2: AgentEscrow access control formal review + Foundry tests
+2	github	6.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/erc721-ai/issues/31	L1: Add GitHub Actions CI for forge build + forge test
+2	github	6.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/stylus-profiler/issues/8	L1: Add unit tests for WASM binary analysis
+2	github	6.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/arbitrum-cli/issues/19	L0: Fix all cargo clippy warnings
+2	github	6.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/token-simulator/issues/10	L0: Add a standard-dao YAML preset
+0	github	6.2	-	OPEN_ISSUE	https://github.com/kcolbchain/arka/issues/22	L2: Implement Solana chain module
+0	github	6.2	-	OPEN_ISSUE	https://github.com/kcolbchain/escrow-oracles/issues/21	L2: Implement hash_check oracle — verify IPFS CID content integrity
+0	github	6.2	-	OPEN_ISSUE	https://github.com/kcolbchain/switchboard/issues/97	L2: Reconcile gas_budget.py and gas_tracker.py into unified GasManager
+0	github	6.2	-	OPEN_ISSUE	https://github.com/kcolbchain/switchboard/issues/96	L1: Fix def/events syntax error in test_payment_protocol.py
+0	github	6.2	-	OPEN_ISSUE	https://github.com/kcolbchain/scout/issues/8	L0: Add LayerZero, Eigenlayer, Hyperlane protocol targets
+0	github	6.2	-	OPEN_ISSUE	https://github.com/kcolbchain/quoter/issues/30	L0: Add a simple-amm-lp YAML preset
