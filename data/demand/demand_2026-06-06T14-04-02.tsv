@@ -1,0 +1,21 @@
+# score	source	age_h	payout_hint	tags	url	title
+7	sn/bitcoin	0.5	1 sat	OPEN_NEED,LOW_COMP	https://stacker.news/items/1503653	Rug the mints - @1440000bytes
+5	sn/tech	23.3	$25	OPEN_NEED,LOW_COMP	https://stacker.news/items/1503054	Nick Slaney looking for beta testers - $25
+4	sn/bitcoin	20.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1503153	Quantum threat: let's not turn Bitcoin into an altcoin - Antoine Ponsoit
+4	sn/bitcoin	23.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1503044	How I paid with bitcoin using my glasses by Vincenzo Palazzo
+4	github	0.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/lkaka85/bounty-e2e-test/issues/4	Fix addition bug - $50
+2	github	51.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Nodus-protocol/Nodus-Protocol-Backend/issues/5	feat(stellar): add Stellar contract address validation middleware and config
+2	github	5.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/49	[radar] SN open bounty 2026-06-06T08:44
+2	github	21.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/aozorayama45/Traefik/issues/3	🎯 Optimize Metrics Collection and Exporting to Prevent High Memory Usage Under Heavy Load
+2	github	28.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/1819	## Feature: Admin Analytics Dashboard with Ticket Volume Trends and SLA Metrics
+0	github	7.1	-	OPEN_ISSUE	https://github.com/maitebloger111/Apache-Arrow/issues/1	🎯 Optimize Partition Pruning and Expression Evaluation for Large Partitioned Parquet Datasets
+0	github	8.7	-	OPEN_ISSUE	https://github.com/jeromyritchie52/Apache-ZooKeeper/issues/1	🎯 Optimize Memory Footprint of WatchManager During Large-Scale Watch Registration Workloads
+0	github	20.9	-	OPEN_ISSUE	https://github.com/aozorayama45/Apache-DolphinScheduler/issues/1	🎯 Bug: Memory Leak in Master/Worker Recovery Daemon (OSD) During Continuous Failover Operations
+0	github	23.8	-	OPEN_ISSUE	https://github.com/kcolbchain/arka/issues/22	L2: Implement Solana chain module
+0	github	23.8	-	OPEN_ISSUE	https://github.com/kcolbchain/quoter/issues/30	L0: Add a simple-amm-lp YAML preset
+0	github	24.1	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/issues/639	[BOUNTY $100] 🐜 The Great Agentic Memory Showdown: Memanto Benchmarking & Evaluation Challenge
+0	github	28.4	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1824	[Critical] duplicate_service.py: empty-store RuntimeError crash + concurrent JSON corruption + missing thread lock + zer
+0	github	28.6	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1822	Critical: Rate limiter dead code (0/20 endpoints protected), missing auth docstrings & Swagger theme config
+0	github	28.7	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1820	## Feature: Locust Load Testing Suite for Critical API Endpoints with Benchmarking Reports
+0	github	28.7	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1818	## Feature: Advanced Ticket Search with Multi-Filter Search and Saved Queries
+0	github	28.7	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1817	## Bug: WebSocket Connection Lacks Reconnection Strategy and Connection Status Indicators
