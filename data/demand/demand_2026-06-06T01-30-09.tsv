@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/tech	10.8	$25	OPEN_NEED,LOW_COMP	https://stacker.news/items/1503054	Nick Slaney looking for beta testers - $25
+4	sn/bitcoin	8.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1503153	Quantum threat: let's not turn Bitcoin into an altcoin - Antoine Ponsoit
+4	sn/bitcoin	11.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1503044	How I paid with bitcoin using my glasses by Vincenzo Palazzo
+4	sn/bitcoin	23.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1502667	Proof of Work: AudioBook bridging the gap between Photography and Bitcoin
+4	sn/tech	15.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1502866	Smartify your vintage linear turntable
+2	sn/bitcoin	22.8	-	OPEN_NEED	https://stacker.news/items/1502689	The Orchard Counterfeiting Vulnerability - zooko
+2	github	38.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Nodus-protocol/Nodus-Protocol-Backend/issues/5	feat(stellar): add Stellar contract address validation middleware and config
+2	github	8.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/aozorayama45/Traefik/issues/3	🎯 Optimize Metrics Collection and Exporting to Prevent High Memory Usage Under Heavy Load
+2	github	11.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/stablecoin-toolkit/issues/63	L2: AgentEscrow access control formal review + Foundry tests
+2	github	11.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/erc721-ai/issues/31	L1: Add GitHub Actions CI for forge build + forge test
+2	github	11.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/kcolbchain/arbitrum-cli/issues/19	L0: Fix all cargo clippy warnings
+0	github	8.3	-	OPEN_ISSUE	https://github.com/aozorayama45/Apache-DolphinScheduler/issues/1	🎯 Bug: Memory Leak in Master/Worker Recovery Daemon (OSD) During Continuous Failover Operations
+0	github	11.2	-	OPEN_ISSUE	https://github.com/kcolbchain/audit-checklist/issues/37	L1: Add unchecked low-level call return value check
+0	github	11.2	-	OPEN_ISSUE	https://github.com/kcolbchain/arka/issues/22	L2: Implement Solana chain module
+0	github	11.2	-	OPEN_ISSUE	https://github.com/kcolbchain/switchboard/issues/97	L2: Reconcile gas_budget.py and gas_tracker.py into unified GasManager
+0	github	11.2	-	OPEN_ISSUE	https://github.com/kcolbchain/switchboard/issues/96	L1: Fix def/events syntax error in test_payment_protocol.py
+0	github	11.2	-	OPEN_ISSUE	https://github.com/kcolbchain/scout/issues/8	L0: Add LayerZero, Eigenlayer, Hyperlane protocol targets
+0	github	11.2	-	OPEN_ISSUE	https://github.com/kcolbchain/quoter/issues/30	L0: Add a simple-amm-lp YAML preset
+0	github	11.3	-	OPEN_ISSUE	https://github.com/kcolbchain/audit-checklist/issues/36	L1: Add ERC-20 approval race condition vulnerability check
+0	github	11.3	-	OPEN_ISSUE	https://github.com/kcolbchain/audit-checklist/issues/35	L0: Verify audit suite builds + runs locally, fix any setup friction
+0	github	11.5	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/issues/639	[BOUNTY $100] 🐜 The Great Agentic Memory Showdown: Memanto Benchmarking & Evaluation Challenge
+0	github	15.8	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/1824	[Critical] duplicate_service.py: empty-store RuntimeError crash + concurrent JSON corruption + missing thread lock + zer
