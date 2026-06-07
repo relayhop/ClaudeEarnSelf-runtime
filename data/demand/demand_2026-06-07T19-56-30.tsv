@@ -1,0 +1,15 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	1.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1504255	Sunday Survey: How much of your wealth is *not* in BTC?
+4	sn/bitcoin	22.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1503872	Payment Adoption Weekly Brief 2026/23
+2	sn/bitcoin	21.0	-	OPEN_NEED	https://stacker.news/items/1503887	[HM] Adventures of PLATO: The World's First Bitcoin Road Trip
+2	github	15.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/IyanuOluwaJesuloba/StellarMind/issues/2	[good-first-issue] [Soroban] Write full test suite for SpendingPolicy contract
+2	github	6.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/digitaldesignerjazz/atrium-forum/issues/4	💰 [QCOIN TRADE] Sample Bounty: Nexus Route Optimization Agent Swarm
+2	github	69.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/asyncapi/tck/pull/258	feat(246): introduce v3 tests
+0	github	17.3	-	OPEN_ISSUE	https://github.com/INDIGOAZUL/la-tanda-web/issues/373	[DOCS] Complete La Tanda Testnet Validator Guide (Systemd + State Sync + Validator Setup)
+0	github	35.2	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/49	[radar] SN open bounty 2026-06-06T08:44
+0	github	37.0	-	OPEN_ISSUE	https://github.com/maitebloger111/Apache-Arrow/issues/1	🎯 Optimize Partition Pruning and Expression Evaluation for Large Partitioned Parquet Datasets
+0	github	38.6	-	OPEN_ISSUE	https://github.com/jeromyritchie52/Apache-ZooKeeper/issues/1	🎯 Optimize Memory Footprint of WatchManager During Large-Scale Watch Registration Workloads
+0	github	50.8	-	OPEN_ISSUE	https://github.com/aozorayama45/Apache-DolphinScheduler/issues/1	🎯 Bug: Memory Leak in Master/Worker Recovery Daemon (OSD) During Continuous Failover Operations
+0	github	50.9	-	OPEN_ISSUE	https://github.com/aozorayama45/Traefik/issues/3	🎯 Optimize Metrics Collection and Exporting to Prevent High Memory Usage Under Heavy Load
+0	github	53.7	-	OPEN_ISSUE	https://github.com/kcolbchain/arka/issues/22	L2: Implement Solana chain module
+0	github	54.0	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/issues/639	[BOUNTY $100] 🐜 The Great Agentic Memory Showdown: Memanto Benchmarking & Evaluation Challenge
