@@ -1,0 +1,12 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	22.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1504302	Bitcoin Uncensored Episode 1
+2	github	39.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/IyanuOluwaJesuloba/StellarMind/issues/2	[good-first-issue] [Soroban] Write full test suite for SpendingPolicy contract
+2	github	2.8	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/13478	[BOUNTY] feverdream: distribute animation frames across the vintage render fleet
+2	github	2.8	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/13477	[BOUNTY] feverdream: terminal client to spend RTC and commission a video
+2	github	2.8	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/13476	[BOUNTY] feverdream: 5 hand-authored retro scene templates the AI re-dresses
+2	github	2.8	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/13475	[BOUNTY] feverdream: Blender GPU animation lane (orbit mp4 on the 5070)
+2	github	30.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/digitaldesignerjazz/atrium-forum/issues/4	💰 [QCOIN TRADE] Sample Bounty: Nexus Route Optimization Agent Swarm
+0	github	41.2	-	OPEN_ISSUE	https://github.com/INDIGOAZUL/la-tanda-web/issues/373	[DOCS] Complete La Tanda Testnet Validator Guide (Systemd + State Sync + Validator Setup)
+0	github	59.1	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/49	[radar] SN open bounty 2026-06-06T08:44
+0	github	60.8	-	OPEN_ISSUE	https://github.com/maitebloger111/Apache-Arrow/issues/1	🎯 Optimize Partition Pruning and Expression Evaluation for Large Partitioned Parquet Datasets
+0	github	62.4	-	OPEN_ISSUE	https://github.com/jeromyritchie52/Apache-ZooKeeper/issues/1	🎯 Optimize Memory Footprint of WatchManager During Large-Scale Watch Registration Workloads
