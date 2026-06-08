@@ -1,0 +1,13 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	13.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1504302	Bitcoin Uncensored Episode 1
+2	sn/bitcoin	15.5	-	OPEN_NEED	https://stacker.news/items/1504255	Sunday Survey: How much of your wealth is *not* in BTC?
+2	github	29.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/IyanuOluwaJesuloba/StellarMind/issues/2	[good-first-issue] [Soroban] Write full test suite for SpendingPolicy contract
+2	github	20.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/digitaldesignerjazz/atrium-forum/issues/4	💰 [QCOIN TRADE] Sample Bounty: Nexus Route Optimization Agent Swarm
+0	github	31.4	-	OPEN_ISSUE	https://github.com/INDIGOAZUL/la-tanda-web/issues/373	[DOCS] Complete La Tanda Testnet Validator Guide (Systemd + State Sync + Validator Setup)
+0	github	49.4	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/49	[radar] SN open bounty 2026-06-06T08:44
+0	github	51.1	-	OPEN_ISSUE	https://github.com/maitebloger111/Apache-Arrow/issues/1	🎯 Optimize Partition Pruning and Expression Evaluation for Large Partitioned Parquet Datasets
+0	github	52.7	-	OPEN_ISSUE	https://github.com/jeromyritchie52/Apache-ZooKeeper/issues/1	🎯 Optimize Memory Footprint of WatchManager During Large-Scale Watch Registration Workloads
+0	github	64.9	-	OPEN_ISSUE	https://github.com/aozorayama45/Apache-DolphinScheduler/issues/1	🎯 Bug: Memory Leak in Master/Worker Recovery Daemon (OSD) During Continuous Failover Operations
+0	github	65.0	-	OPEN_ISSUE	https://github.com/aozorayama45/Traefik/issues/3	🎯 Optimize Metrics Collection and Exporting to Prevent High Memory Usage Under Heavy Load
+0	github	67.8	-	OPEN_ISSUE	https://github.com/kcolbchain/arka/issues/22	L2: Implement Solana chain module
+0	github	68.1	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/issues/639	[BOUNTY $100] 🐜 The Great Agentic Memory Showdown: Memanto Benchmarking & Evaluation Challenge
