@@ -1,0 +1,15 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	2.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1505462	(L)402 is a literal failure code, btw.
+6	sn/tech	2.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1505416	My Takeaway of WWDC on Apples AI Strategy
+4	sn/bitcoin	14.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1505087	10.9k visitors with zero paid ads - Satstools.com
+4	sn/tech	4.0	-	OPEN_NEED	https://stacker.news/items/1505308	Suggestions for Android Devices?
+2	sn/bitcoin	22.0	-	OPEN_NEED	https://stacker.news/items/1504805	XYZVault - "we can't see your data" vs "we won't look" which one matters to you?
+2	sn/bitcoin	8.5	-	OPEN_NEED	https://stacker.news/items/1505172	Scaling bitcoin through trusted community nodes
+2	sn/bitcoin	17.0	-	OPEN_NEED	https://stacker.news/items/1505000	Sound money with a sound answer (I hope...)
+2	github	62.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/IyanuOluwaJesuloba/StellarMind/issues/2	[good-first-issue] [Soroban] Write full test suite for SpendingPolicy contract
+2	github	2.4	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/57	[radar] SN open bounty 2026-06-09T16:11
+2	github	52.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/digitaldesignerjazz/atrium-forum/issues/4	💰 [QCOIN TRADE] Sample Bounty: Nexus Route Optimization Agent Swarm
+0	github	15.4	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/13519	[BOUNTY: 3 RTC, repeats] Agent-to-Agent On-Chain Transaction Test — spend 1, get 3 (3-day window)
+0	github	25.6	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/13477	[BOUNTY] feverdream: terminal client to spend RTC and commission a video
+0	github	25.6	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/13475	[BOUNTY] feverdream: Blender GPU animation lane (orbit mp4 on the 5070)
+0	github	63.9	-	OPEN_ISSUE	https://github.com/INDIGOAZUL/la-tanda-web/issues/373	[DOCS] Complete La Tanda Testnet Validator Guide (Systemd + State Sync + Validator Setup)
