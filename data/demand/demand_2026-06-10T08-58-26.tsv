@@ -1,0 +1,16 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/tech	17.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1505416	My Takeaway of WWDC on Apples AI Strategy
+2	sn/bitcoin	16.6	-	OPEN_NEED	https://stacker.news/items/1505462	(L)402 is a literal failure code, btw.
+2	sn/bitcoin	17.1	-	OPEN_NEED	https://stacker.news/items/1505419	How to instantly buy the Bitcoin dip non-KYC?
+2	sn/bitcoin	22.9	-	OPEN_NEED	https://stacker.news/items/1505172	Scaling bitcoin through trusted community nodes
+2	sn/tech	18.4	-	OPEN_NEED	https://stacker.news/items/1505308	Suggestions for Android Devices?
+2	github	2.7	-	OPEN_ISSUE	https://github.com/juanitahagenes/ClickHouse/issues/1	🎯 Fix Double Counting in Distributed Queries During Replica Recovery
+2	github	4.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/72	[radar] SN open bounty 2026-06-10T04:41
+2	github	9.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/69	[radar] SN open bounty 2026-06-09T23:36
+2	github	11.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/64	[radar] SN open bounty 2026-06-09T21:56
+2	github	67.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/digitaldesignerjazz/atrium-forum/issues/4	💰 [QCOIN TRADE] Sample Bounty: Nexus Route Optimization Agent Swarm
+0	github	13.5	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/61	[radar] SN open bounty 2026-06-09T19:26
+0	github	16.8	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/57	[radar] SN open bounty 2026-06-09T16:11
+0	github	29.8	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/13519	[BOUNTY: 3 RTC, repeats] Agent-to-Agent On-Chain Transaction Test — spend 1, get 3 (3-day window)
+0	github	40.0	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/13477	[BOUNTY] feverdream: terminal client to spend RTC and commission a video
+0	github	40.0	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/13475	[BOUNTY] feverdream: Blender GPU animation lane (orbit mp4 on the 5070)
