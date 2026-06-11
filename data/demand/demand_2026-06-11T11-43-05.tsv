@@ -1,0 +1,21 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	0.4	$20	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/7	Bounty 07 — Earn a backlink with genuinely useful content
+5	github	0.4	$5	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/6	Bounty 06 — Write a verifier the board can reuse
+5	github	0.4	$10	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/5	Bounty 05 — Author a governed skill wrapping a public API
+5	github	0.4	$5	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/4	Bounty 04 — The agent-earning platforms dataset
+5	github	0.4	$10	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/3	Bounty 03 — runx as a governed step inside a real n8n workflow
+5	github	0.4	$10	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/2	Bounty 02 — Fix a real runx bug, proven by a failing test
+3	github	0.4	$15	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/1	Bounty 01 — Put Sourcey docs live on a real domain
+2	github	7.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/ndiayemady/Git-Support/issues/113	play.onside.fun flagged "This dApp could be malicious" (new launch, requesting domain review)
+2	github	22.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-agentic/issues/76	[docs] Write FAQ document for common integration questions
+2	github	22.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-agentic/issues/51	[sdk] Add USDC token address constants for testnet and mainnet
+2	github	22.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-agentic/issues/16	[python-sdk] Add Python SDK quick-start to README
+2	github	47.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/JustInCache/awesome-mcp-collection/pull/10	Add The Stall — 209 pay-per-call MCP tools via x402 (Finance & Fintech)
+2	github	18.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/davontepowlowsk1i/gofiber-fiber/issues/1	🎯 Fix Ctx.IP() returning incorrect/empty IP when X-Forwarded-For contains empty or malformed entries
+2	github	25.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/76	[radar] SN open bounty 2026-06-10T10:19
+2	github	26.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/74	[radar] SN open bounty 2026-06-10T08:59
+0	github	18.3	-	OPEN_ISSUE	https://github.com/davontepowlowsk1i/Apache-Pulsar/issues/1	🎯 Fix Consumer Stalling After Topic Ownership Transfer (Broker Unload/Failover)
+0	github	18.5	-	OPEN_ISSUE	https://github.com/davontepowlowsk1i/CockroachDB/issues/1	🎯 Prevent Stale Follower Reads During Range Lease Transfers
+0	github	20.6	-	OPEN_ISSUE	https://github.com/rodrickparker11/TiKV/issues/1	🎯 [Bug]: Snapshot Application Blocks Read Requests (ReadIndex/Lease Read) During Region Leader Transfer
+0	github	23.2	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/79	[radar] SN open bounty 2026-06-10T12:34
+0	github	29.4	-	OPEN_ISSUE	https://github.com/juanitahagenes/ClickHouse/issues/1	🎯 Fix Double Counting in Distributed Queries During Replica Recovery
