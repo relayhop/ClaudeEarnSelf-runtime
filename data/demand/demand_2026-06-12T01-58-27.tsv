@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+3	sn/bitcoin	8.6	$41	OPEN_NEED	https://stacker.news/items/1506620	Toyota Hilux truck delivery to Kramatorsk, Ukraine (Part 1)
+2	sn/bitcoin	13.9	-	OPEN_NEED	https://stacker.news/items/1506460	The True and Accurate History of Bitcoin Podcasts
+2	github	21.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/ndiayemady/Git-Support/issues/113	play.onside.fun flagged "This dApp could be malicious" (new launch, requesting domain review)
+2	github	36.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-agentic/issues/76	[docs] Write FAQ document for common integration questions
+2	github	36.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-agentic/issues/51	[sdk] Add USDC token address constants for testnet and mainnet
+2	github	36.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-agentic/issues/16	[python-sdk] Add Python SDK quick-start to README
+2	github	62.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/JustInCache/awesome-mcp-collection/pull/10	Add The Stall — 210 pay-per-call MCP tools via x402 (Finance & Fintech)
+
+2	github	39.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/76	[radar] SN open bounty 2026-06-10T10:19
+2	github	41.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/74	[radar] SN open bounty 2026-06-10T08:59
+2	github	45.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/72	[radar] SN open bounty 2026-06-10T04:41
+2	github	50.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/69	[radar] SN open bounty 2026-06-09T23:36
+2	github	52.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/64	[radar] SN open bounty 2026-06-09T21:56
+0	github	32.4	-	OPEN_ISSUE	https://github.com/davontepowlowsk1i/gofiber-fiber/issues/1	🎯 Fix Ctx.IP() returning incorrect/empty IP when X-Forwarded-For contains empty or malformed entries
+0	github	32.5	-	OPEN_ISSUE	https://github.com/davontepowlowsk1i/Apache-Pulsar/issues/1	🎯 Fix Consumer Stalling After Topic Ownership Transfer (Broker Unload/Failover)
+0	github	32.8	-	OPEN_ISSUE	https://github.com/davontepowlowsk1i/CockroachDB/issues/1	🎯 Prevent Stale Follower Reads During Range Lease Transfers
+0	github	34.9	-	OPEN_ISSUE	https://github.com/rodrickparker11/TiKV/issues/1	🎯 [Bug]: Snapshot Application Blocks Read Requests (ReadIndex/Lease Read) During Region Leader Transfer
+0	github	37.4	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/79	[radar] SN open bounty 2026-06-10T12:34
+0	github	43.7	-	OPEN_ISSUE	https://github.com/juanitahagenes/ClickHouse/issues/1	🎯 Fix Double Counting in Distributed Queries During Replica Recovery
+0	github	54.5	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/61	[radar] SN open bounty 2026-06-09T19:26
+0	github	57.8	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/57	[radar] SN open bounty 2026-06-09T16:11
+0	github	70.8	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/13519	[BOUNTY: 3 RTC, repeats] Agent-to-Agent On-Chain Transaction Test — spend 1, get 3 (3-day window)
