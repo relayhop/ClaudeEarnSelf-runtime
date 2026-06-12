@@ -1,0 +1,22 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/victorjones6awpg/Casbin/issues/1	🎯 Fix Stale Authorization Decisions in CachedEnforcer After Policy Updates
+3	sn/tech	6.3	$1.8	OPEN_NEED	https://stacker.news/items/1507040	Real Businessmen Are Rare
+2	sn/bitcoin	8.0	-	OPEN_NEED	https://stacker.news/items/1506994	My mandatory Bar CLE courses love "digital assets" and "crypto"
+2	github	39.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/ndiayemady/Git-Support/issues/113	play.onside.fun flagged "This dApp could be malicious" (new launch, requesting domain review)
+2	github	54.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-agentic/issues/76	[docs] Write FAQ document for common integration questions
+2	github	54.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-agentic/issues/51	[sdk] Add USDC token address constants for testnet and mainnet
+2	github	54.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-agentic/issues/16	[python-sdk] Add Python SDK quick-start to README
+2	github	6.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Dipraise1/Engram/issues/24	[benchmarks] Retrieval benchmark suite — recall@K vs Pinecone, Weaviate, pgvector
+2	github	6.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Dipraise1/Engram/issues/22	[sdk] TypeScript SDK — @engram/client mirroring the Python SDK
+2	github	57.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/76	[radar] SN open bounty 2026-06-10T10:19
+2	github	62.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/72	[radar] SN open bounty 2026-06-10T04:41
+0	github	6.9	-	OPEN_ISSUE	https://github.com/Dipraise1/Engram/issues/23	[docs] OpenAPI spec for miner HTTP endpoints
+0	github	49.9	-	OPEN_ISSUE	https://github.com/davontepowlowsk1i/gofiber-fiber/issues/1	🎯 Fix Ctx.IP() returning incorrect/empty IP when X-Forwarded-For contains empty or malformed entries
+0	github	50.1	-	OPEN_ISSUE	https://github.com/davontepowlowsk1i/Apache-Pulsar/issues/1	🎯 Fix Consumer Stalling After Topic Ownership Transfer (Broker Unload/Failover)
+0	github	50.3	-	OPEN_ISSUE	https://github.com/davontepowlowsk1i/CockroachDB/issues/1	🎯 Prevent Stale Follower Reads During Range Lease Transfers
+0	github	52.4	-	OPEN_ISSUE	https://github.com/rodrickparker11/TiKV/issues/1	🎯 [Bug]: Snapshot Application Blocks Read Requests (ReadIndex/Lease Read) During Region Leader Transfer
+0	github	55.0	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/79	[radar] SN open bounty 2026-06-10T12:34
+0	github	58.5	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/74	[radar] SN open bounty 2026-06-10T08:59
+0	github	61.3	-	OPEN_ISSUE	https://github.com/juanitahagenes/ClickHouse/issues/1	🎯 Fix Double Counting in Distributed Queries During Replica Recovery
+0	github	67.9	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/69	[radar] SN open bounty 2026-06-09T23:36
+0	github	69.6	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/64	[radar] SN open bounty 2026-06-09T21:56
