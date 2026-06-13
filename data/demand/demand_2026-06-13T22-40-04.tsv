@@ -1,0 +1,16 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	4.5	$150	OPEN_NEED,LOW_COMP	https://stacker.news/items/1507885	The Great Capital Rotation - Pierre Rochard
+4	sn/bitcoin	12.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1507711	I need some Bitcoin ETF info....
+2	github	5.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/mollybeach/hedgepod/issues/11	Fill missing network config addresses (Zircuit, Arbitrum, Optimism)
+2	github	8.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/13	feat(indexer): add GET /stats endpoint for landing page protocol statistics
+2	github	8.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/6	feat(web): add USDC balance display and faucet link for testnet users
+2	github	8.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/3	feat(sdk): add TypeScript type guards for all contract return types
+2	github	8.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/13	test(pool): write deposit, withdraw, and yield distribution unit tests
+2	github	8.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/9	test(escrow): write unit tests for all escrow_contract functions
+2	github	66.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/ndiayemady/Git-Support/issues/113	play.onside.fun flagged "This dApp could be malicious" (new launch, requesting domain review)
+2	github	13.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/90	[radar] SN open bounty 2026-06-13T09:31
+2	github	31.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/tenstorrent/tt-metal/issues/46862	[Bounty $5000] [SFPU] Optimize `atanh`, `asinh`, and `acosh` with Numerically Stable `log1p`-Based Implementations (WH B
+2	github	34.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Dipraise1/Engram/issues/24	[benchmarks] Retrieval benchmark suite — recall@K vs Pinecone, Weaviate, pgvector
+2	github	34.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Dipraise1/Engram/issues/22	[sdk] TypeScript SDK — @engram/client mirroring the Python SDK
+0	github	29.1	-	OPEN_ISSUE	https://github.com/victorjones6awpg/Casbin/issues/1	🎯 Fix Stale Authorization Decisions in CachedEnforcer After Policy Updates
+0	github	34.1	-	OPEN_ISSUE	https://github.com/Dipraise1/Engram/issues/23	[docs] OpenAPI spec for miner HTTP endpoints
