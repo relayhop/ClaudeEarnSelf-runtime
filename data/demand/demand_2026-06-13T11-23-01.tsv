@@ -1,0 +1,20 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	16.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1507349	Six hard problems, one solution - Alekos Filini, Enclavia
+4	sn/tech	16.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1507349	Six hard problems, one solution - Alekos Filini, Enclavia
+4	github	1.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/90	[radar] SN open bounty 2026-06-13T09:31
+3	sn/tech	22.2	$1.8	OPEN_NEED	https://stacker.news/items/1507040	Real Businessmen Are Rare
+2	sn/bitcoin	23.8	-	OPEN_NEED	https://stacker.news/items/1506994	My mandatory Bar CLE courses love "digital assets" and "crypto"
+2	github	54.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/ndiayemady/Git-Support/issues/113	play.onside.fun flagged "This dApp could be malicious" (new launch, requesting domain review)
+2	github	70.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-agentic/issues/76	[docs] Write FAQ document for common integration questions
+2	github	70.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-agentic/issues/51	[sdk] Add USDC token address constants for testnet and mainnet
+2	github	70.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-agentic/issues/16	[python-sdk] Add Python SDK quick-start to README
+2	github	19.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/tenstorrent/tt-metal/issues/46862	[Bounty $5000] [SFPU] Optimize `atanh`, `asinh`, and `acosh` with Numerically Stable `log1p`-Based Implementations (WH B
+2	github	22.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Dipraise1/Engram/issues/24	[benchmarks] Retrieval benchmark suite — recall@K vs Pinecone, Weaviate, pgvector
+2	github	22.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Dipraise1/Engram/issues/22	[sdk] TypeScript SDK — @engram/client mirroring the Python SDK
+0	github	17.8	-	OPEN_ISSUE	https://github.com/victorjones6awpg/Casbin/issues/1	🎯 Fix Stale Authorization Decisions in CachedEnforcer After Policy Updates
+0	github	22.8	-	OPEN_ISSUE	https://github.com/Dipraise1/Engram/issues/23	[docs] OpenAPI spec for miner HTTP endpoints
+0	github	65.8	-	OPEN_ISSUE	https://github.com/davontepowlowsk1i/gofiber-fiber/issues/1	🎯 Fix Ctx.IP() returning incorrect/empty IP when X-Forwarded-For contains empty or malformed entries
+0	github	65.9	-	OPEN_ISSUE	https://github.com/davontepowlowsk1i/Apache-Pulsar/issues/1	🎯 Fix Consumer Stalling After Topic Ownership Transfer (Broker Unload/Failover)
+0	github	66.2	-	OPEN_ISSUE	https://github.com/davontepowlowsk1i/CockroachDB/issues/1	🎯 Prevent Stale Follower Reads During Range Lease Transfers
+0	github	68.3	-	OPEN_ISSUE	https://github.com/rodrickparker11/TiKV/issues/1	🎯 [Bug]: Snapshot Application Blocks Read Requests (ReadIndex/Lease Read) During Region Leader Transfer
+0	github	70.8	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/79	[radar] SN open bounty 2026-06-10T12:34
