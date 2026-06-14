@@ -1,0 +1,24 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	2.6	$2.89	OPEN_ISSUE,LOW_COMP	https://github.com/COMMENCINGTHESCOURGE/erdos-straus-solver/issues/3	[BOUNTY $75] Lightning AI L40S/A100 GPU compute dormant — litai SDK unused
+4	sn/bitcoin	15.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1508192	Sunday Survey: When did you first sell your Bitcoin?
+4	github	1.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/COMMENCINGTHESCOURGE/erdos-straus-solver/issues/22	[BOUNTY 0] Cold storage files pushed as raw blobs \u2014 needs LFS migration
+4	github	2.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/COMMENCINGTHESCOURGE/erdos-straus-solver/issues/5	[BOUNTY $30] Cold storage files pushed as raw blobs — needs LFS migration
+4	github	2.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/COMMENCINGTHESCOURGE/flux-chamber/issues/1	[BOUNTY $20] No issue tracker usage — 30 repos, 0 issues — problems live only in sessions
+4	github	2.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/COMMENCINGTHESCOURGE/erdos-straus-solver/issues/4	[BOUNTY $40] DeepSeek verifier never integrated into sieve pipeline
+4	github	2.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/COMMENCINGTHESCOURGE/erdos-straus-solver/issues/2	[BOUNTY $50] Kaggle T4 kernel push broken — requires manual web upload
+2	sn/bitcoin	23.6	-	OPEN_NEED	https://stacker.news/items/1508007	Has anyone paid with bitcoin yet?
+2	github	30.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/mollybeach/hedgepod/issues/11	Fill missing network config addresses (Zircuit, Arbitrum, Optimism)
+2	github	33.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/13	feat(indexer): add GET /stats endpoint for landing page protocol statistics
+2	github	33.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/6	feat(web): add USDC balance display and faucet link for testnet users
+2	github	33.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/3	feat(sdk): add TypeScript type guards for all contract return types
+2	github	33.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/13	test(pool): write deposit, withdraw, and yield distribution unit tests
+2	github	33.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/9	test(escrow): write unit tests for all escrow_contract functions
+2	github	4.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Scottcjn/rustchain-bounties/issues/14089	[BOUNTY: 50-200 RTC] YouTube video about RustChain + BoTTube (real channel, 100+ subs)
+2	github	13.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/matty33/eps-dapp/issues/157	feat(dashboard): /dashboard/[id] detail page — currently 404
+2	github	13.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/matty33/eps-dapp/issues/156	fix(hedera): NFT mint params in run-proof route — currently returning null
+2	github	15.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/kognitur/genesis/issues/2	💰 0.01 SOL BOUNTY: Teste @CORTEX33_Bot und gib Feedback
+2	github	16.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/matty33/eps-dapp/issues/147	🔧 Post-merge: verify endpoints, set ENS text records, mint Hedera NFT
+0	github	13.2	-	OPEN_ISSUE	https://github.com/matty33/eps-dapp/issues/158	fix(hedera): NFT mint METADATA_TOO_LONG — shorten caseId/metadata to ≤100 bytes
+0	github	15.7	-	OPEN_ISSUE	https://github.com/matty33/eps-dapp/issues/152	fix(audit): 6 critical fixes — dashboard links, terms/privacy, demo mode payments, ENS fallback
+0	github	16.1	-	OPEN_ISSUE	https://github.com/matty33/eps-dapp/issues/149	Full audit: 4 critical bugs + 6 UX fixes for ETHGlobal demo
+0	github	16.4	-	OPEN_ISSUE	https://github.com/matty33/eps-dapp/issues/148	🏆 UX + Hedera Round-Trip: ENS names on detail page, agent identity badge, NFT mint+transfer to defendant wallet
