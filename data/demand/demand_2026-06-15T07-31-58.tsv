@@ -1,0 +1,24 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	0.9	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Soroban-Smart-Block-Explorer/Soroban-Smart-Block-Backend-/issues/242	Fix decodedDescription bug in virtualList.ts (references non-existent field)
+4	sn/bitcoin	23.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1508192	Sunday Survey: When did you first sell your Bitcoin?
+2	github	38.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/mollybeach/hedgepod/issues/11	Fill missing network config addresses (Zircuit, Arbitrum, Optimism)
+2	github	41.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/13	feat(indexer): add GET /stats endpoint for landing page protocol statistics
+2	github	41.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/6	feat(web): add USDC balance display and faucet link for testnet users
+2	github	41.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/3	feat(sdk): add TypeScript type guards for all contract return types
+2	github	41.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/13	test(pool): write deposit, withdraw, and yield distribution unit tests
+2	github	41.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/9	test(escrow): write unit tests for all escrow_contract functions
+2	github	12.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Scottcjn/rustchain-bounties/issues/14089	[BOUNTY: 50-200 RTC] YouTube video about RustChain + BoTTube (real channel, 100+ subs)
+2	github	21.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/matty33/eps-dapp/issues/157	feat(dashboard): /dashboard/[id] detail page — currently 404
+2	github	21.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/matty33/eps-dapp/issues/156	fix(hedera): NFT mint params in run-proof route — currently returning null
+2	github	23.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/kognitur/genesis/issues/2	💰 0.01 SOL BOUNTY: Teste @CORTEX33_Bot und gib Feedback
+2	github	24.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/matty33/eps-dapp/issues/147	🔧 Post-merge: verify endpoints, set ENS text records, mint Hedera NFT
+0	github	4.6	-	OPEN_ISSUE	https://github.com/alulaalmi/Apache-APISIX/issues/1	🎯 Fix Stale Upstream Nodes in Kubernetes EndpointSlice Discovery Provider
+0	github	21.4	-	OPEN_ISSUE	https://github.com/matty33/eps-dapp/issues/158	fix(hedera): NFT mint METADATA_TOO_LONG — shorten caseId/metadata to ≤100 bytes
+0	github	23.9	-	OPEN_ISSUE	https://github.com/matty33/eps-dapp/issues/152	fix(audit): 6 critical fixes — dashboard links, terms/privacy, demo mode payments, ENS fallback
+0	github	24.3	-	OPEN_ISSUE	https://github.com/matty33/eps-dapp/issues/149	Full audit: 4 critical bugs + 6 UX fixes for ETHGlobal demo
+0	github	24.5	-	OPEN_ISSUE	https://github.com/matty33/eps-dapp/issues/148	🏆 UX + Hedera Round-Trip: ENS names on detail page, agent identity badge, NFT mint+transfer to defendant wallet
+0	github	25.2	-	OPEN_ISSUE	https://github.com/matty33/eps-dapp/issues/145	🏆 BOUNTY MASTER: Complete ENS + Hedera integration for ETHGlobal NYC 2026
+0	github	46.0	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/90	[radar] SN open bounty 2026-06-13T09:31
+0	github	62.0	-	OPEN_ISSUE	https://github.com/victorjones6awpg/Casbin/issues/1	🎯 Fix Stale Authorization Decisions in CachedEnforcer After Policy Updates
+0	github	63.8	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/46862	[Bounty $5000] [SFPU] Optimize `atanh`, `asinh`, and `acosh` with Numerically Stable `log1p`-Based Implementations (WH B
+0	github	66.9	-	OPEN_ISSUE	https://github.com/Dipraise1/Engram/issues/24	[benchmarks] Retrieval benchmark suite — recall@K vs Pinecone, Weaviate, pgvector
