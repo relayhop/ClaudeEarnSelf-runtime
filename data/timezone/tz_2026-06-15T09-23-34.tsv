@@ -1,0 +1,10 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH	github	0.0	0	2	https://github.com/alisteuber4ee1/Harbor/issues/1	🎯 Prevent Garbage Collection from Deleting Newly Pushed Blobs During Concurrent Replication
+FRESH	github	1.0	0	6	https://github.com/boundlessfi/boundless/issues/603	Epic: Bounty Configure wizard (organizer host-a-bounty flow)
+FRESH	github	1.0	0	9	https://github.com/boundlessfi/boundless/issues/602	FE: Sidebar nav entry + codegen + end-to-end verification
+FRESH	github	1.1	0	6	https://github.com/boundlessfi/boundless/issues/601	FE: use-bounty-publish (escrow publish via shared runner)
+FRESH	github	1.1	0	7	https://github.com/boundlessfi/boundless/issues/600	FE: Scope + Reward + Review tabs and Zod schemas
+FRESH	github	1.1	0	7	https://github.com/boundlessfi/boundless/issues/599	FE: ModeTab (two-axis picker) + SubmissionModelTab (mode-conditional fields)
+FRESH	github	1.1	0	6	https://github.com/boundlessfi/boundless/issues/598	FE: Bounty wizard shell + step/draft machinery
+FRESH	github	1.1	0	7	https://github.com/boundlessfi/boundless/issues/597	FE: Bounty routes + organization bounty list page
+FRESH	github	1.1	0	6	https://github.com/boundlessfi/boundless/issues/596	FE: features/bounties data layer (types, keys, draft + escrow clients/hooks)
