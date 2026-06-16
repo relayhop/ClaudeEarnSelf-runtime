@@ -1,0 +1,22 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	7.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1509003	Amulet Arsenal: an offline, single-file(s) Bitcoin self-custody suite
+3	github	19.5	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Soroban-Smart-Block-Explorer/Soroban-Smart-Block-Backend-/issues/242	Type-Safe Prisma Field Validator & Automated Schema Sync
+2	github	13.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/OpenRemit-Labs/StellarOnRamp-Lite/issues/1	Add INR (Indian Rupee) support
+2	github	57.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/mollybeach/hedgepod/issues/11	Fill missing network config addresses (Zircuit, Arbitrum, Optimism)
+2	github	60.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/13	feat(indexer): add GET /stats endpoint for landing page protocol statistics
+2	github	60.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/6	feat(web): add USDC balance display and faucet link for testnet users
+2	github	60.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/3	feat(sdk): add TypeScript type guards for all contract return types
+2	github	60.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/13	test(pool): write deposit, withdraw, and yield distribution unit tests
+2	github	60.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/9	test(escrow): write unit tests for all escrow_contract functions
+2	github	31.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Scottcjn/rustchain-bounties/issues/14089	[BOUNTY: 50-200 RTC] YouTube video about RustChain + BoTTube (real channel, 100+ subs)
+0	github	11.7	-	OPEN_ISSUE	https://github.com/Ads-Bazaar/ads-bazaar/issues/8	feat: Build AdsBazaar Landing Page
+0	github	17.8	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/603	Epic: Bounty Configure wizard (organizer host-a-bounty flow)
+0	github	17.8	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/602	FE: Sidebar nav entry + codegen + end-to-end verification
+0	github	17.8	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/601	FE: use-bounty-publish (escrow publish via shared runner)
+0	github	17.8	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/600	FE: Scope + Reward + Review tabs and Zod schemas
+0	github	17.8	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/599	FE: ModeTab (two-axis picker) + SubmissionModelTab (mode-conditional fields)
+0	github	17.8	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/598	FE: Bounty wizard shell + step/draft machinery
+0	github	17.8	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/597	FE: Bounty routes + organization bounty list page
+0	github	17.8	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/596	FE: features/bounties data layer (types, keys, draft + escrow clients/hooks)
+0	github	23.3	-	OPEN_ISSUE	https://github.com/alulaalmi/Apache-APISIX/issues/1	🎯 Fix Stale Upstream Nodes in Kubernetes EndpointSlice Discovery Provider
+0	github	64.7	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/90	[radar] SN open bounty 2026-06-13T09:31
