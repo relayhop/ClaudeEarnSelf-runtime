@@ -1,0 +1,31 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	0.1	$35	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/TentOfTrials/issues/72	[$35 BOUNTY] [Python] Add module-level docstrings to all top-level Python files
+5	github	0.2	$25	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/zeroeye/issues/5	[$25 BOUNTY] [Markdown] Add CI status badge and project shields to README
+5	github	0.3	$50	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/zeroeye/issues/4	[$50 BOUNTY] [Python] Comprehensive API test suite with fixtures and mocks
+5	github	1.9	$10	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/zeroeye/issues/1	[$10 BOUNTY] Verify build diagnostics are created
+5	github	2.7	$50	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/TentOfTrials/issues/67	[$50 - $100 BOUNTY] [urgent] Fix Build Diagnostics not generating on Windows.
+4	sn/bitcoin	0.6	-	OPEN_NEED	https://stacker.news/items/1509675	It never gets old (for me, anyway)
+4	sn/bitcoin	4.0	-	OPEN_NEED	https://stacker.news/items/1509570	Slot Miner - Why lottery mine when you can make your chances even worse?
+4	sn/bitcoin	0.8	-	OPEN_NEED	https://stacker.news/items/1509668	Do you think it is good/bad for Bitcoin if STRC collapses?
+4	sn/bitcoin	8.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1509421	implement joinstr and fix bugs by @1440000bytes - floresta_wallet
+4	sn/bitcoin	8.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1509397	Where Bisq Stands After the May 1, 2026 Security Incident
+4	sn/bitcoin	7.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1509434	Cashu For WooCommerce - Rob Wallace
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/bridgelet-org/bridgelet/issues/85	[Design] Create brand logo for Bridgelet
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Scottcjn/vintage-voice/issues/181	[Bounty: 35 RTC] Fix or improve the 8GB finetune pipeline
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Scottcjn/vintage-voice/issues/180	[Bounty: 75 RTC] 'Clone your heritage voice in an hour' demo + writeup
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Scottcjn/vintage-voice/issues/179	[Bounty: 100 RTC] Port inference to new/vintage hardware (PPC/POWER/ARM)
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Scottcjn/vintage-voice/issues/178	[Bounty: 15 RTC/PR] Contribute regional pronunciation lexicon entries
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Scottcjn/vintage-voice/issues/177	[Bounty: 150 RTC] Add a new accent/language voice profile
+3	github	40.4	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Soroban-Smart-Block-Explorer/Soroban-Smart-Block-Backend-/issues/242	Type-Safe Prisma Field Validator & Automated Schema Sync
+3	github	6.1	$6	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/TentOfTrials/issues/61	[$6 BOUNTY] [All] Enforce uppercase LEGACY comments
+3	github	7.9	$5	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/TentOfTrials/issues/49	[$5 BOUNTY] [All] Generate TODO audit report
+3	github	8.6	$50	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/TentOfTrials/issues/42	[$50 BOUNTY] [C] Route logger writes through logger macros
+3	github	8.7	$3	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/TentOfTrials/issues/41	[$20 BOUNTY] [Python] Add complete type hints without Any
+2	sn/bitcoin	18.7	-	OPEN_NEED	https://stacker.news/items/1509192	The Merge - Hodlonaut
+2	github	5.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ledger-Lenz/Ledgerlens-contract/issues/3	Add rustdoc examples and inline usage snippets to all public contract functions
+2	github	12.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/CalloraOrg/Callora-Contracts/issues/401	Fix non-compiling callora-revenue-pool — undefined `PAUSED_KEY` / `ERR_PAUSED` constants and document the pause API
+2	github	16.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-Ecosystem/lodestar/issues/39	Add form validation feedback to the service registration form
+2	github	34.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/OpenRemit-Labs/StellarOnRamp-Lite/issues/1	Add INR (Indian Rupee) support
+0	github	9.1	-	OPEN_ISSUE	https://github.com/Ledger-Lenz/Ledgerlens-data/issues/3	Add Startup Validation for Required Configuration Values in `config.py`
+0	github	32.6	-	OPEN_ISSUE	https://github.com/Ads-Bazaar/ads-bazaar/issues/8	feat: Build AdsBazaar Landing Page
+0	github	5.1	-	OPEN_ISSUE	https://github.com/TauCetiStation/TauCetiClassic/issues/14916	[Bounty] Портирование / Реализация системы base_turf для турфов шаттлов
