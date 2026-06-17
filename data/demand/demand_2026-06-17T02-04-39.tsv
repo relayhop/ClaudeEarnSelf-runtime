@@ -1,0 +1,16 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	3.6	-	OPEN_NEED	https://stacker.news/items/1509675	It never gets old (for me, anyway)
+4	sn/bitcoin	3.7	-	OPEN_NEED	https://stacker.news/items/1509668	Do you think it is good/bad for Bitcoin if STRC collapses?
+4	sn/bitcoin	11.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1509421	implement joinstr and fix bugs by @1440000bytes - floresta_wallet
+4	sn/bitcoin	11.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1509397	Where Bisq Stands After the May 1, 2026 Security Incident
+4	sn/bitcoin	10.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1509434	Cashu For WooCommerce - Rob Wallace
+3	github	43.4	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Soroban-Smart-Block-Explorer/Soroban-Smart-Block-Backend-/issues/242	Type-Safe Prisma Field Validator & Automated Schema Sync
+2	sn/bitcoin	7.0	-	OPEN_NEED	https://stacker.news/items/1509570	Slot Miner - Why lottery mine when you can make your chances even worse?
+2	sn/bitcoin	21.6	-	OPEN_NEED	https://stacker.news/items/1509192	The Merge - Hodlonaut
+2	github	4.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/bridgelet-org/bridgelet/issues/85	[Design] Create brand logo for Bridgelet
+2	github	8.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ledger-Lenz/Ledgerlens-contract/issues/3	Add rustdoc examples and inline usage snippets to all public contract functions
+2	github	15.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/CalloraOrg/Callora-Contracts/issues/401	Fix non-compiling callora-revenue-pool — undefined `PAUSED_KEY` / `ERR_PAUSED` constants and document the pause API
+2	github	19.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-Ecosystem/lodestar/issues/39	Add form validation feedback to the service registration form
+2	github	37.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/OpenRemit-Labs/StellarOnRamp-Lite/issues/1	Add INR (Indian Rupee) support
+0	github	12.1	-	OPEN_ISSUE	https://github.com/Ledger-Lenz/Ledgerlens-data/issues/3	Add Startup Validation for Required Configuration Values in `config.py`
+0	github	35.5	-	OPEN_ISSUE	https://github.com/Ads-Bazaar/ads-bazaar/issues/8	feat: Build AdsBazaar Landing Page
