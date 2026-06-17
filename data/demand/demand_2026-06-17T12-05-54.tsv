@@ -1,0 +1,30 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	1.0	$70	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/TentOfTrials/issues/127	[$70 BOUNTY] Rust Protocol Validation Tests
+5	github	2.4	$30	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/TentOfTrials/issues/120	[$30 BOUNTY] Go Metrics Export
+4	sn/bitcoin	21.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1509421	implement joinstr and fix bugs by @1440000bytes - floresta_wallet
+4	sn/bitcoin	21.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1509397	Where Bisq Stands After the May 1, 2026 Security Incident
+4	sn/bitcoin	20.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1509434	Cashu For WooCommerce - Rob Wallace
+4	github	3.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/quachminh11/VictoriaMetrics/issues/1	🎯 Fix: vmagent permanently stops scraping targets after consecutive DNS resolution failures
+3	github	53.4	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Soroban-Smart-Block-Explorer/Soroban-Smart-Block-Backend-/issues/242	Type-Safe Prisma Field Validator & Automated Schema Sync
+3	github	3.7	$65	OPEN_ISSUE	https://github.com/lobster-trap/zeroeye/issues/68	[$65 BOUNTY] Go Orderbook Snapshot
+3	github	5.1	$12	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/zeroeye/issues/58	[$12 BOUNTY] All Editorconfig
+3	github	6.7	$75	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/zeroeye/issues/53	[$75 BOUNTY] Typescript Rewrite Legacy Compat
+3	github	6.7	$55	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/zeroeye/issues/52	[$55 BOUNTY] Python Build Cli
+2	sn/bitcoin	13.6	-	OPEN_NEED	https://stacker.news/items/1509675	It never gets old (for me, anyway)
+2	sn/bitcoin	13.8	-	OPEN_NEED	https://stacker.news/items/1509668	Do you think it is good/bad for Bitcoin if STRC collapses?
+2	sn/bitcoin	17.0	-	OPEN_NEED	https://stacker.news/items/1509570	Slot Miner - Why lottery mine when you can make your chances even worse?
+2	github	14.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/bridgelet-org/bridgelet/issues/85	[Design] Create brand logo for Bridgelet
+2	github	25.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/CalloraOrg/Callora-Contracts/issues/401	Fix non-compiling callora-revenue-pool — undefined `PAUSED_KEY` / `ERR_PAUSED` constants and document the pause API
+2	github	29.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-Ecosystem/lodestar/issues/39	Add form validation feedback to the service registration form
+2	github	47.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/OpenRemit-Labs/StellarOnRamp-Lite/issues/1	Add INR (Indian Rupee) support
+1	github	6.5	$35	OPEN_ISSUE	https://github.com/lobster-trap/TentOfTrials/issues/97	[$35 BOUNTY] Typescript Error Boundaries
+1	github	9.1	$20	OPEN_ISSUE	https://github.com/lobster-trap/zeroeye/issues/34	[$20 BOUNTY] [JSON] Create a JSON Schema for one existing data structure
+1	github	10.1	$25	OPEN_ISSUE	https://github.com/lobster-trap/zeroeye/issues/23	[$25 BOUNTY] [Python] Add complete type hints to 10 public functions in a single module
+1	github	11.1	$30	OPEN_ISSUE	https://github.com/lobster-trap/zeroeye/issues/12	[$30 BOUNTY] [Docs] Create CONTRIBUTING.md with build instructions and PR guidelines
+1	github	12.1	$20	OPEN_ISSUE	https://github.com/lobster-trap/zeroeye/issues/10	[$20 BOUNTY] [Config] Add .editorconfig with consistent project formatting rules
+1	github	13.1	$35	OPEN_ISSUE	https://github.com/lobster-trap/TentOfTrials/issues/72	[$35 BOUNTY] [Python] Add module-level docstrings to all top-level Python files
+1	github	13.1	$25	OPEN_ISSUE	https://github.com/lobster-trap/zeroeye/issues/5	[$25 BOUNTY] [Markdown] Add CI status badge and project shields to README
+1	github	13.3	$50	OPEN_ISSUE	https://github.com/lobster-trap/zeroeye/issues/4	[$50 BOUNTY] [Python] Comprehensive API test suite with fixtures and mocks
+0	github	18.8	-	OPEN_ISSUE	https://github.com/Ledger-Lenz/Ledgerlens-contract/issues/3	Add rustdoc examples and inline usage snippets to all public contract functions
+0	github	22.1	-	OPEN_ISSUE	https://github.com/Ledger-Lenz/Ledgerlens-data/issues/3	Add Startup Validation for Required Configuration Values in `config.py`
+0	github	45.6	-	OPEN_ISSUE	https://github.com/Ads-Bazaar/ads-bazaar/issues/8	feat: Build AdsBazaar Landing Page
