@@ -1,0 +1,27 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	0.4	$45	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/TentOfTrials/issues/187	[$45 BOUNTY] Ruby Redis Pubsub Market Stream
+3	github	59.8	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Soroban-Smart-Block-Explorer/Soroban-Smart-Block-Backend-/issues/242	Type-Safe Prisma Field Validator & Automated Schema Sync
+3	github	1.8	$18	OPEN_ISSUE	https://github.com/lobster-trap/TentOfTrials/issues/165	[$18 BOUNTY] Rust Serde Rename Snake Case
+3	github	3.2	$120	OPEN_ISSUE	https://github.com/lobster-trap/TentOfTrials/issues/157	[$120 BOUNTY] Java Refactor Compliance Auditor
+2	sn/bitcoin	20.1	-	OPEN_NEED	https://stacker.news/items/1509668	Do you think it is good/bad for Bitcoin if STRC collapses?
+2	sn/bitcoin	20.0	-	OPEN_NEED	https://stacker.news/items/1509675	It never gets old (for me, anyway)
+2	sn/bitcoin	23.4	-	OPEN_NEED	https://stacker.news/items/1509570	Slot Miner - Why lottery mine when you can make your chances even worse?
+2	github	31.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/CalloraOrg/Callora-Contracts/issues/401	Fix non-compiling callora-revenue-pool — undefined `PAUSED_KEY` / `ERR_PAUSED` constants and document the pause API
+2	github	35.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-Ecosystem/lodestar/issues/39	Add form validation feedback to the service registration form
+2	github	53.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/OpenRemit-Labs/StellarOnRamp-Lite/issues/1	Add INR (Indian Rupee) support
+2	github	1.4	-	OPEN_ISSUE	https://github.com/dungkimtran3d/Traefik/issues/1	🎯 Fix: File Provider Stops Applying Dynamic Configuration Updates After Rapid Consecutive Writes
+2	github	3.2	-	OPEN_ISSUE	https://github.com/elnahomenick123/Gitea/issues/1	🎯 Fix Deadlock in Webhook Delivery Worker on GitHub Rate Limit (429) Responses
+2	github	3.9	-	OPEN_ISSUE	https://github.com/elnahomenick123/Vault/issues/1	🎯 Fix Auth Mount Accessor Desynchronization After Raft Snapshot Restore
+2	github	9.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/quachminh11/VictoriaMetrics/issues/1	🎯 Fix: vmagent permanently stops scraping targets after consecutive DNS resolution failures
+1	github	4.6	$25	OPEN_ISSUE	https://github.com/lobster-trap/zeroeye/issues/89	[$25 BOUNTY] Python Precommit Hook
+1	github	6.0	$90	OPEN_ISSUE	https://github.com/lobster-trap/TentOfTrials/issues/139	[$90 BOUNTY] C Buddy Allocator
+1	github	7.3	$70	OPEN_ISSUE	https://github.com/lobster-trap/TentOfTrials/issues/127	[$70 BOUNTY] Rust Protocol Validation Tests
+1	github	8.7	$30	OPEN_ISSUE	https://github.com/lobster-trap/TentOfTrials/issues/120	[$30 BOUNTY] Go Metrics Export
+1	github	10.1	$65	OPEN_ISSUE	https://github.com/lobster-trap/zeroeye/issues/68	[$65 BOUNTY] Go Orderbook Snapshot
+1	github	11.5	$12	OPEN_ISSUE	https://github.com/lobster-trap/zeroeye/issues/58	[$12 BOUNTY] All Editorconfig
+1	github	12.9	$35	OPEN_ISSUE	https://github.com/lobster-trap/TentOfTrials/issues/97	[$35 BOUNTY] Typescript Error Boundaries
+1	github	13.1	$75	OPEN_ISSUE	https://github.com/lobster-trap/zeroeye/issues/53	[$75 BOUNTY] Typescript Rewrite Legacy Compat
+0	github	21.0	-	OPEN_ISSUE	https://github.com/bridgelet-org/bridgelet/issues/85	[Design] Create brand logo for Bridgelet
+0	github	25.2	-	OPEN_ISSUE	https://github.com/Ledger-Lenz/Ledgerlens-contract/issues/3	Add rustdoc examples and inline usage snippets to all public contract functions
+0	github	28.5	-	OPEN_ISSUE	https://github.com/Ledger-Lenz/Ledgerlens-data/issues/3	Add Startup Validation for Required Configuration Values in `config.py`
+0	github	51.9	-	OPEN_ISSUE	https://github.com/Ads-Bazaar/ads-bazaar/issues/8	feat: Build AdsBazaar Landing Page
