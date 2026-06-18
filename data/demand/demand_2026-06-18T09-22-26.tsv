@@ -1,0 +1,26 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	8.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1510404	Defining 0x50 0x00 as unstructured taproot annex data
+4	sn/tech	7.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1510428	Block rolls out Builderbot, a suite of AI-native tools changing how they ship
+4	github	1.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Eaprime1/custos/issues/35	[bounty] A symbol for Claude, and a lexeme for the entities' interaction zone
+3	github	13.9	$20	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/TentOfTrials/issues/193	[$20 BOUNTY] Typescript Functional Components
+3	github	15.3	$45	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/TentOfTrials/issues/187	[$45 BOUNTY] Ruby Redis Pubsub Market Stream
+2	github	46.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/CalloraOrg/Callora-Contracts/issues/401	Fix non-compiling callora-revenue-pool — undefined `PAUSED_KEY` / `ERR_PAUSED` constants and document the pause API
+2	github	50.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-Ecosystem/lodestar/issues/39	Add form validation feedback to the service registration form
+2	github	68.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/OpenRemit-Labs/StellarOnRamp-Lite/issues/1	Add INR (Indian Rupee) support
+1	github	6.1	$55	OPEN_ISSUE	https://github.com/lobster-trap/TentOfTrials/issues/249	[$55 BOUNTY] [Rust] Add request ID propagation
+1	github	6.7	$55	OPEN_ISSUE	https://github.com/lobster-trap/zeroeye/issues/193	[$55 BOUNTY] [Python] Add health check retry policy
+1	github	7.3	$60	OPEN_ISSUE	https://github.com/lobster-trap/TentOfTrials/issues/237	[$60 BOUNTY] [Rust] Add backend configuration loader
+1	github	7.8	$45	OPEN_ISSUE	https://github.com/lobster-trap/zeroeye/issues/185	[$45 BOUNTY] [Python] Add log aggregator JSONL output
+1	github	8.4	$45	OPEN_ISSUE	https://github.com/lobster-trap/TentOfTrials/issues/232	[$45 BOUNTY] [Docs] Generate build module reference
+1	github	8.9	$50	OPEN_ISSUE	https://github.com/lobster-trap/zeroeye/issues/178	[$50 BOUNTY] [Python] Add deterministic data generator seed support
+1	github	9.5	$35	OPEN_ISSUE	https://github.com/lobster-trap/TentOfTrials/issues/225	[$35 BOUNTY] [Python] Add module selection validation to build.py
+1	github	10.0	$35	OPEN_ISSUE	https://github.com/lobster-trap/zeroeye/issues/172	[$35 BOUNTY] [Python] Add diagnostic metadata diff tool
+1	github	10.6	$40	OPEN_ISSUE	https://github.com/lobster-trap/TentOfTrials/issues/211	[$40 BOUNTY] [Python] Add structured build timing report
+1	github	16.7	$18	OPEN_ISSUE	https://github.com/lobster-trap/TentOfTrials/issues/165	[$18 BOUNTY] Rust Serde Rename Snake Case
+0	github	10.7	-	OPEN_ISSUE	https://github.com/Neko-Protocol/Neko-DApp/issues/229	Analytics module: portfolio earnings & advanced DeFi analytics
+0	github	35.9	-	OPEN_ISSUE	https://github.com/bridgelet-org/bridgelet/issues/85	[Design] Create brand logo for Bridgelet
+0	github	40.1	-	OPEN_ISSUE	https://github.com/Ledger-Lenz/Ledgerlens-contract/issues/3	Add rustdoc examples and inline usage snippets to all public contract functions
+0	github	43.4	-	OPEN_ISSUE	https://github.com/Ledger-Lenz/Ledgerlens-data/issues/3	Add Startup Validation for Required Configuration Values in `config.py`
+0	github	66.8	-	OPEN_ISSUE	https://github.com/Ads-Bazaar/ads-bazaar/issues/8	feat: Build AdsBazaar Landing Page
+0	github	16.3	-	OPEN_ISSUE	https://github.com/dungkimtran3d/Traefik/issues/1	🎯 Fix: File Provider Stops Applying Dynamic Configuration Updates After Rapid Consecutive Writes
+0	github	18.1	-	OPEN_ISSUE	https://github.com/elnahomenick123/Gitea/issues/1	🎯 Fix Deadlock in Webhook Delivery Worker on GitHub Rate Limit (429) Responses
