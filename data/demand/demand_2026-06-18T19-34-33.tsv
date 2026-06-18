@@ -1,0 +1,27 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	0.5	$45	OPEN_ISSUE,LOW_COMP	https://github.com/lakhman108/zeroeye/issues/1	[$45 BOUNTY] [Go] Restrict WebSocket origin checks in market stream
+5	github	0.5	$30	OPEN_ISSUE,LOW_COMP	https://github.com/SnowfallHD/TentOfTrials/issues/1	[$30 BOUNTY] [Go] Add WebSocket heartbeat and idle disconnects
+5	github	0.5	$50	OPEN_ISSUE,LOW_COMP	https://github.com/SnowfallHD/zeroeye/issues/2	[$50 BOUNTY] [Python] Add health check retry/backoff support
+5	github	0.5	$45	OPEN_ISSUE,LOW_COMP	https://github.com/SnowfallHD/zeroeye/issues/1	[$45 BOUNTY] [Python] Add config generator validation coverage
+5	github	0.8	$20	OPEN_ISSUE,LOW_COMP	https://github.com/codeboost-tr/zeroeye/issues/1	[ BOUNTY] [Python] Add retry mechanism with exponential backoff to health check tool
+5	github	0.9	$70	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/TentOfTrials/issues/334	[$70 BOUNTY] [Go] Add WebSocket heartbeat and idle disconnects
+5	github	0.9	$45	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/zeroeye/issues/262	[$45 BOUNTY] [Python] Add config generator schema validation
+5	github	0.9	$45	OPEN_ISSUE,LOW_COMP	https://github.com/Thecesar85/TentOfTrials-bounty-67/issues/1	[$45 BOUNTY] [Python] Add config generator validation coverage
+5	github	1.0	$25	OPEN_ISSUE,LOW_COMP	https://github.com/thanhle74/zeroeye/issues/6	[$25 BOUNTY] [Python] feat: Add comprehensive API test suite
+5	github	1.0	$25	OPEN_ISSUE,LOW_COMP	https://github.com/thanhle74/zeroeye/issues/5	[$25 BOUNTY] [Python] feat: Add diagnostic metadata diff tool
+5	github	1.0	$25	OPEN_ISSUE,LOW_COMP	https://github.com/thanhle74/zeroeye/issues/4	[$25 BOUNTY] [Python] feat: Add deterministic seed support to data_generator.py
+5	github	1.0	$25	OPEN_ISSUE,LOW_COMP	https://github.com/thanhle74/zeroeye/issues/3	[$25 BOUNTY] [Python] feat: Add JSONL output to log_aggregator.py
+5	github	1.0	$25	OPEN_ISSUE,LOW_COMP	https://github.com/thanhle74/zeroeye/issues/2	[$25 BOUNTY] [Python] feat: Add retry/backoff support to health_check.py
+5	github	1.0	$25	OPEN_ISSUE,LOW_COMP	https://github.com/thanhle74/zeroeye/issues/1	[$25 BOUNTY] [Python] Add type hints to log_aggregator.py
+4	sn/bitcoin	3.8	-	OPEN_NEED	https://stacker.news/items/1510769	What’s still missing before a business can run its finances on bitcoin?
+4	sn/bitcoin	18.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1510404	Defining 0x50 0x00 as unstructured taproot annex data
+4	sn/tech	17.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1510428	Block rolls out Builderbot, a suite of AI-native tools changing how they ship
+3	github	2.0	$65	OPEN_ISSUE	https://github.com/lobster-trap/TentOfTrials/issues/329	[$65 BOUNTY] [Go] Add gateway rate limiting middleware
+2	github	23.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Zcorehub/ZCore-dev/issues/5	Add seed script for local development
+2	github	56.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/CalloraOrg/Callora-Contracts/issues/401	Fix non-compiling callora-revenue-pool — undefined `PAUSED_KEY` / `ERR_PAUSED` constants and document the pause API
+2	github	60.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-Ecosystem/lodestar/issues/39	Add form validation feedback to the service registration form
+0	github	5.0	-	OPEN_ISSUE	https://github.com/OrbitChainLabs/OrbitChain-API/issues/9	[MEDIUM] — `parseAcceptedAssets` silently drops malformed entries instead of rejecting the create/update request
+0	github	20.9	-	OPEN_ISSUE	https://github.com/Neko-Protocol/Neko-DApp/issues/229	Analytics module: portfolio earnings & advanced DeFi analytics
+0	github	46.1	-	OPEN_ISSUE	https://github.com/bridgelet-org/bridgelet/issues/85	[Design] Create brand logo for Bridgelet
+0	github	50.3	-	OPEN_ISSUE	https://github.com/Ledger-Lenz/Ledgerlens-contract/issues/3	Add rustdoc examples and inline usage snippets to all public contract functions
+0	github	53.6	-	OPEN_ISSUE	https://github.com/Ledger-Lenz/Ledgerlens-data/issues/3	Add Startup Validation for Required Configuration Values in `config.py`
