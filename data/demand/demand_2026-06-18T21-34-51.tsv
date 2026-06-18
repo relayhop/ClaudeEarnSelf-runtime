@@ -1,0 +1,28 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	0.1	$25	OPEN_ISSUE,LOW_COMP	https://github.com/Peter7896/zeroeye/issues/1	[$25 BOUNTY] [Python] Add diagnostic bundle validation tests
+5	github	1.2	$50	OPEN_ISSUE,LOW_COMP	https://github.com/mannowell/zeroeye/issues/1	[0 BOUNTY] [Python] Add retry/backoff to health_check.py for transient failures
+5	github	1.8	$85	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/TentOfTrials/issues/335	[$85 BOUNTY] [Go] Add matching engine invariant tests
+5	github	1.8	$60	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/zeroeye/issues/264	[$60 BOUNTY] [Lua] Add OpenAPI diff breaking-change categories
+5	github	1.9	$25	OPEN_ISSUE,LOW_COMP	https://github.com/cuentaprueba244w-dotcom/zeroeye/issues/7	[ BOUNTY] [Python] Add complete type hints to build.py functions
+5	github	1.9	$20	OPEN_ISSUE,LOW_COMP	https://github.com/cuentaprueba244w-dotcom/zeroeye/issues/5	[ BOUNTY] [JSON] Create JSON Schema for project data structure
+5	github	1.9	$12	OPEN_ISSUE,LOW_COMP	https://github.com/cuentaprueba244w-dotcom/zeroeye/issues/6	[ BOUNTY] [Config] Complete .editorconfig with format checker
+5	github	1.9	$10	OPEN_ISSUE,LOW_COMP	https://github.com/cuentaprueba244w-dotcom/zeroeye/issues/4	[ BOUNTY] [Python] Verify build diagnostics are created
+5	github	1.9	$30	OPEN_ISSUE,LOW_COMP	https://github.com/cuentaprueba244w-dotcom/zeroeye/issues/3	[ BOUNTY] [Docs] Create CONTRIBUTING.md with build instructions
+5	github	1.9	$25	OPEN_ISSUE,LOW_COMP	https://github.com/cuentaprueba244w-dotcom/zeroeye/issues/1	[ BOUNTY] [Markdown] Add CI status badge and project shields to README
+5	github	1.9	$20	OPEN_ISSUE,LOW_COMP	https://github.com/cuentaprueba244w-dotcom/zeroeye/issues/2	[ BOUNTY] [Config] Add .editorconfig with consistent formatting rules
+5	github	1.9	$16	OPEN_ISSUE,LOW_COMP	https://github.com/cuentaprueba244w-dotcom/TentOfTrials/issues/4	[ BOUNTY] [Rust] Deprecate legacy public functions
+5	github	1.9	$35	OPEN_ISSUE,LOW_COMP	https://github.com/cuentaprueba244w-dotcom/TentOfTrials/issues/3	[ BOUNTY] [Python] Add module-level docstrings to all Python files
+5	github	1.9	$6	OPEN_ISSUE,LOW_COMP	https://github.com/cuentaprueba244w-dotcom/TentOfTrials/issues/2	[ BOUNTY] [Python] Enforce uppercase LEGACY comments
+5	github	1.9	$5	OPEN_ISSUE,LOW_COMP	https://github.com/cuentaprueba244w-dotcom/TentOfTrials/issues/1	[ BOUNTY] [Python] Generate TODO audit report for codebase
+4	sn/bitcoin	20.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1510404	Defining 0x50 0x00 as unstructured taproot annex data
+4	sn/tech	19.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1510428	Block rolls out Builderbot, a suite of AI-native tools changing how they ship
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/Savitools/issues/20	Payment Path Simulator, Route Finder, Hop Visualiser & Slippage Estimator
+2	sn/bitcoin	5.8	-	OPEN_NEED	https://stacker.news/items/1510769	What’s still missing before a business can run its finances on bitcoin?
+2	github	25.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Zcorehub/ZCore-dev/issues/5	Add seed script for local development
+2	github	58.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/CalloraOrg/Callora-Contracts/issues/401	Fix non-compiling callora-revenue-pool — undefined `PAUSED_KEY` / `ERR_PAUSED` constants and document the pause API
+2	github	62.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-Ecosystem/lodestar/issues/39	Add form validation feedback to the service registration form
+0	github	7.0	-	OPEN_ISSUE	https://github.com/OrbitChainLabs/OrbitChain-API/issues/9	[MEDIUM] — `parseAcceptedAssets` silently drops malformed entries instead of rejecting the create/update request
+0	github	22.9	-	OPEN_ISSUE	https://github.com/Neko-Protocol/Neko-DApp/issues/229	Analytics module: portfolio earnings & advanced DeFi analytics
+0	github	48.1	-	OPEN_ISSUE	https://github.com/bridgelet-org/bridgelet/issues/85	[Design] Create brand logo for Bridgelet
+0	github	52.3	-	OPEN_ISSUE	https://github.com/Ledger-Lenz/Ledgerlens-contract/issues/3	Add rustdoc examples and inline usage snippets to all public contract functions
+0	github	55.6	-	OPEN_ISSUE	https://github.com/Ledger-Lenz/Ledgerlens-data/issues/3	Add Startup Validation for Required Configuration Values in `config.py`
