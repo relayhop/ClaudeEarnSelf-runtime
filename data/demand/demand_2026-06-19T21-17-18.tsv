@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	0.2	$50	OPEN_ISSUE,LOW_COMP	https://github.com/renaudgenard/TentOfTrials/issues/2	[$50 BOUNTY] [Python] Fix data_generator.py broken --format both and input validation
+5	github	0.2	$50	OPEN_ISSUE,LOW_COMP	https://github.com/renaudgenard/TentOfTrials/issues/1	[$50 BOUNTY] [Python] Fix log_aggregator.py crash on empty input
+5	github	0.2	$50	OPEN_ISSUE,LOW_COMP	https://github.com/renaudgenard/zeroeye/issues/2	[$50 BOUNTY] [Lua] Fix openapi_pact.lua undefined globals and unsafe filesystem operations
+5	github	0.2	$50	OPEN_ISSUE,LOW_COMP	https://github.com/renaudgenard/zeroeye/issues/1	[$50 BOUNTY] [Lua] Fix openapi_diff.lua runtime failures and add error handling
+4	sn/bitcoin	4.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1511436	Nimdolf: Non-interactive Mint Delegation on Liveness Failure - luke childs
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4805	Proposal: discontinue the Bounty program — frozen since 2018, README still advertises payment in 2026
+3	sn/bitcoin	9.1	$5	OPEN_NEED	https://stacker.news/items/1511251	Bitcoin Influencers: How Much They Paid & How Sponsors Shape what we Consume
+3	github	3.6	$20	OPEN_ISSUE	https://github.com/codeboost-tr/zeroeye/issues/5	[ BOUNTY] [Python] Fix false pass rate in log parser test suite
+3	github	3.9	$20	OPEN_ISSUE	https://github.com/codeboost-tr/zeroeye/issues/4	[ BOUNTY] [Python] Add flag to disable rate limiter in benchmark tool
+2	sn/bitcoin	6.6	-	OPEN_NEED	https://stacker.news/items/1511345	Discovering Tampa Bay's Bitcoin Community
+2	github	4.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Payflowcore/payflowapp/issues/5	Show the issuer for non-native balances
+2	github	22.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/12	Add asset logo SVGs for XLM and USDC
+2	github	22.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/11	Add Max button to Swap page from-amount field
+2	github	22.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/10	Improve Horizon error messages for common operation failures
+2	github	23.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/7	Show XLM minimum reserve warning before sending
+2	github	49.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Zcorehub/ZCore-dev/issues/5	Add seed script for local development
+1	github	6.2	$50	OPEN_ISSUE	https://github.com/Peter7896/TentOfTrials/issues/2	[$50 BOUNTY] [Rust] Add protocol frame codec recovery tests
+1	github	6.2	$40	OPEN_ISSUE	https://github.com/Peter7896/TentOfTrials/issues/1	[$40 BOUNTY] [Python] Add diagnostic redaction regression tests
+1	github	6.2	$45	OPEN_ISSUE	https://github.com/Peter7896/zeroeye/issues/4	[$45 BOUNTY] [Go] Add WebSocket order book delta validation tests
+1	github	7.5	$15	OPEN_ISSUE	https://github.com/shuaitao105/TentOfTrials/issues/1	[$15 BOUNTY] [Python] Add retry/backoff to health_check HTTP probes
+1	github	11.1	$15	OPEN_ISSUE	https://github.com/caydyan/zeroeye/issues/1	[$15 BOUNTY] [Go] Make analytics collector Start idempotent
+1	github	12.7	$50	OPEN_ISSUE	https://github.com/mannowell/zeroeye/issues/4	[$50 BOUNTY] [Python] Add retry/backoff to health_check.py for transient failures
+1	github	13.9	$40	OPEN_ISSUE	https://github.com/jackjin1997/zeroeye/issues/2	[$40 BOUNTY] [Go] Add order book cancellation depth tests
+1	github	13.9	$30	OPEN_ISSUE	https://github.com/jackjin1997/zeroeye/issues/1	[$30 BOUNTY] [Python] Expand backend API contract edge-case tests
+0	github	24.3	-	OPEN_ISSUE	https://github.com/Savitura/Savitools/issues/20	Payment Path Simulator, Route Finder, Hop Visualiser & Slippage Estimator
+0	github	30.7	-	OPEN_ISSUE	https://github.com/OrbitChainLabs/OrbitChain-API/issues/9	[MEDIUM] — `parseAcceptedAssets` silently drops malformed entries instead of rejecting the create/update request
+0	github	46.6	-	OPEN_ISSUE	https://github.com/Neko-Protocol/Neko-DApp/issues/229	Analytics module: portfolio earnings & advanced DeFi analytics
+0	github	71.8	-	OPEN_ISSUE	https://github.com/bridgelet-org/bridgelet/issues/85	[Design] Create brand logo for Bridgelet
