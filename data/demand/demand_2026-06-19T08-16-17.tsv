@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	0.9	$30	OPEN_ISSUE,LOW_COMP	https://github.com/jackjin1997/zeroeye/issues/1	[$30 BOUNTY] [Python] Expand backend API contract edge-case tests
+5	github	0.9	$30	OPEN_ISSUE,LOW_COMP	https://github.com/jackjin1997/TentOfTrials/issues/3	[$30 BOUNTY] [Python] Add build diagnostic metadata tests
+5	github	0.9	$50	OPEN_ISSUE,LOW_COMP	https://github.com/jackjin1997/TentOfTrials/issues/2	[$50 BOUNTY] [Go] Add gateway auth middleware tests
+5	github	0.9	$45	OPEN_ISSUE,LOW_COMP	https://github.com/jackjin1997/TentOfTrials/issues/1	[$45 BOUNTY] [Go] Add WebSocket hub lifecycle tests
+5	github	3.6	$20	OPEN_ISSUE,LOW_COMP	https://github.com/benglezhenjun/zeroeye/issues/1	[$20 BOUNTY] [Python] Make clean_module report failed clean commands
+3	github	0.9	$40	OPEN_ISSUE	https://github.com/jackjin1997/zeroeye/issues/2	[$40 BOUNTY] [Go] Add order book cancellation depth tests
+3	github	3.6	$25	OPEN_ISSUE	https://github.com/weilixiong/TentOfTrials/issues/5	[$25 BOUNTY] [Python] Add independent log parser fixtures
+3	github	5.2	$30	OPEN_ISSUE,LOW_COMP	https://github.com/weilixiong/zeroeye/issues/1	[$30 BOUNTY] [Python] Fix HighMemoryUsage alert ratio expression
+3	github	6.0	$20	OPEN_ISSUE,LOW_COMP	https://github.com/snkk2x-collab/zeroeye/issues/2	[$20 BOUNTY] [Python] Add diagnostic diff regression gate option
+3	github	6.3	$20	OPEN_ISSUE,LOW_COMP	https://github.com/snkk2x-collab/zeroeye/issues/1	[$20 BOUNTY] [Python] Add benchmark rate-limit bypass flag
+3	github	7.1	$40	OPEN_ISSUE,LOW_COMP	https://github.com/Andyyook/zeroeye/issues/1	[$40 BOUNTY] [Python] Add input validation and error handling to verify_diagnostics.py
+2	sn/bitcoin	16.5	-	OPEN_NEED	https://stacker.news/items/1510769	What’s still missing before a business can run its finances on bitcoin?
+2	github	9.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/12	Add asset logo SVGs for XLM and USDC
+2	github	9.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/11	Add Max button to Swap page from-amount field
+2	github	9.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/10	Improve Horizon error messages for common operation failures
+2	github	9.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/7	Show XLM minimum reserve warning before sending
+2	github	36.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Zcorehub/ZCore-dev/issues/5	Add seed script for local development
+2	github	69.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/CalloraOrg/Callora-Contracts/issues/401	Fix non-compiling callora-revenue-pool — undefined `PAUSED_KEY` / `ERR_PAUSED` constants and document the pause API
+1	github	4.3	$50	OPEN_ISSUE	https://github.com/weilixiong/TentOfTrials/issues/1	[$50 BOUNTY] [Python] Add cross-platform health check fallbacks
+1	github	5.2	$50	OPEN_ISSUE	https://github.com/Errordog2/TentOfTrials/issues/4	[$50 BOUNTY] [React] Add top-level frontend ErrorBoundary
+1	github	5.2	$50	OPEN_ISSUE	https://github.com/Errordog2/TentOfTrials/issues/2	[$50 BOUNTY] [Perl] Implement log_watchdog config reload and Slack proxy settings
+1	github	5.2	$35	OPEN_ISSUE	https://github.com/shaiananvari8/zeroeye/issues/1	[$35 BOUNTY] [TypeScript] Add single-flight token refresh handling
+0	github	11.3	-	OPEN_ISSUE	https://github.com/Savitura/Savitools/issues/20	Payment Path Simulator, Route Finder, Hop Visualiser & Slippage Estimator
+0	github	17.7	-	OPEN_ISSUE	https://github.com/OrbitChainLabs/OrbitChain-API/issues/9	[MEDIUM] — `parseAcceptedAssets` silently drops malformed entries instead of rejecting the create/update request
+0	github	33.6	-	OPEN_ISSUE	https://github.com/Neko-Protocol/Neko-DApp/issues/229	Analytics module: portfolio earnings & advanced DeFi analytics
+0	github	58.8	-	OPEN_ISSUE	https://github.com/bridgelet-org/bridgelet/issues/85	[Design] Create brand logo for Bridgelet
+0	github	63.0	-	OPEN_ISSUE	https://github.com/Ledger-Lenz/Ledgerlens-contract/issues/3	Add rustdoc examples and inline usage snippets to all public contract functions
+0	github	66.3	-	OPEN_ISSUE	https://github.com/Ledger-Lenz/Ledgerlens-data/issues/3	Add Startup Validation for Required Configuration Values in `config.py`
