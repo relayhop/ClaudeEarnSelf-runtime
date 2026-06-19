@@ -1,0 +1,28 @@
+# score	source	age_h	payout_hint	tags	url	title
+3	github	2.4	$15	OPEN_ISSUE	https://github.com/caydyan/zeroeye/issues/1	[$15 BOUNTY] [Go] Make analytics collector Start idempotent
+3	github	4.0	$50	OPEN_ISSUE	https://github.com/mannowell/zeroeye/issues/4	[$50 BOUNTY] [Python] Add retry/backoff to health_check.py for transient failures
+3	github	7.9	$20	OPEN_ISSUE,LOW_COMP	https://github.com/benglezhenjun/zeroeye/issues/1	[$20 BOUNTY] [Python] Make clean_module report failed clean commands
+3	github	9.5	$30	OPEN_ISSUE,LOW_COMP	https://github.com/weilixiong/zeroeye/issues/1	[$30 BOUNTY] [Python] Fix HighMemoryUsage alert ratio expression
+3	github	10.3	$20	OPEN_ISSUE,LOW_COMP	https://github.com/snkk2x-collab/zeroeye/issues/2	[$20 BOUNTY] [Python] Add diagnostic diff regression gate option
+3	github	10.6	$20	OPEN_ISSUE,LOW_COMP	https://github.com/snkk2x-collab/zeroeye/issues/1	[$20 BOUNTY] [Python] Add benchmark rate-limit bypass flag
+2	sn/bitcoin	20.8	-	OPEN_NEED	https://stacker.news/items/1510769	What’s still missing before a business can run its finances on bitcoin?
+2	github	14.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/12	Add asset logo SVGs for XLM and USDC
+2	github	14.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/11	Add Max button to Swap page from-amount field
+2	github	14.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/10	Improve Horizon error messages for common operation failures
+2	github	14.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/7	Show XLM minimum reserve warning before sending
+2	github	40.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Zcorehub/ZCore-dev/issues/5	Add seed script for local development
+1	github	5.2	$40	OPEN_ISSUE	https://github.com/jackjin1997/zeroeye/issues/2	[$40 BOUNTY] [Go] Add order book cancellation depth tests
+1	github	5.2	$30	OPEN_ISSUE	https://github.com/jackjin1997/zeroeye/issues/1	[$30 BOUNTY] [Python] Expand backend API contract edge-case tests
+1	github	5.2	$30	OPEN_ISSUE	https://github.com/jackjin1997/TentOfTrials/issues/3	[$30 BOUNTY] [Python] Add build diagnostic metadata tests
+1	github	5.2	$50	OPEN_ISSUE	https://github.com/jackjin1997/TentOfTrials/issues/2	[$50 BOUNTY] [Go] Add gateway auth middleware tests
+1	github	5.2	$45	OPEN_ISSUE	https://github.com/jackjin1997/TentOfTrials/issues/1	[$45 BOUNTY] [Go] Add WebSocket hub lifecycle tests
+1	github	7.9	$25	OPEN_ISSUE	https://github.com/weilixiong/TentOfTrials/issues/5	[$25 BOUNTY] [Python] Add independent log parser fixtures
+1	github	8.6	$50	OPEN_ISSUE	https://github.com/weilixiong/TentOfTrials/issues/1	[$50 BOUNTY] [Python] Add cross-platform health check fallbacks
+1	github	9.5	$35	OPEN_ISSUE	https://github.com/shaiananvari8/zeroeye/issues/1	[$35 BOUNTY] [TypeScript] Add single-flight token refresh handling
+1	github	11.4	$40	OPEN_ISSUE	https://github.com/Andyyook/zeroeye/issues/1	[$40 BOUNTY] [Python] Add input validation and error handling to verify_diagnostics.py
+0	github	15.6	-	OPEN_ISSUE	https://github.com/Savitura/Savitools/issues/20	Payment Path Simulator, Route Finder, Hop Visualiser & Slippage Estimator
+0	github	22.0	-	OPEN_ISSUE	https://github.com/OrbitChainLabs/OrbitChain-API/issues/9	[MEDIUM] — `parseAcceptedAssets` silently drops malformed entries instead of rejecting the create/update request
+0	github	37.9	-	OPEN_ISSUE	https://github.com/Neko-Protocol/Neko-DApp/issues/229	Analytics module: portfolio earnings & advanced DeFi analytics
+0	github	63.1	-	OPEN_ISSUE	https://github.com/bridgelet-org/bridgelet/issues/85	[Design] Create brand logo for Bridgelet
+0	github	67.3	-	OPEN_ISSUE	https://github.com/Ledger-Lenz/Ledgerlens-contract/issues/3	Add rustdoc examples and inline usage snippets to all public contract functions
+0	github	70.6	-	OPEN_ISSUE	https://github.com/Ledger-Lenz/Ledgerlens-data/issues/3	Add Startup Validation for Required Configuration Values in `config.py`
