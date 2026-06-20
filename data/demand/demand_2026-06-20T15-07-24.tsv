@@ -1,0 +1,27 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	0.0	$25	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/hammer-and-nail/issues/450	[$25 BOUNTY] [Go] Add market event replay fixtures
+5	github	0.2	$40	OPEN_ISSUE,LOW_COMP	https://github.com/123a-bcd/nailstorm-bounty-forge-358/issues/1	[$40 BOUNTY] [Python] Add benchmark rate-limit bypass flag
+5	github	0.2	$20	OPEN_ISSUE,LOW_COMP	https://github.com/9904099/zeroeye/issues/3	[$20 BOUNTY] [Ruby] Add tests for market stream reconnect backoff
+5	github	0.2	$45	OPEN_ISSUE,LOW_COMP	https://github.com/9904099/zeroeye/issues/2	[$45 BOUNTY] [TypeScript] Add guarded API token refresh handling
+5	github	0.2	$40	OPEN_ISSUE,LOW_COMP	https://github.com/9904099/zeroeye/issues/1	[$40 BOUNTY] [Python] Add sanitized parse-error reports for log aggregation
+5	github	0.3	$25	OPEN_ISSUE,LOW_COMP	https://github.com/Soengkit/frailbox-checkpoint/issues/1	[$25 BOUNTY] [Python] Validate required production secrets in config generator
+5	github	0.3	$25	OPEN_ISSUE,LOW_COMP	https://github.com/0106hyh/hammer-and-nail/issues/1	[$25 BOUNTY] [Go] Implement gzip response compression in gateway middleware
+5	github	0.3	$15	OPEN_ISSUE,LOW_COMP	https://github.com/9904099/hammer-and-nail-bounty/issues/2	[$15 BOUNTY] [Rust] Log selected backend log format at startup
+5	github	0.3	$30	OPEN_ISSUE,LOW_COMP	https://github.com/9904099/hammer-and-nail-bounty/issues/1	[$30 BOUNTY] [TypeScript] Add diagnostic metadata compare mode
+5	github	1.7	$25	OPEN_ISSUE,LOW_COMP	https://github.com/jaxassistant55/TentOfTrials/issues/73	[$25 BOUNTY] [TypeScript] Add reconnect metrics for frontend sockets
+4	sn/bitcoin	22.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1511436	Nimdolf: Non-interactive Mint Delegation on Liveness Failure - luke childs
+3	sn/bitcoin	22.2	$2	OPEN_NEED	https://stacker.news/items/1511453	[HM] - The six memes that made bitcoin unstoppable
+3	github	0.6	$25	OPEN_ISSUE	https://github.com/lobster-trap/Kickama/issues/372	[$25 BUG BOUNTY] [Java] Fix ComplianceAuditor path handling on Windows
+3	github	1.2	$20	OPEN_ISSUE	https://github.com/lobster-trap/hammer-and-nail/issues/445	[$20 BOUNTY] [TypeScript] Add frontend diagnostic metadata viewer
+3	github	1.7	$20	OPEN_ISSUE	https://github.com/lobster-trap/Kickama/issues/370	[$20 BOUNTY] [Python] Add deployment history export
+3	github	1.7	$25	OPEN_ISSUE	https://github.com/jaxassistant55/TentOfTrials/issues/75	[$25 BOUNTY] [Go] Add market readiness operations docs and tests
+3	github	1.7	$25	OPEN_ISSUE	https://github.com/jaxassistant55/TentOfTrials/issues/74	[$25 BOUNTY] [Perl] Add log watchdog exit-code tests
+2	github	22.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Payflowcore/payflowapp/issues/5	Show the issuer for non-native balances
+2	github	40.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/12	Add asset logo SVGs for XLM and USDC
+2	github	40.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/11	Add Max button to Swap page from-amount field
+2	github	40.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/10	Improve Horizon error messages for common operation failures
+2	github	40.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/7	Show XLM minimum reserve warning before sending
+2	github	66.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Zcorehub/ZCore-dev/issues/5	Add seed script for local development
+0	github	42.1	-	OPEN_ISSUE	https://github.com/Savitura/Savitools/issues/20	Payment Path Simulator, Route Finder, Hop Visualiser & Slippage Estimator
+0	github	48.6	-	OPEN_ISSUE	https://github.com/OrbitChainLabs/OrbitChain-API/issues/9	[MEDIUM] — `parseAcceptedAssets` silently drops malformed entries instead of rejecting the create/update request
+0	github	64.4	-	OPEN_ISSUE	https://github.com/Neko-Protocol/Neko-DApp/issues/229	Analytics module: portfolio earnings & advanced DeFi analytics
