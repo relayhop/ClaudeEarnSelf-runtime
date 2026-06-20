@@ -1,0 +1,17 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH_LOW_COMP	github	2.6	0	0	https://github.com/jaxassistant55/TentOfTrials/issues/11	[$50 BOUNTY] [Rust] Replace legacy global initialization check with OnceLock
+FRESH	github	0.3	0	3	https://github.com/lobster-trap/Kickama/issues/340	[$20 BOUNTY] [Terraform] Add import plan summary
+FRESH	github	0.9	0	2	https://github.com/lobster-trap/hammer-and-nail/issues/403	[$25 BOUNTY] [TypeScript] Add frontend WebSocket reconnect backoff
+FRESH	github	1.4	0	2	https://github.com/lobster-trap/Kickama/issues/334	[$25 BOUNTY] [Python] Add AI reviewer SARIF output
+FRESH	github	2.0	0	3	https://github.com/lobster-trap/hammer-and-nail/issues/399	[$20 BOUNTY] [Rust] Add structured JSON log mode
+FRESH	github	2.6	0	2	https://github.com/lobster-trap/Kickama/issues/324	[$20 BUG BOUNTY] [Shell] Fix ai_pipeline cleanup on interrupted runs
+FRESH	github	2.6	0	1	https://github.com/jaxassistant55/TentOfTrials/issues/20	[$50 BOUNTY] [Python] Add dry-run restore validation to legacy migration tool
+FRESH	github	2.6	0	1	https://github.com/jaxassistant55/TentOfTrials/issues/18	[$50 BOUNTY] [Perl] Load log watchdog Slack webhook from secure configuration
+FRESH	github	2.6	0	1	https://github.com/jaxassistant55/TentOfTrials/issues/17	[$50 BOUNTY] [Lua] Fix NFC checksum handling for long APDU payloads
+FRESH	github	2.6	0	1	https://github.com/jaxassistant55/TentOfTrials/issues/16	[$50 BOUNTY] [C] Implement timeout-aware connector wait-all
+FRESH	github	2.6	0	1	https://github.com/jaxassistant55/TentOfTrials/issues/15	[$50 BOUNTY] [C] Define logger behavior after shutdown
+FRESH	github	2.6	0	3	https://github.com/jaxassistant55/TentOfTrials/issues/14	[$50 BOUNTY] [TypeScript] Virtualize large order book rendering
+FRESH	github	2.6	0	3	https://github.com/jaxassistant55/TentOfTrials/issues/13	[$50 BOUNTY] [TypeScript] Require explicit API base URL instead of localhost fallback
+FRESH	github	2.6	0	3	https://github.com/jaxassistant55/TentOfTrials/issues/12	[$50 BOUNTY] [TypeScript] Add single-flight token refresh in auth service
+FRESH	github	2.6	0	1	https://github.com/jaxassistant55/TentOfTrials/issues/10	[$50 BOUNTY] [Rust] Make connector config setters fallible instead of unwrap panics
+FRESH	sn/bitcoin	4.5	0	7	https://stacker.news/items/1511691	I bought wine with bitcoin today
