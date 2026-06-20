@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	2.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1511938	Latest Strikes #24 - June 8th - 14th 2026
+3	github	0.3	$25	OPEN_ISSUE	https://github.com/lobster-trap/Kickama/issues/394	[$25 BOUNTY] [Python] Add benchmark baseline comparison
+3	github	0.8	$20	OPEN_ISSUE	https://github.com/lobster-trap/SmartGesture/issues/463	[$20 BOUNTY] [Go] Add WebSocket subscription validation
+3	github	1.4	$25	OPEN_ISSUE	https://github.com/lobster-trap/Kickama/issues/392	[$25 BOUNTY] [Haskell] Add OpenAPI enum validation
+3	github	1.9	$20	OPEN_ISSUE	https://github.com/lobster-trap/SmartGesture/issues/456	[$20 BUG BOUNTY] [Go] Fix the vanishing orderbook snapshot race
+3	github	2.5	$20	OPEN_ISSUE	https://github.com/lobster-trap/Kickama/issues/385	[$20 BUG BOUNTY] [Python] Fix health check success on empty response
+3	github	3.1	$25	OPEN_ISSUE	https://github.com/lobster-trap/SmartGesture/issues/454	[$25 BOUNTY] [GitHub Actions] Enforce real diagnostics in PR checks
+3	github	3.6	$20	OPEN_ISSUE	https://github.com/lobster-trap/Kickama/issues/383	[$20 BOUNTY] [Docs] Add operations incident runbook
+3	github	4.6	$40	OPEN_ISSUE,LOW_COMP	https://github.com/YfengJ/TentOfTrials/issues/1	[$40 BOUNTY] [TypeScript] Make API mutation retries idempotency-safe
+2	github	27.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Payflowcore/payflowapp/issues/5	Show the issuer for non-native balances
+2	github	45.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/12	Add asset logo SVGs for XLM and USDC
+2	github	45.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/11	Add Max button to Swap page from-amount field
+2	github	46.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/10	Improve Horizon error messages for common operation failures
+2	github	46.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/7	Show XLM minimum reserve warning before sending
+1	github	4.2	$20	OPEN_ISSUE	https://github.com/lobster-trap/SmartGesture/issues/452	[$20 BOUNTY] [Ruby] Add market stream reconnect metrics
+1	github	4.2	$40	OPEN_ISSUE	https://github.com/YfengJ/TentOfTrials/issues/4	[$40 BOUNTY] [TypeScript] Deduplicate order history realtime updates
+1	github	4.3	$20	OPEN_ISSUE	https://github.com/123a-bcd/nailstorm-bounty-forge-358/issues/3	[$20 BOUNTY] [TypeScript] Add token refresh handling to legacy API client
+1	github	4.3	$40	OPEN_ISSUE	https://github.com/123a-bcd/zeroeye/issues/1	[$40 BOUNTY] [Python] Validate Terraform import resource names
+1	github	4.4	$35	OPEN_ISSUE	https://github.com/wulansari999/Kickama-Wulansari-Bounty/issues/1	[$35 BOUNTY] [Python] Add unit tests for core utilities
+1	github	4.5	$12	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/81	Frantic bounty #37: runx skill: least-privilege grant plan
+1	github	4.7	$20	OPEN_ISSUE	https://github.com/lobster-trap/Kickama/issues/378	[$20 BOUNTY] [Python] Add monitoring setup validation mode
+0	github	47.4	-	OPEN_ISSUE	https://github.com/Savitura/Savitools/issues/20	Payment Path Simulator, Route Finder, Hop Visualiser & Slippage Estimator
+0	github	53.8	-	OPEN_ISSUE	https://github.com/OrbitChainLabs/OrbitChain-API/issues/9	[MEDIUM] — `parseAcceptedAssets` silently drops malformed entries instead of rejecting the create/update request
+0	github	69.7	-	OPEN_ISSUE	https://github.com/Neko-Protocol/Neko-DApp/issues/229	Analytics module: portfolio earnings & advanced DeFi analytics
