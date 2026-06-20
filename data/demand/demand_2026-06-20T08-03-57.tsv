@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	0.8	$20	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/hammer-and-nail/issues/411	[$20 BUG BOUNTY] [C] Fix frailbox logger newline goblin
+5	github	2.5	$25	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/Kickama/issues/334	[$25 BOUNTY] [Python] Add AI reviewer SARIF output
+5	github	3.6	$20	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/Kickama/issues/324	[$20 BUG BOUNTY] [Shell] Fix ai_pipeline cleanup on interrupted runs
+5	github	3.6	$50	OPEN_ISSUE,LOW_COMP	https://github.com/jaxassistant55/TentOfTrials/issues/20	[$50 BOUNTY] [Python] Add dry-run restore validation to legacy migration tool
+5	github	3.6	$50	OPEN_ISSUE,LOW_COMP	https://github.com/jaxassistant55/TentOfTrials/issues/18	[$50 BOUNTY] [Perl] Load log watchdog Slack webhook from secure configuration
+5	github	3.6	$50	OPEN_ISSUE,LOW_COMP	https://github.com/jaxassistant55/TentOfTrials/issues/17	[$50 BOUNTY] [Lua] Fix NFC checksum handling for long APDU payloads
+5	github	3.6	$50	OPEN_ISSUE,LOW_COMP	https://github.com/jaxassistant55/TentOfTrials/issues/16	[$50 BOUNTY] [C] Implement timeout-aware connector wait-all
+5	github	3.6	$50	OPEN_ISSUE,LOW_COMP	https://github.com/jaxassistant55/TentOfTrials/issues/15	[$50 BOUNTY] [C] Define logger behavior after shutdown
+4	sn/bitcoin	15.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1511436	Nimdolf: Non-interactive Mint Delegation on Liveness Failure - luke childs
+3	sn/bitcoin	15.2	$2	OPEN_NEED	https://stacker.news/items/1511453	[HM] - The six memes that made bitcoin unstoppable
+3	sn/bitcoin	19.9	$5	OPEN_NEED	https://stacker.news/items/1511251	Bitcoin Influencers: How Much They Paid & How Sponsors Shape what we Consume
+3	github	0.2	$20	OPEN_ISSUE	https://github.com/lobster-trap/Kickama/issues/346	[$20 BOUNTY] [Lua] Add OpenAPI pact replay command
+3	github	1.4	$20	OPEN_ISSUE	https://github.com/lobster-trap/Kickama/issues/340	[$20 BOUNTY] [Terraform] Add import plan summary
+3	github	1.9	$25	OPEN_ISSUE	https://github.com/lobster-trap/hammer-and-nail/issues/403	[$25 BOUNTY] [TypeScript] Add frontend WebSocket reconnect backoff
+3	github	3.0	$20	OPEN_ISSUE	https://github.com/lobster-trap/hammer-and-nail/issues/399	[$20 BOUNTY] [Rust] Add structured JSON log mode
+3	github	3.6	$50	OPEN_ISSUE	https://github.com/jaxassistant55/TentOfTrials/issues/14	[$50 BOUNTY] [TypeScript] Virtualize large order book rendering
+3	github	3.6	$50	OPEN_ISSUE	https://github.com/jaxassistant55/TentOfTrials/issues/13	[$50 BOUNTY] [TypeScript] Require explicit API base URL instead of localhost fallback
+2	sn/bitcoin	17.3	-	OPEN_NEED	https://stacker.news/items/1511345	Discovering Tampa Bay's Bitcoin Community
+2	github	15.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Payflowcore/payflowapp/issues/5	Show the issuer for non-native balances
+2	github	33.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/12	Add asset logo SVGs for XLM and USDC
+2	github	33.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/11	Add Max button to Swap page from-amount field
+2	github	33.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/10	Improve Horizon error messages for common operation failures
+2	github	33.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/7	Show XLM minimum reserve warning before sending
+2	github	59.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Zcorehub/ZCore-dev/issues/5	Add seed script for local development
+2	github	0.0	-	OPEN_ISSUE	https://github.com/rickyschuster2zz/Envoy/issues/1	🎯 Fix HTTP/2 Connection Pool Routing to Stale DNS Endpoints Post CDS/EDS Updates
+0	github	35.1	-	OPEN_ISSUE	https://github.com/Savitura/Savitools/issues/20	Payment Path Simulator, Route Finder, Hop Visualiser & Slippage Estimator
+0	github	41.5	-	OPEN_ISSUE	https://github.com/OrbitChainLabs/OrbitChain-API/issues/9	[MEDIUM] — `parseAcceptedAssets` silently drops malformed entries instead of rejecting the create/update request
+0	github	57.4	-	OPEN_ISSUE	https://github.com/Neko-Protocol/Neko-DApp/issues/229	Analytics module: portfolio earnings & advanced DeFi analytics
