@@ -1,0 +1,26 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	4.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1511938	Latest Strikes #24 - June 8th - 14th 2026
+4	sn/bitcoin	1.6	-	OPEN_NEED	https://stacker.news/items/1511994	Where is Bitcoin headed? Does it still have the "cypherpunk" goals?
+3	github	0.1	$20	OPEN_ISSUE	https://github.com/lobster-trap/SmartGesture/issues/469	[$20 BOUNTY] [Python] Add build dependency preflight checks
+3	github	0.1	$20	OPEN_ISSUE	https://github.com/qingfeng312/middleware-nail-forge/issues/4	[$20 BOUNTY] [Go] Add WebSocket subscription validation
+3	github	0.6	$20	OPEN_ISSUE	https://github.com/lobster-trap/Kickama/issues/397	[$20 BOUNTY] [Python] Add AI reviewer ignore configuration
+3	github	0.9	$20	OPEN_ISSUE	https://github.com/xxnjms1-code/kickama-prize-lab/issues/2	[$20 BOUNTY] [Go] Make analytics Collector Start idempotent
+3	github	0.9	$35	OPEN_ISSUE	https://github.com/xxnjms1-code/kickama-prize-lab/issues/1	[$35 BOUNTY] [TypeScript] Coordinate auth token refresh across tabs
+3	github	1.2	$20	OPEN_ISSUE	https://github.com/lobster-trap/SmartGesture/issues/466	[$20 BOUNTY] [Docs] Add build diagnostics troubleshooting guide
+3	github	1.7	$25	OPEN_ISSUE	https://github.com/lobster-trap/Kickama/issues/394	[$25 BOUNTY] [Python] Add benchmark baseline comparison
+3	github	2.3	$20	OPEN_ISSUE	https://github.com/lobster-trap/SmartGesture/issues/463	[$20 BOUNTY] [Go] Add WebSocket subscription validation
+3	github	2.8	$25	OPEN_ISSUE	https://github.com/lobster-trap/Kickama/issues/392	[$25 BOUNTY] [Haskell] Add OpenAPI enum validation
+3	github	3.4	$20	OPEN_ISSUE	https://github.com/lobster-trap/SmartGesture/issues/456	[$20 BUG BOUNTY] [Go] Fix the vanishing orderbook snapshot race
+3	github	4.0	$20	OPEN_ISSUE	https://github.com/lobster-trap/Kickama/issues/385	[$20 BUG BOUNTY] [Python] Fix health check success on empty response
+2	github	28.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Payflowcore/payflowapp/issues/5	Show the issuer for non-native balances
+2	github	47.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/12	Add asset logo SVGs for XLM and USDC
+2	github	47.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/11	Add Max button to Swap page from-amount field
+2	github	47.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/10	Improve Horizon error messages for common operation failures
+2	github	47.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/7	Show XLM minimum reserve warning before sending
+2	github	2.2	-	OPEN_ISSUE	https://github.com/TauCetiStation/TauCetiClassic/pull/14931	fix: mech logs display Moscow time (MSK) - closes #4959
+1	github	4.5	$25	OPEN_ISSUE	https://github.com/lobster-trap/SmartGesture/issues/454	[$25 BOUNTY] [GitHub Actions] Enforce real diagnostics in PR checks
+1	github	5.1	$20	OPEN_ISSUE	https://github.com/lobster-trap/Kickama/issues/383	[$20 BOUNTY] [Docs] Add operations incident runbook
+1	github	5.6	$20	OPEN_ISSUE	https://github.com/lobster-trap/SmartGesture/issues/452	[$20 BOUNTY] [Ruby] Add market stream reconnect metrics
+0	github	48.8	-	OPEN_ISSUE	https://github.com/Savitura/Savitools/issues/20	Payment Path Simulator, Route Finder, Hop Visualiser & Slippage Estimator
+0	github	55.3	-	OPEN_ISSUE	https://github.com/OrbitChainLabs/OrbitChain-API/issues/9	[MEDIUM] — `parseAcceptedAssets` silently drops malformed entries instead of rejecting the create/update request
+0	github	71.2	-	OPEN_ISSUE	https://github.com/Neko-Protocol/Neko-DApp/issues/229	Analytics module: portfolio earnings & advanced DeFi analytics
