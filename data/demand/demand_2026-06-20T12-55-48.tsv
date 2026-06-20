@@ -1,0 +1,28 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	0.1	$20	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/hammer-and-nail/issues/443	[$20 BOUNTY] [Perl] Add log watchdog JSON summaries
+5	github	0.5	$10	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/80	Frantic bounty #36: runx skill: standup digest from work events
+5	github	0.5	$7	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/79	Frantic bounty #35: Publish the Frantic delivery artifact guide
+5	github	0.5	$13	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/78	Frantic bounty #34: runx skill: inbox triage to drafted reply
+5	github	0.5	$15	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/77	Frantic bounty #32: runx skill: support triage and reply draft
+5	github	0.5	$10	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/76	Frantic bounty #27: runx skill: meeting prep from bounded context
+5	github	0.6	$25	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/Kickama/issues/368	[$25 BOUNTY] [Python] Add health check Prometheus output
+4	sn/bitcoin	20.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1511436	Nimdolf: Non-interactive Mint Delegation on Liveness Failure - luke childs
+4	github	3.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/96	[radar] SN open bounty 2026-06-20T09:33
+3	sn/bitcoin	20.1	$2	OPEN_NEED	https://stacker.news/items/1511453	[HM] - The six memes that made bitcoin unstoppable
+3	github	1.2	$20	OPEN_ISSUE	https://github.com/lobster-trap/hammer-and-nail/issues/438	[$20 BUG BOUNTY] [TypeScript] Stop the websocket hydra from reconnecting after unmount
+3	github	1.8	$20	OPEN_ISSUE	https://github.com/lobster-trap/Kickama/issues/363	[$20 BOUNTY] [Shell] Add ai_pipeline stage timing report
+3	github	2.3	$25	OPEN_ISSUE	https://github.com/lobster-trap/hammer-and-nail/issues/434	[$25 BOUNTY] [C] Add frailbox self-test command
+3	github	2.9	$25	OPEN_ISSUE	https://github.com/lobster-trap/Kickama/issues/357	[$25 BUG BOUNTY] [Python] Fix config generator secret masking leaks
+3	github	3.4	$25	OPEN_ISSUE	https://github.com/lobster-trap/hammer-and-nail/issues/426	[$25 BUG BOUNTY] [Rust] Fix backend panic paths for malformed requests
+3	github	4.0	$20	OPEN_ISSUE	https://github.com/lobster-trap/Kickama/issues/350	[$20 BOUNTY] [Python] Add generated data manifest checksums
+2	sn/bitcoin	22.2	-	OPEN_NEED	https://stacker.news/items/1511345	Discovering Tampa Bay's Bitcoin Community
+2	github	20.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Payflowcore/payflowapp/issues/5	Show the issuer for non-native balances
+2	github	38.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/12	Add asset logo SVGs for XLM and USDC
+2	github	38.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/11	Add Max button to Swap page from-amount field
+2	github	38.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/10	Improve Horizon error messages for common operation failures
+2	github	38.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/7	Show XLM minimum reserve warning before sending
+2	github	64.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Zcorehub/ZCore-dev/issues/5	Add seed script for local development
+1	github	4.6	$25	OPEN_ISSUE	https://github.com/lobster-trap/hammer-and-nail/issues/420	[$25 BOUNTY] [Rust] Add graceful shutdown handling to backend
+0	github	39.9	-	OPEN_ISSUE	https://github.com/Savitura/Savitools/issues/20	Payment Path Simulator, Route Finder, Hop Visualiser & Slippage Estimator
+0	github	46.4	-	OPEN_ISSUE	https://github.com/OrbitChainLabs/OrbitChain-API/issues/9	[MEDIUM] — `parseAcceptedAssets` silently drops malformed entries instead of rejecting the create/update request
+0	github	62.3	-	OPEN_ISSUE	https://github.com/Neko-Protocol/Neko-DApp/issues/229	Analytics module: portfolio earnings & advanced DeFi analytics
