@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	0.1	$20	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/Kickama/issues/324	[$20 BUG BOUNTY] [Shell] Fix ai_pipeline cleanup on interrupted runs
+5	github	0.1	$50	OPEN_ISSUE,LOW_COMP	https://github.com/jaxassistant55/TentOfTrials/issues/20	[$50 BOUNTY] [Python] Add dry-run restore validation to legacy migration tool
+5	github	0.1	$50	OPEN_ISSUE,LOW_COMP	https://github.com/jaxassistant55/TentOfTrials/issues/19	[$50 BOUNTY] [Ruby] Add authentication gate to market stream service
+5	github	0.1	$50	OPEN_ISSUE,LOW_COMP	https://github.com/jaxassistant55/TentOfTrials/issues/18	[$50 BOUNTY] [Perl] Load log watchdog Slack webhook from secure configuration
+5	github	0.1	$50	OPEN_ISSUE,LOW_COMP	https://github.com/jaxassistant55/TentOfTrials/issues/17	[$50 BOUNTY] [Lua] Fix NFC checksum handling for long APDU payloads
+5	github	0.1	$50	OPEN_ISSUE,LOW_COMP	https://github.com/jaxassistant55/TentOfTrials/issues/16	[$50 BOUNTY] [C] Implement timeout-aware connector wait-all
+5	github	0.1	$50	OPEN_ISSUE,LOW_COMP	https://github.com/jaxassistant55/TentOfTrials/issues/15	[$50 BOUNTY] [C] Define logger behavior after shutdown
+5	github	0.1	$50	OPEN_ISSUE,LOW_COMP	https://github.com/jaxassistant55/TentOfTrials/issues/14	[$50 BOUNTY] [TypeScript] Virtualize large order book rendering
+5	github	0.1	$50	OPEN_ISSUE,LOW_COMP	https://github.com/jaxassistant55/TentOfTrials/issues/13	[$50 BOUNTY] [TypeScript] Require explicit API base URL instead of localhost fallback
+5	github	0.1	$50	OPEN_ISSUE,LOW_COMP	https://github.com/jaxassistant55/TentOfTrials/issues/12	[$50 BOUNTY] [TypeScript] Add single-flight token refresh in auth service
+5	github	0.1	$50	OPEN_ISSUE,LOW_COMP	https://github.com/jaxassistant55/TentOfTrials/issues/11	[$50 BOUNTY] [Rust] Replace legacy global initialization check with OnceLock
+5	github	0.1	$50	OPEN_ISSUE,LOW_COMP	https://github.com/jaxassistant55/TentOfTrials/issues/10	[$50 BOUNTY] [Rust] Make connector config setters fallible instead of unwrap panics
+5	github	0.1	$50	OPEN_ISSUE,LOW_COMP	https://github.com/jaxassistant55/TentOfTrials/issues/9	[$50 BOUNTY] [Go] Make analytics collector Start idempotent
+5	github	0.1	$50	OPEN_ISSUE,LOW_COMP	https://github.com/jaxassistant55/TentOfTrials/issues/8	[$50 BOUNTY] [Go] Limit analytics tag cardinality before backend flush
+5	github	0.1	$50	OPEN_ISSUE,LOW_COMP	https://github.com/jaxassistant55/TentOfTrials/issues/7	[$50 BOUNTY] [Go] Add TTL eviction to compliance transaction cache
+4	sn/bitcoin	12.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1511436	Nimdolf: Non-interactive Mint Delegation on Liveness Failure - luke childs
+3	sn/bitcoin	16.4	$5	OPEN_NEED	https://stacker.news/items/1511251	Bitcoin Influencers: How Much They Paid & How Sponsors Shape what we Consume
+3	sn/bitcoin	11.7	$2	OPEN_NEED	https://stacker.news/items/1511453	[HM] - The six memes that made bitcoin unstoppable
+2	sn/bitcoin	13.9	-	OPEN_NEED	https://stacker.news/items/1511345	Discovering Tampa Bay's Bitcoin Community
+2	github	11.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Payflowcore/payflowapp/issues/5	Show the issuer for non-native balances
+2	github	30.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/12	Add asset logo SVGs for XLM and USDC
+2	github	30.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/11	Add Max button to Swap page from-amount field
+2	github	30.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/10	Improve Horizon error messages for common operation failures
+2	github	30.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/7	Show XLM minimum reserve warning before sending
+2	github	56.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Zcorehub/ZCore-dev/issues/5	Add seed script for local development
+0	github	31.6	-	OPEN_ISSUE	https://github.com/Savitura/Savitools/issues/20	Payment Path Simulator, Route Finder, Hop Visualiser & Slippage Estimator
+0	github	38.1	-	OPEN_ISSUE	https://github.com/OrbitChainLabs/OrbitChain-API/issues/9	[MEDIUM] — `parseAcceptedAssets` silently drops malformed entries instead of rejecting the create/update request
+0	github	53.9	-	OPEN_ISSUE	https://github.com/Neko-Protocol/Neko-DApp/issues/229	Analytics module: portfolio earnings & advanced DeFi analytics
