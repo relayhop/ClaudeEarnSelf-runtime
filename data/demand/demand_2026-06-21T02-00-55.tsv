@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	0.1	$10	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/98	Frantic bounty #47: Run a public runx registry install smoke matrix
+5	github	0.1	$16	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/97	Frantic bounty #46: Publish Sourcey docs for a second ecosystem
+5	github	0.1	$8	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/96	Frantic bounty #45: Audit Sourcey docs gaps on a real library
+5	github	0.1	$6	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/95	Frantic bounty #44: Audit Frantic bounty copy for worker clarity
+5	github	0.1	$8	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/94	Frantic bounty #43: Audit the live Frantic board health
+5	github	0.1	$8	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/93	Frantic bounty #42: Dogfood the Frantic MCP board reader
+5	github	0.1	$10	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/92	Frantic bounty #41: Publish a Frantic delivery artifact linter
+5	github	0.1	$8	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/91	Frantic bounty #40: Audit the runx CLI first-run experience
+5	github	0.1	$6	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/90	Frantic bounty #39: Explain Frantic claim verification clearly
+5	github	0.1	$10	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/89	Frantic bounty #38: Publish an evidence redaction fixture pack
+5	github	0.3	$25	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/Kickama/issues/416	[$25 BOUNTY] [Lua] Add OpenAPI mock contract validation
+5	github	1.4	$20	OPEN_ISSUE,LOW_COMP	https://github.com/lobster-trap/Kickama/issues/411	[$20 BOUNTY] [Java] Add ComplianceAuditor JSON report output
+4	sn/bitcoin	8.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1511938	Latest Strikes #24 - June 8th - 14th 2026
+3	github	0.9	$25	OPEN_ISSUE	https://github.com/lobster-trap/SmartGesture/issues/484	[$25 BOUNTY] [Python] Add diagnostic bundle verifier CLI
+3	github	2.0	$25	OPEN_ISSUE	https://github.com/lobster-trap/SmartGesture/issues/476	[$25 BUG BOUNTY] [Python] Catch the ghost diagnostic that reports success after failure
+3	github	2.6	$20	OPEN_ISSUE	https://github.com/lobster-trap/Kickama/issues/407	[$20 BUG BOUNTY] [Lua] Fix OpenAPI diff false alarms from reordered fields
+2	sn/bitcoin	5.8	-	OPEN_NEED	https://stacker.news/items/1511994	Where is Bitcoin headed? Does it still have the "cypherpunk" goals?
+2	github	33.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Payflowcore/payflowapp/issues/5	Show the issuer for non-native balances
+2	github	51.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/12	Add asset logo SVGs for XLM and USDC
+2	github	51.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/11	Add Max button to Swap page from-amount field
+2	github	51.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/10	Improve Horizon error messages for common operation failures
+2	github	51.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/7	Show XLM minimum reserve warning before sending
+0	github	53.0	-	OPEN_ISSUE	https://github.com/Savitura/Savitools/issues/20	Payment Path Simulator, Route Finder, Hop Visualiser & Slippage Estimator
+0	github	59.5	-	OPEN_ISSUE	https://github.com/OrbitChainLabs/OrbitChain-API/issues/9	[MEDIUM] — `parseAcceptedAssets` silently drops malformed entries instead of rejecting the create/update request
