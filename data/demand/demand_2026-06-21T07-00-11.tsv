@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	13.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1511938	Latest Strikes #24 - June 8th - 14th 2026
+3	github	2.0	$0	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/106	Frantic bounty #49: Give runx some love
+3	github	5.1	$10	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/98	Frantic bounty #47: Run a public runx registry install smoke matrix
+3	github	5.1	$6	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/95	Frantic bounty #44: Audit Frantic bounty copy for worker clarity
+3	github	5.1	$8	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/93	Frantic bounty #42: Dogfood the Frantic MCP board reader
+3	github	5.1	$10	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/92	Frantic bounty #41: Publish a Frantic delivery artifact linter
+3	github	5.1	$8	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/91	Frantic bounty #40: Audit the runx CLI first-run experience
+3	github	5.1	$10	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/89	Frantic bounty #38: Publish an evidence redaction fixture pack
+2	sn/bitcoin	10.7	-	OPEN_NEED	https://stacker.news/items/1511994	Where is Bitcoin headed? Does it still have the "cypherpunk" goals?
+2	github	38.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Payflowcore/payflowapp/issues/5	Show the issuer for non-native balances
+2	github	56.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/12	Add asset logo SVGs for XLM and USDC
+2	github	56.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/11	Add Max button to Swap page from-amount field
+2	github	56.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/10	Improve Horizon error messages for common operation failures
+2	github	56.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/7	Show XLM minimum reserve warning before sending
+2	github	9.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/TauCetiStation/TauCetiClassic/pull/14932	fix: mech cheto-tam 
+1	github	5.1	$16	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/97	Frantic bounty #46: Publish Sourcey docs for a second ecosystem
+1	github	5.1	$8	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/96	Frantic bounty #45: Audit Sourcey docs gaps on a real library
+1	github	5.1	$8	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/94	Frantic bounty #43: Audit the live Frantic board health
+1	github	10.1	$20	OPEN_ISSUE	https://github.com/xxnjms1-code/kickama-prize-lab/issues/2	[$20 BOUNTY] [Go] Make analytics Collector Start idempotent
+1	github	10.1	$35	OPEN_ISSUE	https://github.com/xxnjms1-code/kickama-prize-lab/issues/1	[$35 BOUNTY] [TypeScript] Coordinate auth token refresh across tabs
+1	github	15.0	$20	OPEN_ISSUE	https://github.com/123a-bcd/nailstorm-bounty-forge-358/issues/3	[$20 BOUNTY] [TypeScript] Add token refresh handling to legacy API client
+0	github	58.0	-	OPEN_ISSUE	https://github.com/Savitura/Savitools/issues/20	Payment Path Simulator, Route Finder, Hop Visualiser & Slippage Estimator
+0	github	64.5	-	OPEN_ISSUE	https://github.com/OrbitChainLabs/OrbitChain-API/issues/9	[MEDIUM] — `parseAcceptedAssets` silently drops malformed entries instead of rejecting the create/update request
+0	github	11.4	-	OPEN_ISSUE	https://github.com/TauCetiStation/TauCetiClassic/pull/14931	fix: mech logs display Moscow time (MSK) - closes #4959
