@@ -1,0 +1,27 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/tech	4.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1512380	Arca — Personal Data Haven: NVK’s Coinkite attempt at a Digital Safe
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Betta-Pay/BettaPay-Frontend/issues/86	Add unit tests for utility functions
+2	sn/bitcoin	5.7	-	OPEN_NEED	https://stacker.news/items/1512350	Sunday Survey: What is your first recommendation when someone wants to buy BTC?
+2	sn/bitcoin	5.8	-	OPEN_NEED	https://stacker.news/items/1512348	Bitcoin, Arbitrary Data, and “Ossification Risk” - where is the real concern?
+2	github	4.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/drydocs/meridian/issues/221	[Docs] Add JSDoc to undocumented public functions in stellar-sdk-helpers
+2	github	53.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Payflowcore/payflowapp/issues/5	Show the issuer for non-native balances
+2	github	71.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/12	Add asset logo SVGs for XLM and USDC
+2	github	71.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/11	Add Max button to Swap page from-amount field
+2	github	71.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/10	Improve Horizon error messages for common operation failures
+2	github	9.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/2972	[BOUNTY] [level:intermediate] Refactor outdated packages in package.json to stable version updates
+2	github	9.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/2969	[BOUNTY] [level:intermediate] Fix redundant API calls inside page initializers
+2	github	9.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/2968	[BOUNTY] [level:intermediate] Standardize environment variable loading with validation schemas
+2	github	9.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/2967	[BOUNTY] [level:advanced] Build clean multi-stage production Dockerfiles for both frontend and backend
+2	github	9.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/2966	[BOUNTY] [level:intermediate] Create Docker compose environment for running app with local database
+2	github	9.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/2965	[BOUNTY] [level:advanced] Set up GitHub Actions CI workflow to run linter and backend/frontend test suites
+2	github	9.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/2964	[BOUNTY] [level:intermediate] Document all database tables and relationship schema in README.md
+2	github	9.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/2963	[BOUNTY] [level:intermediate] Improve contributing guidelines CONTRIBUTING.md with step-by-step local setup
+2	github	9.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/2962	[BOUNTY] [level:intermediate] Fix rendering lag in large lists by implementing FlatList memoization
+2	github	9.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/2961	[BOUNTY] [level:advanced] Optimize image compression before uploading attachments to Supabase storage
+2	github	9.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/2960	[BOUNTY] [level:advanced] Integrate push notifications client-side with Expo Notifications
+2	github	9.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/2959	[BOUNTY] [level:intermediate] test: Add component tests for ticket details screen
+2	github	9.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/2958	[BOUNTY] [level:advanced] Cache offline ticket creation payloads and sync when connection is restored
+0	github	11.9	-	OPEN_ISSUE	https://github.com/Savitura/Fluxa/issues/25	API Integration Guide
+0	github	12.0	-	OPEN_ISSUE	https://github.com/Savitura/Fluxa/issues/23	Provider Adapter Interface & First Integration (Yellow Card)
+0	github	9.2	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/2971	[BOUNTY] [level:critical] Implement strict CORS configurations and session token revocations
+0	github	9.2	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/2970	[BOUNTY] [level:advanced] Build a lightweight dashboard server metrics panel utilizing WebSockets
