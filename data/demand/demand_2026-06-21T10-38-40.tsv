@@ -1,0 +1,27 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	0.5	$30	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/112	Frantic bounty #50: Dogfood Sourcey on the real Icey C++ codebase
+4	sn/bitcoin	17.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1511938	Latest Strikes #24 - June 8th - 14th 2026
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/Fluxa/issues/25	API Integration Guide
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/Fluxa/issues/23	Provider Adapter Interface & First Integration (Yellow Card)
+3	github	8.8	$10	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/89	Frantic bounty #38: Publish an evidence redaction fixture pack
+3	github	19.3	$25	OPEN_ISSUE,LOW_COMP	https://github.com/Soengkit/frailbox-checkpoint/issues/6	[$25 BOUNTY] [Perl] Add log watchdog malformed JSON fixture coverage
+2	sn/bitcoin	14.4	-	OPEN_NEED	https://stacker.news/items/1511994	Where is Bitcoin headed? Does it still have the "cypherpunk" goals?
+2	github	41.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Payflowcore/payflowapp/issues/5	Show the issuer for non-native balances
+2	github	60.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/12	Add asset logo SVGs for XLM and USDC
+2	github	60.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/11	Add Max button to Swap page from-amount field
+2	github	60.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/10	Improve Horizon error messages for common operation failures
+2	github	60.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/Stellarflow/issues/7	Show XLM minimum reserve warning before sending
+2	github	13.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/TauCetiStation/TauCetiClassic/pull/14932	fix: mech cheto-tam 
+1	github	5.7	$0	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/106	Frantic bounty #49: Give runx some love
+1	github	8.8	$10	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/98	Frantic bounty #47: Run a public runx registry install smoke matrix
+1	github	8.8	$8	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/96	Frantic bounty #45: Audit Sourcey docs gaps on a real library
+1	github	8.8	$10	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/92	Frantic bounty #41: Publish a Frantic delivery artifact linter
+1	github	13.7	$20	OPEN_ISSUE	https://github.com/xxnjms1-code/kickama-prize-lab/issues/2	[$20 BOUNTY] [Go] Make analytics Collector Start idempotent
+1	github	13.7	$35	OPEN_ISSUE	https://github.com/xxnjms1-code/kickama-prize-lab/issues/1	[$35 BOUNTY] [TypeScript] Coordinate auth token refresh across tabs
+1	github	18.6	$20	OPEN_ISSUE	https://github.com/123a-bcd/nailstorm-bounty-forge-358/issues/3	[$20 BOUNTY] [TypeScript] Add token refresh handling to legacy API client
+1	github	18.6	$40	OPEN_ISSUE	https://github.com/123a-bcd/zeroeye/issues/1	[$40 BOUNTY] [Python] Validate Terraform import resource names
+1	github	18.8	$12	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/81	Frantic bounty #37: runx skill: least-privilege grant plan
+1	github	19.2	$40	OPEN_ISSUE	https://github.com/2lll5/TentOfTrials/issues/1	[$40 BOUNTY] [TypeScript] Harden API response error handling
+0	github	61.6	-	OPEN_ISSUE	https://github.com/Savitura/Savitools/issues/20	Payment Path Simulator, Route Finder, Hop Visualiser & Slippage Estimator
+0	github	68.1	-	OPEN_ISSUE	https://github.com/OrbitChainLabs/OrbitChain-API/issues/9	[MEDIUM] — `parseAcceptedAssets` silently drops malformed entries instead of rejecting the create/update request
+0	github	15.0	-	OPEN_ISSUE	https://github.com/TauCetiStation/TauCetiClassic/pull/14931	fix: mech logs display Moscow time (MSK) - closes #4959
