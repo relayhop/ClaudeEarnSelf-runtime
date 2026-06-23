@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	15.8	21 sats	OPEN_NEED,LOW_COMP	https://stacker.news/items/1512766	ChainDuel V2: Changing the Equation
+4	sn/tech	10.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1513010	"Cobots" now become the next layer of tech-caused job loss, the future is here
+4	github	2.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Eaprime1/custos/issues/130	[bounty] Develop the partner-perspective seed into something concrete
+4	github	2.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Eaprime1/custos/issues/129	[bounty] Name the drifted lexeme(s) from the "polish and proceed" loop
+3	sn/bitcoin	4.7	$100	OPEN_NEED	https://stacker.news/items/1513175	Bagholders and Bitcoiners: Strategy's Dilution as a Service (FT, Craig Coben)
+3	sn/bitcoin	15.1	$50	OPEN_NEED	https://stacker.news/items/1512794	Why BIP-110 Matters More Than Ever
+3	github	1.1	$11	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/139	Frantic bounty #60: runx skill: dunning and AR reminder ladder
+3	github	1.1	$13	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/137	Frantic bounty #58: runx skill: contract review and risk
+3	github	1.1	$11	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/136	Frantic bounty #57: runx skill: resume screen and shortlist
+3	github	1.1	$12	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/134	Frantic bounty #55: runx skill: access request review
+3	github	1.1	$11	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/135	Frantic bounty #56: runx skill: account research and outreach sequence
+3	github	1.1	$13	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/133	Frantic bounty #54: runx skill: RFP and security-questionnaire response
+3	github	1.1	$13	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/131	Frantic bounty #52: runx skill: refund eligibility decision
+2	github	33.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Betta-Pay/BettaPay-Frontend/issues/86	Add unit tests for utility functions
+2	github	34.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/drydocs/meridian/issues/221	[Docs] Add JSDoc to undocumented public functions in stellar-sdk-helpers
+2	github	39.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/2972	[BOUNTY] [level:intermediate] Refactor outdated packages in package.json to stable version updates
+2	github	39.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/2968	[BOUNTY] [level:intermediate] Standardize environment variable loading with validation schemas
+1	github	4.7	$10	OPEN_ISSUE	https://github.com/foxyManTou/kickama-foxy-trials/issues/1	[$10 BOUNTY] [Python] Add configurable timeout and rate limiting to health_check probes
+0	github	14.7	-	OPEN_ISSUE	https://github.com/ShippedLabs/Stellar-Path-Finder/issues/16	Add one-click swap to reverse source and destination assets
+0	github	41.8	-	OPEN_ISSUE	https://github.com/Savitura/Fluxa/issues/25	API Integration Guide
+0	github	41.9	-	OPEN_ISSUE	https://github.com/Savitura/Fluxa/issues/23	Provider Adapter Interface & First Integration (Yellow Card)
+0	github	39.1	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/2971	[BOUNTY] [level:critical] Implement strict CORS configurations and session token revocations
+0	github	39.1	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/2970	[BOUNTY] [level:advanced] Build a lightweight dashboard server metrics panel utilizing WebSockets
+0	github	39.1	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/2969	[BOUNTY] [level:intermediate] Fix redundant API calls inside page initializers
