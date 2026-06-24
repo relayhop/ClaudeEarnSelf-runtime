@@ -1,0 +1,30 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/tech	0.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1514023	Is True Self-Sovereign Identity Finally Possible on Bitcoin?
+5	sn/bitcoin	3.3	$15	OPEN_NEED	https://stacker.news/items/1513929	🤔 So You Wanna Work In Bitcoin...
+5	github	2.4	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Perihelion-Protocol/Perihelion/issues/71	SDK: `Intent` amounts are decimal strings but there is no decimals-aware helper to construct them from human units
+4	sn/bitcoin	18.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1513617	[BIP Draft] Segregated Data: a prunable, script-isolated block region for data
+4	sn/bitcoin	17.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1513624	draft escrow module for fedimint - harsh dev
+4	sn/tech	21.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1513478	AI KYC is Here!
+4	github	1.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/boundlessfi/boundless/issues/631	FE: Applications review + shortlist/select/decline (Decide)
+3	sn/bitcoin	15.4	$50	OPEN_NEED	https://stacker.news/items/1513709	[HM] - The Hacker Who Left Bitcoin to Go to War
+2	sn/bitcoin	21.5	-	OPEN_NEED	https://stacker.news/items/1513477	Ashigaru v1.0 Now Available for for Desktop
+2	sn/bitcoin	21.5	-	OPEN_NEED	https://stacker.news/items/1513476	What Is Bitcoin's Biggest Challenge?
+2	github	65.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Betta-Pay/BettaPay-Frontend/issues/86	Add unit tests for utility functions
+2	github	66.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/drydocs/meridian/issues/221	[Docs] Add JSDoc to undocumented public functions in stellar-sdk-helpers
+2	github	1.5	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/638	Epic: Bounty completion (Operate -> Decide -> Payout -> Wrap -> Disputes)
+2	github	1.5	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/637	FE: Nav + codegen + end-to-end verification
+2	github	1.5	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/636	FE: Dispute resolution UI
+2	github	1.5	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/635	FE: Wrap (results/winners page + announcement + archive)
+2	github	1.5	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/634	FE: Cancel / refund flow
+2	github	1.5	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/633	FE: Winner selection + Payout (select-winners signing flow)
+2	github	1.5	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/632	FE: Submissions review (view submitted work for winner selection)
+2	github	1.5	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/630	FE: Bounty management dashboard shell + overview
+2	github	2.1	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/628	Epic: Bounty builder lifecycle (discover -> apply -> submit -> withdraw -> rewards)
+2	github	2.1	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/627	FE: Nav entry + codegen + end-to-end verification
+2	github	2.1	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/626	FE: Builder 'my bounties' activity + rewards receipt
+2	github	2.1	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/625	FE: Submit work flow (on-chain anchor) + withdraw submission
+2	github	2.1	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/624	FE: Apply / Join / Claim flow (mode-aware) + edit/withdraw application
+2	github	2.1	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/623	FE: Bounty detail page (/bounties/[id])
+0	github	24.0	-	OPEN_ISSUE	https://github.com/SO4-Markets/contracts/issues/248	chore: add Default impl for MarketProps to simplify test setup
+0	github	26.4	-	OPEN_ISSUE	https://github.com/israelolrunfemi/use-stellar/issues/14	Implement useAsset hook and demo page
+0	github	46.8	-	OPEN_ISSUE	https://github.com/ShippedLabs/Stellar-Path-Finder/issues/16	Add one-click swap to reverse source and destination assets
