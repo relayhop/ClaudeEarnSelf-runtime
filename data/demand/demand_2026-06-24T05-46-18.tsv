@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	11.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1513617	[BIP Draft] Segregated Data: a prunable, script-isolated block region for data
+4	sn/bitcoin	11.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1513624	draft escrow module for fedimint - harsh dev
+4	sn/tech	14.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1513478	AI KYC is Here!
+3	sn/bitcoin	8.7	$50	OPEN_NEED	https://stacker.news/items/1513709	[HM] - The Hacker Who Left Bitcoin to Go to War
+3	github	2.7	$50	OPEN_ISSUE	https://github.com/123a-bcd/nailstorm-bounty-forge-358/issues/14	[$50 BOUNTY] [Go] Limit analytics metric tag cardinality
+2	sn/bitcoin	14.9	-	OPEN_NEED	https://stacker.news/items/1513477	Ashigaru v1.0 Now Available for for Desktop
+2	sn/bitcoin	14.9	-	OPEN_NEED	https://stacker.news/items/1513476	What Is Bitcoin's Biggest Challenge?
+2	github	19.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/israelolrunfemi/use-stellar/issues/14	Implement useAsset hook and demo page
+2	github	59.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Betta-Pay/BettaPay-Frontend/issues/86	Add unit tests for utility functions
+2	github	59.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/drydocs/meridian/issues/221	[Docs] Add JSDoc to undocumented public functions in stellar-sdk-helpers
+2	github	1.2	-	OPEN_ISSUE	https://github.com/sneakers-the-rat/ImportantCode/issues/95	[13.12 BTC BOUNTY] implement zero-latency continuous time banana puddingital signal processing library
+2	github	64.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/2972	[BOUNTY] [level:intermediate] Refactor outdated packages in package.json to stable version updates
+2	github	64.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/2968	[BOUNTY] [level:intermediate] Standardize environment variable loading with validation schemas
+2	github	64.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/2967	[BOUNTY] [level:advanced] Build clean multi-stage production Dockerfiles for both frontend and backend
+2	github	64.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritesh-1918/HELPDESK.AI/issues/2966	[BOUNTY] [level:intermediate] Create Docker compose environment for running app with local database
+1	github	25.5	$10	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/146	Frantic bounty #19: runx skill: structured extraction
+1	github	25.5	$20	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/144	Frantic bounty #18: Publish live docs for an underdocumented OSS library
+1	github	25.5	$15	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/143	Frantic bounty #20: runx skill: verifiable web research
+1	github	25.5	$12	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/141	Frantic bounty #17: runx skill: dependency CVE audit
+1	github	30.2	$10	OPEN_ISSUE	https://github.com/foxyManTou/kickama-foxy-trials/issues/1	[$10 BOUNTY] [Python] Add configurable timeout and rate limiting to health_check probes
+0	github	17.4	-	OPEN_ISSUE	https://github.com/SO4-Markets/contracts/issues/248	chore: add Default impl for MarketProps to simplify test setup
+0	github	40.2	-	OPEN_ISSUE	https://github.com/ShippedLabs/Stellar-Path-Finder/issues/16	Add one-click swap to reverse source and destination assets
+0	github	67.4	-	OPEN_ISSUE	https://github.com/Savitura/Fluxa/issues/25	API Integration Guide
+0	github	67.4	-	OPEN_ISSUE	https://github.com/Savitura/Fluxa/issues/23	Provider Adapter Interface & First Integration (Yellow Card)
+0	github	28.1	-	OPEN_ISSUE	https://github.com/Eaprime1/custos/issues/130	[bounty] Develop the partner-perspective seed into something concrete
+0	github	64.6	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/2971	[BOUNTY] [level:critical] Implement strict CORS configurations and session token revocations
+0	github	64.6	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/2970	[BOUNTY] [level:advanced] Build a lightweight dashboard server metrics panel utilizing WebSockets
+0	github	64.6	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/2969	[BOUNTY] [level:intermediate] Fix redundant API calls inside page initializers
