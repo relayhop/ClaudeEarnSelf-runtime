@@ -1,0 +1,26 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	3.3	$10	OPEN_ISSUE,LOW_COMP	https://github.com/Saiaaax/CyberNinja-Dojo/issues/10	[$10 BOUNTY] [TypeScript] Add telemetry batch flush threshold tests
+4	sn/tech	16.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1514023	Is True Self-Sovereign Identity Finally Possible on Bitcoin?
+3	sn/bitcoin	19.7	$15	OPEN_NEED	https://stacker.news/items/1513929	🤔 So You Wanna Work In Bitcoin...
+3	sn/bitcoin	14.8	01 BTC	OPEN_NEED	https://stacker.news/items/1514080	The Julian Assange Film Streamers Wouldn’t Touch Turns To Bitcoin
+3	github	18.8	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Perihelion-Protocol/Perihelion/issues/71	SDK: `Intent` amounts are decimal strings but there is no decimals-aware helper to construct them from human units
+2	sn/bitcoin	8.4	-	OPEN_NEED	https://stacker.news/items/1514312	"This Square terminal doesn't."
+2	sn/bitcoin	14.4	-	OPEN_NEED	https://stacker.news/items/1514099	BIP110 Fork Simulator: Can BIP110 Lead to Chain Split?
+2	github	7.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarLock/StellarLock/issues/83	Add breadcrumb navigation for nested routes
+2	github	17.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/boundlessfi/boundless/issues/631	FE: Applications review + shortlist/select/decline (Decide)
+2	github	19.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/99	[radar] SN open bounty 2026-06-24T09:48
+2	github	24.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/sneakers-the-rat/ImportantCode/issues/95	[13.12 BTC BOUNTY] implement zero-latency continuous time banana puddingital signal processing library
+1	github	14.9	$10	OPEN_ISSUE	https://github.com/Saiaaax/CyberNinja-Dojo/issues/2	[$10 BOUNTY] [Python] Add build.py --check-stale flag for CI gating
+1	github	25.7	$50	OPEN_ISSUE	https://github.com/123a-bcd/nailstorm-bounty-forge-358/issues/14	[$50 BOUNTY] [Go] Limit analytics metric tag cardinality
+0	github	40.4	-	OPEN_ISSUE	https://github.com/SO4-Markets/contracts/issues/248	chore: add Default impl for MarketProps to simplify test setup
+0	github	42.8	-	OPEN_ISSUE	https://github.com/israelolrunfemi/use-stellar/issues/14	Implement useAsset hook and demo page
+0	github	63.2	-	OPEN_ISSUE	https://github.com/ShippedLabs/Stellar-Path-Finder/issues/16	Add one-click swap to reverse source and destination assets
+0	github	14.6	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/issues/770	[BOUNTY $100] 🐜The Memanto Bug & Exploit Challenge
+0	github	17.9	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/638	Epic: Bounty completion (Operate -> Decide -> Payout -> Wrap -> Disputes)
+0	github	17.9	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/637	FE: Nav + codegen + end-to-end verification
+0	github	17.9	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/636	FE: Dispute resolution UI
+0	github	17.9	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/635	FE: Wrap (results/winners page + announcement + archive)
+0	github	17.9	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/634	FE: Cancel / refund flow
+0	github	17.9	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/633	FE: Winner selection + Payout (select-winners signing flow)
+0	github	17.9	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/632	FE: Submissions review (view submitted work for winner selection)
+0	github	17.9	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/630	FE: Bounty management dashboard shell + overview
