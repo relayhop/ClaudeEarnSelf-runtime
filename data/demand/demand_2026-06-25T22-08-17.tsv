@@ -1,0 +1,22 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	0.3	$7	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/167	Frantic bounty #67: runx skill: agency charter validator
+5	github	0.3	$7	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/166	Frantic bounty #66: runx skill: flaky test judge
+5	github	0.3	$7	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/165	Frantic bounty #65: runx skill: deliverability judge
+5	github	0.3	$8	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/164	Frantic bounty #64: runx skill: oncall alert triage
+5	github	0.3	$7	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/163	Frantic bounty #63: runx skill: renewal risk judge
+5	github	0.3	$6	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/162	Frantic bounty #62: runx skill: spam risk reviewer
+5	github	0.3	$8	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/161	Frantic bounty #61: runx skill: CI failure triage and classification
+4	github	3.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/codegraphtheory/hermes-profile-template/issues/18	[0.25 SOL bounty] Add a README discovery optimizer for generated profile repositories
+4	github	3.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/codegraphtheory/hermes-profile-template/issues/17	[0.25 SOL bounty] Add catalog submission generators for profile directories and resource lists
+4	github	3.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/codegraphtheory/hermes-profile-template/issues/16	[0.25 SOL bounty] Create a demo kit that records terminal demos without leaking secrets
+4	github	3.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/codegraphtheory/hermes-profile-template/issues/15	[0.25 SOL bounty] Ship a reusable GitHub Action for profile distribution validation
+4	github	3.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/codegraphtheory/hermes-profile-template/issues/13	[0.25 SOL bounty] Add an interactive profile design wizard that writes profile.params.yaml
+3	sn/bitcoin	11.9	$300	OPEN_NEED	https://stacker.news/items/1514564	The Situation in Kramatorsk, Ukraine (Part 2)
+3	github	36.2	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Perihelion-Protocol/Perihelion/issues/71	SDK: `Intent` amounts are decimal strings but there is no decimals-aware helper to construct them from human units
+2	github	20.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/jafardxb812-max/chainscout/pull/4	Add comprehensive wallet API routes and utilities for EVM chains
+2	github	25.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarLock/StellarLock/issues/83	Add breadcrumb navigation for nested routes
+2	github	3.7	-	OPEN_ISSUE	https://github.com/codegraphtheory/hermes-profile-template/issues/19	[0.25 SOL bounty] Build a release readiness workflow with changelog, manifest, and install smoke report
+2	github	3.7	-	OPEN_ISSUE	https://github.com/codegraphtheory/hermes-profile-template/issues/14	[0.25 SOL bounty] Add a profile quality scorecard with JSON and Markdown output
+2	github	3.7	-	OPEN_ISSUE	https://github.com/codegraphtheory/hermes-profile-template/issues/12	[0.25 SOL bounty] Build a searchable examples gallery for generated Hermes profiles
+0	github	57.7	-	OPEN_ISSUE	https://github.com/SO4-Markets/contracts/issues/248	chore: add Default impl for MarketProps to simplify test setup
+0	github	60.1	-	OPEN_ISSUE	https://github.com/israelolrunfemi/use-stellar/issues/14	Implement useAsset hook and demo page
