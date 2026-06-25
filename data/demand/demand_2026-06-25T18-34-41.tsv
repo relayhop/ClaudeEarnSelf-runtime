@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/codegraphtheory/hermes-profile-template/issues/18	[0.25 SOL bounty] Add a README discovery optimizer for generated profile repositories
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/codegraphtheory/hermes-profile-template/issues/17	[0.25 SOL bounty] Add catalog submission generators for profile directories and resource lists
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/codegraphtheory/hermes-profile-template/issues/16	[0.25 SOL bounty] Create a demo kit that records terminal demos without leaking secrets
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/codegraphtheory/hermes-profile-template/issues/15	[0.25 SOL bounty] Ship a reusable GitHub Action for profile distribution validation
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/codegraphtheory/hermes-profile-template/issues/14	[0.25 SOL bounty] Add a profile quality scorecard with JSON and Markdown output
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/codegraphtheory/hermes-profile-template/issues/13	[0.25 SOL bounty] Add an interactive profile design wizard that writes profile.params.yaml
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/codegraphtheory/hermes-profile-template/issues/12	[0.25 SOL bounty] Build a searchable examples gallery for generated Hermes profiles
+3	sn/bitcoin	8.3	$300	OPEN_NEED	https://stacker.news/items/1514564	The Situation in Kramatorsk, Ukraine (Part 2)
+3	github	32.6	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Perihelion-Protocol/Perihelion/issues/71	SDK: `Intent` amounts are decimal strings but there is no decimals-aware helper to construct them from human units
+2	sn/bitcoin	22.2	-	OPEN_NEED	https://stacker.news/items/1514312	"This Square terminal doesn't."
+2	github	17.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/jafardxb812-max/chainscout/pull/4	Add comprehensive wallet API routes and utilities for EVM chains
+2	github	21.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarLock/StellarLock/issues/83	Add breadcrumb navigation for nested routes
+2	github	0.2	-	OPEN_ISSUE	https://github.com/codegraphtheory/hermes-profile-template/issues/19	[0.25 SOL bounty] Build a release readiness workflow with changelog, manifest, and install smoke report
+2	github	20.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/dwebagents/AgentPipe/issues/104	[Bounty: 0.42BTC] Build the security control plane
+1	github	17.1	$10	OPEN_ISSUE	https://github.com/Saiaaax/CyberNinja-Dojo/issues/10	[$10 BOUNTY] [TypeScript] Add telemetry batch flush threshold tests
+1	github	28.6	$10	OPEN_ISSUE	https://github.com/Saiaaax/CyberNinja-Dojo/issues/2	[$10 BOUNTY] [Python] Add build.py --check-stale flag for CI gating
+0	github	54.2	-	OPEN_ISSUE	https://github.com/SO4-Markets/contracts/issues/248	chore: add Default impl for MarketProps to simplify test setup
+0	github	56.6	-	OPEN_ISSUE	https://github.com/israelolrunfemi/use-stellar/issues/14	Implement useAsset hook and demo page
+0	github	8.9	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/100	[radar] SN open bounty 2026-06-25T09:39
+0	github	9.6	-	OPEN_ISSUE	https://github.com/dwebagents/AgentPipe/issues/107	[Bounty: 4 Golden Eggs] Implement golden egg factory inside goose
+0	github	28.4	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/issues/770	[BOUNTY $100] 🐜The Memanto Bug & Exploit Challenge
+0	github	31.7	-	OPEN_ISSUE	https://github.com/boundlessfi/boundless/issues/638	Epic: Bounty completion (Operate -> Decide -> Payout -> Wrap -> Disputes)
