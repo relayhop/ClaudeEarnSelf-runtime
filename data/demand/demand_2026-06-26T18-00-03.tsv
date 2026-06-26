@@ -1,0 +1,19 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	2.4	$10	OPEN_ISSUE,LOW_COMP	https://github.com/aldorizona10-glitch/quickops-shadow-arena/issues/2	[$10 BOUNTY] [Go] Add matching engine place/cancel order tests
+5	github	2.4	$10	OPEN_ISSUE,LOW_COMP	https://github.com/aldorizona10-glitch/quickops-shadow-arena/issues/3	[$10 BOUNTY] [TypeScript] Add number formatter edge case tests
+5	github	2.4	$10	OPEN_ISSUE,LOW_COMP	https://github.com/aldorizona10-glitch/quickops-shadow-arena/issues/1	[$10 BOUNTY] [Go] Add orderbook add/cancel order tests
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/tenstorrent/tt-metal/issues/48285	[Bounty $2500] exp: perf regression (WH/BH) and -NaN edge case (WH)
+3	github	56.0	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Perihelion-Protocol/Perihelion/issues/71	SDK: `Intent` amounts are decimal strings but there is no decimals-aware helper to construct them from human units
+2	github	40.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/jafardxb812-max/chainscout/pull/4	Add comprehensive wallet API routes and utilities for EVM chains
+2	github	23.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/codegraphtheory/hermes-profile-template/issues/18	[0.25 SOL bounty] Add a README discovery optimizer for generated profile repositories
+2	github	23.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/codegraphtheory/hermes-profile-template/issues/17	[0.25 SOL bounty] Add catalog submission generators for profile directories and resource lists
+2	github	23.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/codegraphtheory/hermes-profile-template/issues/16	[0.25 SOL bounty] Create a demo kit that records terminal demos without leaking secrets
+2	github	23.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/codegraphtheory/hermes-profile-template/issues/15	[0.25 SOL bounty] Ship a reusable GitHub Action for profile distribution validation
+0	github	44.9	-	OPEN_ISSUE	https://github.com/StellarLock/StellarLock/issues/83	Add breadcrumb navigation for nested routes
+0	github	10.9	-	OPEN_ISSUE	https://github.com/dwebagents/AgentPipe/issues/131	[Bounty: 3 ETH] implement Goose class in SuperCollider
+0	github	14.3	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/14383	[Bounty: 100 RTC] LangChain + MCP tool for staked self-improvement
+0	github	14.3	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/14382	[Bounty: 75 RTC] Community gate — implement the open Judge interface
+0	github	14.3	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/14381	[Bounty: 150 RTC] elyan-staking SDK — JavaScript/TypeScript client
+0	github	14.8	-	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/2207	[Bounty] Validate user creation payloads
+0	github	23.6	-	OPEN_ISSUE	https://github.com/codegraphtheory/hermes-profile-template/issues/19	[0.25 SOL bounty] Build a release readiness workflow with changelog, manifest, and install smoke report
+0	github	23.6	-	OPEN_ISSUE	https://github.com/codegraphtheory/hermes-profile-template/issues/14	[0.25 SOL bounty] Add a profile quality scorecard with JSON and Markdown output
