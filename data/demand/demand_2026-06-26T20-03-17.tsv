@@ -1,0 +1,19 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/tenstorrent/tt-metal/issues/48285	[Bounty $2500] exp: perf regression (WH/BH) and -NaN edge case (WH)
+3	github	58.1	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Perihelion-Protocol/Perihelion/issues/71	SDK: `Intent` amounts are decimal strings but there is no decimals-aware helper to construct them from human units
+3	github	4.4	$10	OPEN_ISSUE,LOW_COMP	https://github.com/aldorizona10-glitch/quickops-shadow-arena/issues/3	[$10 BOUNTY] [TypeScript] Add number formatter edge case tests
+3	github	4.4	$10	OPEN_ISSUE,LOW_COMP	https://github.com/aldorizona10-glitch/quickops-shadow-arena/issues/2	[$10 BOUNTY] [Go] Add matching engine place/cancel order tests
+3	github	4.4	$10	OPEN_ISSUE,LOW_COMP	https://github.com/aldorizona10-glitch/quickops-shadow-arena/issues/1	[$10 BOUNTY] [Go] Add orderbook add/cancel order tests
+2	github	42.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/jafardxb812-max/chainscout/pull/4	Add comprehensive wallet API routes and utilities for EVM chains
+2	github	2.2	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/48287	[Bounty $10000] Improve tanh accuracy and performance (fp32)
+2	github	45.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/dwebagents/AgentPipe/issues/104	[Bounty: 0.42BTC] Build the security control plane
+1	github	42.5	$10	OPEN_ISSUE	https://github.com/Saiaaax/CyberNinja-Dojo/issues/10	[$10 BOUNTY] [TypeScript] Add telemetry batch flush threshold tests
+0	github	47.0	-	OPEN_ISSUE	https://github.com/StellarLock/StellarLock/issues/83	Add breadcrumb navigation for nested routes
+0	github	13.0	-	OPEN_ISSUE	https://github.com/dwebagents/AgentPipe/issues/131	[Bounty: 3 ETH] implement Goose class in SuperCollider
+0	github	16.3	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/14383	[Bounty: 100 RTC] LangChain + MCP tool for staked self-improvement
+0	github	16.3	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/14382	[Bounty: 75 RTC] Community gate — implement the open Judge interface
+0	github	16.3	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/14381	[Bounty: 150 RTC] elyan-staking SDK — JavaScript/TypeScript client
+0	github	16.9	-	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/2207	[Bounty] Validate user creation payloads
+0	github	29.7	-	OPEN_ISSUE	https://github.com/dwebagents/AgentPipe/issues/112	[Bounty: $200] Website
+0	github	34.4	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/100	[radar] SN open bounty 2026-06-25T09:39
+0	github	35.1	-	OPEN_ISSUE	https://github.com/dwebagents/AgentPipe/issues/107	[Bounty: 4 Golden Eggs] Implement golden egg factory inside goose
