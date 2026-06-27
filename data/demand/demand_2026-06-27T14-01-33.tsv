@@ -1,0 +1,19 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	2.2	-	OPEN_NEED	https://stacker.news/items/1515814	Hang With Your Tribe
+2	github	60.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/jafardxb812-max/chainscout/pull/4	Add comprehensive wallet API routes and utilities for EVM chains
+2	github	5.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/101	[radar] SN open bounty 2026-06-27T08:48
+2	github	5.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/explorerscat/cautious-octo-fishstick/issues/3	Indoraptor DNA is random
+2	github	5.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/explorerscat/cautious-octo-fishstick/issues/2	Communication with Hayabusa2
+2	github	8.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/explorerscat/cautious-octo-fishstick/issues/1	The magic beans are misaligned
+1	github	4.3	$50	OPEN_ISSUE	https://github.com/David-patrick-chuks/Riona-AI-Agent/issues/120	[BOUNTY $50] Add a hello-world test endpoint to verify bot detection
+1	github	4.5	$50	OPEN_ISSUE	https://github.com/David-patrick-chuks/Riona-AI-Agent/issues/118	[BOUNTY $50] Add a hello-world test endpoint to verify bot detection
+0	github	64.9	-	OPEN_ISSUE	https://github.com/StellarLock/StellarLock/issues/83	Add breadcrumb navigation for nested routes
+0	github	20.1	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/48287	[Bounty $10000] Improve tanh accuracy and performance (fp32)
+0	github	20.2	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/48285	[Bounty $2500] exp: perf regression (WH/BH) and -NaN edge case (WH)
+0	github	30.9	-	OPEN_ISSUE	https://github.com/dwebagents/AgentPipe/issues/131	[Bounty: 3 ETH] implement Goose class in SuperCollider
+0	github	34.3	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/14383	[Bounty: 100 RTC] LangChain + MCP tool for staked self-improvement
+0	github	34.3	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/14382	[Bounty: 75 RTC] Community gate — implement the open Judge interface
+0	github	34.3	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/14381	[Bounty: 150 RTC] elyan-staking SDK — JavaScript/TypeScript client
+0	github	34.8	-	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/2207	[Bounty] Validate user creation payloads
+0	github	52.4	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/100	[radar] SN open bounty 2026-06-25T09:39
+0	github	53.1	-	OPEN_ISSUE	https://github.com/dwebagents/AgentPipe/issues/107	[Bounty: 4 Golden Eggs] Implement golden egg factory inside goose
