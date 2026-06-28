@@ -1,0 +1,21 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	13.8	1 sat	OPEN_NEED,LOW_COMP	https://stacker.news/items/1515882	Wasabi Wallet v2.8.0 released - MANDATORY UPGRADE
+4	sn/bitcoin	2.8	-	OPEN_NEED	https://stacker.news/items/1516210	PlebTV v3: Impress
+4	sn/tech	11.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1515951	An Interview with Figma CEO Dylan Field About Design and AI - Stratechary post
+2	sn/bitcoin	17.2	-	OPEN_NEED	https://stacker.news/items/1515814	Hang With Your Tribe
+2	github	8.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/LabsCrypt/flowfi/issues/883	[Testing] lib/soroban.ts pure helpers untested: toSorobanErrorMessage, toDurationSeconds, getTokenAddress, to/fromBaseUn
+2	github	3.4	-	OPEN_ISSUE	https://github.com/explorerscat/cautious-octo-fishstick/issues/7	[BOUNTY: True Value = The Goose itself] Goose has been devalued!
+2	github	20.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/101	[radar] SN open bounty 2026-06-27T08:48
+2	github	20.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/explorerscat/cautious-octo-fishstick/issues/2	[BOUNTY: 1 mg Xenonite] Communication with Hayabusa2
+2	github	23.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/explorerscat/cautious-octo-fishstick/issues/1	The magic beans are misaligned
+1	github	19.3	$50	OPEN_ISSUE	https://github.com/David-patrick-chuks/Riona-AI-Agent/issues/120	[BOUNTY $50] Add a hello-world test endpoint to verify bot detection
+1	github	19.6	$50	OPEN_ISSUE	https://github.com/David-patrick-chuks/Riona-AI-Agent/issues/118	[BOUNTY $50] Add a hello-world test endpoint to verify bot detection
+0	github	35.2	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/48287	[Bounty $10000] Improve tanh accuracy and performance (fp32)
+0	github	35.3	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/48285	[Bounty $2500] exp: perf regression (WH/BH) and -NaN edge case (WH)
+0	github	46.0	-	OPEN_ISSUE	https://github.com/dwebagents/AgentPipe/issues/131	[Bounty: 3 ETH] implement Goose class in SuperCollider
+0	github	49.4	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/14383	[Bounty: 100 RTC] LangChain + MCP tool for staked self-improvement
+0	github	49.4	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/14382	[Bounty: 75 RTC] Community gate — implement the open Judge interface
+0	github	49.4	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/14381	[Bounty: 150 RTC] elyan-staking SDK — JavaScript/TypeScript client
+0	github	49.9	-	OPEN_ISSUE	https://github.com/xevrion-v2/agent-playground/issues/2207	[Bounty] Validate user creation payloads
+0	github	67.4	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/100	[radar] SN open bounty 2026-06-25T09:39
+0	github	68.2	-	OPEN_ISSUE	https://github.com/dwebagents/AgentPipe/issues/107	[Bounty: 4 Golden Eggs] Implement golden egg factory inside goose
