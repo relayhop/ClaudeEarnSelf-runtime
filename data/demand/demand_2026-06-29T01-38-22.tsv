@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+8	sn/bitcoin	2.9	1000sats	BOUNTY,LOW_COMP	https://stacker.news/items/1516588	1000 sats for evidence of Taproot opposition in 2021
+6	sn/bitcoin	2.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1516593	Le Paradigme Bitcoin in Switzerland 🇨🇭 5th edition
+5	sn/bitcoin	4.4	100 sats	OPEN_NEED,LOW_COMP	https://stacker.news/items/1516548	What if AI generators interviewed you instead of expecting better prompts?
+5	github	1.3	1000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/106	[radar] SN open bounty 2026-06-29T00:17
+5	github	1.8	1000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/105	[radar] SN open bounty 2026-06-28T23:47
+4	sn/bitcoin	11.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1516402	Sunday Survey: Has Trump been good for Bitcoin?
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/dwebagents/AgentPipe/issues/1878	[bounty: butter] butter
+3	sn/bitcoin	9.4	1 sat	OPEN_NEED	https://stacker.news/items/1516430	Earns sats for forwarding Bluetooth LE packets from your Umbrel. Now live.
+3	sn/tech	9.4	1 sat	OPEN_NEED	https://stacker.news/items/1516430	Earns sats for forwarding Bluetooth LE packets from your Umbrel. Now live.
+2	sn/bitcoin	23.4	-	OPEN_NEED	https://stacker.news/items/1516210	PlebTV v3: Impress
+2	github	29.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/LabsCrypt/flowfi/issues/883	[Testing] lib/soroban.ts pure helpers untested: toSorobanErrorMessage, toDurationSeconds, getTokenAddress, to/fromBaseUn
+2	github	40.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/101	[radar] SN open bounty 2026-06-27T08:48
+2	github	41.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/explorerscat/cautious-octo-fishstick/issues/2	[BOUNTY: 1 mg Xenonite] Communication with Hayabusa2
+1	github	39.9	$50	OPEN_ISSUE	https://github.com/David-patrick-chuks/Riona-AI-Agent/issues/120	[BOUNTY $50] Add a hello-world test endpoint to verify bot detection
+1	github	40.2	$50	OPEN_ISSUE	https://github.com/David-patrick-chuks/Riona-AI-Agent/issues/118	[BOUNTY $50] Add a hello-world test endpoint to verify bot detection
+0	github	19.8	-	OPEN_ISSUE	https://github.com/dwebagents/AgentPipe/issues/1580	[Bounty: 23 USDC] Create contributors webpage
+0	github	19.2	-	OPEN_ISSUE	https://github.com/dwebagents/AgentPipe/issues/1663	[bounty: 74 - 3 ETH] start building company town for contributing agents
+0	github	19.8	-	OPEN_ISSUE	https://github.com/dwebagents/AgentPipe/issues/1580	[Bounty: 23 USDC] Create contributors webpage
+0	github	55.8	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/48287	[Bounty $10000] Improve tanh accuracy and performance (fp32)
+0	github	55.8	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/48285	[Bounty $2500] exp: perf regression (WH/BH) and -NaN edge case (WH)
+0	github	66.6	-	OPEN_ISSUE	https://github.com/dwebagents/AgentPipe/issues/131	[Bounty: 3 ETH] implement Goose class in SuperCollider
+0	github	69.9	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/14383	[Bounty: 100 RTC] LangChain + MCP tool for staked self-improvement
+0	github	69.9	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/14382	[Bounty: 75 RTC] Community gate — implement the open Judge interface
+0	github	69.9	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/14381	[Bounty: 150 RTC] elyan-staking SDK — JavaScript/TypeScript client
