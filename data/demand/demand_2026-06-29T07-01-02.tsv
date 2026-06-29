@@ -1,0 +1,21 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	9.7	100 sats	OPEN_NEED,LOW_COMP	https://stacker.news/items/1516548	What if AI generators interviewed you instead of expecting better prompts?
+4	sn/bitcoin	7.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1516593	Le Paradigme Bitcoin in Switzerland 🇨🇭 5th edition
+4	sn/bitcoin	16.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1516402	Sunday Survey: Has Trump been good for Bitcoin?
+3	sn/bitcoin	14.8	1 sat	OPEN_NEED	https://stacker.news/items/1516430	Earns sats for forwarding Bluetooth LE packets from your Umbrel. Now live.
+3	sn/tech	14.8	1 sat	OPEN_NEED	https://stacker.news/items/1516430	Earns sats for forwarding Bluetooth LE packets from your Umbrel. Now live.
+3	github	5.0	1000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/107	[radar] SN open bounty 2026-06-29T01:58
+3	github	6.7	1000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/106	[radar] SN open bounty 2026-06-29T00:17
+3	github	7.2	1000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/105	[radar] SN open bounty 2026-06-28T23:47
+2	github	34.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/LabsCrypt/flowfi/issues/883	[Testing] lib/soroban.ts pure helpers untested: toSorobanErrorMessage, toDurationSeconds, getTokenAddress, to/fromBaseUn
+2	github	5.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/dwebagents/AgentPipe/issues/1878	[bounty: butter] butter
+2	github	46.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/101	[radar] SN open bounty 2026-06-27T08:48
+2	github	46.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/explorerscat/cautious-octo-fishstick/issues/2	[BOUNTY: 1 mg Xenonite] Communication with Hayabusa2
+1	github	45.3	$50	OPEN_ISSUE	https://github.com/David-patrick-chuks/Riona-AI-Agent/issues/120	[BOUNTY $50] Add a hello-world test endpoint to verify bot detection
+1	github	45.5	$50	OPEN_ISSUE	https://github.com/David-patrick-chuks/Riona-AI-Agent/issues/118	[BOUNTY $50] Add a hello-world test endpoint to verify bot detection
+0	github	25.2	-	OPEN_ISSUE	https://github.com/dwebagents/AgentPipe/issues/1580	[Bounty: 23 USDC] Create contributors webpage
+0	github	24.5	-	OPEN_ISSUE	https://github.com/dwebagents/AgentPipe/issues/1663	[bounty: 74000 ETH] start building company town for contributing agents
+0	github	25.2	-	OPEN_ISSUE	https://github.com/dwebagents/AgentPipe/issues/1580	[Bounty: 23 USDC] Create contributors webpage
+0	github	61.1	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/48287	[Bounty $10000] Improve tanh accuracy and performance (fp32)
+0	github	61.2	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/48285	[Bounty $2500] exp: perf regression (WH/BH) and -NaN edge case (WH)
+0	github	71.9	-	OPEN_ISSUE	https://github.com/dwebagents/AgentPipe/issues/131	[Bounty: 3 ETH] implement Goose class in SuperCollider
