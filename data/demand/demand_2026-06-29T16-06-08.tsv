@@ -1,0 +1,27 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	2.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1516788	Paradigme Bitcoin in Switzerland 🇨🇭 5th edition
+6	sn/bitcoin	1.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1516806	Send Dollars Anywhere, Straight From Bitcoin | New Feature w/ Breez SDK
+5	sn/bitcoin	4.2	5016 sats	OPEN_NEED,LOW_COMP	https://stacker.news/items/1516765	TunnelSats on Umbrel
+5	sn/bitcoin	2.0	$120	OPEN_NEED	https://stacker.news/items/1516795	In what scenario might bitcoin be useless?
+3	sn/bitcoin	18.8	100 sats	OPEN_NEED	https://stacker.news/items/1516548	What if AI generators interviewed you instead of expecting better prompts?
+3	sn/bitcoin	23.9	1 sat	OPEN_NEED	https://stacker.news/items/1516430	Earns sats for forwarding Bluetooth LE packets from your Umbrel. Now live.
+3	sn/tech	23.9	1 sat	OPEN_NEED	https://stacker.news/items/1516430	Earns sats for forwarding Bluetooth LE packets from your Umbrel. Now live.
+3	github	14.1	1000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/107	[radar] SN open bounty 2026-06-29T01:58
+3	github	15.8	1000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/106	[radar] SN open bounty 2026-06-29T00:17
+3	github	16.3	1000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/105	[radar] SN open bounty 2026-06-28T23:47
+2	github	5.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/coopfinance/coopfin-frontend/issues/2	[Frontend] Implement RecentActivity feed on dashboard
+2	github	3.4	-	OPEN_ISSUE	https://github.com/coopfinance/coopfin-frontend/issues/17	[Frontend] Add E2E test coverage for wallet connect and loan request flow using Playwright
+2	github	3.6	-	OPEN_ISSUE	https://github.com/coopfinance/coopfin-frontend/issues/12	[Frontend] Implement member contribution form on the group detail page
+2	github	3.9	-	OPEN_ISSUE	https://github.com/coopfinance/coopfin-frontend/issues/9	[Frontend] Build individual group detail page at /groups/[id]
+2	github	4.0	-	OPEN_ISSUE	https://github.com/coopfinance/coopfin-frontend/issues/8	[Frontend] Add wallet connect button to header/navbar with address display and disconnect
+2	github	5.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/coopfinance/coopfin-frontend/issues/2	[Frontend] Implement RecentActivity feed on dashboard
+2	github	15.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/dwebagents/AgentPipe/issues/1878	[bounty: butter] butter
+2	github	55.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/101	[radar] SN open bounty 2026-06-27T08:48
+1	github	54.3	$50	OPEN_ISSUE	https://github.com/David-patrick-chuks/Riona-AI-Agent/issues/120	[BOUNTY $50] Add a hello-world test endpoint to verify bot detection
+1	github	54.6	$50	OPEN_ISSUE	https://github.com/David-patrick-chuks/Riona-AI-Agent/issues/118	[BOUNTY $50] Add a hello-world test endpoint to verify bot detection
+0	github	5.9	-	OPEN_ISSUE	https://github.com/TrustHire/hiresettle-contract/issues/83	docs: add doc comments to Engagement struct fields
+0	github	34.3	-	OPEN_ISSUE	https://github.com/dwebagents/AgentPipe/issues/1580	[Bounty: 23 USDC] Create contributors webpage
+0	github	43.9	-	OPEN_ISSUE	https://github.com/LabsCrypt/flowfi/issues/883	[Testing] lib/soroban.ts pure helpers untested: toSorobanErrorMessage, toDurationSeconds, getTokenAddress, to/fromBaseUn
+0	github	5.1	-	OPEN_ISSUE	https://github.com/coopfinance/coopfin-frontend/issues/1	[Frontend] Implement TreasuryChart component with Recharts area chart
+0	github	33.6	-	OPEN_ISSUE	https://github.com/dwebagents/AgentPipe/issues/1663	[bounty: 74000 ETH] start building company town for contributing agents
+0	github	34.3	-	OPEN_ISSUE	https://github.com/dwebagents/AgentPipe/issues/1580	[Bounty: 23 USDC] Create contributors webpage
