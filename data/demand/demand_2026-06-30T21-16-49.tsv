@@ -1,0 +1,21 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	1.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1517426	How to start and run a new Cashu mint (guide) - Orchard
+2	github	30.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/unleaktrade/settlement-engine/pull/35	Add cluster-agnostic Config update script with tests & CI
+1	github	4.1	$100	OPEN_ISSUE	https://github.com/David-patrick-chuks/Riona-AI-Agent/issues/155	[BOUNTY $100] Add unified IG + Twitter action log API endpoint
+1	github	9.0	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/157	[BUG] HTTP Request Smuggling + Cache Poisoning Weaponization $100
+1	github	9.0	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/156	[BUG] Zero-Click Account Takeover via Email Normalization $100
+1	github	9.0	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/155	[BUG] Serverless Function Event Injection → Privilege Escalation $100
+1	github	9.0	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/154	[BUG] JWT Algorithm Confusion + Key Injection Combined Attack $100
+1	github	9.0	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/153	[BUG] Reentrancy Attack on DeFi Withdraw Function $100
+1	github	9.0	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/152	[BUG] Side-Channel Timing Attack on Constant-Time Comparison $100
+1	github	9.0	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/151	[BUG] Path Traversal + Log Poisoning → RCE Chain $100
+1	github	9.0	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/150	[BUG] Log4j JNDI Injection in Custom Logging Framework $100
+1	github	9.0	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/149	[BUG] Full Chain: XSS → CSRF → Account Takeover $100
+1	github	9.0	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/148	[BUG] Docker Container Escape via Mounted Docker Socket $100
+1	github	9.0	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/147	[BUG] GraphQL Depth Bypass + Batching → Data Exfiltration $100
+1	github	9.0	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/146	[BUG] Web Cache Deception + Session Fixation Combined $100
+1	github	9.0	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/145	[BUG] WebAssembly Memory Corruption → Sandbox Escape $100
+1	github	9.0	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/144	[BUG] Second-Order SQL Injection in Stored Procedure Chain $100
+0	github	34.1	-	OPEN_ISSUE	https://github.com/coopfinance/coopfin-frontend/issues/2	[Frontend] Implement RecentActivity feed on dashboard
+0	github	35.0	-	OPEN_ISSUE	https://github.com/TrustHire/hiresettle-contract/issues/83	docs: add doc comments to Engagement struct fields
+0	github	63.5	-	OPEN_ISSUE	https://github.com/dwebagents/AgentPipe/issues/1580	[Bounty: 23 USDC] Create contributors webpage
