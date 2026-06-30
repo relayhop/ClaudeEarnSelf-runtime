@@ -1,0 +1,11 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH	github	2.6	0	10	https://github.com/zhangjiayang6835-cyber/ai-research/issues/39	[BUG] Dependency Confusion — $25
+FRESH	github	2.6	0	5	https://github.com/zhangjiayang6835-cyber/ai-research/issues/38	[BUG] Server-Side Prototype Pollution — $50
+FRESH	github	2.6	0	13	https://github.com/zhangjiayang6835-cyber/ai-research/issues/37	[BUG] CORS Misconfiguration — $10
+FRESH	github	2.6	0	4	https://github.com/zhangjiayang6835-cyber/ai-research/issues/36	[BUG] SSRF (Blind) — $50
+FRESH	github	2.6	0	4	https://github.com/zhangjiayang6835-cyber/ai-research/issues/35	[BUG] Host Header Injection — $10
+FRESH	github	2.6	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/34	[BUG] Cache Poisoning — $25
+FRESH	github	2.6	0	13	https://github.com/zhangjiayang6835-cyber/ai-research/issues/33	[BUG] JWT Algorithm Confusion — $50
+FRESH	github	2.6	0	13	https://github.com/zhangjiayang6835-cyber/ai-research/issues/32	[BUG] OAuth Misconfiguration — $25
+FRESH	github	2.6	0	16	https://github.com/zhangjiayang6835-cyber/ai-research/issues/31	[BUG] WebSocket Hijacking — $25
+FRESH	github	2.6	0	14	https://github.com/zhangjiayang6835-cyber/ai-research/issues/30	[BUG] GraphQL Injection — $25
