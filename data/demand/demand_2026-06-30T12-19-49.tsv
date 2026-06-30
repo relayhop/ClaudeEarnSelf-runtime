@@ -1,0 +1,24 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	0.1	$100	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/157	[BUG] HTTP Request Smuggling + Cache Poisoning Weaponization $100
+5	github	0.1	$100	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/156	[BUG] Zero-Click Account Takeover via Email Normalization $100
+5	github	0.1	$100	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/155	[BUG] Serverless Function Event Injection → Privilege Escalation $100
+5	github	0.1	$100	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/154	[BUG] JWT Algorithm Confusion + Key Injection Combined Attack $100
+5	github	0.1	$100	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/153	[BUG] Reentrancy Attack on DeFi Withdraw Function $100
+5	github	0.1	$100	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/152	[BUG] Side-Channel Timing Attack on Constant-Time Comparison $100
+5	github	0.1	$100	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/151	[BUG] Path Traversal + Log Poisoning → RCE Chain $100
+5	github	0.1	$100	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/150	[BUG] Log4j JNDI Injection in Custom Logging Framework $100
+5	github	0.1	$100	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/149	[BUG] Full Chain: XSS → CSRF → Account Takeover $100
+5	github	0.1	$100	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/148	[BUG] Docker Container Escape via Mounted Docker Socket $100
+5	github	0.1	$100	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/147	[BUG] GraphQL Depth Bypass + Batching → Data Exfiltration $100
+5	github	0.1	$100	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/146	[BUG] Web Cache Deception + Session Fixation Combined $100
+5	github	0.1	$100	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/145	[BUG] WebAssembly Memory Corruption → Sandbox Escape $100
+5	github	0.1	$100	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/144	[BUG] Second-Order SQL Injection in Stored Procedure Chain $100
+5	github	0.1	$100	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/143	[BUG] RCE through Unsafe YAML Load in Configuration Parser $100
+4	sn/bitcoin	22.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1516788	Paradigme Bitcoin in Switzerland 🇨🇭 5th edition
+4	sn/bitcoin	21.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1516822	root_wallet - j-kon
+3	sn/bitcoin	22.2	$120	OPEN_NEED	https://stacker.news/items/1516795	In what scenario might bitcoin be useless?
+2	github	21.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/unleaktrade/settlement-engine/pull/35	Add cluster-agnostic Config update script with tests & CI
+0	github	25.2	-	OPEN_ISSUE	https://github.com/coopfinance/coopfin-frontend/issues/2	[Frontend] Implement RecentActivity feed on dashboard
+0	github	26.1	-	OPEN_ISSUE	https://github.com/TrustHire/hiresettle-contract/issues/83	docs: add doc comments to Engagement struct fields
+0	github	54.5	-	OPEN_ISSUE	https://github.com/dwebagents/AgentPipe/issues/1580	[Bounty: 23 USDC] Create contributors webpage
+0	github	64.1	-	OPEN_ISSUE	https://github.com/LabsCrypt/flowfi/issues/883	[Testing] lib/soroban.ts pure helpers untested: toSorobanErrorMessage, toDurationSeconds, getTokenAddress, to/fromBaseUn
