@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	22.1	5016 sats	OPEN_NEED,LOW_COMP	https://stacker.news/items/1516765	TunnelSats on Umbrel
+4	sn/bitcoin	20.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1516788	Paradigme Bitcoin in Switzerland 🇨🇭 5th edition
+4	sn/bitcoin	18.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1516822	root_wallet - j-kon
+3	sn/bitcoin	19.8	$120	OPEN_NEED	https://stacker.news/items/1516795	In what scenario might bitcoin be useless?
+2	github	19.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/unleaktrade/settlement-engine/pull/35	Add cluster-agnostic Config update script with tests & CI
+2	github	17.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/28	[🐛 Bounty] HTTP Request Smuggling — 50 HONEY 🪙
+2	github	17.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/27	[🐛 Bounty] Session Fixation attack — 25 HONEY 🪙
+2	github	17.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/26	[🐛 Bounty] LDAP Injection in auth — 25 HONEY 🪙
+2	github	17.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/25	[🐛 Bounty] Insecure Password Reset — 25 HONEY 🪙
+1	github	5.6	$25	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/39	[BUG] Dependency Confusion — $25
+1	github	5.6	$50	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/38	[BUG] Server-Side Prototype Pollution — $50
+1	github	5.6	$10	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/37	[BUG] CORS Misconfiguration — $10
+1	github	5.6	$50	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/36	[BUG] SSRF (Blind) — $50
+1	github	5.6	$10	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/35	[BUG] Host Header Injection — $10
+1	github	5.6	$25	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/34	[BUG] Cache Poisoning — $25
+1	github	5.6	$50	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/33	[BUG] JWT Algorithm Confusion — $50
+1	github	5.6	$25	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/32	[BUG] OAuth Misconfiguration — $25
+1	github	5.6	$25	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/31	[BUG] WebSocket Hijacking — $25
+1	github	5.6	$25	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/30	[BUG] GraphQL Injection — $25
+0	github	22.8	-	OPEN_ISSUE	https://github.com/coopfinance/coopfin-frontend/issues/2	[Frontend] Implement RecentActivity feed on dashboard
+0	github	23.7	-	OPEN_ISSUE	https://github.com/TrustHire/hiresettle-contract/issues/83	docs: add doc comments to Engagement struct fields
+0	github	52.1	-	OPEN_ISSUE	https://github.com/dwebagents/AgentPipe/issues/1580	[Bounty: 23 USDC] Create contributors webpage
+0	github	61.7	-	OPEN_ISSUE	https://github.com/LabsCrypt/flowfi/issues/883	[Testing] lib/soroban.ts pure helpers untested: toSorobanErrorMessage, toDurationSeconds, getTokenAddress, to/fromBaseUn
+0	github	12.4	-	OPEN_ISSUE	https://github.com/explorerscat/cautious-octo-fishstick/issues/13	[BOUNTY: 1 air] This is not a problem
