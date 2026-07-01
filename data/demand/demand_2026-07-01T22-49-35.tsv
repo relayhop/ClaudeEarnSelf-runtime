@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	2.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1517937	Satoshi and Hal Finney first describing a mempool in November 2008
+6	sn/bitcoin	0.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1518054	Is everybody pivoting to AI?
+4	sn/bitcoin	19.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1517590	The first Bitcoin Taproot spend transactions - jaonoctus
+3	sn/bitcoin	4.1	$8	OPEN_NEED	https://stacker.news/items/1517897	Bitcoin Is Not Freedom: The Delusion of Digital Escape - Mises Institute
+3	github	7.7	586 sats	OPEN_ISSUE,LOW_COMP	https://github.com/Disneyland55555/Git-Action/issues/21	Transaction stuck pending
+2	sn/bitcoin	7.1	-	OPEN_NEED	https://stacker.news/items/1517824	What would you put in your genesis block?
+2	github	56.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/unleaktrade/settlement-engine/pull/35	Add cluster-agnostic Config update script with tests & CI
+0	github	59.7	-	OPEN_ISSUE	https://github.com/coopfinance/coopfin-frontend/issues/2	[Frontend] Implement RecentActivity feed on dashboard
+0	github	60.6	-	OPEN_ISSUE	https://github.com/TrustHire/hiresettle-contract/issues/83	docs: add doc comments to Engagement struct fields
+0	github	5.2	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/3239	[BOUNTY] [level:intermediate] Design unified dark mode theme properties inside ThemeProvider
+0	github	5.2	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/3238	[BOUNTY] [level:intermediate] Add pull-to-refresh indicators on all metrics list views
+0	github	5.2	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/3237	[BOUNTY] [level:critical] Implement strict tenant isolation in backend database calls
+0	github	5.2	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/3236	[BOUNTY] [level:advanced] Add full SQLite fallback service layer for local testing without Supabase
+0	github	5.2	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/3235	[BOUNTY] [level:intermediate] Implement custom timezone preference settings for user profiles
+0	github	5.2	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/3234	[BOUNTY] [level:beginner] Add tooltips clarifying database metrics on dashboard page
+0	github	5.2	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/3233	[BOUNTY] [level:intermediate] Build custom visual scorecard reports component inside dashboard view
+0	github	5.2	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/3232	[BOUNTY] [level:advanced] Integrate push notification systems with Expo services
+0	github	5.2	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/3231	[BOUNTY] [level:intermediate] Add auto-save draft functionality for new ticket forms
+0	github	5.2	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/3230	[BOUNTY] [level:critical] Audit and patch all backend dependencies with known vulnerability warnings
+0	github	5.2	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/3229	[BOUNTY] [level:advanced] Build end-to-end testing pipeline for user login with Cypress
+0	github	5.2	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/3228	[BOUNTY] [level:intermediate] Implement simple text classification filter to block duplicate ticket submissions
+0	github	5.2	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/3227	[BOUNTY] [level:beginner] Add detailed instructions on setting up environment secrets in README.md
+0	github	5.2	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/3226	[BOUNTY] [level:critical] Implement strict Content Security Policy configuration inside server middleware
+0	github	5.2	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/3225	[BOUNTY] [level:advanced] Optimize docker-compose setups using multi-stage builds caching layers
