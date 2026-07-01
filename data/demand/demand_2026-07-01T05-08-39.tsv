@@ -1,0 +1,22 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	2.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1517590	The first Bitcoin Taproot spend transactions - jaonoctus
+2	sn/bitcoin	9.7	-	OPEN_NEED	https://stacker.news/items/1517426	How to start and run a new Cashu mint (guide) - Orchard
+2	github	38.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/unleaktrade/settlement-engine/pull/35	Add cluster-agnostic Config update script with tests & CI
+1	github	5.1	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/212	[BUG] Insecure Federation SSO → Cross-Tenant Account Takeover $100
+1	github	5.1	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/211	[BUG] DNS Rebinding + WebRTC → Internal Network Reconnaissance $100
+1	github	5.1	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/210	[BUG] JWT None Algorithm + Weak Secret + Kid Injection Triple Attack $100
+1	github	5.1	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/209	[BUG] Blind RCE via Server-Side Template Injection in Sandboxed Env $100
+1	github	5.1	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/208	[BUG] Cross-Site Search (XS-Search) → User Data Enumeration $100
+1	github	5.1	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/207	[BUG] SSTI to File Read → RCE in Jinja2 Sandbox Breakout $100
+1	github	5.1	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/206	[BUG] Mass Assignment in Microservice → Privilege Escalation Chain $100
+1	github	5.1	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/205	[BUG] Server-Side Prototype Pollution to RCE Chain $100
+1	github	5.1	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/204	[BUG] OAuth 2.0 Implicit Grant Flow → Authorization Code Interception $100
+1	github	5.1	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/203	[BUG] XXE via SVG Upload → SSRF → Internal Port Scanning $100
+1	github	5.1	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/202	[BUG] SSRF via DNS Rebinding Bypassing Allowlist $100
+1	github	5.1	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/201	[BUG] Padding Oracle Attack on Encrypted Session Cookies $100
+1	github	5.1	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/200	[BUG] Race Condition in Distributed Transaction → Double Spending $100
+1	github	5.1	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/199	[BUG] Hash Length Extension Attack on JWT Signature $100
+1	github	5.1	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/198	[BUG] Prototype Pollution → DOM XSS → Full Account Takeover $100
+0	github	42.0	-	OPEN_ISSUE	https://github.com/coopfinance/coopfin-frontend/issues/2	[Frontend] Implement RecentActivity feed on dashboard
+0	github	42.9	-	OPEN_ISSUE	https://github.com/TrustHire/hiresettle-contract/issues/83	docs: add doc comments to Engagement struct fields
+0	github	71.3	-	OPEN_ISSUE	https://github.com/dwebagents/AgentPipe/issues/1580	[Bounty: 23 USDC] Create contributors webpage
