@@ -1,0 +1,27 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	3.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1518526	Latest Strikes 25&26 - June 15th - 28th 2026
+6	sn/bitcoin	3.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1518514	Terminal - BTCPay Server
+4	sn/bitcoin	2.0	-	OPEN_NEED	https://stacker.news/items/1518557	Has anyone actually done a Spark unilateral exit from mobile? - Francis Pouliout
+4	sn/bitcoin	4.0	-	OPEN_NEED	https://stacker.news/items/1518469	We're Sunsetting Self-Serve at Voltage: Enterprise is Our Future - Voltage
+4	sn/bitcoin	7.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1518275	How to search for OP_RETURN text
+4	sn/bitcoin	22.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1518054	Is everybody pivoting to AI?
+4	github	3.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/lnp2pBot/bot/issues/856	ru.yaml: inconsistent wording for sats ('сат' vs 'саты') in order title keys
+3	github	30.2	586 sats	OPEN_ISSUE,LOW_COMP	https://github.com/Disneyland55555/Git-Action/issues/21	Transaction stuck pending
+2	github	7.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Dreamville01/Nexora_web/issues/11	Add a shared currency formatting utility for donation amounts
+2	github	7.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/StepFi-app/StepFi-Web/issues/70	feat: add product listing grid to vendor detail page
+2	github	20.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/edgarfloresguerra2011-a11y/marketnow/issues/2	Security review request — volunteer peer review welcome (free)
+0	github	4.7	-	OPEN_ISSUE	https://github.com/Markp1598M/Helm/issues/1	🎯 Fix: --atomic rollback fails to trigger and leaves release in pending-upgrade state when post-upgrade hook times out
+0	github	6.5	-	OPEN_ISSUE	https://github.com/tari-project/tari-ootle/issues/2308	walletd web UI: set the default account from Settings
+0	github	9.9	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/52	Fix: Offline sync queue not clearing after successful push
+0	github	10.0	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/51	Fix: QR code scanner torch toggle broken on iOS
+0	github	10.0	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/50	Fix: SOS button not accessible on Android lock screen
+0	github	10.0	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/49	Appointment conflict detection - improve edge cases
+0	github	10.0	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/48	Detox E2E tests - QR scan and share flow
+0	github	10.0	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/47	Detox E2E tests - medication flow
+0	github	10.0	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/46	Push notification deep-link routing - all notification types
+0	github	10.0	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/45	Health metrics export to PDF - vet-ready report
+0	github	10.0	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/43	Stellar trustline UI - PETC / VETH / PAWP token management
+0	github	10.0	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/42	Pet insurance claims - full submission flow
+0	github	10.0	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/41	Portuguese (BR) language translation (i18n)
+0	github	10.0	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/40	French language translation (i18n)
+0	github	10.0	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/39	Dark mode - full app theming audit and fix
