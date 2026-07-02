@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	14.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1518054	Is everybody pivoting to AI?
+4	sn/bitcoin	17.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1517937	Satoshi and Hal Finney first describing a mempool in November 2008
+3	sn/bitcoin	18.6	$8	OPEN_NEED	https://stacker.news/items/1517897	Bitcoin Is Not Freedom: The Delusion of Digital Escape - Mises Institute
+3	github	22.3	586 sats	OPEN_ISSUE,LOW_COMP	https://github.com/Disneyland55555/Git-Action/issues/21	Transaction stuck pending
+2	sn/bitcoin	21.6	-	OPEN_NEED	https://stacker.news/items/1517824	What would you put in your genesis block?
+2	github	12.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/edgarfloresguerra2011-a11y/marketnow/issues/2	Security review request — volunteer peer review welcome (free)
+2	github	70.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/unleaktrade/settlement-engine/pull/35	Add cluster-agnostic Config update script with tests & CI
+2	github	1.9	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/52	Fix: Offline sync queue not clearing after successful push
+2	github	2.0	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/51	Fix: QR code scanner torch toggle broken on iOS
+2	github	2.0	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/50	Fix: SOS button not accessible on Android lock screen
+2	github	2.0	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/49	Appointment conflict detection - improve edge cases
+2	github	2.0	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/48	Detox E2E tests - QR scan and share flow
+2	github	2.0	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/47	Detox E2E tests - medication flow
+2	github	2.0	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/46	Push notification deep-link routing - all notification types
+2	github	2.0	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/45	Health metrics export to PDF - vet-ready report
+2	github	2.0	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/43	Stellar trustline UI - PETC / VETH / PAWP token management
+2	github	2.0	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/42	Pet insurance claims - full submission flow
+2	github	2.0	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/41	Portuguese (BR) language translation (i18n)
+2	github	2.0	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/40	French language translation (i18n)
+2	github	2.0	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/39	Dark mode - full app theming audit and fix
+2	github	2.0	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/38	Apple Watch companion app - SwiftUI health widget
+2	github	2.1	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/31	AI symptom checker backend - breed + symptoms to vet recommendation
