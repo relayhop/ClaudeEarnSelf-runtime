@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	6.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1518054	Is everybody pivoting to AI?
+4	sn/bitcoin	8.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1517937	Satoshi and Hal Finney first describing a mempool in November 2008
+3	sn/bitcoin	10.0	$8	OPEN_NEED	https://stacker.news/items/1517897	Bitcoin Is Not Freedom: The Delusion of Digital Escape - Mises Institute
+3	github	13.6	586 sats	OPEN_ISSUE,LOW_COMP	https://github.com/Disneyland55555/Git-Action/issues/21	Transaction stuck pending
+2	sn/bitcoin	13.0	-	OPEN_NEED	https://stacker.news/items/1517824	What would you put in your genesis block?
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/edgarfloresguerra2011-a11y/marketnow/issues/2	Security review request — volunteer peer review welcome (free)
+2	github	62.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/unleaktrade/settlement-engine/pull/35	Add cluster-agnostic Config update script with tests & CI
+2	github	1.8	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/282	[Bounty] Cleanup 38 stale draft lessons
+2	github	1.9	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/280	[Roadmap RFC] Evaluate MisakaNet's next 90-day direction
+1	github	4.7	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/274	[BUG] Hash Length Extension Attack on JWT Signature $100
+1	github	4.7	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/273	[BUG] SSTI to File Read → RCE in Jinja2 Sandbox Breakout $100
+1	github	4.7	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/272	[BUG] LDAP Injection with Blind Boolean-Based Extraction $100
+1	github	4.7	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/271	[BUG] Serverless Function Event Injection → Privilege Escalation $100
+1	github	4.7	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/270	[BUG] Dangling DNS Record → Subdomain Takeover → Cookie Stealing $100
+1	github	4.7	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/269	[BUG] BGP Hijacking Simulation → TLS Certificate Bypass $100
+1	github	4.7	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/268	[BUG] Padding Oracle Attack on Encrypted Session Cookies $100
+1	github	4.7	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/267	[BUG] Kubernetes RBAC Bypass via API Server Misconfiguration $100
+1	github	4.7	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/266	[BUG] Side-Channel Timing Attack on Constant-Time Comparison $100
+1	github	4.7	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/265	[BUG] AWS Metadata Service SSRF → IAM Credential Theft $100
+1	github	4.7	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/264	[BUG] Spring4Shell + CVE Chain for Unauthenticated RCE $100
+1	github	4.7	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/263	[BUG] HTTP Request Smuggling + Cache Poisoning Weaponization $100
+1	github	4.7	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/262	[BUG] DNS Rebinding + WebRTC → Internal Network Reconnaissance $100
+0	github	65.6	-	OPEN_ISSUE	https://github.com/coopfinance/coopfin-frontend/issues/2	[Frontend] Implement RecentActivity feed on dashboard
+0	github	66.5	-	OPEN_ISSUE	https://github.com/TrustHire/hiresettle-contract/issues/83	docs: add doc comments to Engagement struct fields
