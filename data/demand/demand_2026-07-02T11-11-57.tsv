@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	12.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1518054	Is everybody pivoting to AI?
+4	sn/bitcoin	15.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1517937	Satoshi and Hal Finney first describing a mempool in November 2008
+4	github	0.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/cocohub-mobileapp/cocohub-main/issues/31	AI symptom checker backend - breed + symptoms to vet recommendation
+4	github	0.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/cocohub-mobileapp/cocohub-main/issues/30	Telemedicine - WebRTC video consultation end-to-end flow
+4	github	0.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/cocohub-mobileapp/cocohub-main/issues/29	Wearable device sync - FitBark and Whistle API integration
+4	github	0.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/cocohub-mobileapp/cocohub-main/issues/28	Soroban smart contract - on-chain pet record registry
+3	sn/bitcoin	16.5	$8	OPEN_NEED	https://stacker.news/items/1517897	Bitcoin Is Not Freedom: The Delusion of Digital Escape - Mises Institute
+3	github	20.1	586 sats	OPEN_ISSUE,LOW_COMP	https://github.com/Disneyland55555/Git-Action/issues/21	Transaction stuck pending
+2	sn/bitcoin	19.4	-	OPEN_NEED	https://stacker.news/items/1517824	What would you put in your genesis block?
+2	github	10.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/edgarfloresguerra2011-a11y/marketnow/issues/2	Security review request — volunteer peer review welcome (free)
+2	github	68.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/unleaktrade/settlement-engine/pull/35	Add cluster-agnostic Config update script with tests & CI
+1	github	11.2	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/274	[BUG] Hash Length Extension Attack on JWT Signature $100
+1	github	11.2	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/273	[BUG] SSTI to File Read → RCE in Jinja2 Sandbox Breakout $100
+1	github	11.2	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/272	[BUG] LDAP Injection with Blind Boolean-Based Extraction $100
+1	github	11.2	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/271	[BUG] Serverless Function Event Injection → Privilege Escalation $100
+1	github	11.2	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/270	[BUG] Dangling DNS Record → Subdomain Takeover → Cookie Stealing $100
+1	github	11.2	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/269	[BUG] BGP Hijacking Simulation → TLS Certificate Bypass $100
+1	github	11.2	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/268	[BUG] Padding Oracle Attack on Encrypted Session Cookies $100
+1	github	11.2	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/267	[BUG] Kubernetes RBAC Bypass via API Server Misconfiguration $100
+1	github	11.2	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/266	[BUG] Side-Channel Timing Attack on Constant-Time Comparison $100
+0	github	8.3	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/282	[Bounty] Cleanup 38 stale draft lessons
+0	github	8.3	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/280	[Roadmap RFC] Evaluate MisakaNet's next 90-day direction
