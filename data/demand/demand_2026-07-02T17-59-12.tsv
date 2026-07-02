@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	0.6	-	OPEN_NEED	https://stacker.news/items/1518469	We're Sunsetting Self-Serve at Voltage: Enterprise is Our Future - Voltage
+4	sn/bitcoin	4.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1518275	How to search for OP_RETURN text
+4	sn/bitcoin	19.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1518054	Is everybody pivoting to AI?
+4	sn/bitcoin	22.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1517937	Satoshi and Hal Finney first describing a mempool in November 2008
+4	github	3.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Dreamville01/Nexora_web/issues/11	Add a shared currency formatting utility for donation amounts
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/StepFi-app/StepFi-Web/issues/70	feat: add product listing grid to vendor detail page
+3	sn/bitcoin	23.3	$8	OPEN_NEED	https://stacker.news/items/1517897	Bitcoin Is Not Freedom: The Delusion of Digital Escape - Mises Institute
+3	github	26.9	586 sats	OPEN_ISSUE,LOW_COMP	https://github.com/Disneyland55555/Git-Action/issues/21	Transaction stuck pending
+2	github	17.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/edgarfloresguerra2011-a11y/marketnow/issues/2	Security review request — volunteer peer review welcome (free)
+2	github	1.4	-	OPEN_ISSUE	https://github.com/Markp1598M/Helm/issues/1	🎯 Fix: --atomic rollback fails to trigger and leaves release in pending-upgrade state when post-upgrade hook times out
+2	github	3.2	-	OPEN_ISSUE	https://github.com/tari-project/tari-ootle/issues/2308	walletd web UI: set the default account from Settings
+0	github	6.6	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/52	Fix: Offline sync queue not clearing after successful push
+0	github	6.6	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/51	Fix: QR code scanner torch toggle broken on iOS
+0	github	6.6	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/50	Fix: SOS button not accessible on Android lock screen
+0	github	6.6	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/49	Appointment conflict detection - improve edge cases
+0	github	6.6	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/48	Detox E2E tests - QR scan and share flow
+0	github	6.6	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/47	Detox E2E tests - medication flow
+0	github	6.6	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/46	Push notification deep-link routing - all notification types
+0	github	6.6	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/45	Health metrics export to PDF - vet-ready report
+0	github	6.7	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/43	Stellar trustline UI - PETC / VETH / PAWP token management
+0	github	6.7	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/42	Pet insurance claims - full submission flow
+0	github	6.7	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/41	Portuguese (BR) language translation (i18n)
+0	github	6.7	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/40	French language translation (i18n)
+0	github	6.7	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/39	Dark mode - full app theming audit and fix
