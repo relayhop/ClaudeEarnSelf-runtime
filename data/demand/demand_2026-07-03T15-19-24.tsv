@@ -1,0 +1,31 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	21.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1518526	Latest Strikes 25&26 - June 15th - 28th 2026
+4	sn/bitcoin	21.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1518514	Terminal - BTCPay Server
+4	github	3.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellarkit-ui/stellarkit-ui/issues/15	[Feature] AssetBadge component — display Stellar asset with icon
+4	github	3.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellarkit-ui/stellarkit-ui/issues/14	[Feature] AssetBadge component — display Stellar asset with icon
+3	github	48.2	586 sats	OPEN_ISSUE,LOW_COMP	https://github.com/Disneyland55555/Git-Action/issues/21	Transaction stuck pending
+3	github	0.8	$0.00	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/1	[AGENT-TASK] Implement tiered pricing engine — +30% revenue expected
+3	github	0.8	$0.00	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/1	[AGENT-TASK] Implement tiered pricing engine — +30% revenue expected
+2	sn/bitcoin	22.0	-	OPEN_NEED	https://stacker.news/items/1518469	We're Sunsetting Self-Serve at Voltage: Enterprise is Our Future - Voltage
+2	sn/bitcoin	20.0	-	OPEN_NEED	https://stacker.news/items/1518557	Has anyone actually done a Spark unilateral exit from mobile? - Francis Pouliout
+2	github	21.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/lnp2pBot/bot/issues/856	ru.yaml: inconsistent wording for sats ('сат' vs 'саты') in order title keys
+2	github	0.8	-	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/4	[AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion
+2	github	0.8	-	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/3	[AGENT-TASK] Auto-upsell trigger after 5th free call — +25% revenue
+2	github	0.8	-	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/2	[AGENT-TASK] Implement referral reward loop — +20% conversion
+2	github	25.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Dreamville01/Nexora_web/issues/11	Add a shared currency formatting utility for donation amounts
+2	github	25.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/StepFi-app/StepFi-Web/issues/70	feat: add product listing grid to vendor detail page
+2	github	38.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/edgarfloresguerra2011-a11y/marketnow/issues/2	Security review request — volunteer peer review welcome (free)
+2	github	0.3	-	OPEN_ISSUE	https://github.com/earnestmant2/mysql/issues/1	🎯 Fix: Prevent Session State Inconsistency on Connection Reset and driver.ErrBadConn Retry
+2	github	0.8	-	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/5	[AGENT-TASK] Content-generation agent — auto-posts from bounty outcomes
+2	github	0.8	-	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/4	[AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion
+2	github	0.8	-	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/3	[AGENT-TASK] Auto-upsell trigger after 5th free call — +25% revenue
+2	github	0.8	-	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/2	[AGENT-TASK] Implement referral reward loop — +20% conversion
+2	github	1.3	-	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-platform/issues/4	🔍 [Agent Task] Add Algora bounty discovery to runtime-opportunity-scout
+2	github	2.9	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/2	Case #1. Issue Bounty Escrow
+0	github	13.0	-	OPEN_ISSUE	https://github.com/Markp1598M/cobra/issues/1	🎯 Fix panic on duplicate shell completion registration for inherited persistent flags
+0	github	16.3	-	OPEN_ISSUE	https://github.com/Eaprime1/custos/pull/189	fix: issue #187
+0	github	16.4	-	OPEN_ISSUE	https://github.com/Eaprime1/custos/issues/187	[bounty] Name the threshold-crossing lexeme — the word for entering something new
+0	github	22.7	-	OPEN_ISSUE	https://github.com/Markp1598M/Helm/issues/1	🎯 Fix: --atomic rollback fails to trigger and leaves release in pending-upgrade state when post-upgrade hook times out
+0	github	27.9	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/52	Fix: Offline sync queue not clearing after successful push
+0	github	28.0	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/51	Fix: QR code scanner torch toggle broken on iOS
+0	github	28.0	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/50	Fix: SOS button not accessible on Android lock screen
