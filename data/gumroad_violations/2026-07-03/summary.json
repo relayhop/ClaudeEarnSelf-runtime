@@ -1,0 +1,24 @@
+{
+  "snapshot_rows": 10017,
+  "unique_products": 8420,
+  "violation_count": 156,
+  "violation_rate_pct": 1.85,
+  "per_rule": {
+    "GP15": 143,
+    "GP14": 1,
+    "GP43": 2,
+    "GP46": 4,
+    "GP16": 4,
+    "GP27": 1,
+    "GP30": 1
+  },
+  "per_layer": {
+    "layer_1": 156
+  },
+  "per_severity": {
+    "high": 152,
+    "low": 1,
+    "medium": 2,
+    "low_due_to_patchy_enforcement": 1
+  }
+}
