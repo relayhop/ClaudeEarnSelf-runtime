@@ -1,0 +1,26 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	10.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1518526	Latest Strikes 25&26 - June 15th - 28th 2026
+4	sn/bitcoin	15.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1518275	How to search for OP_RETURN text
+4	sn/bitcoin	10.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1518514	Terminal - BTCPay Server
+3	github	37.4	586 sats	OPEN_ISSUE,LOW_COMP	https://github.com/Disneyland55555/Git-Action/issues/21	Transaction stuck pending
+2	sn/bitcoin	9.1	-	OPEN_NEED	https://stacker.news/items/1518557	Has anyone actually done a Spark unilateral exit from mobile? - Francis Pouliout
+2	sn/bitcoin	11.1	-	OPEN_NEED	https://stacker.news/items/1518469	We're Sunsetting Self-Serve at Voltage: Enterprise is Our Future - Voltage
+2	github	10.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/lnp2pBot/bot/issues/856	ru.yaml: inconsistent wording for sats ('сат' vs 'саты') in order title keys
+2	github	14.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Dreamville01/Nexora_web/issues/11	Add a shared currency formatting utility for donation amounts
+2	github	14.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/StepFi-app/StepFi-Web/issues/70	feat: add product listing grid to vendor detail page
+2	github	27.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/edgarfloresguerra2011-a11y/marketnow/issues/2	Security review request — volunteer peer review welcome (free)
+2	github	2.1	-	OPEN_ISSUE	https://github.com/Markp1598M/cobra/issues/1	🎯 Fix panic on duplicate shell completion registration for inherited persistent flags
+0	github	5.4	-	OPEN_ISSUE	https://github.com/Eaprime1/custos/pull/189	fix: issue #187
+0	github	5.5	-	OPEN_ISSUE	https://github.com/Eaprime1/custos/issues/187	[bounty] Name the threshold-crossing lexeme — the word for entering something new
+0	github	11.9	-	OPEN_ISSUE	https://github.com/Markp1598M/Helm/issues/1	🎯 Fix: --atomic rollback fails to trigger and leaves release in pending-upgrade state when post-upgrade hook times out
+0	github	13.7	-	OPEN_ISSUE	https://github.com/tari-project/tari-ootle/issues/2308	walletd web UI: set the default account from Settings
+0	github	17.1	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/52	Fix: Offline sync queue not clearing after successful push
+0	github	17.1	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/51	Fix: QR code scanner torch toggle broken on iOS
+0	github	17.1	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/50	Fix: SOS button not accessible on Android lock screen
+0	github	17.1	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/49	Appointment conflict detection - improve edge cases
+0	github	17.1	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/48	Detox E2E tests - QR scan and share flow
+0	github	17.1	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/47	Detox E2E tests - medication flow
+0	github	17.1	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/46	Push notification deep-link routing - all notification types
+0	github	17.1	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/45	Health metrics export to PDF - vet-ready report
+0	github	17.1	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/43	Stellar trustline UI - PETC / VETH / PAWP token management
+0	github	17.1	-	OPEN_ISSUE	https://github.com/cocohub-mobileapp/cocohub-main/issues/42	Pet insurance claims - full submission flow
