@@ -1,0 +1,28 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	9.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1519279	Episode #4 — The Night the Internet Tried to Kill Bitcoin
+2	sn/bitcoin	21.0	-	OPEN_NEED	https://stacker.news/items/1519063	What is RGB Protocol on Bitcoin? A Complete Guide
+2	github	45.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/lnp2pBot/bot/issues/856	ru.yaml: inconsistent wording for sats ('сат' vs 'саты') in order title keys
+2	github	27.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellarkit-ui/stellarkit-ui/issues/15	[Feature] AssetBadge component — display Stellar asset with icon
+2	github	27.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellarkit-ui/stellarkit-ui/issues/14	[Feature] AssetBadge component — display Stellar asset with icon
+2	github	49.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Dreamville01/Nexora_web/issues/11	Add a shared currency formatting utility for donation amounts
+2	github	49.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/StepFi-app/StepFi-Web/issues/70	feat: add product listing grid to vendor detail page
+2	github	62.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/edgarfloresguerra2011-a11y/marketnow/issues/2	Security review request — volunteer peer review welcome (free)
+2	github	6.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/114	[radar] SN open bounty 2026-07-04T08:48
+1	github	24.8	$0.00	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/1	[AGENT-TASK] Implement tiered pricing engine — +30% revenue expected
+1	github	15.3	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/325	[BUG] Remote Code Execution via Unsafe Pickle Deserialization $100
+1	github	15.3	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/324	[BUG] Timing-Based Blind Data Extraction via Race Window $100
+1	github	15.3	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/323	[BUG] Apache/NGINX Misconfiguration → Source Code Disclosure + RCE $100
+1	github	15.3	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/322	[BUG] Flash Loan Attack → Oracle Manipulation → Liquidation $100
+1	github	15.3	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/321	[BUG] CRLF Injection to HTTP Response Splitting + Cache Poisoning $100
+1	github	15.3	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/320	[BUG] TCP Timestamp Side Channel → Cloud Provider Identification $100
+1	github	24.8	$0.00	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/1	[AGENT-TASK] Implement tiered pricing engine — +30% revenue expected
+0	github	24.7	-	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/4	[AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion
+0	github	24.7	-	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/3	[AGENT-TASK] Auto-upsell trigger after 5th free call — +25% revenue
+0	github	24.8	-	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/2	[AGENT-TASK] Implement referral reward loop — +20% conversion
+0	github	24.3	-	OPEN_ISSUE	https://github.com/earnestmant2/mysql/issues/1	🎯 Fix: Prevent Session State Inconsistency on Connection Reset and driver.ErrBadConn Retry
+0	github	24.7	-	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/5	[AGENT-TASK] Content-generation agent — auto-posts from bounty outcomes
+0	github	24.7	-	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/4	[AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion
+0	github	24.7	-	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/3	[AGENT-TASK] Auto-upsell trigger after 5th free call — +25% revenue
+0	github	24.8	-	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/2	[AGENT-TASK] Implement referral reward loop — +20% conversion
+0	github	25.3	-	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-platform/issues/4	🔍 [Agent Task] Add Algora bounty discovery to runtime-opportunity-scout
+0	github	26.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/2	Case #1. Issue Bounty Escrow
