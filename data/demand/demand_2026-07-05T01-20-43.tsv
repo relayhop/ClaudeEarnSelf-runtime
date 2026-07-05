@@ -1,0 +1,26 @@
+# score	source	age_h	payout_hint	tags	url	title
+3	github	1.3	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/345	[BUG] HTTP Desync Attack (Request Smuggling) → User Impersonation $100
+3	github	1.3	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/344	[BUG] WebSocket Cross-Origin Hijacking + Session Prediction $100
+3	github	1.3	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/343	[BUG] Full Chain: XSS → CSRF → Account Takeover $100
+3	github	1.3	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/342	[BUG] Log4j JNDI Injection in Custom Logging Framework $100
+3	github	1.3	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/341	[BUG] RCE through Unsafe YAML Load in Configuration Parser $100
+3	github	1.3	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/340	[BUG] Second-Order SQL Injection in Stored Procedure Chain $100
+3	github	1.3	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/339	[BUG] Web Cache Deception + Session Fixation Combined $100
+3	github	1.3	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/338	[BUG] Docker Container Escape via Mounted Docker Socket $100
+3	github	1.3	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/337	[BUG] Uniswap V3 TWAP Oracle Manipulation via Flash Swap $100
+3	github	1.3	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/336	[BUG] Supply Chain Attack via Dependency Confusion + Typosquatting $100
+3	github	1.3	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/335	[BUG] GraphQL Depth Bypass + Batching → Data Exfiltration $100
+3	github	1.3	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/334	[BUG] Path Traversal + Log Poisoning → RCE Chain $100
+3	github	1.3	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/333	[BUG] WebAssembly Memory Corruption → Sandbox Escape $100
+2	sn/bitcoin	5.6	-	OPEN_NEED	https://stacker.news/items/1519637	Could The Government Use Tax Dollars To Bail Out Bitcoin?
+2	github	55.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/lnp2pBot/bot/issues/856	ru.yaml: inconsistent wording for sats ('сат' vs 'саты') in order title keys
+2	github	37.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellarkit-ui/stellarkit-ui/issues/15	[Feature] AssetBadge component — display Stellar asset with icon
+2	github	37.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellarkit-ui/stellarkit-ui/issues/14	[Feature] AssetBadge component — display Stellar asset with icon
+2	github	59.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Dreamville01/Nexora_web/issues/11	Add a shared currency formatting utility for donation amounts
+2	github	59.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/StepFi-app/StepFi-Web/issues/70	feat: add product listing grid to vendor detail page
+1	github	34.8	$0.00	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/1	[AGENT-TASK] Implement tiered pricing engine — +30% revenue expected
+0	github	34.8	-	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/4	[AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion
+0	github	34.8	-	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/3	[AGENT-TASK] Auto-upsell trigger after 5th free call — +25% revenue
+0	github	34.8	-	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/2	[AGENT-TASK] Implement referral reward loop — +20% conversion
+0	github	5.8	-	OPEN_ISSUE	https://github.com/beertierchen/warera-prost/issues/11	Bounty Quick-Open
+0	github	5.8	-	OPEN_ISSUE	https://github.com/beertierchen/warera-prost/issues/6	Bounty-History / Log
