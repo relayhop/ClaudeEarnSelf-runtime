@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	20.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1519453	The least American thing you own!
+4	github	2.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/expense-mart/expense-tracker-onchain/issues/78	[OC-008-08] Stablecoin and asset detection: Document API usage and examples
+4	github	2.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/cretip/cretip-app/issues/1	docs(frontend): Update UI placeholder references from XLM to USDC
+3	github	2.1	$8	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/207	Frantic bounty #92: runx skill: secret catcher
+3	github	2.1	$9	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/206	Frantic bounty #91: runx skill: data doctor
+3	github	2.1	$13	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/205	Frantic bounty #90: runx skill: compliance pack
+3	github	2.1	$9	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/204	Frantic bounty #89: runx skill: bookkeeper
+3	github	2.1	$12	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/203	Frantic bounty #88: runx skill: integration doctor
+3	github	2.1	$8	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/202	Frantic bounty #87: runx skill: answer from docs
+3	github	2.1	$12	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/201	Frantic bounty #86: runx skill: contract drafter
+3	github	2.1	$9	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/200	Frantic bounty #85: runx skill: expense copilot
+3	github	2.1	$9	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/199	Frantic bounty #84: runx skill: schema guard
+3	github	2.1	$9	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/198	Frantic bounty #83: runx skill: postmortem maker
+3	github	2.1	$12	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/197	Frantic bounty #82: runx skill: quote guard
+3	github	2.1	$13	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/196	Frantic bounty #81: runx skill: launch guard
+3	github	2.1	$7	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/195	Frantic bounty #80: runx skill: support firewatch
+3	github	2.1	$8	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/194	Frantic bounty #79: runx skill: CRM cleanup
+2	sn/bitcoin	15.5	-	OPEN_NEED	https://stacker.news/items/1519637	Could The Government Use Tax Dollars To Bail Out Bitcoin?
+2	github	65.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/lnp2pBot/bot/issues/856	ru.yaml: inconsistent wording for sats ('сат' vs 'саты') in order title keys
+2	github	47.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellarkit-ui/stellarkit-ui/issues/15	[Feature] AssetBadge component — display Stellar asset with icon
+2	github	47.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellarkit-ui/stellarkit-ui/issues/14	[Feature] AssetBadge component — display Stellar asset with icon
+2	github	69.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Dreamville01/Nexora_web/issues/11	Add a shared currency formatting utility for donation amounts
+2	github	69.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/StepFi-app/StepFi-Web/issues/70	feat: add product listing grid to vendor detail page
+2	github	1.0	-	OPEN_ISSUE	https://github.com/qxrtjdggj653/go/issues/1	🎯 Fix Stale ETag Reuse in Pagination Helper When Request Options Change
+1	github	44.8	$0.00	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/1	[AGENT-TASK] Implement tiered pricing engine — +30% revenue expected
+0	github	44.8	-	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/4	[AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion
+0	github	44.8	-	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/3	[AGENT-TASK] Auto-upsell trigger after 5th free call — +25% revenue
+0	github	44.8	-	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/2	[AGENT-TASK] Implement referral reward loop — +20% conversion
