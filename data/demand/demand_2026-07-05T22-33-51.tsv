@@ -1,0 +1,13 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	1.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1519972	Btc-verified: formalizing the Bitcoin protocol
+4	github	2.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/cretip/cretip-app/issues/4	docs(readme): Remove native XLM reference from main project description
+4	github	2.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/cretip/cretip-app/issues/3	docs(contract): Update README smart contract function logic from XLM to USDC
+2	sn/bitcoin	4.9	-	OPEN_NEED	https://stacker.news/items/1519910	Sunday Survey: Do you think there was affirmative action/DEI in Bitcoin Core?
+2	github	14.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/expense-mart/expense-tracker-onchain/issues/78	[OC-008-08] Stablecoin and asset detection: Document API usage and examples
+2	github	14.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/cretip/cretip-app/issues/1	docs(frontend): Update UI placeholder references from XLM to USDC
+2	github	58.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellarkit-ui/stellarkit-ui/issues/15	[Feature] AssetBadge component — display Stellar asset with icon
+2	github	58.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellarkit-ui/stellarkit-ui/issues/14	[Feature] AssetBadge component — display Stellar asset with icon
+1	github	56.1	$0.00	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/1	[AGENT-TASK] Implement tiered pricing engine — +30% revenue expected
+0	github	56.0	-	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/4	[AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion
+0	github	56.0	-	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/3	[AGENT-TASK] Auto-upsell trigger after 5th free call — +25% revenue
+0	github	56.1	-	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/2	[AGENT-TASK] Implement referral reward loop — +20% conversion
