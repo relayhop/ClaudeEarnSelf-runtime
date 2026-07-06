@@ -1,0 +1,28 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	11.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1519972	Btc-verified: formalizing the Bitcoin protocol
+3	github	0.2	$1	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/247	Frantic bounty #93: Vendor door smoke: verify SKILL posting copy
+2	sn/bitcoin	15.1	-	OPEN_NEED	https://stacker.news/items/1519910	Sunday Survey: Do you think there was affirmative action/DEI in Bitcoin Core?
+2	github	12.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/cretip/cretip-app/issues/4	docs(readme): Remove native XLM reference from main project description
+2	github	12.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/cretip/cretip-app/issues/3	docs(contract): Update README smart contract function logic from XLM to USDC
+2	github	24.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/expense-mart/expense-tracker-onchain/issues/78	[OC-008-08] Stablecoin and asset detection: Document API usage and examples
+2	github	24.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/cretip/cretip-app/issues/1	docs(frontend): Update UI placeholder references from XLM to USDC
+2	github	68.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellarkit-ui/stellarkit-ui/issues/15	[Feature] AssetBadge component — display Stellar asset with icon
+2	github	68.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellarkit-ui/stellarkit-ui/issues/14	[Feature] AssetBadge component — display Stellar asset with icon
+2	github	1.1	-	OPEN_ISSUE	https://github.com/MariauqmpsA333/go-redis/issues/1	🎯 Fix Silent Message Delivery Failure on Pub/Sub Reconnection Resubscription Failure
+1	github	66.3	$0.00	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/1	[AGENT-TASK] Implement tiered pricing engine — +30% revenue expected
+1	github	8.8	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/442	[BUG] BGP Hijacking Simulation → TLS Certificate Bypass $100
+1	github	8.8	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/441	[BUG] Insecure Federation SSO → Cross-Tenant Account Takeover $100
+1	github	8.8	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/440	[BUG] SSRF via DNS Rebinding Bypassing Allowlist $100
+1	github	8.8	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/439	[BUG] JWT Algorithm Confusion + Key Injection Combined Attack $100
+1	github	8.8	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/438	[BUG] CRDT Conflict Resolution Bypass → Data Corruption $100
+1	github	8.8	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/437	[BUG] Spring4Shell + CVE Chain for Unauthenticated RCE $100
+1	github	8.8	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/436	[BUG] Kubernetes RBAC Bypass via API Server Misconfiguration $100
+1	github	8.8	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/435	[BUG] Integer Overflow in Solidity Smart Contract → Token Theft $100
+1	github	8.8	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/434	[BUG] Padding Oracle Attack on Encrypted Session Cookies $100
+1	github	8.8	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/433	[BUG] Dangling DNS Record → Subdomain Takeover → Cookie Stealing $100
+1	github	8.8	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/432	[BUG] Reentrancy Attack on DeFi Withdraw Function $100
+1	github	8.8	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/431	[BUG] Cross-Site Search (XS-Search) → User Data Enumeration $100
+1	github	8.8	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/430	[BUG] Server-Side Prototype Pollution to RCE Chain $100
+0	github	66.2	-	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/4	[AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion
+0	github	66.3	-	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/3	[AGENT-TASK] Auto-upsell trigger after 5th free call — +25% revenue
+0	github	66.3	-	OPEN_ISSUE	https://github.com/Nexussyn/ai-growth-engine/issues/2	[AGENT-TASK] Implement referral reward loop — +20% conversion
