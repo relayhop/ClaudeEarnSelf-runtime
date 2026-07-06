@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	0.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1520525	Does Wallet Of Satoshi Have FDIC Insurance?
+4	sn/bitcoin	5.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1520403	Hope With Bitcoin,
+2	sn/bitcoin	12.2	-	OPEN_NEED	https://stacker.news/items/1520169	Why isn't more of the BTC space using Elixir/OTP?
+2	github	25.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/cretip/cretip-app/issues/4	docs(readme): Remove native XLM reference from main project description
+2	github	25.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/cretip/cretip-app/issues/3	docs(contract): Update README smart contract function logic from XLM to USDC
+2	github	37.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/expense-mart/expense-tracker-onchain/issues/78	[OC-008-08] Stablecoin and asset detection: Document API usage and examples
+2	github	37.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/cretip/cretip-app/issues/1	docs(frontend): Update UI placeholder references from XLM to USDC
+1	github	4.9	100 usd	OPEN_ISSUE	https://github.com/iii123iii/Crystal-PDF/issues/3	Bug bounty 100 usd to whoever makes my landing page responsive for mobile
+1	github	22.0	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/442	[BUG] BGP Hijacking Simulation → TLS Certificate Bypass $100
+1	github	22.0	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/441	[BUG] Insecure Federation SSO → Cross-Tenant Account Takeover $100
+1	github	22.0	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/440	[BUG] SSRF via DNS Rebinding Bypassing Allowlist $100
+1	github	22.0	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/439	[BUG] JWT Algorithm Confusion + Key Injection Combined Attack $100
+1	github	22.0	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/438	[BUG] CRDT Conflict Resolution Bypass → Data Corruption $100
+1	github	22.0	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/437	[BUG] Spring4Shell + CVE Chain for Unauthenticated RCE $100
+1	github	22.0	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/436	[BUG] Kubernetes RBAC Bypass via API Server Misconfiguration $100
+1	github	22.0	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/435	[BUG] Integer Overflow in Solidity Smart Contract → Token Theft $100
+0	github	5.3	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/41	[Bounty] Help fix broken file upload component in React/TypeScript (.tsx) bounty bounty:15
+0	github	5.3	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/39	[Bounty] Help fix broken file upload component in React/TypeScript (.tsx) bounty bounty:15
+0	github	5.3	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/37	[Bounty] Help fix broken file upload component in React/TypeScript (.tsx) bounty bounty:15
+0	github	5.5	-	OPEN_ISSUE	https://github.com/iii123iii/Crystal-PDF/issues/2	Fix speed
+0	github	7.1	-	OPEN_ISSUE	https://github.com/ziztigr288c/zap/issues/1	🎯 Fix incorrect caller information when chaining `WithOptions(zap.AddCallerSkip(...))` multiple times
+0	github	14.3	-	OPEN_ISSUE	https://github.com/MariauqmpsA333/go-redis/issues/1	🎯 Fix Silent Message Delivery Failure on Pub/Sub Reconnection Resubscription Failure
