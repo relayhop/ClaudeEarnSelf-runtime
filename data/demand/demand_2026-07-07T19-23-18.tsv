@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	6.9	$30	OPEN_NEED,LOW_COMP	https://stacker.news/items/1520794	Free Samourai: Plan + $30,000 Prize | Truthcoin.Info
+4	sn/bitcoin	1.0	-	OPEN_NEED	https://stacker.news/items/1520942	Is it time for the heretics BIP repo yet?
+2	sn/bitcoin	21.6	-	OPEN_NEED	https://stacker.news/items/1520525	Does Wallet Of Satoshi Have FDIC Insurance?
+2	github	47.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/cretip/cretip-app/issues/4	docs(readme): Remove native XLM reference from main project description
+2	github	47.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/cretip/cretip-app/issues/3	docs(contract): Update README smart contract function logic from XLM to USDC
+2	github	58.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/expense-mart/expense-tracker-onchain/issues/78	[OC-008-08] Stablecoin and asset detection: Document API usage and examples
+2	github	59.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/cretip/cretip-app/issues/1	docs(frontend): Update UI placeholder references from XLM to USDC
+2	github	61.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Build-Africa-DAO/baraza-protocol/issues/28	Add payout receipt export for community admins
+2	github	61.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Build-Africa-DAO/baraza-protocol/issues/27	Audit the mobile join flow for accessibility
+2	github	68.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/code-charity/youtube/issues/4127	Prevent youtube from going to the homepage while putting your current video to picture in picture
+1	github	26.3	100 usd	OPEN_ISSUE	https://github.com/iii123iii/Crystal-PDF/issues/3	Bug bounty 100 usd to whoever makes my landing page responsive for mobile
+0	github	12.4	-	OPEN_ISSUE	https://github.com/xoufygqamm4/gocron/issues/1	🎯 Prevent Orphaned Timers and Duplicate Executions When Removing and Re-adding Running Jobs
+0	github	26.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/39	[Bounty] Help fix broken file upload component in React/TypeScript (.tsx) bounty bounty:15
+0	github	26.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/37	[Bounty] Help fix broken file upload component in React/TypeScript (.tsx) bounty bounty:15
+0	github	26.9	-	OPEN_ISSUE	https://github.com/iii123iii/Crystal-PDF/issues/2	Fix speed
+0	github	28.6	-	OPEN_ISSUE	https://github.com/ziztigr288c/zap/issues/1	🎯 Fix incorrect caller information when chaining `WithOptions(zap.AddCallerSkip(...))` multiple times
+0	github	35.7	-	OPEN_ISSUE	https://github.com/MariauqmpsA333/go-redis/issues/1	🎯 Fix Silent Message Delivery Failure on Pub/Sub Reconnection Resubscription Failure
+0	github	57.1	-	OPEN_ISSUE	https://github.com/qxrtjdggj653/go/issues/1	🎯 Fix Stale ETag Reuse in Pagination Helper When Request Options Change
+0	github	58.3	-	OPEN_ISSUE	https://github.com/qxrtjdggj653/echo/issues/1	🎯 Fix: Request body cannot be rebound after middleware reads body with BodyLimit enabled
+0	github	58.3	-	OPEN_ISSUE	https://github.com/qxrtjdggj653/grpc-go/issues/1	🎯 Fix Indefinite Blocking in Client Stream SendMsg() During Context Cancellation
+0	github	61.4	-	OPEN_ISSUE	https://github.com/Build-Africa-DAO/baraza-protocol/issues/26	Document the Solana devnet deployment and smoke test
+0	github	67.6	-	OPEN_ISSUE	https://github.com/code-charity/youtube/issues/4132	I would like to be able to set seek distance when double tapping, or have progressive jump lengths
