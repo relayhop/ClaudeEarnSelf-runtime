@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	12.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1520403	Hope With Bitcoin,
+2	sn/bitcoin	8.0	-	OPEN_NEED	https://stacker.news/items/1520525	Does Wallet Of Satoshi Have FDIC Insurance?
+2	sn/bitcoin	20.0	-	OPEN_NEED	https://stacker.news/items/1520169	Why isn't more of the BTC space using Elixir/OTP?
+2	github	33.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/cretip/cretip-app/issues/4	docs(readme): Remove native XLM reference from main project description
+2	github	33.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/cretip/cretip-app/issues/3	docs(contract): Update README smart contract function logic from XLM to USDC
+2	github	45.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/expense-mart/expense-tracker-onchain/issues/78	[OC-008-08] Stablecoin and asset detection: Document API usage and examples
+2	github	45.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/cretip/cretip-app/issues/1	docs(frontend): Update UI placeholder references from XLM to USDC
+1	github	5.8	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/623	[BUG] Apache/NGINX Misconfiguration → Source Code Disclosure + RCE $100
+1	github	5.8	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/622	[BUG] Log4j JNDI Injection in Custom Logging Framework $100
+1	github	5.8	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/621	[BUG] Docker Container Escape via Mounted Docker Socket $100
+1	github	5.8	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/620	[BUG] TCP Timestamp Side Channel → Cloud Provider Identification $100
+1	github	5.8	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/619	[BUG] HTTP Desync Attack (Request Smuggling) → User Impersonation $100
+1	github	5.8	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/618	[BUG] Second-Order SQL Injection in Stored Procedure Chain $100
+1	github	5.8	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/617	[BUG] CRLF Injection to HTTP Response Splitting + Cache Poisoning $100
+1	github	5.8	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/616	[BUG] Zero-Click Account Takeover via Email Normalization $100
+1	github	5.8	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/615	[BUG] Remote Code Execution via Unsafe Pickle Deserialization $100
+1	github	5.8	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/614	[BUG] Full Chain: XSS → CSRF → Account Takeover $100
+1	github	5.8	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/613	[BUG] Uniswap V3 TWAP Oracle Manipulation via Flash Swap $100
+1	github	5.8	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/612	[BUG] RCE through Unsafe YAML Load in Configuration Parser $100
+1	github	5.8	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/611	[BUG] Flash Loan Attack → Oracle Manipulation → Liquidation $100
+1	github	5.8	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/610	[BUG] Supply Chain Attack via Dependency Confusion + Typosquatting $100
+1	github	5.8	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/609	[BUG] Path Traversal + Log Poisoning → RCE Chain $100
