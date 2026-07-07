@@ -1,0 +1,22 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	5.0	$30	OPEN_NEED,LOW_COMP	https://stacker.news/items/1520794	Free Samourai: Plan + $30,000 Prize | Truthcoin.Info
+3	github	9.4	$100.00	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/pull/639	[ShanaBoo] [BUG] HTTP Desync Attack (Request Smuggling) → User Impersonation $100
+3	github	16.5	$100.00	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/pull/637	[ShanaBoo] [BUG] Docker Container Escape via Mounted Docker Socket $100
+3	github	16.8	$100.00	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/pull/636	[ShanaBoo] [BUG] Uniswap V3 TWAP Oracle Manipulation via Flash Swap $100
+3	github	16.8	$100.00	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/pull/635	[ShanaBoo] [BUG] Timing-Based Blind Data Extraction via Race Window $100
+3	github	17.0	$100.00	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/pull/633	[ShanaBoo] [BUG] WebAssembly Memory Corruption → Sandbox Escape $100
+3	github	17.2	$100.00	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/pull/632	[ShanaBoo] [BUG] Remote Code Execution via Unsafe Pickle Deserialization $100
+3	github	17.3	$100.00	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/pull/630	[ShanaBoo] [BUG] CRLF Injection to HTTP Response Splitting + Cache Poisoning $100
+3	github	17.3	$100.00	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/pull/629	[ShanaBoo] [BUG] Second-Order SQL Injection in Stored Procedure Chain $100
+3	github	17.4	$100.00	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/pull/628	[ShanaBoo] [BUG] TCP Timestamp Side Channel → Cloud Provider Identification $100
+3	github	17.5	$100.00	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/pull/627	[ShanaBoo] [BUG] Log4j JNDI Injection in Custom Logging Framework $100
+3	github	17.5	$100.00	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/pull/625	[ShanaBoo] [BUG] Apache/NGINX Misconfiguration → Source Code Disclosure + RCE $100
+3	github	17.5	$100.00	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/pull/624	[ShanaBoo] [BUG] RCE through Unsafe YAML Load in Configuration Parser $100
+2	sn/bitcoin	19.8	-	OPEN_NEED	https://stacker.news/items/1520525	Does Wallet Of Satoshi Have FDIC Insurance?
+2	github	45.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/cretip/cretip-app/issues/4	docs(readme): Remove native XLM reference from main project description
+2	github	45.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/cretip/cretip-app/issues/3	docs(contract): Update README smart contract function logic from XLM to USDC
+2	github	57.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/expense-mart/expense-tracker-onchain/issues/78	[OC-008-08] Stablecoin and asset detection: Document API usage and examples
+2	github	57.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/cretip/cretip-app/issues/1	docs(frontend): Update UI placeholder references from XLM to USDC
+1	github	17.6	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/623	[BUG] Apache/NGINX Misconfiguration → Source Code Disclosure + RCE $100
+1	github	17.6	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/622	[BUG] Log4j JNDI Injection in Custom Logging Framework $100
+0	github	10.6	-	OPEN_ISSUE	https://github.com/xoufygqamm4/gocron/issues/1	🎯 Prevent Orphaned Timers and Duplicate Executions When Removing and Re-adding Running Jobs
