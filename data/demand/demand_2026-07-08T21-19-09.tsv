@@ -1,0 +1,16 @@
+# score	source	age_h	payout_hint	tags	url	title
+1	github	6.3	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/685	[BUG] WebSocket Hijacking via Missing Cookie Validation $150
+1	github	6.3	$180	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/684	[BUG] SSRF via Gopher Protocol → Redis RCE $180
+1	github	6.3	$200	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/683	[BUG] Stack Buffer Overflow via gets() → ROP Chain $200
+1	github	6.3	$200	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/682	[BUG] Docker Container Escape via Capability Abuse $200
+1	github	6.3	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/681	[BUG] CRLF Injection in Access Log → HTTP Response Splitting $120
+1	github	6.3	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/680	[BUG] OAuth Access Token in Referer Header → Token Leak $150
+1	github	6.3	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/679	[BUG] Web Cache Deception → Session Token Leak $150
+1	github	6.3	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/678	[BUG] Timing Attack on Password Verification → User Enumeration $120
+1	github	6.3	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/677	[BUG] JWT Kid Injection → Path Traversal → Secret Key Leak $150
+1	github	6.3	$200	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/676	[BUG] SSTI in Email Template Engine → Sandbox Escape $200
+1	github	6.3	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/675	[BUG] Mass Assignment in User Profile Update → Privilege Escalation $120
+1	github	6.3	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/674	[BUG] Host Header Injection → Password Reset Poisoning $120
+1	github	6.3	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/673	[BUG] Blind Command Injection via Email Header $150
+1	github	6.3	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/672	[BUG] Web Cache Poisoning via Unkeyed Header $150
+1	github	6.3	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/671	[BUG] IDOR in GraphQL Nested Query → Mass Data Leak $150
