@@ -1,0 +1,19 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	0.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1522005	[HM] - The Man Immortalized on the Blockchain
+5	sn/bitcoin	3.7	2 BTC	OPEN_NEED	https://stacker.news/items/1521903	PREDYX Is Already the Strongest BIP-110 Signal — 2+ BTC in Trading Volume ⚡
+4	sn/bitcoin	7.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1521807	Programming Blockchain (Get past the title)
+2	github	3.4	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/116	[bounty]: Add a five-live-bounty inventory guard
+2	github	3.4	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/115	[bounty]: Sync GitHub bounty issues into hosted API bounty records
+2	github	3.4	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/114	[bounty]: Show Stripe Checkout webhook reconciliation status to funders
+2	github	3.4	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/113	[bounty]: Restore hosted API health for public funding
+2	github	3.7	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/112	[bounty]: Add a no-false-positive earning checklist to AI onboarding
+1	github	14.8	$200	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/747	[BUG] Java RMI Deserialization → Remote Code Execution $200
+1	github	14.8	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/746	[BUG] CORS Misconfiguration + Origin Reflection → Credential Theft $120
+1	github	14.8	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/745	[BUG] Blind XXE via SVG Upload → SSRF + Data Exfil $150
+1	github	14.8	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/744	[BUG] OAuth 2.0 CSRF → Account Takeover via State Bypass $150
+1	github	14.8	$200	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/743	[BUG] CL.TE HTTP Request Smuggling → Cache Poisoning $200
+1	github	14.8	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/742	[BUG] Log Injection → Log Forging → SIEM Poisoning $120
+1	github	14.8	$180	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/741	[BUG] Race Condition in Distributed Transaction → Double Spend $180
+1	github	14.8	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/740	[BUG] MongoDB NoSQL Injection → Authentication Bypass $150
+1	github	14.8	$200	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/739	[BUG] Python Pickle Deserialization RCE via Cache $200
+0	github	7.8	-	OPEN_ISSUE	https://github.com/tari-project/tari-ootle/issues/2330	Serve indexer Prometheus metrics on a separate listener from the REST API
