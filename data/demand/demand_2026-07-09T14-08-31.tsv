@@ -1,0 +1,17 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	1.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1521807	Programming Blockchain (Get past the title)
+2	github	1.1	-	OPEN_ISSUE	https://github.com/tari-project/tari-ootle/issues/2330	Serve indexer Prometheus metrics on a separate listener from the REST API
+1	github	8.0	$200	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/747	[BUG] Java RMI Deserialization → Remote Code Execution $200
+1	github	8.0	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/746	[BUG] CORS Misconfiguration + Origin Reflection → Credential Theft $120
+1	github	8.0	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/745	[BUG] Blind XXE via SVG Upload → SSRF + Data Exfil $150
+1	github	8.0	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/744	[BUG] OAuth 2.0 CSRF → Account Takeover via State Bypass $150
+1	github	8.0	$200	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/743	[BUG] CL.TE HTTP Request Smuggling → Cache Poisoning $200
+1	github	8.0	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/742	[BUG] Log Injection → Log Forging → SIEM Poisoning $120
+1	github	8.0	$180	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/741	[BUG] Race Condition in Distributed Transaction → Double Spend $180
+1	github	8.0	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/740	[BUG] MongoDB NoSQL Injection → Authentication Bypass $150
+1	github	8.1	$200	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/739	[BUG] Python Pickle Deserialization RCE via Cache $200
+1	github	8.1	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/738	[BUG] GraphQL Batch Query + Rate Limit Bypass $150
+1	github	8.1	$200	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/737	[BUG] Server-Side Prototype Pollution to RCE $200
+1	github	8.1	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/736	[BUG] Blind SSRF via DNS Rebinding Bypass $150
+1	github	8.1	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/735	[BUG] JWT Algorithm Confusion (RS256→HS256 Downgrade) $150
+1	github	8.1	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/734	[BUG] Race Condition in /tmp File Handling (TOCTOU) $150
