@@ -1,0 +1,18 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/747	[BUG] Java RMI Deserialization → Remote Code Execution $200
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/746	[BUG] CORS Misconfiguration + Origin Reflection → Credential Theft $120
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/745	[BUG] Blind XXE via SVG Upload → SSRF + Data Exfil $150
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/744	[BUG] OAuth 2.0 CSRF → Account Takeover via State Bypass $150
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/743	[BUG] CL.TE HTTP Request Smuggling → Cache Poisoning $200
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/742	[BUG] Log Injection → Log Forging → SIEM Poisoning $120
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/741	[BUG] Race Condition in Distributed Transaction → Double Spend $180
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/740	[BUG] MongoDB NoSQL Injection → Authentication Bypass $150
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/739	[BUG] Python Pickle Deserialization RCE via Cache $200
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/738	[BUG] GraphQL Batch Query + Rate Limit Bypass $150
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/737	[BUG] Server-Side Prototype Pollution to RCE $200
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/736	[BUG] Blind SSRF via DNS Rebinding Bypass $150
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/735	[BUG] JWT Algorithm Confusion (RS256→HS256 Downgrade) $150
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/734	[BUG] Race Condition in /tmp File Handling (TOCTOU) $150
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/733	[BUG] AWS IAM Privilege Escalation via PassRole + EC2 $150
+FRESH	sn/bitcoin	3.7	0	2	https://stacker.news/items/1521681	942 bitcoin transactions routed this week on my "meaningless pleb node" ⚡⚡
+FRESH	sn/bitcoin	5.0	0	0	https://stacker.news/items/1521660	Socks for Sats! Guys you can now buy socks with bitcoin with Cape Cotton!
