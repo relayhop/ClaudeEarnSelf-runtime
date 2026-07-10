@@ -1,0 +1,19 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	23.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1522136	The secp256k1 first commit: modular inversion via Fermat's Little Theorem
+4	sn/bitcoin	8.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1522471	Latest Strikes 27 - June 29th - July 5th 2026
+4	github	2.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/tenstorrent/tt-metal/issues/49631	[Bounty $1,500] Optimise `deg2rad` / `rad2deg` (fp32/bf16)
+4	github	2.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/tenstorrent/tt-metal/issues/49625	[Bounty $2,500] Optimise/improve accuracy for pow(x, y) fp32 (non-integer exponent)
+2	github	1.7	-	OPEN_ISSUE	https://github.com/TauCetiStation/TauCetiClassic/issues/14976	[Bounty] 25000$ Добавить продвинутые взаимодействия между куклами [ЕРП панель]
+2	github	2.4	-	OPEN_ISSUE	https://github.com/TauCetiStation/TauCetiClassic/issues/14975	[Bounty] 1000$ Добавить возможность грабить корованы
+2	github	2.6	-	OPEN_ISSUE	https://github.com/TauCetiStation/TauCetiClassic/issues/14974	[Bounty] 200$ Перевести весь английский текст на русский
+1	github	17.5	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/807	[BUG] gRPC Reflection Enabled → Service Enumeration $120
+1	github	17.5	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/806	[BUG] DNS Zone Transfer Enabled → Internal Network Mapping $150
+1	github	17.5	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/805	[BUG] Clickjacking via X-Frame-Options Missing → Crypto Withdraw $120
+1	github	17.5	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/804	[BUG] TOTP Secret Leaked via QR Code in Logs $150
+1	github	17.5	$180	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/803	[BUG] Bluetooth Classic BR/EDR Pairing Bypass $180
+0	github	7.1	-	OPEN_ISSUE	https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/40355	[Feature]: Add react crypto liquid ripple modal component (38579)
+0	github	8.9	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/157	[bounty]: Design a bounty-posting concierge playbook for first-time humans and agents
+0	github	8.9	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/156	[bounty]: Submit Agent Bounties to AI-agent discovery communities
+0	github	8.9	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/155	[bounty]: Run a proof-led distribution experiment that creates new bounty posters
+0	github	8.9	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/153	[bounty]: Help an external user post their first useful bounty
+0	github	16.4	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/61	[Bounty] Help fix broken file upload component in React/TypeScript (.tsx) bounty bounty:15 bounty:1
