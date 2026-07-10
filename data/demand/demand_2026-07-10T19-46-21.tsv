@@ -1,0 +1,20 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	19.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1522136	The secp256k1 first commit: modular inversion via Fermat's Little Theorem
+4	sn/bitcoin	4.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1522471	Latest Strikes 27 - June 29th - July 5th 2026
+2	sn/bitcoin	23.4	-	OPEN_NEED	https://stacker.news/items/1522005	[HM] - The Man Immortalized on the Blockchain
+2	github	3.3	-	OPEN_ISSUE	https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/40355	[Feature]: Add react crypto liquid ripple modal component (38579)
+1	github	13.7	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/807	[BUG] gRPC Reflection Enabled → Service Enumeration $120
+1	github	13.7	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/806	[BUG] DNS Zone Transfer Enabled → Internal Network Mapping $150
+1	github	13.7	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/805	[BUG] Clickjacking via X-Frame-Options Missing → Crypto Withdraw $120
+1	github	13.7	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/804	[BUG] TOTP Secret Leaked via QR Code in Logs $150
+1	github	13.7	$180	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/803	[BUG] Bluetooth Classic BR/EDR Pairing Bypass $180
+1	github	13.7	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/802	[BUG] Regex DoS (ReDoS) via User-Controlled Pattern $120
+1	github	13.7	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/801	[BUG] S3 Bucket Misconfiguration → Mass Data Leak $120
+1	github	13.7	$180	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/800	[BUG] Hardcoded AWS Keys in Public Artifact → Cloud Takeover $180
+1	github	13.7	$200	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/799	[BUG] HTTP/2 Downgrade → Request Smuggling $200
+0	github	5.1	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/157	[bounty]: Design a bounty-posting concierge playbook for first-time humans and agents
+0	github	5.1	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/156	[bounty]: Submit Agent Bounties to AI-agent discovery communities
+0	github	5.1	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/155	[bounty]: Run a proof-led distribution experiment that creates new bounty posters
+0	github	5.1	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/154	[bounty]: Create a prompt pack that routes money-seeking AI users to Agent Bounties
+0	github	5.1	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/153	[bounty]: Help an external user post their first useful bounty
+0	github	12.6	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/61	[Bounty] Help fix broken file upload component in React/TypeScript (.tsx) bounty bounty:15 bounty:1
