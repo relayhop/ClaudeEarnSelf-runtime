@@ -1,0 +1,16 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/807	[BUG] gRPC Reflection Enabled → Service Enumeration $120
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/806	[BUG] DNS Zone Transfer Enabled → Internal Network Mapping $150
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/805	[BUG] Clickjacking via X-Frame-Options Missing → Crypto Withdraw $120
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/804	[BUG] TOTP Secret Leaked via QR Code in Logs $150
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/803	[BUG] Bluetooth Classic BR/EDR Pairing Bypass $180
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/802	[BUG] Regex DoS (ReDoS) via User-Controlled Pattern $120
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/801	[BUG] S3 Bucket Misconfiguration → Mass Data Leak $120
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/800	[BUG] Hardcoded AWS Keys in Public Artifact → Cloud Takeover $180
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/799	[BUG] HTTP/2 Downgrade → Request Smuggling $200
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/798	[BUG] Second-Order SQL Injection via Stored XSS Data $150
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/797	[BUG] Predictable OAuth State Token → CSRF + Account Takeover $150
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/796	[BUG] ECB Mode Encryption → Data Leak via Pattern Matching $120
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/795	[BUG] WebSocket Hijacking via Missing Cookie Validation $150
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/794	[BUG] SSRF via Gopher Protocol → Redis RCE $180
+FRESH	github	0.7	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/793	[BUG] Stack Buffer Overflow via gets() → ROP Chain $200
