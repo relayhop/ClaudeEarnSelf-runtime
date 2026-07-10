@@ -1,0 +1,20 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	9.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1522202	"Nemesis" serial story, episode #1
+4	sn/bitcoin	13.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1522136	The secp256k1 first commit: modular inversion via Fermat's Little Theorem
+3	sn/bitcoin	20.3	2 BTC	OPEN_NEED	https://stacker.news/items/1521903	PREDYX Is Already the Strongest BIP-110 Signal — 2+ BTC in Trading Volume ⚡
+2	sn/bitcoin	17.2	-	OPEN_NEED	https://stacker.news/items/1522005	[HM] - The Man Immortalized on the Blockchain
+1	github	7.4	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/807	[BUG] gRPC Reflection Enabled → Service Enumeration $120
+1	github	7.4	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/806	[BUG] DNS Zone Transfer Enabled → Internal Network Mapping $150
+1	github	7.4	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/805	[BUG] Clickjacking via X-Frame-Options Missing → Crypto Withdraw $120
+1	github	7.4	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/804	[BUG] TOTP Secret Leaked via QR Code in Logs $150
+1	github	7.4	$180	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/803	[BUG] Bluetooth Classic BR/EDR Pairing Bypass $180
+1	github	7.4	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/802	[BUG] Regex DoS (ReDoS) via User-Controlled Pattern $120
+1	github	7.4	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/801	[BUG] S3 Bucket Misconfiguration → Mass Data Leak $120
+1	github	7.4	$180	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/800	[BUG] Hardcoded AWS Keys in Public Artifact → Cloud Takeover $180
+1	github	7.4	$200	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/799	[BUG] HTTP/2 Downgrade → Request Smuggling $200
+1	github	7.4	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/798	[BUG] Second-Order SQL Injection via Stored XSS Data $150
+1	github	7.4	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/797	[BUG] Predictable OAuth State Token → CSRF + Account Takeover $150
+1	github	7.4	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/796	[BUG] ECB Mode Encryption → Data Leak via Pattern Matching $120
+1	github	7.4	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/795	[BUG] WebSocket Hijacking via Missing Cookie Validation $150
+1	github	7.4	$180	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/794	[BUG] SSRF via Gopher Protocol → Redis RCE $180
+0	github	6.3	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/61	[Bounty] Help fix broken file upload component in React/TypeScript (.tsx) bounty bounty:15 bounty:1
