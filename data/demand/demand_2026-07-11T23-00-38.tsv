@@ -1,0 +1,17 @@
+# score	source	age_h	payout_hint	tags	url	title
+3	github	0.6	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/274	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [BUG] Web Cache Poisoning via Unkey
+3	github	0.6	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/275	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [BUG] Blind Command Injection via E
+3	github	0.6	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/273	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [BUG] Session Fixation + Session ID
+3	github	0.6	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/267	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [BUG] LDAP Injection → Anonymous Bi
+2	github	0.6	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/282	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [bounty][funding-pending]: complete
+2	github	0.6	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/280	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [BUG] SSTI in Email Template Engine
+2	github	0.6	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/281	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [BUG] Mass Assignment in User Profi
+2	github	0.6	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/279	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [BUG] JWT Kid Injection → Path Trav
+2	github	0.6	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/277	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [BUG] Java RMI Deserialization → Re
+2	github	0.6	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/278	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [BUG] IDOR in GraphQL Nested Query 
+2	github	0.6	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/276	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [BUG] Timing Attack on Password Ver
+2	github	0.6	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/272	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [BUG] Zip Slip → Arbitrary File Wri
+2	github	0.6	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/270	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [BUG] CORS Misconfiguration + Origi
+2	github	0.6	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/271	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [BUG] CL.TE HTTP Request Smuggling 
+2	github	0.6	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/268	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [BUG] OAuth 2.0 CSRF → Account Take
+0	github	30.5	-	OPEN_ISSUE	https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/40355	[Feature]: Add react crypto liquid ripple modal component (38579)
