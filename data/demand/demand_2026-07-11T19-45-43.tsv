@@ -1,0 +1,17 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	0.2	$120	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/138	[Bounty] [Bounty] [Bounty] [BUG] Log Injection → Log Forging → SIEM Poisoning $120
+3	github	0.2	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/152	[Bounty] [Bounty] [Bounty] [BUG] Clickjacking via X-Frame-Options Missing → Crypto Withdr
+3	github	0.2	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/151	[Bounty] [Bounty] [Bounty] [BUG] gRPC Reflection Enabled → Service Enumeration $120
+3	github	0.2	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/153	[Bounty] [Bounty] [Bounty] [BUG] TOTP Secret Leaked via QR Code in Logs $150
+3	github	0.2	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/150	[Bounty] [Bounty] [Bounty] [BUG] DNS Zone Transfer Enabled → Internal Network Mapping $15
+3	github	0.2	$2	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/149	[Bounty] [Bounty] [Bounty] [Bounty $2,500] Optimise/improve accuracy for pow(x, y) fp32 (
+3	github	0.2	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/146	[Bounty] [Bounty] [Bounty] [BUG] WebSocket CSRF → Cross-Origin Data Exfiltration $150
+3	github	0.2	$1	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/148	[Bounty] [Bounty] [Bounty] [Bounty $1,500] Optimise `deg2rad` / `rad2deg` (fp32/bf16)
+3	github	0.2	$200	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/147	[Bounty] [Bounty] [Bounty] [BUG] Bleichenbacher Oracle in RSA-OAEP Decryption $200
+3	github	0.2	$180	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/143	[Bounty] [Bounty] [Bounty] [BUG] Reentrancy via ERC-777 Callback in Withdraw Function $18
+3	github	0.2	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/144	[Bounty] [Bounty] [Bounty] [BUG] Race Condition in /tmp File Handling (TOCTOU) $150
+3	github	0.2	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/145	[Bounty] [Bounty] [Bounty] [BUG] AWS IAM Privilege Escalation via PassRole + EC2 $150
+3	github	0.2	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/141	[Bounty] [Bounty] [Bounty] [BUG] Blind SSRF via DNS Rebinding Bypass $150
+3	github	0.2	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/142	[Bounty] [Bounty] [Bounty] [BUG] JWT Algorithm Confusion (RS256→HS256 Downgrade) $150
+3	github	0.2	$200	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/139	[Bounty] [Bounty] [Bounty] [BUG] Server-Side Prototype Pollution to RCE $200
+0	github	27.3	-	OPEN_ISSUE	https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/40355	[Feature]: Add react crypto liquid ripple modal component (38579)
