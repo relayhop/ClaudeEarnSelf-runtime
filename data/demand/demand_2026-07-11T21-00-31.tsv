@@ -1,0 +1,17 @@
+# score	source	age_h	payout_hint	tags	url	title
+3	github	0.6	$12	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/214	[Bounty] [Bounty] [Bounty] [Bounty] [BUG] Mass Assignment in User Profile Update → Privil
+3	github	0.6	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/216	[Bounty] [Bounty] [Bounty] [Bounty] [BUG] Web Cache Deception → Session Token Leak $150
+3	github	0.6	50 USD	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/213	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] SQL Injection in login endpoint - 50 USD
+3	github	0.6	$15	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/212	[Bounty] [Bounty] [Bounty] [Bounty] [BUG] JWT Kid Injection → Path Traversal → Secret Key
+3	github	0.6	$200	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/211	[Bounty] [Bounty] [Bounty] [Bounty] [BUG] SSTI in Email Template Engine → Sandbox Escape 
+3	github	0.6	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/209	[Bounty] [Bounty] [Bounty] [Bounty] [BUG] Timing Attack on Password Verification → User E
+3	github	0.6	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/208	[Bounty] [Bounty] [Bounty] [Bounty] [BUG] IDOR in GraphQL Nested Query → Mass Data Leak $
+3	github	0.6	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/210	[Bounty] [Bounty] [Bounty] [Bounty] [BUG] Blind Command Injection via Email Header $150
+3	github	0.6	$200	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/206	[Bounty] [Bounty] [Bounty] [Bounty] [BUG] Java RMI Deserialization → Remote Code Executio
+3	github	0.6	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/207	[Bounty] [Bounty] [Bounty] [Bounty] [BUG] Host Header Injection → Password Reset Poisonin
+3	github	0.6	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/205	[Bounty] [Bounty] [Bounty] [Bounty] [BUG] Zip Slip → Arbitrary File Write via Archive Ext
+3	github	0.6	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/203	[Bounty] [Bounty] [Bounty] [Bounty] [BUG] Session Fixation + Session ID in URL $120
+3	github	0.6	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/204	[Bounty] [Bounty] [Bounty] [Bounty] [BUG] Web Cache Poisoning via Unkeyed Header $150
+3	github	0.6	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/202	[Bounty] [Bounty] [Bounty] [Bounty] [BUG] CORS Misconfiguration + Origin Reflection → Cre
+2	github	0.6	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/215	[Bounty] [Bounty] [Bounty] [Bounty] [bounty][funding-pending]: complete the first permiss
+0	github	28.5	-	OPEN_ISSUE	https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/40355	[Feature]: Add react crypto liquid ripple modal component (38579)
