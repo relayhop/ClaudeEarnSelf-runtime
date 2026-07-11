@@ -1,0 +1,18 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	15.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1522471	Latest Strikes 27 - June 29th - July 5th 2026
+3	github	1.4	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/968	[BUG] Web Cache Deception → Session Token Leak $150
+3	github	1.4	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/967	[BUG] Timing Attack on Password Verification → User Enumeration $120
+3	github	1.4	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/966	[BUG] JWT Kid Injection → Path Traversal → Secret Key Leak $150
+3	github	1.4	$200	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/965	[BUG] SSTI in Email Template Engine → Sandbox Escape $200
+3	github	1.4	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/964	[BUG] Mass Assignment in User Profile Update → Privilege Escalation $120
+3	github	1.4	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/963	[BUG] Host Header Injection → Password Reset Poisoning $120
+3	github	1.4	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/962	[BUG] Blind Command Injection via Email Header $150
+3	github	1.4	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/961	[BUG] Web Cache Poisoning via Unkeyed Header $150
+3	github	1.4	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/960	[BUG] IDOR in GraphQL Nested Query → Mass Data Leak $150
+3	github	1.4	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/959	[BUG] Session Fixation + Session ID in URL $120
+3	github	1.4	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/958	[BUG] Zip Slip → Arbitrary File Write via Archive Extraction $150
+3	github	1.4	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/957	[BUG] LDAP Injection → Anonymous Bind Bypass $120
+3	github	1.4	$200	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/956	[BUG] Java RMI Deserialization → Remote Code Execution $200
+3	github	1.4	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/955	[BUG] CORS Misconfiguration + Origin Reflection → Credential Theft $120
+3	github	1.4	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/954	[BUG] Blind XXE via SVG Upload → SSRF + Data Exfil $150
+0	github	14.2	-	OPEN_ISSUE	https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/40355	[Feature]: Add react crypto liquid ripple modal component (38579)
