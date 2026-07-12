@@ -1,0 +1,20 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	1.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1523320	How Banks Can Add Bitcoin Without Replacing Their Core System
+4	github	0.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/Loru/issues/16	[100 MRG] Training pipeline: config YAML + seed + checkpoint resume
+4	github	0.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/Loru/issues/15	[100 MRG] Browser webcam UI for sign→text demo
+4	github	0.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/Loru/issues/14	[100 MRG] Vietnamese Sign Language (VSL) pilot pack
+4	github	0.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/Loru/issues/13	[100 MRG] Continuous signing: sliding window + gloss stream
+4	github	0.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/Loru/issues/12	[50 MRG] Webcam demo: OpenCV capture loop → live gloss print
+4	github	0.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/Loru/issues/11	[50 MRG] Gloss→sentence: template pack + simple NLG for multi-gloss
+4	github	0.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/Loru/issues/10	[50 MRG] FastAPI: POST /infer/text and /infer/voice
+4	github	0.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/Loru/issues/9	[50 MRG] Sign→voice: pyttsx3 or edge-tts real backend
+4	github	0.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/Loru/issues/8	[50 MRG] Metrics: top-k accuracy, confusion matrix, report JSON
+4	github	0.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/Loru/issues/7	[50 MRG] Sign→text: sequence model baseline (CTC or tiny transformer stub)
+4	github	0.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/Loru/issues/6	[50 MRG] Dataset adapter: WLASL-style index → Loru sequences
+4	github	0.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/Loru/issues/5	[50 MRG] MediaPipe Holistic landmark extractor adapter
+4	github	0.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/Loru/issues/4	[25 MRG] Sequence schema validation with pydantic
+4	github	0.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/Loru/issues/3	[25 MRG] Gloss vocab: load from YAML/JSON + expand DEFAULT_GLOSS
+4	github	0.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergeos-bounties/Loru/issues/2	[25 MRG] CLI: loru eval toy — accuracy table over data/samples
+2	github	9.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Yield-routes/Yield-routes-Frontend/issues/4	QA: manual testing of the swap quote and preview flows
+2	github	11.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-IndigoPay/Stellar-IndigoPay/issues/66	Expand Soroban contract fuzz testing
+0	github	43.6	-	OPEN_ISSUE	https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/40355	[Feature]: Add react crypto liquid ripple modal component (38579)
