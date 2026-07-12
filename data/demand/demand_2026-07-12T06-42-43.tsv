@@ -1,0 +1,19 @@
+# score	source	age_h	payout_hint	tags	url	title
+3	github	1.2	$180	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1167	[BUG] Race Condition in Distributed Transaction → Double Spend $180
+3	github	1.2	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1166	[BUG] MongoDB NoSQL Injection → Authentication Bypass $150
+3	github	1.2	$200	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1165	[BUG] Python Pickle Deserialization RCE via Cache $200
+3	github	1.2	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1164	[BUG] GraphQL Batch Query + Rate Limit Bypass $150
+3	github	1.2	$200	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1163	[BUG] Server-Side Prototype Pollution to RCE $200
+3	github	1.2	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1162	[BUG] Blind SSRF via DNS Rebinding Bypass $150
+3	github	1.2	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1161	[BUG] JWT Algorithm Confusion (RS256→HS256 Downgrade) $150
+3	github	1.2	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1160	[BUG] Race Condition in /tmp File Handling (TOCTOU) $150
+3	github	1.2	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1159	[BUG] AWS IAM Privilege Escalation via PassRole + EC2 $150
+3	github	1.2	$180	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1158	[BUG] Reentrancy via ERC-777 Callback in Withdraw Function $180
+3	github	1.2	$200	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1157	[BUG] Bleichenbacher Oracle in RSA-OAEP Decryption $200
+3	github	1.2	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1156	[BUG] WebSocket CSRF → Cross-Origin Data Exfiltration $150
+3	github	1.2	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1155	[BUG] gRPC Reflection Enabled → Service Enumeration $120
+3	github	1.2	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1154	[BUG] DNS Zone Transfer Enabled → Internal Network Mapping $150
+3	github	1.2	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1153	[BUG] Clickjacking via X-Frame-Options Missing → Crypto Withdraw $120
+2	github	4.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Yield-routes/Yield-routes-Frontend/issues/4	QA: manual testing of the swap quote and preview flows
+2	github	6.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-IndigoPay/Stellar-IndigoPay/issues/66	Expand Soroban contract fuzz testing
+0	github	38.2	-	OPEN_ISSUE	https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/40355	[Feature]: Add react crypto liquid ripple modal component (38579)
