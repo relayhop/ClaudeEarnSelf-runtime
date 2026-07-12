@@ -1,0 +1,19 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	0.1	$8	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/290	Frantic bounty #107: runx skill: seo gap miner
+5	github	0.1	$10	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/289	Frantic bounty #106: runx skill: agency health
+5	github	0.1	$8	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/288	Frantic bounty #105: Complete the Frantic loop from your own MCP client, publish the walkthrough
+5	github	0.1	$9	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/287	Frantic bounty #104: Run a standing agency on your own ops and publish the sealed case trail
+5	github	0.1	$9	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/286	Frantic bounty #103: Prove a substantial scafld bug with a failing test
+5	github	0.1	$11	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/285	Frantic bounty #102: runx skill: rollback judge
+5	github	0.1	$9	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/284	Frantic bounty #101: runx skill: govern a second open skill (overlay)
+4	github	1.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Yield-routes/Yield-routes-Frontend/issues/4	QA: manual testing of the swap quote and preview flows
+4	github	3.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-IndigoPay/Stellar-IndigoPay/issues/66	Expand Soroban contract fuzz testing
+3	github	0.0	$12	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/295	Frantic bounty #112: runx skill: incident commander
+3	github	0.1	$12	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/294	Frantic bounty #111: runx skill: csat detractor recovery
+3	github	0.1	$11	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/293	Frantic bounty #110: runx skill: renewal spend decision
+3	github	0.1	$9	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/292	Frantic bounty #109: runx skill: purchase approval
+3	github	0.1	$11	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/291	Frantic bounty #108: runx skill: revenue leakage auditor
+2	github	2.7	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/342	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [BUG] SSTI in Ema
+2	github	2.7	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/340	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [BUG] JWT Kid Inj
+2	github	2.7	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/341	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [bounty][funding-
+0	github	35.3	-	OPEN_ISSUE	https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/40355	[Feature]: Add react crypto liquid ripple modal component (38579)
