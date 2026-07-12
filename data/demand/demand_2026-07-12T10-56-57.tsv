@@ -1,0 +1,19 @@
+# score	source	age_h	payout_hint	tags	url	title
+3	github	0.3	$2	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/475	[Bounty] [Bounty $2,500] Optimise/improve accuracy for pow(x, y) fp32 (non-integer expone
+3	github	0.3	100 usd	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/476	[Bounty] Bug bounty 100 usd to whoever makes my landing page responsive for mobile
+3	github	0.3	$1	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/474	[Bounty] [Bounty $1,500] Optimise `deg2rad` / `rad2deg` (fp32/bf16)
+2	github	8.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Yield-routes/Yield-routes-Frontend/issues/4	QA: manual testing of the swap quote and preview flows
+2	github	10.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-IndigoPay/Stellar-IndigoPay/issues/66	Expand Soroban contract fuzz testing
+2	github	0.1	-	OPEN_ISSUE	https://github.com/WillisWilliam8/client_golang/issues/1	🎯 Implement TTL-based Eviction or Pruning for HistogramVec to Prevent Unbounded Memory Growth from High-Cardinality Lab
+2	github	0.3	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/473	[Bounty] [bounty][funding-pending]: complete the first permissionless autonomous mainnet 
+2	github	1.3	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/issues/241	[50 MRG] Bank transfer funding path with admin manual verify + ledger proof
+2	github	1.3	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/issues/240	[100 MRG] Admin ops: one-click verify star+evidence then credit+comment template
+2	github	1.3	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/issues/239	[50 MRG] Password reset UX when SMTP is offline (no dead-end success lie)
+2	github	1.3	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/issues/238	[25 MRG] SDK: evidence_required helpers for task/protocol events
+2	github	1.3	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/issues/236	[50 MRG] Funding wizard blocked-state copy + CTA when payment_mode is not-configured
+2	github	1.3	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/issues/233	[50 MRG] SMTP outbound notifications + graceful offline fallback
+2	github	1.3	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/issues/232	[100 MRG] Stripe PaymentIntent funding rail for project escrow
+2	github	1.3	-	OPEN_ISSUE	https://github.com/mergeos-bounties/mergeos/issues/231	[100 MRG] Payment rails empty-state when no providers are ready
+1	github	5.5	$180	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1167	[BUG] Race Condition in Distributed Transaction → Double Spend $180
+1	github	5.5	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1166	[BUG] MongoDB NoSQL Injection → Authentication Bypass $150
+0	github	42.5	-	OPEN_ISSUE	https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/40355	[Feature]: Add react crypto liquid ripple modal component (38579)
