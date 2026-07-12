@@ -1,0 +1,17 @@
+# score	source	age_h	payout_hint	tags	url	title
+3	github	0.6	$1	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/311	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty $1,500] Optimise `
+3	github	0.6	$2	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/310	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty $2,500] Optimise/i
+3	github	0.6	$1	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/307	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [BUG] Blind SSRF via DNS R
+2	github	0.6	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/312	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [BUG] Clickjacking via X-F
+2	github	0.6	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/309	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [BUG] Bleichenbacher Oracl
+2	github	0.6	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/308	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [BUG] DNS Zone Transfer En
+2	github	0.6	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/306	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [BUG] Race Condition in /t
+2	github	0.6	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/305	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [BUG] Server-Side Prototyp
+2	github	0.6	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/304	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [BUG] GraphQL Batch Query 
+2	github	0.6	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/302	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [BUG] Python Pickle Deseri
+2	github	0.6	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/303	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [BUG] AWS IAM Privilege Es
+2	github	0.6	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/300	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [BUG] MongoDB NoSQL Inject
+2	github	0.6	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/301	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [BUG] Log Injection → Log 
+2	github	0.6	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/298	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [BUG] Blind XXE via SVG Up
+2	github	0.6	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/299	[Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [Bounty] [BUG] Race Condition in Di
+0	github	31.6	-	OPEN_ISSUE	https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/40355	[Feature]: Add react crypto liquid ripple modal component (38579)
