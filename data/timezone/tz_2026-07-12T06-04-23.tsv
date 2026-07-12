@@ -1,0 +1,17 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH	github	0.6	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1167	[BUG] Race Condition in Distributed Transaction → Double Spend $180
+FRESH	github	0.6	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1166	[BUG] MongoDB NoSQL Injection → Authentication Bypass $150
+FRESH	github	0.6	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1165	[BUG] Python Pickle Deserialization RCE via Cache $200
+FRESH	github	0.6	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1164	[BUG] GraphQL Batch Query + Rate Limit Bypass $150
+FRESH	github	0.6	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1163	[BUG] Server-Side Prototype Pollution to RCE $200
+FRESH	github	0.6	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1162	[BUG] Blind SSRF via DNS Rebinding Bypass $150
+FRESH	github	0.6	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1161	[BUG] JWT Algorithm Confusion (RS256→HS256 Downgrade) $150
+FRESH	github	0.6	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1160	[BUG] Race Condition in /tmp File Handling (TOCTOU) $150
+FRESH	github	0.6	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1159	[BUG] AWS IAM Privilege Escalation via PassRole + EC2 $150
+FRESH	github	0.6	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1158	[BUG] Reentrancy via ERC-777 Callback in Withdraw Function $180
+FRESH	github	0.6	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1157	[BUG] Bleichenbacher Oracle in RSA-OAEP Decryption $200
+FRESH	github	0.6	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1156	[BUG] WebSocket CSRF → Cross-Origin Data Exfiltration $150
+FRESH	github	0.6	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1155	[BUG] gRPC Reflection Enabled → Service Enumeration $120
+FRESH	github	0.6	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1154	[BUG] DNS Zone Transfer Enabled → Internal Network Mapping $150
+FRESH	github	0.6	0	6	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1153	[BUG] Clickjacking via X-Frame-Options Missing → Crypto Withdraw $120
+FRESH	sn/bitcoin	2.2	0	0	https://stacker.news/items/1523252	Babilonia: Coinjoin as a wager - waxwing
