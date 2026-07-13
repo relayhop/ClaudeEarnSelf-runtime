@@ -1,0 +1,24 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	13.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1523320	How Banks Can Add Bitcoin Without Replacing Their Core System
+4	github	2.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/350	[Easy] docs(repo): document missing backend env vars in environment-variables.md
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/122	[radar] SN open bounty 2026-07-12T23:02
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/121	[radar] SN open bounty 2026-07-12T22:01
+4	github	3.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/120	[radar] SN open bounty 2026-07-12T21:01
+2	sn/bitcoin	8.0	-	OPEN_NEED	https://stacker.news/items/1523480	Safe eCash/BTC Coin-Splitting Using a Chain-Unique Dust Input - Robin Linus
+2	sn/bitcoin	7.4	-	OPEN_NEED	https://stacker.news/items/1523508	Sunday Survey: Where did you acquire Bitcoin last?
+2	github	11.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/ocheeluma/pactum-orchestrator/issues/1	Feature: Support USDC/EURC on Stellar directly as payment currencies
+2	github	21.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Yield-routes/Yield-routes-Frontend/issues/4	QA: manual testing of the swap quote and preview flows
+2	github	23.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-IndigoPay/Stellar-IndigoPay/issues/66	Expand Soroban contract fuzz testing
+2	github	4.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/119	[radar] SN open bounty 2026-07-12T19:18
+2	github	6.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/118	[radar] SN open bounty 2026-07-12T17:11
+2	github	8.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/117	[radar] SN open bounty 2026-07-12T15:08
+0	github	55.6	-	OPEN_ISSUE	https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/40355	[Feature]: Add react crypto liquid ripple modal component (38579)
+0	github	9.8	-	OPEN_ISSUE	https://github.com/ThanhTrucSolutions/OriLang/issues/18	[100 MRG] Bug hunt: array bounds edge cases in samples
+0	github	9.8	-	OPEN_ISSUE	https://github.com/ThanhTrucSolutions/OriLang/issues/17	[50 MRG] Docs: architecture diagram (orivm / oric / ori)
+0	github	9.8	-	OPEN_ISSUE	https://github.com/ThanhTrucSolutions/OriLang/issues/16	[50 MRG] CLI: ori create templates (console vs window)
+0	github	9.8	-	OPEN_ISSUE	https://github.com/ThanhTrucSolutions/OriLang/issues/15	[100 MRG] Chrome extension sample: options page
+0	github	9.8	-	OPEN_ISSUE	https://github.com/ThanhTrucSolutions/OriLang/issues/14	[25 MRG] Vietnamese README section (quickstart)
+0	github	9.8	-	OPEN_ISSUE	https://github.com/ThanhTrucSolutions/OriLang/issues/13	[50 MRG] Sample: crypto-safe demo using core crypto APIs
+0	github	9.8	-	OPEN_ISSUE	https://github.com/ThanhTrucSolutions/OriLang/issues/12	[200 MRG] E2E: self-host compiler fixpoint verified in CI
+0	github	9.8	-	OPEN_ISSUE	https://github.com/ThanhTrucSolutions/OriLang/issues/11	[50 MRG] Docs: .meta platform enum table keep in sync
+0	github	9.8	-	OPEN_ISSUE	https://github.com/ThanhTrucSolutions/OriLang/issues/10	[100 MRG] Built-in: safer http_get timeouts/errors
