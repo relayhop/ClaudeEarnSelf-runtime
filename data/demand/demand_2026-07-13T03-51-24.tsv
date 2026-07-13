@@ -1,0 +1,27 @@
+# score	source	age_h	payout_hint	tags	url	title
+7	sn/bitcoin	1.5	000 sats	OPEN_NEED,LOW_COMP	https://stacker.news/items/1523810	What is Satoshi's Favor? And how can I win 21,000 sats?
+7	sn/bitcoin	0.8	603btc	OPEN_NEED,LOW_COMP	https://stacker.news/items/1523823	I work on Bitcoin Quest every single day. We are looking for more team members
+7	sn/tech	0.8	603btc	OPEN_NEED,LOW_COMP	https://stacker.news/items/1523823	I work on Bitcoin Quest every single day. We are looking for more team members
+5	github	0.1	$10	OPEN_ISSUE,LOW_COMP	https://github.com/Vikingr2023/awesome-agent-bounties/issues/40	[MeaganReyesq8/memberlist] 🎯 Fix race condition leaving dead nodes in nodeMap during co
+5	github	0.1	$10	OPEN_ISSUE,LOW_COMP	https://github.com/Vikingr2023/awesome-agent-bounties/issues/39	[MeaganReyesq8/websocket] 🎯 Prevent Goroutine Deadlock in WriteMessage during Concurre
+4	sn/bitcoin	16.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1523320	How Banks Can Add Bitcoin Without Replacing Their Core System
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Vikingr2023/awesome-agent-bounties/issues/42	[mergeos-bounties/mergeos] [50 MRG] SMTP outbound notifications + graceful offline fall
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Vikingr2023/awesome-agent-bounties/issues/41	[microg/GmsCore] [BOUNTY] RCS Support [14999$]
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Vikingr2023/awesome-agent-bounties/issues/38	[mergeos-bounties/mergeos] Claim MRG Tokens for Bug Bounty Reports - Comment New Bugs H
+3	github	0.0	$3	OPEN_ISSUE	https://github.com/Vikingr2023/awesome-agent-bounties/issues/167	[aLexzzz430/Cognitive-OS] [ Bounty $3k ] [ Research ] Collect and compare AI-generated
+3	github	0.1	$10	OPEN_ISSUE	https://github.com/Vikingr2023/awesome-agent-bounties/issues/160	[MeaganReyesq8/client_golang] 🎯 Fix Race Condition and Duplicate Registration in Concurren
+3	github	0.1	$3	OPEN_ISSUE	https://github.com/Vikingr2023/awesome-agent-bounties/issues/76	[Vikingr2023/awesome-agent-bounties] [aLexzzz430/Cognitive-OS] [ Bounty $3k ] [ Research ] Collec
+3	github	0.1	$3	OPEN_ISSUE	https://github.com/Vikingr2023/awesome-agent-bounties/issues/52	[aLexzzz430/Cognitive-OS] [ Bounty $3k ] [ Research ] Collect and compare AI-generated
+2	sn/bitcoin	11.8	-	OPEN_NEED	https://stacker.news/items/1523480	Safe eCash/BTC Coin-Splitting Using a Chain-Unique Dust Input - Robin Linus
+2	sn/bitcoin	11.1	-	OPEN_NEED	https://stacker.news/items/1523508	Sunday Survey: Where did you acquire Bitcoin last?
+2	github	6.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/350	[Easy] docs(repo): document missing backend env vars in environment-variables.md
+2	github	14.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/ocheeluma/pactum-orchestrator/issues/1	Feature: Support USDC/EURC on Stellar directly as payment currencies
+2	github	25.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Yield-routes/Yield-routes-Frontend/issues/4	QA: manual testing of the swap quote and preview flows
+2	github	27.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-IndigoPay/Stellar-IndigoPay/issues/66	Expand Soroban contract fuzz testing
+2	github	0.1	-	OPEN_ISSUE	https://github.com/Vikingr2023/awesome-agent-bounties/issues/161	[mergeos-bounties/PoseGuide] [25 MRG] Pose schema validation with pydantic
+2	github	0.1	-	OPEN_ISSUE	https://github.com/Vikingr2023/awesome-agent-bounties/issues/78	[Vikingr2023/awesome-agent-bounties] [mergeos-bounties/mergeos] [50 MRG] Password reset UX when S
+2	github	0.1	-	OPEN_ISSUE	https://github.com/Vikingr2023/awesome-agent-bounties/issues/46	[mergeos-bounties/mergeos] [25 MRG] SDK: evidence_required helpers for task/protocol ev
+2	github	0.1	-	OPEN_ISSUE	https://github.com/Vikingr2023/awesome-agent-bounties/issues/45	[mergeos-bounties/mergeos] [50 MRG] Password reset UX when SMTP is offline (no dead-end
+2	github	0.1	-	OPEN_ISSUE	https://github.com/Vikingr2023/awesome-agent-bounties/issues/44	[mergeos-bounties/mergeos] [50 MRG] Funding wizard blocked-state copy + CTA when paymen
+2	github	0.1	-	OPEN_ISSUE	https://github.com/Vikingr2023/awesome-agent-bounties/issues/43	[mergeos-bounties/PoseGuide] [50 MRG] OpenCV skeleton overlay renderer
+0	github	59.4	-	OPEN_ISSUE	https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/40355	[Feature]: Add react crypto liquid ripple modal component (38579)
