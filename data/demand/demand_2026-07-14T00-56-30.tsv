@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	github	3.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Deen-Bridge/dnb-frontend/issues/70	[Docs] Replace placeholder README images and fix broken project links
+4	github	1.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/132	[radar] SN open bounty 2026-07-13T23:06
+4	github	3.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/131	[radar] SN open bounty 2026-07-13T21:08
+2	sn/tech	6.9	-	OPEN_NEED	https://stacker.news/items/1524239	How close are we to being like the people in the movie Wall-E?
+2	github	8.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/solana-foundation/kora/issues/608	Devex: cross-cluster mint hint when initialize-atas fails on a missing or wrong-owner mint
+2	github	27.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/350	[Easy] docs(repo): document missing backend env vars in environment-variables.md
+2	github	35.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/ocheeluma/pactum-orchestrator/issues/1	Feature: Support USDC/EURC on Stellar directly as payment currencies
+2	github	46.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Yield-routes/Yield-routes-Frontend/issues/4	QA: manual testing of the swap quote and preview flows
+2	github	48.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-IndigoPay/Stellar-IndigoPay/issues/66	Expand Soroban contract fuzz testing
+2	github	5.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/130	[radar] SN open bounty 2026-07-13T19:41
+2	github	7.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/129	[radar] SN open bounty 2026-07-13T17:20
+2	github	10.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/128	[radar] SN open bounty 2026-07-13T14:54
+1	github	11.8	$1500	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/505	[Bounty] [zhangjiayang6835-cyber/bounty-plaza] [Bounty] [tenstorrent/tt-metal] [Bounty $1
+1	github	11.8	$1500	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/506	[Bounty] [zhangjiayang6835-cyber/bounty-plaza] [Bounty] [tenstorrent/tt-metal] [Bounty $1
+1	github	11.8	$50	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/504	[Bounty] [zhangjiayang6835-cyber/bounty-plaza] [Bounty] [claude-builders-bounty/claude-bu
+1	github	11.8	1 USDC	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/503	[Bounty] [zhangjiayang6835-cyber/bounty-plaza] [Bounty] [NSPG13/agent-bounties] [1 USDC a
+1	github	11.8	1 USDC	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/502	[Bounty] [zhangjiayang6835-cyber/bounty-plaza] [Bounty] [NSPG13/agent-bounties] [1 USDC a
+1	github	12.9	1 USD	OPEN_ISSUE	https://github.com/Vikingr2023/awesome-agent-bounties/issues/324	[zhangjiayang6835-cyber/bounty-plaza] [Bounty] [NSPG13/agent-bounties] [1 USDC autonomous bounty] 
+1	github	12.9	1 USD	OPEN_ISSUE	https://github.com/Vikingr2023/awesome-agent-bounties/issues/323	[zhangjiayang6835-cyber/bounty-plaza] [Bounty] [NSPG13/agent-bounties] [1 USDC autonomous bounty] 
+0	github	11.8	-	OPEN_ISSUE	https://github.com/adrimg3196/lucidfence/issues/3	Adapter Bounty Sprint — Hall of Fame + primeros adapters live (Intune/Jamf)
+0	github	11.8	-	OPEN_ISSUE	https://github.com/adrimg3196/lucidfence/issues/2	Adapter Bounty: Jamf live (Pro API)
+0	github	11.8	-	OPEN_ISSUE	https://github.com/adrimg3196/lucidfence/issues/1	Adapter Bounty: Intune live (Microsoft Graph)
