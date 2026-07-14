@@ -1,0 +1,27 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	0.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1524880	Bitcoin-Fork-Governance-Study - pfoytik
+5	sn/bitcoin	8.3	$25	OPEN_NEED,LOW_COMP	https://stacker.news/items/1524563	A Question I Couldn't Answer
+4	github	1.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/oliv3rdrt/wagmi-react-dapp/issues/4	Validate amount precision before parseUnits
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/392	[URGENT / CRITICAL — MERGE FIRST] test(web): 18 failing tests block main CI; this PR is the harbinger of green CI
+2	sn/tech	23.4	-	OPEN_NEED	https://stacker.news/items/1524239	How close are we to being like the people in the movie Wall-E?
+2	github	9.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/accensa/accensa-contracts/issues/11	docs(contracts): mainnet deployment guide with fee and rent analysis
+2	github	20.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Deen-Bridge/dnb-frontend/issues/70	[Docs] Replace placeholder README images and fix broken project links
+2	github	24.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/solana-foundation/kora/issues/608	Devex: cross-cluster mint hint when initialize-atas fails on a missing or wrong-owner mint
+2	github	43.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/350	[Easy] docs(repo): document missing backend env vars in environment-variables.md
+2	github	63.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Yield-routes/Yield-routes-Frontend/issues/4	QA: manual testing of the swap quote and preview flows
+2	github	65.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-IndigoPay/Stellar-IndigoPay/issues/66	Expand Soroban contract fuzz testing
+2	github	1.1	-	OPEN_ISSUE	https://github.com/rethavonRueden3/cobra/issues/1	🎯 Fix: Command aliases bypass ValidArgsFunction during shell completion
+2	github	1.1	-	OPEN_ISSUE	https://github.com/rethavonRueden3/go-github/issues/1	🎯 Preserve Secondary Rate-Limit Information on HTTP 403 Responses
+2	github	6.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/470	[Bounty][$0] Productionize bot@misakanet.org email intake
+1	github	5.9	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1177	[BUG] Race Condition in /tmp File Handling (TOCTOU) $150
+1	github	5.9	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1176	[BUG] Clickjacking via X-Frame-Options Missing → Crypto Withdraw $120
+0	github	4.3	-	OPEN_ISSUE	https://github.com/sakshisaxena0308-droid/website-uptime-monitor/issues/1	Test Bounty Issue
+0	github	13.2	-	OPEN_ISSUE	https://github.com/mergeos-bounties/gimp-mcp/issues/10	[25 MRG] CLI: call command expand remaining tools
+0	github	13.2	-	OPEN_ISSUE	https://github.com/mergeos-bounties/gimp-mcp/issues/9	[50 MRG] Docs: Claude Desktop + Cursor config screenshots
+0	github	13.2	-	OPEN_ISSUE	https://github.com/mergeos-bounties/gimp-mcp/issues/8	[200 MRG] Feature: plugin bridge socket protocol design + stub
+0	github	13.2	-	OPEN_ISSUE	https://github.com/mergeos-bounties/gimp-mcp/issues/7	[100 MRG] Feature: selection rectangular + fill/stroke
+0	github	13.2	-	OPEN_ISSUE	https://github.com/mergeos-bounties/gimp-mcp/issues/6	[50 MRG] Feature: gimp_histogram / gimp_exif_stub tools
+0	github	13.2	-	OPEN_ISSUE	https://github.com/mergeos-bounties/gimp-mcp/issues/4	[100 MRG] Feature: filters pack (sharpen, emboss, brightness/contrast)
+0	github	13.2	-	OPEN_ISSUE	https://github.com/mergeos-bounties/gimp-mcp/issues/3	[50 MRG] Feature: layers list / new layer / flatten tools
+0	github	13.2	-	OPEN_ISSUE	https://github.com/mergeos-bounties/gimp-mcp/issues/2	[50 MRG] Feature: GIMP 3 python-fu-eval batch path (no hang)
+0	github	14.2	-	OPEN_ISSUE	https://github.com/mergeos-bounties/Loru/issues/223	[50 MRG] Feature: gloss coverage heatmap CLI
