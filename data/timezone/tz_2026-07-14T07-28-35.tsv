@@ -1,0 +1,17 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH_LOW_COMP	github	3.4	0	0	https://github.com/Ikalus1988/MisakaNet/issues/462	[good first issue] Add Japanese quickstart (docs/quickstart-jp.md)
+FRESH	sn/bitcoin	2.5	0	0	https://stacker.news/items/1524523	SUPER SAYLOR · 21 levels. 21 rules. One chair.
+FRESH	github	3.2	0	3	https://github.com/mergeos-bounties/gimp-mcp/issues/10	[25 MRG] CLI: call command expand remaining tools
+FRESH	github	3.2	0	4	https://github.com/mergeos-bounties/gimp-mcp/issues/9	[50 MRG] Docs: Claude Desktop + Cursor config screenshots
+FRESH	github	3.3	0	3	https://github.com/mergeos-bounties/gimp-mcp/issues/8	[200 MRG] Feature: plugin bridge socket protocol design + stub
+FRESH	github	3.3	0	3	https://github.com/mergeos-bounties/gimp-mcp/issues/7	[100 MRG] Feature: selection rectangular + fill/stroke
+FRESH	github	3.3	0	3	https://github.com/mergeos-bounties/gimp-mcp/issues/6	[50 MRG] Feature: gimp_histogram / gimp_exif_stub tools
+FRESH	github	3.3	0	3	https://github.com/mergeos-bounties/gimp-mcp/issues/4	[100 MRG] Feature: filters pack (sharpen, emboss, brightness/contrast)
+FRESH	github	3.3	0	3	https://github.com/mergeos-bounties/gimp-mcp/issues/3	[50 MRG] Feature: layers list / new layer / flatten tools
+FRESH	github	3.3	0	4	https://github.com/mergeos-bounties/gimp-mcp/issues/2	[50 MRG] Feature: GIMP 3 python-fu-eval batch path (no hang)
+FRESH	github	4.3	0	4	https://github.com/mergeos-bounties/Loru/issues/224	[50 MRG] Feature: export vocab CSV for teachers
+FRESH	github	4.3	0	4	https://github.com/mergeos-bounties/Loru/issues/223	[50 MRG] Feature: gloss coverage heatmap CLI
+FRESH	github	4.3	0	3	https://github.com/mergeos-bounties/PlantGuide/issues/151	[100 MRG] Feature: multi-tag identify explain scores
+FRESH	github	4.3	0	4	https://github.com/mergeos-bounties/PlantGuide/issues/150	[50 MRG] Feature: watering calendar export ICS stub
+FRESH	github	4.3	0	4	https://github.com/mergeos-bounties/PlantGuide/issues/149	[50 MRG] Feature: species toxicity filter CLI
+FRESH	github	4.3	0	3	https://github.com/ThanhTrucSolutions/OriLang/issues/36	[200 MRG] Feature: package manifest format proposal + loader stub
