@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	18.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1524880	Bitcoin-Fork-Governance-Study - pfoytik
+2	github	19.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/oliv3rdrt/wagmi-react-dapp/issues/4	Validate amount precision before parseUnits
+2	github	20.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/392	[URGENT / CRITICAL — MERGE FIRST] test(web): 18 failing tests block main CI; this PR is the harbinger of green CI
+2	github	26.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/accensa/accensa-contracts/issues/11	docs(contracts): mainnet deployment guide with fee and rent analysis
+2	github	38.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Deen-Bridge/dnb-frontend/issues/70	[Docs] Replace placeholder README images and fix broken project links
+2	github	42.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/solana-foundation/kora/issues/608	Devex: cross-cluster mint hint when initialize-atas fails on a missing or wrong-owner mint
+2	github	61.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/350	[Easy] docs(repo): document missing backend env vars in environment-variables.md
+2	github	1.5	-	OPEN_ISSUE	https://github.com/ThanhTrucSolutions/OriLang/issues/49	[25 MRG] Sample: beginner_26_temperature_convert.ori
+2	github	1.5	-	OPEN_ISSUE	https://github.com/ThanhTrucSolutions/OriLang/issues/48	[50 MRG] Tests: golden output for 3 beginner samples
+2	github	1.5	-	OPEN_ISSUE	https://github.com/ThanhTrucSolutions/OriLang/issues/47	[50 MRG] Docs: cheatsheet for hold/when/say idioms
+2	github	1.5	-	OPEN_ISSUE	https://github.com/ThanhTrucSolutions/OriLang/issues/46	[25 MRG] Sample: beginner_25_string_join.ori
+2	github	1.6	-	OPEN_ISSUE	https://github.com/ThanhTrucSolutions/OriLang/issues/45	[25 MRG] Sample: beginner_24_factorial.ori
+2	github	1.6	-	OPEN_ISSUE	https://github.com/ThanhTrucSolutions/OriLang/issues/44	[25 MRG] Sample: beginner_23_fizzbuzz.ori
+2	github	1.6	-	OPEN_ISSUE	https://github.com/mergeos-bounties/BeeAR/issues/42	[50 MRG] Catalog SKU: 2 accessory packs (clip-on + chain)
+2	github	1.6	-	OPEN_ISSUE	https://github.com/mergeos-bounties/BeeAR/issues/41	[25 MRG] Docs: catalog SKU contribution checklist
+2	github	1.6	-	OPEN_ISSUE	https://github.com/mergeos-bounties/BeeAR/issues/40	[50 MRG] CLI: beear catalog list --style filter
+2	github	1.6	-	OPEN_ISSUE	https://github.com/mergeos-bounties/BeeAR/issues/39	[25 MRG] Catalog SKU: round_wire_silver frame
+2	github	1.6	-	OPEN_ISSUE	https://github.com/mergeos-bounties/BeeAR/issues/38	[25 MRG] Catalog SKU: wayfarer_matte_black frame
+2	github	1.6	-	OPEN_ISSUE	https://github.com/mergeos-bounties/BeeAR/issues/37	[25 MRG] Catalog SKU: cat_eye_rose_gold frame
+2	github	1.6	-	OPEN_ISSUE	https://github.com/mergeos-bounties/ros2-mcp/issues/46	[25 MRG] Example: bag_info_sample.txt fixture
+2	github	1.6	-	OPEN_ISSUE	https://github.com/mergeos-bounties/ros2-mcp/issues/45	[50 MRG] Allowlist: topic_pub safety list file + test
+2	github	1.6	-	OPEN_ISSUE	https://github.com/mergeos-bounties/ros2-mcp/issues/44	[25 MRG] Docs: MCP host config snippet (Claude/Cursor)
+1	github	17.3	5 USDC	OPEN_ISSUE	https://github.com/zad111ak-ai/harvest/issues/2	🐛 Fix cache invalidation on connection loss
+1	github	17.3	0 USDC	OPEN_ISSUE	https://github.com/zad111ak-ai/harvest/issues/1	📝 Add comprehensive README with examples
