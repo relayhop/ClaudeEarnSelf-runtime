@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	19.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1524880	Bitcoin-Fork-Governance-Study - pfoytik
+3	github	1.3	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1203	[BUG] Web Cache Deception → Session Token Leak $150
+3	github	1.3	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1202	[BUG] Timing Attack on Password Verification → User Enumeration $120
+3	github	1.3	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1201	[BUG] Blind Command Injection via Email Header $150
+3	github	1.3	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1200	[BUG] Web Cache Poisoning via Unkeyed Header $150
+3	github	1.3	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1199	[BUG] IDOR in GraphQL Nested Query → Mass Data Leak $150
+3	github	1.3	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1198	[BUG] Session Fixation + Session ID in URL $120
+3	github	1.3	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1197	[BUG] Zip Slip → Arbitrary File Write via Archive Extraction $150
+3	github	1.3	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1196	[BUG] LDAP Injection → Anonymous Bind Bypass $120
+3	github	1.3	$200	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1195	[BUG] Java RMI Deserialization → Remote Code Execution $200
+3	github	1.3	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1194	[BUG] CORS Misconfiguration + Origin Reflection → Credential Theft $120
+3	github	1.3	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1193	[BUG] Blind XXE via SVG Upload → SSRF + Data Exfil $150
+3	github	1.3	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1192	[BUG] OAuth 2.0 CSRF → Account Takeover via State Bypass $150
+3	github	1.3	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1191	[BUG] Log Injection → Log Forging → SIEM Poisoning $120
+3	github	1.3	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1190	[BUG] Web Cache Deception → Session Token Leak $150
+3	github	1.3	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1189	[BUG] Timing Attack on Password Verification → User Enumeration $120
+2	github	21.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/oliv3rdrt/wagmi-react-dapp/issues/4	Validate amount precision before parseUnits
+2	github	21.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/392	[URGENT / CRITICAL — MERGE FIRST] test(web): 18 failing tests block main CI; this PR is the harbinger of green CI
+2	github	28.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/accensa/accensa-contracts/issues/11	docs(contracts): mainnet deployment guide with fee and rent analysis
+2	github	39.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Deen-Bridge/dnb-frontend/issues/70	[Docs] Replace placeholder README images and fix broken project links
+2	github	44.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/solana-foundation/kora/issues/608	Devex: cross-cluster mint hint when initialize-atas fails on a missing or wrong-owner mint
+2	github	63.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/350	[Easy] docs(repo): document missing backend env vars in environment-variables.md
+1	github	19.0	5 USDC	OPEN_ISSUE	https://github.com/zad111ak-ai/harvest/issues/2	🐛 Fix cache invalidation on connection loss
+1	github	19.0	0 USDC	OPEN_ISSUE	https://github.com/zad111ak-ai/harvest/issues/1	📝 Add comprehensive README with examples
