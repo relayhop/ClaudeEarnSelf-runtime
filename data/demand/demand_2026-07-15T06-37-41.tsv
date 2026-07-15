@@ -1,0 +1,26 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	21.5	$25	OPEN_NEED,LOW_COMP	https://stacker.news/items/1524563	A Question I Couldn't Answer
+4	sn/bitcoin	13.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1524880	Bitcoin-Fork-Governance-Study - pfoytik
+3	github	1.7	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1185	[BUG] JWT Kid Injection → Path Traversal → Secret Key Leak $150
+3	github	1.7	$200	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1184	[BUG] SSTI in Email Template Engine → Sandbox Escape $200
+3	github	1.7	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1183	[BUG] Mass Assignment in User Profile Update → Privilege Escalation $120
+3	github	1.7	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1182	[BUG] Host Header Injection → Password Reset Poisoning $120
+3	github	1.8	11 USDC	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/277	[0.10 USDC autonomous bounty] Complete an agent-skill claim-to-payout canary
+3	github	1.8	11 USDC	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/276	[0.10 USDC autonomous bounty] Complete an MCP-discovered claim-to-payout canary
+3	github	1.8	11 USDC	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/275	[0.10 USDC autonomous bounty] Complete a wallet claim-to-payout canary
+3	github	1.8	11 USDC	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/274	[0.10 USDC autonomous meta-bounty] Create a paid coding-bounty loop
+3	github	1.8	11 USDC	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/273	[0.10 USDC autonomous meta-bounty] Post a funded agent-tooling bounty completed by another wallet
+2	github	14.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/oliv3rdrt/wagmi-react-dapp/issues/4	Validate amount precision before parseUnits
+2	github	15.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/392	[URGENT / CRITICAL — MERGE FIRST] test(web): 18 failing tests block main CI; this PR is the harbinger of green CI
+2	github	22.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/accensa/accensa-contracts/issues/11	docs(contracts): mainnet deployment guide with fee and rent analysis
+2	github	33.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Deen-Bridge/dnb-frontend/issues/70	[Docs] Replace placeholder README images and fix broken project links
+2	github	38.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/solana-foundation/kora/issues/608	Devex: cross-cluster mint hint when initialize-atas fails on a missing or wrong-owner mint
+2	github	57.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/350	[Easy] docs(repo): document missing backend env vars in environment-variables.md
+1	github	12.8	5 USDC	OPEN_ISSUE	https://github.com/zad111ak-ai/harvest/issues/2	🐛 Fix cache invalidation on connection loss
+1	github	12.8	0 USDC	OPEN_ISSUE	https://github.com/zad111ak-ai/harvest/issues/1	📝 Add comprehensive README with examples
+1	github	19.2	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1177	[BUG] Race Condition in /tmp File Handling (TOCTOU) $150
+1	github	19.2	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1176	[BUG] Clickjacking via X-Frame-Options Missing → Crypto Withdraw $120
+0	github	14.3	-	OPEN_ISSUE	https://github.com/rethavonRueden3/cobra/issues/1	🎯 Fix: Command aliases bypass ValidArgsFunction during shell completion
+0	github	14.4	-	OPEN_ISSUE	https://github.com/rethavonRueden3/go-github/issues/1	🎯 Preserve Secondary Rate-Limit Information on HTTP 403 Responses
+0	github	17.5	-	OPEN_ISSUE	https://github.com/sakshisaxena0308-droid/website-uptime-monitor/issues/1	Test Bounty Issue
+0	github	20.1	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/470	[Bounty][$0] Productionize bot@misakanet.org email intake
