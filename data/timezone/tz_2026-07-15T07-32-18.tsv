@@ -1,0 +1,10 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH	github	2.6	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1185	[BUG] JWT Kid Injection → Path Traversal → Secret Key Leak $150
+FRESH	github	2.6	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1184	[BUG] SSTI in Email Template Engine → Sandbox Escape $200
+FRESH	github	2.6	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1183	[BUG] Mass Assignment in User Profile Update → Privilege Escalation $120
+FRESH	github	2.6	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1182	[BUG] Host Header Injection → Password Reset Poisoning $120
+FRESH	github	2.7	0	7	https://github.com/NSPG13/agent-bounties/issues/277	[0.10 USDC autonomous bounty] Complete an agent-skill claim-to-payout canary
+FRESH	github	2.7	0	7	https://github.com/NSPG13/agent-bounties/issues/276	[0.10 USDC autonomous bounty] Complete an MCP-discovered claim-to-payout canary
+FRESH	github	2.7	0	7	https://github.com/NSPG13/agent-bounties/issues/275	[0.10 USDC autonomous bounty] Complete a wallet claim-to-payout canary
+FRESH	github	2.7	0	7	https://github.com/NSPG13/agent-bounties/issues/274	[0.10 USDC autonomous meta-bounty] Create a paid coding-bounty loop
+FRESH	github	2.7	0	8	https://github.com/NSPG13/agent-bounties/issues/273	[0.10 USDC autonomous meta-bounty] Post a funded agent-tooling bounty completed by another wallet
