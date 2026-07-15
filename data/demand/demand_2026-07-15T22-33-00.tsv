@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	0.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1525610	BIP-110 - My Notes to Miners - Jason Hughes
+3	github	4.7	10 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/hexcreator/tasc/issues/3	Add another 60-second TascLang task fixture
+2	github	30.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/oliv3rdrt/wagmi-react-dapp/issues/4	Validate amount precision before parseUnits
+2	github	31.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/392	[URGENT / CRITICAL — MERGE FIRST] test(web): 18 failing tests block main CI; this PR is the harbinger of green CI
+2	github	38.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/accensa/accensa-contracts/issues/11	docs(contracts): mainnet deployment guide with fee and rent analysis
+2	github	49.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Deen-Bridge/dnb-frontend/issues/70	[Docs] Replace placeholder README images and fix broken project links
+2	github	54.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/solana-foundation/kora/issues/608	Devex: cross-cluster mint hint when initialize-atas fails on a missing or wrong-owner mint
+2	github	2.0	-	OPEN_ISSUE	https://github.com/ThanhTrucSolutions/OriLang/issues/60	[50 MRG] Sample pack: 3 intermediate math samples (prime-ish / gcd / average)
+2	github	2.0	-	OPEN_ISSUE	https://github.com/ThanhTrucSolutions/OriLang/issues/59	[25 MRG] Docs: common Ori beginner pitfalls wave2
+2	github	2.0	-	OPEN_ISSUE	https://github.com/ThanhTrucSolutions/OriLang/issues/58	[25 MRG] Sample: beginner_32_greeting_times.ori wave2
+2	github	2.0	-	OPEN_ISSUE	https://github.com/ThanhTrucSolutions/OriLang/issues/57	[50 MRG] Tests: golden output for beginner_27–29 samples
+2	github	2.0	-	OPEN_ISSUE	https://github.com/ThanhTrucSolutions/OriLang/issues/56	[50 MRG] Docs: beginner learning path (10 samples ordered) wave2
+2	github	2.0	-	OPEN_ISSUE	https://github.com/ThanhTrucSolutions/OriLang/issues/55	[25 MRG] Sample: beginner_31_even_odd.ori wave2
+2	github	2.0	-	OPEN_ISSUE	https://github.com/ThanhTrucSolutions/OriLang/issues/54	[25 MRG] Sample: beginner_30_sum_1_to_n.ori wave2
+2	github	2.0	-	OPEN_ISSUE	https://github.com/ThanhTrucSolutions/OriLang/issues/53	[25 MRG] Sample: beginner_29_echo_name.ori wave2
+2	github	2.0	-	OPEN_ISSUE	https://github.com/ThanhTrucSolutions/OriLang/issues/52	[25 MRG] Sample: beginner_28_max_of_three.ori wave2
+2	github	2.0	-	OPEN_ISSUE	https://github.com/ThanhTrucSolutions/OriLang/issues/51	[25 MRG] Sample: beginner_27_countdown.ori wave2
+2	github	2.0	-	OPEN_ISSUE	https://github.com/mergeos-bounties/BeeAR/issues/56	[25 MRG] Catalog SKU: kids_flexible_green frame wave2
+2	github	2.0	-	OPEN_ISSUE	https://github.com/mergeos-bounties/BeeAR/issues/55	[50 MRG] Web: catalog empty-state when filter has no results
+2	github	2.0	-	OPEN_ISSUE	https://github.com/mergeos-bounties/BeeAR/issues/54	[25 MRG] Catalog SKU: sports_wrap_blue frame wave2
+2	github	2.0	-	OPEN_ISSUE	https://github.com/mergeos-bounties/BeeAR/issues/53	[25 MRG] Docs: fit metadata field meanings for SKU authors wave2
+2	github	2.0	-	OPEN_ISSUE	https://github.com/mergeos-bounties/BeeAR/issues/52	[50 MRG] Catalog: colorway variants for 1 base frame (2 SKUs)
+1	github	28.7	5 USDC	OPEN_ISSUE	https://github.com/zad111ak-ai/harvest/issues/2	🐛 Fix cache invalidation on connection loss
+1	github	28.7	0 USDC	OPEN_ISSUE	https://github.com/zad111ak-ai/harvest/issues/1	📝 Add comprehensive README with examples
