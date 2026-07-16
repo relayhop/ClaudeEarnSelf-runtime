@@ -1,0 +1,27 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	8.7	1sats	OPEN_NEED,LOW_COMP	https://stacker.news/items/1525907	BOOK on BOOKS: "Hijacking Bitcoin: The Hidden History of BTC," by Roger Ver
+4	sn/bitcoin	8.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1525929	Breez x Turnkey: Instant Bitcoin at Enterprise Scale 🔥
+4	sn/bitcoin	20.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1525706	Nunchuk adds USDT support on Liquid
+4	github	0.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1496	fix(voltagent): validate configured default limit
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1495	fix(langgraph): upsert repeated store keys
+3	github	13.3	00 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Agora-Events/agora/issues/1018	Mobile: Local Currency Rate Converter and Price Display
+3	github	29.7	10 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/hexcreator/tasc/issues/3	Add another 60-second TascLang task fixture
+2	sn/bitcoin	9.9	-	OPEN_NEED	https://stacker.news/items/1525867	hardware wallets vs dedicated generic devices
+2	github	55.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/oliv3rdrt/wagmi-react-dapp/issues/4	Validate amount precision before parseUnits
+2	github	56.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/392	[URGENT / CRITICAL — MERGE FIRST] test(web): 18 failing tests block main CI; this PR is the harbinger of green CI
+2	github	63.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/accensa/accensa-contracts/issues/11	docs(contracts): mainnet deployment guide with fee and rent analysis
+2	github	5.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1493	fix: multi-line memory titles corrupt on recall and compound [FACT] prefixes until the memory is un-updatable (#770)
+2	github	5.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1492	fix(langgraph): prevent cross-query results on rate-limit fallback
+1	github	53.6	5 USDC	OPEN_ISSUE	https://github.com/zad111ak-ai/harvest/issues/2	🐛 Fix cache invalidation on connection loss
+1	github	53.6	0 USDC	OPEN_ISSUE	https://github.com/zad111ak-ai/harvest/issues/1	📝 Add comprehensive README with examples
+1	github	14.5	11 USDC	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/291	[UNFUNDED: 0/0.11 USDC] Complete a fresh earning-loop friction canary
+0	github	6.6	-	OPEN_ISSUE	https://github.com/aashu91/robinhood-evm-mcp/issues/6	🏆 [Bounty: 50,000 $ROBIN_MCP] Create a Telegram Mini-App for Launching Meme Coins & Tracking Trusts
+0	github	6.6	-	OPEN_ISSUE	https://github.com/aashu91/robinhood-evm-mcp/issues/5	🏆 [Bounty: 50,000 $ROBIN_MCP] Implement Native Token ($ROBIN_MCP) Staking & Yield Distribution Contract
+0	github	6.6	-	OPEN_ISSUE	https://github.com/aashu91/robinhood-evm-mcp/issues/4	🏆 [Bounty: 50,000 $ROBIN_MCP] Integrate Pyth / Chainlink Oracles for Real-Time Gold & Silver Valuation
+0	github	7.4	-	OPEN_ISSUE	https://github.com/aashu91/robinhood-evm-mcp/issues/3	🏆 [Bounty: 50,000 $ROBIN_MCP] Create a Telegram Mini-App for Launching Meme Coins & Tracking Trusts
+0	github	7.4	-	OPEN_ISSUE	https://github.com/aashu91/robinhood-evm-mcp/issues/2	🏆 [Bounty: 50,000 $ROBIN_MCP] Implement Native Token ($ROBIN_MCP) Staking & Yield Distribution Contract
+0	github	7.4	-	OPEN_ISSUE	https://github.com/aashu91/robinhood-evm-mcp/issues/1	🏆 [Bounty: 50,000 $ROBIN_MCP] Integrate Pyth / Chainlink Oracles for Real-Time Gold & Silver Valuation
+0	github	7.4	-	OPEN_ISSUE	https://github.com/RoseMark45/chi/issues/1	🎯 Fix URL Parameter Loss When Request Context is Replaced in Middleware After Routing
+0	github	7.7	-	OPEN_ISSUE	https://github.com/RoseMark45/echo/issues/1	🎯 Restore Request Body Stream After Context.Bind() to Prevent Downstream Body Exhaustion
+0	github	10.6	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1488	fix(okf): preserve provenance during round-trip imports
+0	github	14.4	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1486	fix(connect): avoid duplicated global instruction paths
