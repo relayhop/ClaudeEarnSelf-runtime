@@ -1,0 +1,15 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH	github	0.1	0	1	https://github.com/moorcheh-ai/memanto/pull/1482	Fix noisy LLM memory JSON extraction
+FRESH	github	0.5	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1219	[BUG] CRLF Injection in Access Log → HTTP Response Splitting $120
+FRESH	github	0.5	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1218	[BUG] OAuth Access Token in Referer Header → Token Leak $150
+FRESH	github	0.5	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1217	[BUG] Race Condition in Distributed Transaction → Double Spend $180
+FRESH	github	0.5	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1216	[BUG] MongoDB NoSQL Injection → Authentication Bypass $150
+FRESH	github	0.5	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1215	[BUG] Python Pickle Deserialization RCE via Cache $200
+FRESH	github	0.5	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1214	[BUG] GraphQL Batch Query + Rate Limit Bypass $150
+FRESH	github	0.5	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1213	[BUG] Server-Side Prototype Pollution to RCE $200
+FRESH	github	0.5	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1212	[BUG] Blind SSRF via DNS Rebinding Bypass $150
+FRESH	github	1.5	0	1	https://github.com/moorcheh-ai/memanto/pull/1481	Reject failed uploads when storing memories
+FRESH	github	1.5	0	1	https://github.com/moorcheh-ai/memanto/pull/1480	Reject failed uploads during memory updates
+FRESH	github	1.8	0	1	https://github.com/moorcheh-ai/memanto/pull/1479	Fix temporal filters for malformed memory timestamps
+FRESH	sn/bitcoin	2.3	0	2	https://stacker.news/items/1525706	Nunchuk adds USDT support on Liquid
+FRESH	sn/bitcoin	5.5	0	1	https://stacker.news/items/1525656	The African Bitcoin ecosystem has a credibility crisis
