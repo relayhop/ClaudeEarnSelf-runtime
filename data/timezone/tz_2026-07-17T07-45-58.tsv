@@ -1,0 +1,18 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH	sn/bitcoin	1.2	0	0	https://stacker.news/items/1526265	Two Password Guesses Left Before $840 Million Deletes Itself Forever
+FRESH	github	2.5	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1248	[BUG] S3 Bucket Misconfiguration → Mass Data Leak $120
+FRESH	github	2.5	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1247	[BUG] Hardcoded AWS Keys in Public Artifact → Cloud Takeover $180
+FRESH	github	2.5	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1246	[BUG] HTTP/2 Downgrade → Request Smuggling $200
+FRESH	github	2.5	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1245	[BUG] Second-Order SQL Injection via Stored XSS Data $150
+FRESH	github	2.5	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1244	[BUG] Predictable OAuth State Token → CSRF + Account Takeover $150
+FRESH	github	2.5	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1243	[BUG] ECB Mode Encryption → Data Leak via Pattern Matching $120
+FRESH	github	2.9	0	1	https://github.com/moorcheh-ai/memanto/pull/1503	fix(mcp): restrict automatic agent creation
+FRESH	github	3.2	0	1	https://github.com/moorcheh-ai/memanto/pull/1502	fix: block cross-site management token theft
+FRESH	github	3.3	0	3	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/514	[Bounty] [1 USDC standing meta] Seed a paid CLI child bounty
+FRESH	github	3.3	0	3	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/513	[Bounty] [1 USDC standing meta] Seed a paid API child bounty
+FRESH	github	3.3	0	3	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/510	[Bounty] [1 USDC standing meta] Seed a paid distribution tooling child bounty
+FRESH	github	3.3	0	3	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/511	[Bounty] [1 USDC standing meta] Seed a paid MCP child bounty
+FRESH	github	3.3	0	3	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/512	[Bounty] [1 USDC standing meta] Seed a paid wallet UX child bounty
+FRESH	sn/bitcoin	4.7	0	2	https://stacker.news/items/1526219	Neymar wears a R$2,400 T-shirt featuring Satoshi Nakamoto's name.
+FRESH	github	5.6	0	10	https://github.com/NSPG13/agent-bounties/issues/337	[1 USDC standing meta] Seed a paid distribution tooling child bounty
+FRESH	github	5.6	0	10	https://github.com/NSPG13/agent-bounties/issues/336	[1 USDC standing meta] Seed a paid wallet UX child bounty
