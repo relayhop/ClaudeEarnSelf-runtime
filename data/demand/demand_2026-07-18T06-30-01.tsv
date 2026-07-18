@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	9.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1526862	What Miners Need to Know | SNL #233
+4	sn/bitcoin	20.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1526287	What Happens When You Try To Live On A Bitcoin Circular Economy?
+3	sn/bitcoin	10.9	100 sats	OPEN_NEED	https://stacker.news/items/1526793	The Four Horsemen
+3	github	44.3	00 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Agora-Events/agora/issues/1018	Mobile: Local Currency Rate Converter and Price Display
+3	github	60.7	10 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/hexcreator/tasc/issues/3	Add another 60-second TascLang task fixture
+2	sn/bitcoin	14.5	-	OPEN_NEED	https://stacker.news/items/1526515	My Visit To BitdevsNYC
+2	github	19.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/portdeveloper/nad-agent/issues/22	Add ERC-20 token balance reads
+2	github	17.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1507	fix(memory-write): preserve provenance and reject failed updates (#770)
+2	github	19.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1506	fix(ui): escape dynamic HTML in dashboard and memory views
+1	github	16.1	5 usdc	OPEN_ISSUE	https://github.com/EF-CHAIN/SendAm/issues/44	Tests for the payment-intent parser
+1	github	21.8	00 USDC	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/360	[2 USDC] Verify canonical settlement evidence
+1	github	21.8	00 USDC	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/359	[2 USDC] Select the safest funded bounty for an agent
+1	github	21.8	00 USDC	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/358	[2 USDC] Implement safe next action for agent claims
+1	github	25.2	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1248	[BUG] S3 Bucket Misconfiguration → Mass Data Leak $120
+1	github	25.2	$180	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1247	[BUG] Hardcoded AWS Keys in Public Artifact → Cloud Takeover $180
+1	github	25.2	$200	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1246	[BUG] HTTP/2 Downgrade → Request Smuggling $200
+1	github	25.2	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1245	[BUG] Second-Order SQL Injection via Stored XSS Data $150
+1	github	25.2	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1244	[BUG] Predictable OAuth State Token → CSRF + Account Takeover $150
+0	github	13.3	-	OPEN_ISSUE	https://github.com/Stellar-Grants/Stellar-Swap/issues/50	bug: pathPaymentStrictReceive with empty path fails for non-direct asset pairs
+0	github	13.6	-	OPEN_ISSUE	https://github.com/Stellar-Grants/Stellar-Swap/issues/39	feat: Add pre-operation balance validation before Stellar transactions
+0	github	15.0	-	OPEN_ISSUE	https://github.com/iKa-h/iKash-frontend/issues/79	[IKSH-23] Implement Market Snapshot With Live USDC Price
+0	github	15.1	-	OPEN_ISSUE	https://github.com/iKa-h/iKash-frontend/issues/78	[IKSH-22] Implement Active Orders Dashboard UI Using Temporary Mock Data
+0	github	15.1	-	OPEN_ISSUE	https://github.com/iKa-h/iKash-frontend/issues/77	[IKSH-21] Adapt Wallet Balance and Assets Section to New Dashboard Design
+0	github	10.0	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/526	[Bounty] [External prize collaboration | funding needed] Build with Gemini XPRIZE — launc
+0	github	10.1	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/383	[External prize entrant team | funding needed] Future Vision XPRIZE — BountyBoard.global open entrant team
+0	github	10.1	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/382	[External prize entrant team | funding needed] Build with Gemini XPRIZE — submit BountyBoard.global
+0	github	10.2	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/381	[External prize collaboration | funding needed] XPRIZE Quantum Applications — open research pool for all Phase II finali
+0	github	22.5	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1505	fix: temporal filter silently returns all memories on malformed timestamp
