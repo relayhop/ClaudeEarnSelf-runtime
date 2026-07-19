@@ -1,0 +1,35 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/zendvolabs/zendvo/issues/298	Task 07: Design the savings data model that tracks each user's principal separately from their earned yield.
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/zendvolabs/zendvo/issues/294	Task 03: Create the deposit function that lets a sender atomically lock USDC into a new time-locked gift.
+4	github	0.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/150	[radar] SN open bounty 2026-07-19T17:10
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1528	fix: enforce ALLOWED_UPDATE_FIELDS in update_memory (#770)
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/139	[radar] SN open bounty 2026-07-19T15:07
+4	github	3.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/138	[radar] SN open bounty 2026-07-19T13:45
+3	sn/bitcoin	4.1	1sat	OPEN_NEED	https://stacker.news/items/1527852	Saylor's Weird "110" Reasons Against BIP-110
+2	sn/bitcoin	6.6	-	OPEN_NEED	https://stacker.news/items/1527778	Lightning and BIP-110: How to not lose Sats while everyone else argues
+2	sn/bitcoin	10.4	-	OPEN_NEED	https://stacker.news/items/1527734	Sunday Survey: What were you before you became a Bitcoin maximalist?
+2	github	31.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Jolah1/bitpilot/issues/77	Money Basics: 0 of 8 missions have a hands-on step
+2	github	0.4	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/301	Task 10: Scaffold a wrapper interface that will route idle savings into external yield protocols like Blend or an AMM.
+2	github	0.5	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/300	Task 09: Build the savings withdrawal function so users can pull their principal back out at any time.
+2	github	0.6	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/295	Task 04: Implement the claim function so recipients can withdraw a gift only after its unlock time has passed.
+2	github	0.6	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/293	Task 02: Build the gift data model that stores sender, recipient, amount, and time-lock details on-chain
+2	github	27.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/crowdpay/issues/453	Real-Time Contribution Streaming: Horizon SSE Fan-out, WebSocket Push & Consistent Campaign Total State
+2	github	27.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/Fluxa/issues/29	Pluggable Signing Interface, AWS KMS Adapter & Threshold Signing Policy Engine
+2	github	54.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/portdeveloper/nad-agent/issues/22	Add ERC-20 token balance reads
+2	github	5.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/137	[radar] SN open bounty 2026-07-19T11:18
+2	github	6.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1525	Fix: agent creation limit conflict swallowing and standardize endpoint exception mapping
+2	github	6.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1524	Fix: update_memory() overwrites original_id by dropping extra fields in formatting
+2	github	9.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1520	Fix: Ambiguity Guard bypassed by common auxiliary verbs (is/are/was/were)
+1	github	50.8	5 usdc	OPEN_ISSUE	https://github.com/EF-CHAIN/SendAm/issues/44	Tests for the payment-intent parser
+1	github	10.0	$50	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/527	[Bounty] La función suma() resta en vez de sumar
+0	github	48.0	-	OPEN_ISSUE	https://github.com/Stellar-Grants/Stellar-Swap/issues/50	bug: pathPaymentStrictReceive with empty path fails for non-direct asset pairs
+0	github	48.3	-	OPEN_ISSUE	https://github.com/Stellar-Grants/Stellar-Swap/issues/39	feat: Add pre-operation balance validation before Stellar transactions
+0	github	49.7	-	OPEN_ISSUE	https://github.com/iKa-h/iKash-frontend/issues/79	[IKSH-23] Implement Market Snapshot With Live USDC Price
+0	github	49.8	-	OPEN_ISSUE	https://github.com/iKa-h/iKash-frontend/issues/78	[IKSH-22] Implement Active Orders Dashboard UI Using Temporary Mock Data
+0	github	49.8	-	OPEN_ISSUE	https://github.com/iKa-h/iKash-frontend/issues/77	[IKSH-21] Adapt Wallet Balance and Assets Section to New Dashboard Design
+0	github	4.4	-	OPEN_ISSUE	https://github.com/mergeos-bounties/TrucCompression/issues/5	[25 MRG] Docs: architecture diagram for MFC container layout
+0	github	4.4	-	OPEN_ISSUE	https://github.com/mergeos-bounties/TrucCompression/issues/4	[100 MRG] Pages demo: browser WASM/pure-JS mini encode of small buffers
+0	github	4.4	-	OPEN_ISSUE	https://github.com/mergeos-bounties/TrucCompression/issues/3	[50 MRG] CLI: progress bar + JSON report export for compress
+0	github	4.4	-	OPEN_ISSUE	https://github.com/mergeos-bounties/TrucCompression/issues/2	[50 MRG] Op: RLE opcode with encode/decode + unit tests
+0	github	4.4	-	OPEN_ISSUE	https://github.com/mergeos-bounties/TrucCompression/issues/1	[25 MRG] Fixture pack: 5 corpus samples + expected ratio smoke
+0	github	8.3	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1522	fix(ts): clean up lifecycle signal listeners
