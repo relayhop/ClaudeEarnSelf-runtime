@@ -1,0 +1,16 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH	github	0.1	0	3	https://github.com/demetriodiazdeleon-pixel/morriganprueba/issues/1	La función suma() resta en vez de sumar
+FRESH	github	0.5	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1362	[BUG] JWT Algorithm Confusion (RS256→HS256 Downgrade) $150
+FRESH	github	0.5	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1361	[BUG] Race Condition in /tmp File Handling (TOCTOU) $150
+FRESH	github	0.5	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1360	[BUG] AWS IAM Privilege Escalation via PassRole + EC2 $150
+FRESH	github	0.5	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1359	[BUG] Reentrancy via ERC-777 Callback in Withdraw Function $180
+FRESH	github	0.5	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1358	[BUG] Bleichenbacher Oracle in RSA-OAEP Decryption $200
+FRESH	github	0.5	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1357	[BUG] WebSocket CSRF → Cross-Origin Data Exfiltration $150
+FRESH	github	0.5	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1356	[BUG] gRPC Reflection Enabled → Service Enumeration $120
+FRESH	github	0.5	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1355	[BUG] DNS Zone Transfer Enabled → Internal Network Mapping $150
+FRESH	github	0.5	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1354	[BUG] Clickjacking via X-Frame-Options Missing → Crypto Withdraw $120
+FRESH	github	0.5	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1353	[BUG] TOTP Secret Leaked via QR Code in Logs $150
+FRESH	github	0.5	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1352	[BUG] Bluetooth Classic BR/EDR Pairing Bypass $180
+FRESH	github	0.5	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1351	[BUG] Regex DoS (ReDoS) via User-Controlled Pattern $120
+FRESH	github	0.5	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1350	[BUG] WebSocket Hijacking via Missing Cookie Validation $150
+FRESH	github	0.5	0	3	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1349	[BUG] SSRF via Gopher Protocol → Redis RCE $180
