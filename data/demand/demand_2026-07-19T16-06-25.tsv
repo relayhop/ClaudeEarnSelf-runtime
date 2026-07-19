@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	3.0	1sat	OPEN_NEED	https://stacker.news/items/1527852	Saylor's Weird "110" Reasons Against BIP-110
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/139	[radar] SN open bounty 2026-07-19T15:07
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/138	[radar] SN open bounty 2026-07-19T13:45
+2	sn/bitcoin	5.5	-	OPEN_NEED	https://stacker.news/items/1527778	Lightning and BIP-110: How to not lose Sats while everyone else argues
+2	sn/bitcoin	9.4	-	OPEN_NEED	https://stacker.news/items/1527734	Sunday Survey: What were you before you became a Bitcoin maximalist?
+2	github	30.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Jolah1/bitpilot/issues/77	Money Basics: 0 of 8 missions have a hands-on step
+2	github	26.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/crowdpay/issues/453	Real-Time Contribution Streaming: Horizon SSE Fan-out, WebSocket Push & Consistent Campaign Total State
+2	github	26.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/Fluxa/issues/29	Pluggable Signing Interface, AWS KMS Adapter & Threshold Signing Policy Engine
+2	github	53.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/portdeveloper/nad-agent/issues/22	Add ERC-20 token balance reads
+2	github	3.3	-	OPEN_ISSUE	https://github.com/mergeos-bounties/TrucCompression/issues/5	[25 MRG] Docs: architecture diagram for MFC container layout
+2	github	3.3	-	OPEN_ISSUE	https://github.com/mergeos-bounties/TrucCompression/issues/4	[100 MRG] Pages demo: browser WASM/pure-JS mini encode of small buffers
+2	github	3.3	-	OPEN_ISSUE	https://github.com/mergeos-bounties/TrucCompression/issues/3	[50 MRG] CLI: progress bar + JSON report export for compress
+2	github	3.3	-	OPEN_ISSUE	https://github.com/mergeos-bounties/TrucCompression/issues/2	[50 MRG] Op: RLE opcode with encode/decode + unit tests
+2	github	3.3	-	OPEN_ISSUE	https://github.com/mergeos-bounties/TrucCompression/issues/1	[25 MRG] Fixture pack: 5 corpus samples + expected ratio smoke
+2	github	4.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/137	[radar] SN open bounty 2026-07-19T11:18
+2	github	5.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1525	Fix: agent creation limit conflict swallowing and standardize endpoint exception mapping
+2	github	5.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1524	Fix: update_memory() overwrites original_id by dropping extra fields in formatting
+2	github	8.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1520	Fix: Ambiguity Guard bypassed by common auxiliary verbs (is/are/was/were)
+1	github	49.7	5 usdc	OPEN_ISSUE	https://github.com/EF-CHAIN/SendAm/issues/44	Tests for the payment-intent parser
+1	github	8.9	$50	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/527	[Bounty] La función suma() resta en vez de sumar
+1	github	10.3	$50	OPEN_ISSUE	https://github.com/demetriodiazdeleon-pixel/morriganprueba/issues/1	La función suma() resta en vez de sumar
+1	github	10.7	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1362	[BUG] JWT Algorithm Confusion (RS256→HS256 Downgrade) $150
+0	github	46.9	-	OPEN_ISSUE	https://github.com/Stellar-Grants/Stellar-Swap/issues/50	bug: pathPaymentStrictReceive with empty path fails for non-direct asset pairs
+0	github	47.2	-	OPEN_ISSUE	https://github.com/Stellar-Grants/Stellar-Swap/issues/39	feat: Add pre-operation balance validation before Stellar transactions
+0	github	48.6	-	OPEN_ISSUE	https://github.com/iKa-h/iKash-frontend/issues/79	[IKSH-23] Implement Market Snapshot With Live USDC Price
+0	github	48.7	-	OPEN_ISSUE	https://github.com/iKa-h/iKash-frontend/issues/78	[IKSH-22] Implement Active Orders Dashboard UI Using Temporary Mock Data
+0	github	48.7	-	OPEN_ISSUE	https://github.com/iKa-h/iKash-frontend/issues/77	[IKSH-21] Adapt Wallet Balance and Assets Section to New Dashboard Design
+0	github	7.2	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1522	fix(ts): clean up lifecycle signal listeners
