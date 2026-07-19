@@ -1,0 +1,35 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	github	3.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/zendvolabs/zendvo/issues/304	Task 12: Let users claim just their accumulated yield without touching their principal savings.
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1530	fix: Resolve #1529 - fix: Resolve #1528 - fix: enforce ALLOWED_UPDATE_FIELDS in update_memory (#770)
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/181	[radar] SN open bounty 2026-07-19T19:20
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1529	fix: Resolve #1528 - fix: enforce ALLOWED_UPDATE_FIELDS in update_memory (#770)
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/150	[radar] SN open bounty 2026-07-19T17:10
+3	sn/bitcoin	7.9	1sat	OPEN_NEED	https://stacker.news/items/1527852	Saylor's Weird "110" Reasons Against BIP-110
+2	sn/bitcoin	10.4	-	OPEN_NEED	https://stacker.news/items/1527778	Lightning and BIP-110: How to not lose Sats while everyone else argues
+2	sn/bitcoin	14.3	-	OPEN_NEED	https://stacker.news/items/1527734	Sunday Survey: What were you before you became a Bitcoin maximalist?
+2	github	35.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Jolah1/bitpilot/issues/77	Money Basics: 0 of 8 missions have a hands-on step
+2	github	3.5	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/305	Task 13: Cap how far in the future a gift's unlock time can be set, so funds can never be permanently trapped.
+2	github	4.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/zendvolabs/zendvo/issues/298	Task 07: Design the savings data model that tracks each user's principal separately from their earned yield.
+2	github	4.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/zendvolabs/zendvo/issues/294	Task 03: Create the deposit function that lets a sender atomically lock USDC into a new time-locked gift.
+2	github	31.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/crowdpay/issues/453	Real-Time Contribution Streaming: Horizon SSE Fan-out, WebSocket Push & Consistent Campaign Total State
+2	github	31.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/Fluxa/issues/29	Pluggable Signing Interface, AWS KMS Adapter & Threshold Signing Policy Engine
+2	github	2.2	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/3912	bounty: NLP embedding similarity duplicate ticket detection pipeline
+2	github	2.2	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/3913	bounty: real-time WebSocket chat dashboard for customer support agents
+2	github	2.2	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/3914	bounty: design and run full Cypress E2E test suite in CI/CD pipeline
+2	github	2.2	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/3911	bounty: role-based access controls authentication system using Supabase
+2	github	2.2	-	OPEN_ISSUE	https://github.com/ritesh-1918/HELPDESK.AI/issues/3910	bounty: implement end-to-end encryption for support message payloads
+2	github	4.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1528	fix: enforce ALLOWED_UPDATE_FIELDS in update_memory (#770)
+2	github	5.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/139	[radar] SN open bounty 2026-07-19T15:07
+2	github	7.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/138	[radar] SN open bounty 2026-07-19T13:45
+0	github	4.3	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/301	Task 10: Scaffold a wrapper interface that will route idle savings into external yield protocols like Blend or an AMM.
+0	github	4.3	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/300	Task 09: Build the savings withdrawal function so users can pull their principal back out at any time.
+0	github	4.4	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/295	Task 04: Implement the claim function so recipients can withdraw a gift only after its unlock time has passed.
+0	github	4.5	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/293	Task 02: Build the gift data model that stores sender, recipient, amount, and time-lock details on-chain
+0	github	51.9	-	OPEN_ISSUE	https://github.com/Stellar-Grants/Stellar-Swap/issues/50	bug: pathPaymentStrictReceive with empty path fails for non-direct asset pairs
+0	github	52.1	-	OPEN_ISSUE	https://github.com/Stellar-Grants/Stellar-Swap/issues/39	feat: Add pre-operation balance validation before Stellar transactions
+0	github	53.6	-	OPEN_ISSUE	https://github.com/iKa-h/iKash-frontend/issues/79	[IKSH-23] Implement Market Snapshot With Live USDC Price
+0	github	53.6	-	OPEN_ISSUE	https://github.com/iKa-h/iKash-frontend/issues/78	[IKSH-22] Implement Active Orders Dashboard UI Using Temporary Mock Data
+0	github	53.6	-	OPEN_ISSUE	https://github.com/iKa-h/iKash-frontend/issues/77	[IKSH-21] Adapt Wallet Balance and Assets Section to New Dashboard Design
+0	github	8.2	-	OPEN_ISSUE	https://github.com/mergeos-bounties/TrucCompression/issues/5	[25 MRG] Docs: architecture diagram for MFC container layout
+0	github	8.2	-	OPEN_ISSUE	https://github.com/mergeos-bounties/TrucCompression/issues/4	[100 MRG] Pages demo: browser WASM/pure-JS mini encode of small buffers
+0	github	8.2	-	OPEN_ISSUE	https://github.com/mergeos-bounties/TrucCompression/issues/3	[50 MRG] CLI: progress bar + JSON report export for compress
