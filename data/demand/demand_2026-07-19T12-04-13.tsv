@@ -1,0 +1,28 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	1.4	-	OPEN_NEED	https://stacker.news/items/1527778	Lightning and BIP-110: How to not lose Sats while everyone else argues
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/137	[radar] SN open bounty 2026-07-19T11:18
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1525	Fix: agent creation limit conflict swallowing and standardize endpoint exception mapping
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1524	Fix: update_memory() overwrites original_id by dropping extra fields in formatting
+2	sn/bitcoin	5.3	-	OPEN_NEED	https://stacker.news/items/1527734	Sunday Survey: What were you before you became a Bitcoin maximalist?
+2	github	26.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Jolah1/bitpilot/issues/77	Money Basics: 0 of 8 missions have a hands-on step
+2	github	22.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/crowdpay/issues/453	Real-Time Contribution Streaming: Horizon SSE Fan-out, WebSocket Push & Consistent Campaign Total State
+2	github	22.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/Fluxa/issues/29	Pluggable Signing Interface, AWS KMS Adapter & Threshold Signing Policy Engine
+2	github	49.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/portdeveloper/nad-agent/issues/22	Add ERC-20 token balance reads
+2	github	3.2	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1522	fix(ts): clean up lifecycle signal listeners
+2	github	4.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1520	Fix: Ambiguity Guard bypassed by common auxiliary verbs (is/are/was/were)
+1	github	45.7	5 usdc	OPEN_ISSUE	https://github.com/EF-CHAIN/SendAm/issues/44	Tests for the payment-intent parser
+1	github	4.8	$50	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/527	[Bounty] La función suma() resta en vez de sumar
+1	github	6.3	$50	OPEN_ISSUE	https://github.com/demetriodiazdeleon-pixel/morriganprueba/issues/1	La función suma() resta en vez de sumar
+1	github	6.6	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1362	[BUG] JWT Algorithm Confusion (RS256→HS256 Downgrade) $150
+1	github	6.6	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1361	[BUG] Race Condition in /tmp File Handling (TOCTOU) $150
+1	github	6.6	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1360	[BUG] AWS IAM Privilege Escalation via PassRole + EC2 $150
+1	github	6.6	$180	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1359	[BUG] Reentrancy via ERC-777 Callback in Withdraw Function $180
+1	github	6.6	$200	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1358	[BUG] Bleichenbacher Oracle in RSA-OAEP Decryption $200
+1	github	6.6	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1357	[BUG] WebSocket CSRF → Cross-Origin Data Exfiltration $150
+1	github	6.6	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1356	[BUG] gRPC Reflection Enabled → Service Enumeration $120
+1	github	6.6	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1355	[BUG] DNS Zone Transfer Enabled → Internal Network Mapping $150
+0	github	42.9	-	OPEN_ISSUE	https://github.com/Stellar-Grants/Stellar-Swap/issues/50	bug: pathPaymentStrictReceive with empty path fails for non-direct asset pairs
+0	github	43.2	-	OPEN_ISSUE	https://github.com/Stellar-Grants/Stellar-Swap/issues/39	feat: Add pre-operation balance validation before Stellar transactions
+0	github	44.6	-	OPEN_ISSUE	https://github.com/iKa-h/iKash-frontend/issues/79	[IKSH-23] Implement Market Snapshot With Live USDC Price
+0	github	44.6	-	OPEN_ISSUE	https://github.com/iKa-h/iKash-frontend/issues/78	[IKSH-22] Implement Active Orders Dashboard UI Using Temporary Mock Data
+0	github	44.6	-	OPEN_ISSUE	https://github.com/iKa-h/iKash-frontend/issues/77	[IKSH-21] Adapt Wallet Balance and Assets Section to New Dashboard Design
