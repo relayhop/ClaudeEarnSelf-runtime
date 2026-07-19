@@ -1,0 +1,35 @@
+# score	source	age_h	payout_hint	tags	url	title
+3	sn/bitcoin	8.9	1sat	OPEN_NEED	https://stacker.news/items/1527852	Saylor's Weird "110" Reasons Against BIP-110
+2	sn/bitcoin	11.4	-	OPEN_NEED	https://stacker.news/items/1527778	Lightning and BIP-110: How to not lose Sats while everyone else argues
+2	sn/bitcoin	15.3	-	OPEN_NEED	https://stacker.news/items/1527734	Sunday Survey: What were you before you became a Bitcoin maximalist?
+2	github	36.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Jolah1/bitpilot/issues/77	Money Basics: 0 of 8 missions have a hands-on step
+2	github	4.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/zendvolabs/zendvo/issues/304	Task 12: Let users claim just their accumulated yield without touching their principal savings.
+2	github	5.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/zendvolabs/zendvo/issues/298	Task 07: Design the savings data model that tracks each user's principal separately from their earned yield.
+2	github	5.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/zendvolabs/zendvo/issues/294	Task 03: Create the deposit function that lets a sender atomically lock USDC into a new time-locked gift.
+2	github	32.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/crowdpay/issues/453	Real-Time Contribution Streaming: Horizon SSE Fan-out, WebSocket Push & Consistent Campaign Total State
+2	github	32.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/Fluxa/issues/29	Pluggable Signing Interface, AWS KMS Adapter & Threshold Signing Policy Engine
+2	github	0.3	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/16258	[BOUNTY: 18 RTC] vintage-x86 miner: non-RDTSC timing-variance fallback so real 486s can fingerprint (C89, single file)
+2	github	0.3	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/16257	[BOUNTY: 25 RTC] Test corpus + fuzz harness for node x86/device arch classification (armor around derive_verified_device
+2	github	0.3	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/16256	[BOUNTY: 10 RTC] clawrtc-rs: integration test suite — wallet roundtrip, address vectors, attestation determinism, error 
+2	github	0.3	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/16255	[BOUNTY: 8 RTC] rustchain-mcp: document + test streaming/long-running tool behavior (answers rustchain-mcp#231)
+2	github	0.3	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/16254	[BOUNTY: 12 RTC] BoTTube API: shared query-param validator — fix malformed-param coercion across 4 endpoints (#1456 #143
+2	github	0.3	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/16253	[BOUNTY: 7 RTC] Consistent error handling + exit codes in wallet balance check script (Rustchain#7889)
+2	github	0.3	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/16252	[BOUNTY: 12 RTC] Windows headless miner: stop infinite retry of rejected headers, surface server diagnostic (Rustchain#7
+2	github	0.3	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/16251	[BOUNTY: 10 RTC] Fix rustchain.org install script — wrong paths + macOS crash (Rustchain#7975), shellcheck-clean
+2	github	0.3	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/16250	[BOUNTY: 5 RTC] Test the grazer-mcp error contract — 4 tools x 4 failure modes, offline pytest suite
+2	github	0.3	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/16249	[BOUNTY: 4 RTC] Document ram-coffers fallback behavior on non-POWER8 / single-NUMA systems (ram-coffers#664)
+2	github	0.3	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/16248	[BOUNTY: 5 RTC] Fix ALL broken README/doc links in Scottcjn/Rustchain + add link-check CI (closes 5 open issues)
+2	github	0.5	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/16243	[BOUNTY: 3-5 RTC] Show your real mining rig — photo/video of hardware running RustChain
+2	github	0.5	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/16242	[BOUNTY: 3-5 RTC] Write an honest RustChain explainer thread or dev.to post (no hype)
+2	github	0.5	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/16241	[BOUNTY: 10 RTC] Refer a new active miner (1+ real epoch on genuine hardware)
+2	github	0.5	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/16240	[BOUNTY: 15-35 RTC] Make a real YouTube video or written tutorial on RustChain / Proof of Antiquity
+0	github	4.4	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/305	Task 13: Cap how far in the future a gift's unlock time can be set, so funds can never be permanently trapped.
+0	github	5.3	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/301	Task 10: Scaffold a wrapper interface that will route idle savings into external yield protocols like Blend or an AMM.
+0	github	5.3	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/300	Task 09: Build the savings withdrawal function so users can pull their principal back out at any time.
+0	github	5.4	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/295	Task 04: Implement the claim function so recipients can withdraw a gift only after its unlock time has passed.
+0	github	5.4	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/293	Task 02: Build the gift data model that stores sender, recipient, amount, and time-lock details on-chain
+0	github	52.9	-	OPEN_ISSUE	https://github.com/Stellar-Grants/Stellar-Swap/issues/50	bug: pathPaymentStrictReceive with empty path fails for non-direct asset pairs
+0	github	53.1	-	OPEN_ISSUE	https://github.com/Stellar-Grants/Stellar-Swap/issues/39	feat: Add pre-operation balance validation before Stellar transactions
+0	github	54.6	-	OPEN_ISSUE	https://github.com/iKa-h/iKash-frontend/issues/79	[IKSH-23] Implement Market Snapshot With Live USDC Price
+0	github	54.6	-	OPEN_ISSUE	https://github.com/iKa-h/iKash-frontend/issues/78	[IKSH-22] Implement Active Orders Dashboard UI Using Temporary Mock Data
+0	github	54.6	-	OPEN_ISSUE	https://github.com/iKa-h/iKash-frontend/issues/77	[IKSH-21] Adapt Wallet Balance and Assets Section to New Dashboard Design
