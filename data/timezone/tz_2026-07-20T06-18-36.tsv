@@ -1,0 +1,13 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH_LOW_COMP	github	1.5	0	0	https://github.com/relayhop/sn-monetization-runtime/issues/191	[radar] SN open bounty 2026-07-20T04:45
+FRESH	github	0.6	0	5	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1419	[BUG] CRLF Injection in Access Log → HTTP Response Splitting $120
+FRESH	github	0.6	0	5	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1418	[BUG] OAuth Access Token in Referer Header → Token Leak $150
+FRESH	github	0.7	0	1	https://github.com/moorcheh-ai/memanto/pull/1533	fix: Add tests for memory contradiction and deduplication edge cases
+FRESH	github	0.7	0	1	https://github.com/moorcheh-ai/memanto/pull/1532	fix(remember): preserve extracted memory tags
+FRESH	github	0.9	0	1	https://github.com/moorcheh-ai/memanto/pull/1531	fix(langgraph): preserve scalar tag filters
+FRESH	github	2.0	0	6	https://github.com/Kristywvs22/gin/issues/1	🎯 Fix Data Race in (*Context).Copy() by Shallow Copying the Keys Map
+FRESH	github	2.1	0	6	https://github.com/Kristywvs22/zap/issues/1	🎯 Fix: Request Body Exhaustion on HTTP Retries When Using `io.Reader`
+FRESH	github	2.7	0	6	https://github.com/Kristywvs22/chi/issues/1	🎯 Bug: URL parameters leak between requests due to incomplete RouteContext reset in sync.Pool
+FRESH	github	2.9	0	6	https://github.com/Kristywvs22/go-redis/issues/1	🎯 Prevent Automatic Retries of Pipelines Containing Non-Idempotent Commands on Network Timeouts
+FRESH	sn/bitcoin	3.4	0	1	https://stacker.news/items/1528331	Feb update to RDTS may have added undocumented consensus rule change
+FRESH	sn/bitcoin	5.3	0	15	https://stacker.news/items/1528296	Steak 'n Shake: First Time
