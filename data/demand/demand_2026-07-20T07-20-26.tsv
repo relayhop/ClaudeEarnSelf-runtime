@@ -1,0 +1,34 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1533	fix: Add tests for memory contradiction and deduplication edge cases
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1532	fix(remember): preserve extracted memory tags
+4	github	1.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1531	fix(langgraph): preserve scalar tag filters
+4	github	2.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/191	[radar] SN open bounty 2026-07-20T04:45
+3	sn/bitcoin	18.2	1sat	OPEN_NEED	https://stacker.news/items/1527852	Saylor's Weird "110" Reasons Against BIP-110
+3	github	8.3	000001 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/zendvolabs/zendvo/issues/307	Task 14: Enforce a minimum deposit amount on gifts and savings to stop the contract's storage from being spammed.
+3	github	1.6	$120	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1419	[BUG] CRLF Injection in Access Log → HTTP Response Splitting $120
+3	github	1.6	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1418	[BUG] OAuth Access Token in Referer Header → Token Leak $150
+2	sn/bitcoin	20.7	-	OPEN_NEED	https://stacker.news/items/1527778	Lightning and BIP-110: How to not lose Sats while everyone else argues
+2	github	45.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Jolah1/bitpilot/issues/77	Money Basics: 0 of 8 missions have a hands-on step
+2	github	14.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/zendvolabs/zendvo/issues/298	Task 07: Design the savings data model that tracks each user's principal separately from their earned yield.
+2	github	41.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/crowdpay/issues/453	Real-Time Contribution Streaming: Horizon SSE Fan-out, WebSocket Push & Consistent Campaign Total State
+2	github	42.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/Fluxa/issues/29	Pluggable Signing Interface, AWS KMS Adapter & Threshold Signing Policy Engine
+2	github	0.3	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1534	fix: make session auto-renewal single-flight
+2	github	3.1	-	OPEN_ISSUE	https://github.com/Kristywvs22/gin/issues/1	🎯 Fix Data Race in (*Context).Copy() by Shallow Copying the Keys Map
+2	github	3.1	-	OPEN_ISSUE	https://github.com/Kristywvs22/zap/issues/1	🎯 Fix: Request Body Exhaustion on HTTP Retries When Using `io.Reader`
+2	github	3.8	-	OPEN_ISSUE	https://github.com/Kristywvs22/chi/issues/1	🎯 Bug: URL parameters leak between requests due to incomplete RouteContext reset in sync.Pool
+2	github	3.9	-	OPEN_ISSUE	https://github.com/Kristywvs22/go-redis/issues/1	🎯 Prevent Automatic Retries of Pipelines Containing Non-Idempotent Commands on Network Timeouts
+2	github	7.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/189	[radar] SN open bounty 2026-07-20T00:07
+2	github	8.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/187	[radar] SN open bounty 2026-07-19T23:05
+2	github	9.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/185	[radar] SN open bounty 2026-07-19T22:04
+0	github	8.0	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/311	Task 18: Add a mechanism for the admin to collect accumulated platform fees into a treasury wallet.
+0	github	13.8	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/305	Task 13: Cap how far in the future a gift's unlock time can be set, so funds can never be permanently trapped.
+0	github	13.8	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/304	Task 12: Let users claim just their accumulated yield without touching their principal savings.
+0	github	14.6	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/301	Task 10: Scaffold a wrapper interface that will route idle savings into external yield protocols like Blend or an AMM.
+0	github	14.6	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/300	Task 09: Build the savings withdrawal function so users can pull their principal back out at any time.
+0	github	14.7	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/295	Task 04: Implement the claim function so recipients can withdraw a gift only after its unlock time has passed.
+0	github	14.7	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/294	Task 03: Create the deposit function that lets a sender atomically lock USDC into a new time-locked gift.
+0	github	14.8	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/293	Task 02: Build the gift data model that stores sender, recipient, amount, and time-lock details on-chain
+0	github	62.2	-	OPEN_ISSUE	https://github.com/Stellar-Grants/Stellar-Swap/issues/50	bug: pathPaymentStrictReceive with empty path fails for non-direct asset pairs
+0	github	62.4	-	OPEN_ISSUE	https://github.com/Stellar-Grants/Stellar-Swap/issues/39	feat: Add pre-operation balance validation before Stellar transactions
+0	github	63.9	-	OPEN_ISSUE	https://github.com/iKa-h/iKash-frontend/issues/79	[IKSH-23] Implement Market Snapshot With Live USDC Price
+0	github	7.7	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/16271	[BOUNTY: 35 RTC] Harden x86 vintage-arch reward validation (anti-spoof)
