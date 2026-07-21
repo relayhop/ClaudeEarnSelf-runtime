@@ -1,0 +1,33 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	0.6	$40	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/607	[Bounty] [BOUNTY] [EASY AI TASK] [$40] [AGENTIC] [AGENT READY][PAID BOUNTY] [UNCLAIMED] [
+5	github	0.6	$1500	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/608	[Bounty] [Bounty $1500] ModernBERT bring up using TTNN APIs
+5	github	0.6	$150	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/606	[Bounty] [BOUNTY] [OPEN] [HIGH PRIORITY] [READY FOR AGENT] [$150 USD REWARD] Add the Ratv
+5	github	0.6	$500	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/605	[Bounty] [UNCLAIMED] [AGENTIC] [$500 USD BOUNTY / OPIRE] Transpile the codebase to TypeSc
+5	github	0.6	$10000	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/604	[Bounty] [Bounty $10000] Equal-Count Welford Reduction Optimisation
+5	github	0.6	$1000	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/603	[Bounty] [bounty] [$1000] [MISSION CRITICAL!!] floor turfs render over all other sprites
+4	sn/bitcoin	3.0	-	OPEN_NEED	https://stacker.news/items/1529374	Prediction Markets vs Gambling - Do you know the difference?
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/81	[BOUNTY] [AGENT READY] [$300USD] add a geature feature
+4	github	0.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/80	[bounty] [$1000] [MISSION CRITICAL!!] floor turfs render over all other sprites
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/NashKara96/resty/issues/1	🎯 Fix Race Condition and Stale Nonce Count in Concurrent Digest Authentication
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/NashKara96/fx/issues/1	🎯 Ensure all OnStop hooks execute during Lifecycle.Stop() even if a prior hook returns context.Canceled or context.Dead
+3	sn/bitcoin	20.4	000 sats	OPEN_NEED	https://stacker.news/items/1528800	BTC vote: Do you support the Senate version of the CLARITY Act?
+3	github	41.0	000001 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/zendvolabs/zendvo/issues/307	Task 14: Enforce a minimum deposit amount on gifts and savings to stop the contract's storage from being spammed.
+2	sn/bitcoin	18.2	-	OPEN_NEED	https://stacker.news/items/1528896	How many onchain transactions have you done in the last month?
+2	sn/bitcoin	13.9	-	OPEN_NEED	https://stacker.news/items/1529109	Dutch crypto platform Knaken declared bankrupt, €7m missing - DutchNews.nl
+2	sn/tech	16.8	-	OPEN_NEED	https://stacker.news/items/1528989	Where do ISP's get their internet from?
+2	github	22.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Nodal-stellar/Nodal-AI/issues/265	feat: add path_payment example script to scripts/examples/
+2	github	24.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/davz7/MananaSeguro/issues/81	Issue 1 — Clean up unused-variable warnings in contract tests
+2	github	47.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/zendvolabs/zendvo/issues/298	Task 07: Design the savings data model that tracks each user's principal separately from their earned yield.
+2	github	0.2	-	OPEN_ISSUE	https://github.com/Iamgoofball/-tg-station/issues/82	[BOUNTY] [$500] [AI READY] add new mecha units features; requirements in issue body
+2	github	2.0	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/50612	[Bounty $10000] Equal-Count Welford Reduction Optimisation
+2	github	2.2	-	OPEN_ISSUE	https://github.com/Iamgoofball/-tg-station/issues/77	[UNCLAIMED] [AGENTIC] [$500 USD BOUNTY / OPIRE] Transpile the codebase to TypeScript
+2	github	4.0	-	OPEN_ISSUE	https://github.com/Iamgoofball/-tg-station/issues/72	[BOUNTY] [UNCLAIMED] [FREE DOWNLOAD] [OPEN] [READY FOR AGENT] [$250 USD] add a feature, any feature at all.
+2	github	4.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1584	fix: bound yesterday temporal recall
+0	github	40.8	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/311	Task 18: Add a mechanism for the admin to collect accumulated platform fees into a treasury wallet.
+0	github	46.5	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/305	Task 13: Cap how far in the future a gift's unlock time can be set, so funds can never be permanently trapped.
+0	github	46.5	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/304	Task 12: Let users claim just their accumulated yield without touching their principal savings.
+0	github	47.3	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/301	Task 10: Scaffold a wrapper interface that will route idle savings into external yield protocols like Blend or an AMM.
+0	github	47.3	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/300	Task 09: Build the savings withdrawal function so users can pull their principal back out at any time.
+0	github	47.4	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/295	Task 04: Implement the claim function so recipients can withdraw a gift only after its unlock time has passed.
+0	github	47.5	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/294	Task 03: Create the deposit function that lets a sender atomically lock USDC into a new time-locked gift.
+0	github	47.5	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/293	Task 02: Build the gift data model that stores sender, recipient, amount, and time-lock details on-chain
