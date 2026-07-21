@@ -1,0 +1,32 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	1.4	$100	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/622	[Bounty] [BOUNTY] [MONEY] [$$$100$$$] [PAID] [FUNDING] [MONETARY REWARD] Add Ralsei
+5	github	1.4	$200	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/623	[Bounty] [$200 USD BOUNTY] Design a new station job
+5	github	1.4	$40	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/619	[Bounty] [BOUNTY] [$40] Add a Nix flake and an agentic screenshot harness using Wine + xv
+5	github	1.4	$500	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/620	[Bounty] [BOUNTY] [$500USD] Full scripting language
+5	github	1.4	$1500	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/621	[Bounty] [BOUNTY] [AGENTIC / AI] [1500$ USD] Add wallening
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/114	[BOUNTY] [$5] Open a duplicate of this issue to test our external duplicate issue tracker
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/112	[BOUNTY] [$67.69] [AGENTIC] [MILKING] milkabale moths
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/111	[BOUNTY] [$5] Open a duplicate of this issue to test our external duplicate issue tracker
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/110	[BOUNTY] [$1,500] [POLITICAL] [AI FRIENDLY] Remove cloning
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/106	[BOUNTY] [$250] [AGENTIC / AI] Bonigi la maltrinkejo
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1593	fix: rate-limiter fail-open + ID validation inconsistency + SourceType (issue #1438)
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/102	[BOUNTY] [$100] [AGENTIC / AI] Implement pixel movement
+3	github	46.3	000001 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/zendvolabs/zendvo/issues/307	Task 14: Enforce a minimum deposit amount on gifts and savings to stop the contract's storage from being spammed.
+2	sn/bitcoin	8.3	-	OPEN_NEED	https://stacker.news/items/1529374	Prediction Markets vs Gambling - Do you know the difference?
+2	sn/bitcoin	23.5	-	OPEN_NEED	https://stacker.news/items/1528896	How many onchain transactions have you done in the last month?
+2	sn/bitcoin	19.1	-	OPEN_NEED	https://stacker.news/items/1529109	Dutch crypto platform Knaken declared bankrupt, €7m missing - DutchNews.nl
+2	sn/tech	22.1	-	OPEN_NEED	https://stacker.news/items/1528989	Where do ISP's get their internet from?
+2	github	27.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Nodal-stellar/Nodal-AI/issues/265	feat: add path_payment example script to scripts/examples/
+2	github	29.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/davz7/MananaSeguro/issues/81	Issue 1 — Clean up unused-variable warnings in contract tests
+2	github	52.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/zendvolabs/zendvo/issues/298	Task 07: Design the savings data model that tracks each user's principal separately from their earned yield.
+2	github	0.3	-	OPEN_ISSUE	https://github.com/Iamgoofball/-tg-station/issues/113	[BOUNTY] [1000$] [LBGTQA REQUEST] [PRO-LIBERTARIAN] [ANCAP] Implement fanfiction generation
+2	github	0.6	-	OPEN_ISSUE	https://github.com/Iamgoofball/-tg-station/issues/109	[BOUNTY] [$337] Mapping bounty
+2	github	0.7	-	OPEN_ISSUE	https://github.com/Iamgoofball/-tg-station/issues/108	[BOUNTY] [$5] Open a duplicate of this issue to test our external duplicate issue tracker
+0	github	46.0	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/311	Task 18: Add a mechanism for the admin to collect accumulated platform fees into a treasury wallet.
+0	github	51.8	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/305	Task 13: Cap how far in the future a gift's unlock time can be set, so funds can never be permanently trapped.
+0	github	51.8	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/304	Task 12: Let users claim just their accumulated yield without touching their principal savings.
+0	github	52.6	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/301	Task 10: Scaffold a wrapper interface that will route idle savings into external yield protocols like Blend or an AMM.
+0	github	52.6	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/300	Task 09: Build the savings withdrawal function so users can pull their principal back out at any time.
+0	github	52.7	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/295	Task 04: Implement the claim function so recipients can withdraw a gift only after its unlock time has passed.
+0	github	52.7	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/294	Task 03: Create the deposit function that lets a sender atomically lock USDC into a new time-locked gift.
+0	github	52.8	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/293	Task 02: Build the gift data model that stores sender, recipient, amount, and time-lock details on-chain
