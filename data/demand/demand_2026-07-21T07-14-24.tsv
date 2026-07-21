@@ -1,0 +1,35 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	1.9	$100	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/61	[BOUNTY] [READY FOR AGENT] [$100 USD] Adds new station event, the Metamorphosis by Franz Kafka
+5	github	2.7	$250	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/590	[Bounty] [paid PR opire bounty $250 TG USD CREDS] [EASY TASK FOR AGENTS] [AGENTIC] Implem
+4	sn/bitcoin	5.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1529109	Dutch crypto platform Knaken declared bankrupt, €7m missing - DutchNews.nl
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1570	fix(mcp): isolate concurrent agent sessions
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/66	[BOUNTY] [EASY AI TASK] [$10] Add Klingon based recipes
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1569	fix(claudecode): distill only the current Stop turn
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/65	[BOUNTY] Fix my failing marriage
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1564	fix(okf): isolate export caches by backend
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1563	fix: preserve Supermemory multi-container tags
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1562	fix: enforce Python client query guards
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1558	fix: keep busy-day summaries within embedding context
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/60	[BOUNTY] Flaky test failure with no obvious source
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/59	[BOUNTY] [READY FOR AGENT] [$950 USD] ADD DAILY QUESTS FOR SECURITY TO BOOST PLAYER ENGAGEMENT
+4	github	2.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1557	fix: classify negated preferences as preferences
+4	github	2.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/589	[Bounty] [BOUNTY] [READY FOR AGENT] [100-300$USD Opire] Design a new antagonist
+3	sn/bitcoin	11.5	000 sats	OPEN_NEED	https://stacker.news/items/1528800	BTC vote: Do you support the Senate version of the CLARITY Act?
+3	github	32.2	000001 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/zendvolabs/zendvo/issues/307	Task 14: Enforce a minimum deposit amount on gifts and savings to stop the contract's storage from being spammed.
+2	sn/bitcoin	9.4	-	OPEN_NEED	https://stacker.news/items/1528896	How many onchain transactions have you done in the last month?
+2	sn/tech	8.0	-	OPEN_NEED	https://stacker.news/items/1528989	Where do ISP's get their internet from?
+2	github	69.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Jolah1/bitpilot/issues/77	Money Basics: 0 of 8 missions have a hands-on step
+2	github	13.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Nodal-stellar/Nodal-AI/issues/265	feat: add path_payment example script to scripts/examples/
+2	github	15.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/davz7/MananaSeguro/issues/81	Issue 1 — Clean up unused-variable warnings in contract tests
+2	github	38.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/zendvolabs/zendvo/issues/298	Task 07: Design the savings data model that tracks each user's principal separately from their earned yield.
+2	github	65.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/crowdpay/issues/453	Real-Time Contribution Streaming: Horizon SSE Fan-out, WebSocket Push & Consistent Campaign Total State
+2	github	65.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/Fluxa/issues/29	Pluggable Signing Interface, AWS KMS Adapter & Threshold Signing Policy Engine
+2	github	2.3	-	OPEN_ISSUE	https://github.com/Iamgoofball/-tg-station/issues/58	[READY FOR AGENT] [OPEN] [$150 USD Opire Bounty] Replace security weapons with a more appropriate tool
+0	github	31.9	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/311	Task 18: Add a mechanism for the admin to collect accumulated platform fees into a treasury wallet.
+0	github	37.7	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/305	Task 13: Cap how far in the future a gift's unlock time can be set, so funds can never be permanently trapped.
+0	github	37.7	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/304	Task 12: Let users claim just their accumulated yield without touching their principal savings.
+0	github	38.5	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/301	Task 10: Scaffold a wrapper interface that will route idle savings into external yield protocols like Blend or an AMM.
+0	github	38.5	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/300	Task 09: Build the savings withdrawal function so users can pull their principal back out at any time.
+0	github	38.6	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/295	Task 04: Implement the claim function so recipients can withdraw a gift only after its unlock time has passed.
+0	github	38.6	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/294	Task 03: Create the deposit function that lets a sender atomically lock USDC into a new time-locked gift.
+0	github	38.7	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/293	Task 02: Build the gift data model that stores sender, recipient, amount, and time-lock details on-chain
