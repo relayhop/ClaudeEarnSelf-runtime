@@ -1,0 +1,35 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	2.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1529109	Dutch crypto platform Knaken declared bankrupt, €7m missing - DutchNews.nl
+5	sn/bitcoin	8.7	000 sats	OPEN_NEED,LOW_COMP	https://stacker.news/items/1528800	BTC vote: Do you support the Senate version of the CLARITY Act?
+5	github	0.3	$40	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/55	[BOUNTY] [PAID BOUNTY] [$40] [paid opire bounty] Add enterprise resource planning
+5	github	0.3	$200	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/53	[BOUNTY] [AGENT READY] [$200 USD] Increase immersion and user satisfaction by adding VR & Peripheral support
+5	github	0.4	$15	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/52	[BOUNTY] [PAID BOUNTY] [$25] Make the bar fish sing
+5	github	0.9	$10	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/50	[paid PR Opire bounty] [$10] Fix the clown not being able to do backflips.
+5	github	0.9	$50	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/49	[paid PR Opire bounty] [HIGH PRIORITY] [$50] Add the Dentist job with teeth organs.
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1556	fix: return union for multi-type recall
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/48	[BOUNTY] [PAID BOUNTY] Make an epicsauce epicface PR and all your beautiful opportunities will be Opire to scrutiny.
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/45	[BOUNTY] Bounties and Issues Guidelines [READ AND OBEY OR BE DISQUALIFIED]
+3	github	29.3	000001 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/zendvolabs/zendvo/issues/307	Task 14: Enforce a minimum deposit amount on gifts and savings to stop the contract's storage from being spammed.
+3	github	1.3	$100	OPEN_ISSUE	https://github.com/Iamgoofball/-tg-station/issues/47	[BOUNTY] [READY FOR AGENT] [100-300$USD Opire] Design a new antagonist
+3	github	2.2	$250	OPEN_ISSUE	https://github.com/Iamgoofball/-tg-station/issues/46	[paid PR opire bounty $250 TG USD CREDS] [EASY TASK FOR AGENTS] [AGENTIC] Implement the Security Rework: Workplace Cultu
+2	sn/bitcoin	6.6	-	OPEN_NEED	https://stacker.news/items/1528896	How many onchain transactions have you done in the last month?
+2	sn/tech	5.1	-	OPEN_NEED	https://stacker.news/items/1528989	Where do ISP's get their internet from?
+2	github	66.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Jolah1/bitpilot/issues/77	Money Basics: 0 of 8 missions have a hands-on step
+2	github	10.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Nodal-stellar/Nodal-AI/issues/265	feat: add path_payment example script to scripts/examples/
+2	github	12.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/davz7/MananaSeguro/issues/81	Issue 1 — Clean up unused-variable warnings in contract tests
+2	github	35.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/zendvolabs/zendvo/issues/298	Task 07: Design the savings data model that tracks each user's principal separately from their earned yield.
+2	github	62.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/crowdpay/issues/453	Real-Time Contribution Streaming: Horizon SSE Fan-out, WebSocket Push & Consistent Campaign Total State
+2	github	63.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/Fluxa/issues/29	Pluggable Signing Interface, AWS KMS Adapter & Threshold Signing Policy Engine
+2	github	9.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1546	fix(okf): preserve literal entry delimiters during round trips
+2	github	9.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1544	fix: prevent API key corruption + add missing session validation (#770)
+2	github	9.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1543	fix: prevent API key corruption + add missing session validation (#770)
+2	github	9.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1541	fix(connect): clean managed hooks and permissions
+2	github	10.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1540	fix(okf): preserve literal entry delimiters during round trips
+0	github	29.1	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/311	Task 18: Add a mechanism for the admin to collect accumulated platform fees into a treasury wallet.
+0	github	34.8	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/305	Task 13: Cap how far in the future a gift's unlock time can be set, so funds can never be permanently trapped.
+0	github	34.8	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/304	Task 12: Let users claim just their accumulated yield without touching their principal savings.
+0	github	35.6	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/301	Task 10: Scaffold a wrapper interface that will route idle savings into external yield protocols like Blend or an AMM.
+0	github	35.6	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/300	Task 09: Build the savings withdrawal function so users can pull their principal back out at any time.
+0	github	35.8	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/295	Task 04: Implement the claim function so recipients can withdraw a gift only after its unlock time has passed.
+0	github	35.8	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/294	Task 03: Create the deposit function that lets a sender atomically lock USDC into a new time-locked gift.
+0	github	35.8	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/293	Task 02: Build the gift data model that stores sender, recipient, amount, and time-lock details on-chain
