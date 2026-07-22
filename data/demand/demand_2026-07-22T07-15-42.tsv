@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	1.3	$10000	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/173	[BOUNTY] [$10000] Ported Space Station 13 to the Godot Engine
+4	github	0.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/175	[BOUNTY] [NO CODE] [REPLY TO ISSUE ONLY] [$5] Reply with your best pizza recipe!
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/199	[radar] SN open bounty 2026-07-22T06:39
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/174	[BOUNTY] [$20] create a github action to label every new issue with `bounty`
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/172	Fight Unified Counter Klient Left Long Magic
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1602	fix: 5 bugs from Memanto Bug & Exploit Challenge (#770)
+4	github	1.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/170	[BOUNTY] [] Open a duplicate of this issue to test our external duplicate issue tracker
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/169	[BOUNTY] [] Open a duplicate of this issue to test our external duplicate issue tracker
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/168	[BOUNTY] [] Open a duplicate of this issue to test our external duplicate issue tracker
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/167	[BOUNTY] [] Open a duplicate of this issue to test our external duplicate issue tracker
+4	github	1.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/166	[BOUNTY] [] Open a duplicate of this issue to test our external duplicate issue tracker
+4	github	2.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/163	[BOUNTY] [100$] [OPIRE] [AGENTIC] [EASY] Material system, PBR, and HLSL shaders.
+4	github	2.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/162	[BOUNTY] [EASY AI TASK] [OPIRE][OPPORTUNITYIES][$10] Add the Taj Mahal
+4	github	2.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Eaprime1/custos/issues/235	[bounty] Scribe marks — Iteration 2 · name the unnamed, challenge the floor
+4	github	2.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/161	[BOUNTY] [$25] Open a duplicate of this issue to test our external duplicate issue tracker
+3	github	56.2	000001 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/zendvolabs/zendvo/issues/307	Task 14: Enforce a minimum deposit amount on gifts and savings to stop the contract's storage from being spammed.
+2	sn/bitcoin	18.2	-	OPEN_NEED	https://stacker.news/items/1529374	Prediction Markets vs Gambling - Do you know the difference?
+2	github	37.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Nodal-stellar/Nodal-AI/issues/265	feat: add path_payment example script to scripts/examples/
+2	github	39.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/davz7/MananaSeguro/issues/81	Issue 1 — Clean up unused-variable warnings in contract tests
+2	github	62.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/zendvolabs/zendvo/issues/298	Task 07: Design the savings data model that tracks each user's principal separately from their earned yield.
+0	github	56.0	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/311	Task 18: Add a mechanism for the admin to collect accumulated platform fees into a treasury wallet.
+0	github	61.7	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/305	Task 13: Cap how far in the future a gift's unlock time can be set, so funds can never be permanently trapped.
+0	github	61.7	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/304	Task 12: Let users claim just their accumulated yield without touching their principal savings.
+0	github	62.5	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/301	Task 10: Scaffold a wrapper interface that will route idle savings into external yield protocols like Blend or an AMM.
+0	github	62.5	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/300	Task 09: Build the savings withdrawal function so users can pull their principal back out at any time.
+0	github	62.6	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/295	Task 04: Implement the claim function so recipients can withdraw a gift only after its unlock time has passed.
+0	github	62.6	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/294	Task 03: Create the deposit function that lets a sender atomically lock USDC into a new time-locked gift.
+0	github	62.7	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/293	Task 02: Build the gift data model that stores sender, recipient, amount, and time-lock details on-chain
