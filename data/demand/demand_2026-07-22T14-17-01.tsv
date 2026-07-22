@@ -1,0 +1,31 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	0.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1530128	Have you ever looked up the onchain history of bitcoins you received?
+6	sn/bitcoin	3.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1530015	Bitcoin Payments Service Design
+5	github	2.5	$150	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1452	[BUG] Web Cache Deception → Session Token Leak $150
+5	github	2.5	$120	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1451	[BUG] Timing Attack on Password Verification → User Enumeration $120
+5	github	2.5	$150	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1450	[BUG] Blind Command Injection via Email Header $150
+5	github	2.5	$150	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1449	[BUG] Web Cache Poisoning via Unkeyed Header $150
+5	github	2.5	$150	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1448	[BUG] IDOR in GraphQL Nested Query → Mass Data Leak $150
+5	github	2.5	$120	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1447	[BUG] Session Fixation + Session ID in URL $120
+5	github	2.5	$150	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1446	[BUG] Zip Slip → Arbitrary File Write via Archive Extraction $150
+5	github	2.5	$120	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1445	[BUG] LDAP Injection → Anonymous Bind Bypass $120
+5	github	2.5	$200	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1444	[BUG] Java RMI Deserialization → Remote Code Execution $200
+5	github	2.5	$120	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1443	[BUG] CORS Misconfiguration + Origin Reflection → Credential Theft $120
+5	github	2.5	$150	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1442	[BUG] Blind XXE via SVG Upload → SSRF + Data Exfil $150
+5	github	2.5	$150	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1441	[BUG] OAuth 2.0 CSRF → Account Takeover via State Bypass $150
+5	github	2.5	$120	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1440	[BUG] Log Injection → Log Forging → SIEM Poisoning $120
+5	github	2.5	$180	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1439	[BUG] Race Condition in Distributed Transaction → Double Spend $180
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/202	[radar] SN open bounty 2026-07-22T11:58
+3	github	63.2	000001 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/zendvolabs/zendvo/issues/307	Task 14: Enforce a minimum deposit amount on gifts and savings to stop the contract's storage from being spammed.
+2	sn/bitcoin	9.1	-	OPEN_NEED	https://stacker.news/items/1529949	If Bitcoin Became the Main Currency, What Would You Do First?
+2	github	44.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Nodal-stellar/Nodal-AI/issues/265	feat: add path_payment example script to scripts/examples/
+2	github	46.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/davz7/MananaSeguro/issues/81	Issue 1 — Clean up unused-variable warnings in contract tests
+2	github	69.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/zendvolabs/zendvo/issues/298	Task 07: Design the savings data model that tracks each user's principal separately from their earned yield.
+0	github	63.0	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/311	Task 18: Add a mechanism for the admin to collect accumulated platform fees into a treasury wallet.
+0	github	68.7	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/305	Task 13: Cap how far in the future a gift's unlock time can be set, so funds can never be permanently trapped.
+0	github	68.7	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/304	Task 12: Let users claim just their accumulated yield without touching their principal savings.
+0	github	69.5	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/301	Task 10: Scaffold a wrapper interface that will route idle savings into external yield protocols like Blend or an AMM.
+0	github	69.5	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/300	Task 09: Build the savings withdrawal function so users can pull their principal back out at any time.
+0	github	69.7	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/295	Task 04: Implement the claim function so recipients can withdraw a gift only after its unlock time has passed.
+0	github	69.7	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/294	Task 03: Create the deposit function that lets a sender atomically lock USDC into a new time-locked gift.
+0	github	69.7	-	OPEN_ISSUE	https://github.com/zendvolabs/zendvo/issues/293	Task 02: Build the gift data model that stores sender, recipient, amount, and time-lock details on-chain
