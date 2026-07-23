@@ -1,0 +1,24 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	11.6	$587	OPEN_NEED,LOW_COMP	https://stacker.news/items/1530224	Did Fake Satoshi Con Ben Affleck? - David Z Morris
+5	github	0.7	$200	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/676	[Bounty] [BOUNTY] [$200] [OPIRE] Bring Eternal Despair to the Players
+4	sn/bitcoin	17.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1530015	Bitcoin Payments Service Design
+4	github	0.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/212	[radar] SN open bounty 2026-07-23T04:25
+4	github	0.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1617	fix(read): search_as_of recalls since-expired memories (bounty #770)
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/245	[BOUNTY] [8000đ] Replace all mentions of US Dollars with Vietnamese Dong
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1616	fix(langgraph): preserve namespace tuple boundaries
+4	github	3.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1615	fix: return renewed header session token
+4	github	3.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/243	[TOP PRIORITY] [BOUNTY] [200 GBP] [AGENTIC AI] Remove the problematic letter 'U' from the codebase.
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/242	Multiple errors in flaky test create_and_destroy
+3	github	4.3	$12	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/675	[Bounty] [BOUNTY] [$12,345,678] [PRIORITY: CRITICAL] [EASY] [AGENT READY] Replace all ins
+3	github	5.1	1 BTC	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/238	[BOUNTY] [FIX] [REQUEST] [OPIRE] [AGENTIC] [1BTC] Re-write Python scripts in HolyC and x86 ASM
+2	sn/bitcoin	14.4	-	OPEN_NEED	https://stacker.news/items/1530128	Have you ever looked up the onchain history of bitcoins you received?
+2	sn/bitcoin	13.3	-	OPEN_NEED	https://stacker.news/items/1530172	Paying With Bicoin Through Square - I wasn't prepared
+2	sn/bitcoin	23.2	-	OPEN_NEED	https://stacker.news/items/1529949	If Bitcoin Became the Main Currency, What Would You Do First?
+2	github	5.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/JustTemmie/steam-presence/issues/145	[Bounty: $300] Salesforce integration
+2	github	58.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Nodal-stellar/Nodal-AI/issues/265	feat: add path_payment example script to scripts/examples/
+2	github	61.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/davz7/MananaSeguro/issues/81	Issue 1 — Clean up unused-variable warnings in contract tests
+2	github	4.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/210	[radar] SN open bounty 2026-07-23T00:10
+2	github	4.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/241	[BOUNTY] [$200] [OPIRE] Bring Eternal Despair to the Players
+2	github	4.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/240	[BOUNTY] [300 DRACHMAE] Rewrite project in assembly.
+2	github	5.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/239	[BOUNTY] [$(1.0 * 10^27) US Dollars] add 30 additional sprite variants for botany produce
+1	github	4.3	$25	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/674	[Bounty] [BOUNTY] [$25] [NO CODE] [REQUEST] Instructions are in issue body
