@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	11.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1530642	Latest Strikes #28 & #29 - July 6th-19th 2026
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/221	[radar] SN open bounty 2026-07-23T23:07
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/261	[BOUNTY] [5 BTC] [AGENTIC] [EASY FOR AGENT ISSUE] [GOOD FIRST ISSUE] [CRYPTOWALLET PAY] Add new rules
+4	github	2.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1633	fix: Resolve #1609 - [BOUNTY $200] 🐜 The Great Memory Migration: Own Your Agentic Memory with Memanto + OKF
+4	github	3.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1631	fix(extraction): cap generated memory content
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/219	[radar] SN open bounty 2026-07-23T19:39
+3	github	3.8	100 ETH	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/681	[Bounty] [bounty] [100 ETH reward] [agentic ai] Create a Warrior Cats codebase
+2	sn/bitcoin	12.2	-	OPEN_NEED	https://stacker.news/items/1530614	Woocommerce and BTCpay server
+2	sn/bitcoin	10.7	-	OPEN_NEED	https://stacker.news/items/1530684	I Went Looking at Paul Sztorc's eCash and Ended Up Rethinking Bitcoin
+2	github	7.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrustHire/hiresettle-contract/issues/128	docs(readme): document token allowlist functions
+2	github	15.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergepay/mergepay-api/issues/31	Add Zod validation for all expense creation and update requests
+2	github	15.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergepay/mergepay-web/issues/25	Expense split rounding discrepancy when using unequal shares
+2	github	2.2	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/220	[radar] SN open bounty 2026-07-23T21:17
+2	github	3.5	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1632	feat: ChatGPT & Claude conversation migration adapters
+2	github	4.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/260	[bounty] [100 ETH reward] [agentic ai] Create a Warrior Cats codebase
+2	github	5.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1630	fix(okf): preserve temporal metadata across round trips
+2	github	5.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1629	feat: add ChatGPT migration script and mapper
+2	github	5.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/218	[radar] SN open bounty 2026-07-23T17:42
+0	github	24.1	-	OPEN_ISSUE	https://github.com/JustTemmie/steam-presence/issues/145	[Bounty: $300] Salesforce integration
+0	github	6.2	-	OPEN_ISSUE	https://github.com/Iamgoofball/-tg-station/issues/259	[BOUNTY] [999.99$ USD] [IMPORTANT] Make a lifeweb killer
+0	github	6.7	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/680	[Bounty] [BOUNTY] [900$ USD] [EASY] Rewrite it in rust
+0	github	7.5	-	OPEN_ISSUE	https://github.com/DanielIoni-creator/MyZubsterGateway/issues/29	[BUG] Fix chat_template crash when assistant message omits content key
