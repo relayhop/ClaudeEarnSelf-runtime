@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	7.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1530642	Latest Strikes #28 & #29 - July 6th-19th 2026
+4	github	3.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrustHire/hiresettle-contract/issues/128	docs(readme): document token allowlist functions
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/260	[bounty] [100 ETH reward] [agentic ai] Create a Warrior Cats codebase
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1630	fix(okf): preserve temporal metadata across round trips
+4	github	1.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1629	feat: add ChatGPT migration script and mapper
+4	github	1.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/218	[radar] SN open bounty 2026-07-23T17:42
+3	github	3.7	100 USD	OPEN_ISSUE	https://github.com/Iamgoofball/-tg-station/issues/252	[BOUNTY] [900$ USD] [EASY] Rewrite it in rust
+3	github	4.4	$10000	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/678	[Bounty] [BOUNTY] [$10000 USD] [OPIRE/AGENTIC] [EASY FOR AI] Add Cultivation skill
+3	github	4.4	$15750.15	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/677	[Bounty] [BOUNTY] [$15750.15 USD]  [Agent Ready] [Critical] [Standards] Replace All for l
+2	sn/bitcoin	8.3	-	OPEN_NEED	https://stacker.news/items/1530614	Woocommerce and BTCpay server
+2	sn/bitcoin	6.8	-	OPEN_NEED	https://stacker.news/items/1530684	I Went Looking at Paul Sztorc's eCash and Ended Up Rethinking Bitcoin
+2	github	11.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergepay/mergepay-api/issues/31	Add Zod validation for all expense creation and update requests
+2	github	11.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergepay/mergepay-web/issues/25	Expense split rounding discrepancy when using unequal shares
+2	github	2.3	-	OPEN_ISSUE	https://github.com/Iamgoofball/-tg-station/issues/259	[BOUNTY] [999.99$ USD] [IMPORTANT] Make a lifeweb killer
+2	github	2.8	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/680	[Bounty] [BOUNTY] [900$ USD] [EASY] Rewrite it in rust
+2	github	3.7	-	OPEN_ISSUE	https://github.com/DanielIoni-creator/MyZubsterGateway/issues/29	[BUG] Fix chat_template crash when assistant message omits content key
+0	github	20.2	-	OPEN_ISSUE	https://github.com/JustTemmie/steam-presence/issues/145	[Bounty: $300] Salesforce integration
+0	github	4.3	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1628	feat(examples): add ChatGPT export → OKF migration adapter (#1609)
+0	github	4.3	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/217	[radar] SN open bounty 2026-07-23T15:19
+0	github	5.2	-	OPEN_ISSUE	https://github.com/Iamgoofball/-tg-station/issues/251	[BOUNTY] [100万人民币] [Tedious but EASY] 모든 說明文(md等等)을 朝鮮말로 飜譯하시오
+0	github	5.2	-	OPEN_ISSUE	https://github.com/0xddneto/AI-Proof-of-Us/issues/5	[Bounty] Low-poly AIPOU receipt medallion GLB - 150 AIPOU
+0	github	5.2	-	OPEN_ISSUE	https://github.com/0xddneto/AI-Proof-of-Us/issues/4	[Bounty] 32x32 pixel-art work receipt icon - 100 AIPOU
