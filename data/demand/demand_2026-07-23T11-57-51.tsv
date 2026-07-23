@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	19.1	$587	OPEN_NEED,LOW_COMP	https://stacker.news/items/1530224	Did Fake Satoshi Con Ben Affleck? - David Z Morris
+4	sn/bitcoin	0.7	-	OPEN_NEED	https://stacker.news/items/1530614	Woocommerce and BTCpay server
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergepay/mergepay-api/issues/31	Add Zod validation for all expense creation and update requests
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergepay/mergepay-web/issues/25	Expense split rounding discrepancy when using unequal shares
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/heathivorjocelyn6/gitea/issues/1	🎯 Prevent Duplicate Check Runs by Handling Concurrent Webhook Deliveries Idempotently
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/heathivorjocelyn6/jwt/issues/1	🎯 Reject JWTs with Out-of-Bounds Expiration (`exp`) Values to Prevent `time.Time` Overflow
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1624	Memory Migration
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/215	[radar] SN open bounty 2026-07-23T10:32
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/heathivorjocelyn6/go-redis/issues/1	🎯 Fix Deadlock in PubSub.Close() During Concurrent Network Reconnection
+4	github	3.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/214	[radar] SN open bounty 2026-07-23T08:42
+3	github	8.2	$200	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/676	[Bounty] [BOUNTY] [$200] [OPIRE] Bring Eternal Despair to the Players
+2	sn/bitcoin	21.9	-	OPEN_NEED	https://stacker.news/items/1530128	Have you ever looked up the onchain history of bitcoins you received?
+2	sn/bitcoin	20.8	-	OPEN_NEED	https://stacker.news/items/1530172	Paying With Bicoin Through Square - I wasn't prepared
+2	github	12.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/JustTemmie/steam-presence/issues/145	[Bounty: $300] Salesforce integration
+2	github	65.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Nodal-stellar/Nodal-AI/issues/265	feat: add path_payment example script to scripts/examples/
+2	github	68.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/davz7/MananaSeguro/issues/81	Issue 1 — Clean up unused-variable warnings in contract tests
+2	github	3.5	-	OPEN_ISSUE	https://github.com/rachelealicek/grpc-go/issues/1	🎯 Prevent Indefinite Client Block During Concurrent Stream Cancellation and Connection Shutdown
+2	github	4.0	-	OPEN_ISSUE	https://github.com/rachelealicek/chi/issues/1	🎯 Prevent Duplicate Log Entries on Request Context Cancellation during Graceful Shutdown
+2	github	5.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1619	fix(api): preserve source_ref in recall responses
+2	github	8.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1617	fix(read): search_as_of recalls since-expired memories (bounty #770)
+2	github	9.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1616	fix(langgraph): preserve namespace tuple boundaries
+0	github	4.3	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/213	[radar] SN open bounty 2026-07-23T07:41
+0	github	7.5	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/212	[radar] SN open bounty 2026-07-23T04:25
+0	github	8.5	-	OPEN_ISSUE	https://github.com/Iamgoofball/-tg-station/issues/245	[BOUNTY] [8000đ] Replace all mentions of US Dollars with Vietnamese Dong
