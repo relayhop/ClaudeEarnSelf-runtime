@@ -1,0 +1,10 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	1.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1530684	I Went Looking at Paul Sztorc's eCash and Ended Up Rethinking Bitcoin
+5	sn/bitcoin	21.6	$587	OPEN_NEED,LOW_COMP	https://stacker.news/items/1530224	Did Fake Satoshi Con Ben Affleck? - David Z Morris
+4	sn/bitcoin	3.1	-	OPEN_NEED	https://stacker.news/items/1530614	Woocommerce and BTCpay server
+2	sn/bitcoin	23.3	-	OPEN_NEED	https://stacker.news/items/1530172	Paying With Bicoin Through Square - I wasn't prepared
+2	github	6.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergepay/mergepay-api/issues/31	Add Zod validation for all expense creation and update requests
+2	github	6.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergepay/mergepay-web/issues/25	Expense split rounding discrepancy when using unequal shares
+2	github	15.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/JustTemmie/steam-presence/issues/145	[Bounty: $300] Salesforce integration
+2	github	68.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Nodal-stellar/Nodal-AI/issues/265	feat: add path_payment example script to scripts/examples/
+0	github	71.0	-	OPEN_ISSUE	https://github.com/davz7/MananaSeguro/issues/81	Issue 1 — Clean up unused-variable warnings in contract tests
