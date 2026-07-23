@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	14.3	$587	OPEN_NEED,LOW_COMP	https://stacker.news/items/1530224	Did Fake Satoshi Con Ben Affleck? - David Z Morris
+5	github	3.4	$200	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/676	[Bounty] [BOUNTY] [$200] [OPIRE] Bring Eternal Despair to the Players
+4	sn/bitcoin	20.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1530015	Bitcoin Payments Service Design
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1619	fix(api): preserve source_ref in recall responses
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/212	[radar] SN open bounty 2026-07-23T04:25
+4	github	3.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1617	fix(read): search_as_of recalls since-expired memories (bounty #770)
+4	github	3.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/245	[BOUNTY] [8000đ] Replace all mentions of US Dollars with Vietnamese Dong
+3	github	7.0	$12	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/675	[Bounty] [BOUNTY] [$12,345,678] [PRIORITY: CRITICAL] [EASY] [AGENT READY] Replace all ins
+2	sn/bitcoin	17.1	-	OPEN_NEED	https://stacker.news/items/1530128	Have you ever looked up the onchain history of bitcoins you received?
+2	sn/bitcoin	16.0	-	OPEN_NEED	https://stacker.news/items/1530172	Paying With Bicoin Through Square - I wasn't prepared
+2	github	7.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/JustTemmie/steam-presence/issues/145	[Bounty: $300] Salesforce integration
+2	github	61.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Nodal-stellar/Nodal-AI/issues/265	feat: add path_payment example script to scripts/examples/
+2	github	63.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/davz7/MananaSeguro/issues/81	Issue 1 — Clean up unused-variable warnings in contract tests
+2	github	5.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1616	fix(langgraph): preserve namespace tuple boundaries
+2	github	6.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1615	fix: return renewed header session token
+2	github	6.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/243	[TOP PRIORITY] [BOUNTY] [200 GBP] [AGENTIC AI] Remove the problematic letter 'U' from the codebase.
+2	github	6.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/242	Multiple errors in flaky test create_and_destroy
+2	github	7.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/210	[radar] SN open bounty 2026-07-23T00:10
+2	github	7.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/241	[BOUNTY] [$200] [OPIRE] Bring Eternal Despair to the Players
+2	github	7.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/240	[BOUNTY] [300 DRACHMAE] Rewrite project in assembly.
+2	github	7.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/239	[BOUNTY] [$(1.0 * 10^27) US Dollars] add 30 additional sprite variants for botany produce
+1	github	7.0	$25	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/674	[Bounty] [BOUNTY] [$25] [NO CODE] [REQUEST] Instructions are in issue body
