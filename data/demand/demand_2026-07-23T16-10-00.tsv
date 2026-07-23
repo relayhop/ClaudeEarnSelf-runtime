@@ -1,0 +1,24 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	23.3	$587	OPEN_NEED,LOW_COMP	https://stacker.news/items/1530224	Did Fake Satoshi Con Ben Affleck? - David Z Morris
+5	github	1.0	$10000	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/678	[Bounty] [BOUNTY] [$10000 USD] [OPIRE/AGENTIC] [EASY FOR AI] Add Cultivation skill
+5	github	1.0	$15750.15	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/677	[Bounty] [BOUNTY] [$15750.15 USD]  [Agent Ready] [Critical] [Standards] Replace All for l
+4	sn/bitcoin	3.3	-	OPEN_NEED	https://stacker.news/items/1530684	I Went Looking at Paul Sztorc's eCash and Ended Up Rethinking Bitcoin
+4	sn/bitcoin	4.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1530642	Latest Strikes #28 & #29 - July 6th-19th 2026
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/MyZubsterGateway/issues/29	[BUG] Fix chat_template crash when assistant message omits content key
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/251	[BOUNTY] [100万人民币] [Tedious but EASY] 모든 說明文(md等等)을 朝鮮말로 飜譯하시오
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/0xddneto/AI-Proof-of-Us/issues/3	[Bounty] 6-second AI receipt video loop - 150 AIPOU
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/0xddneto/AI-Proof-of-Us/issues/2	[Bounty] 1024px AI-work receipt image - 100 AIPOU
+2	sn/bitcoin	4.9	-	OPEN_NEED	https://stacker.news/items/1530614	Woocommerce and BTCpay server
+2	github	8.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergepay/mergepay-api/issues/31	Add Zod validation for all expense creation and update requests
+2	github	8.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergepay/mergepay-web/issues/25	Expense split rounding discrepancy when using unequal shares
+2	github	16.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/JustTemmie/steam-presence/issues/145	[Bounty: $300] Salesforce integration
+2	github	70.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Nodal-stellar/Nodal-AI/issues/265	feat: add path_payment example script to scripts/examples/
+2	github	0.8	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1628	feat(examples): add ChatGPT export → OKF migration adapter (#1609)
+2	github	0.8	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/217	[radar] SN open bounty 2026-07-23T15:19
+2	github	1.7	-	OPEN_ISSUE	https://github.com/0xddneto/AI-Proof-of-Us/issues/5	[Bounty] Low-poly AIPOU receipt medallion GLB - 150 AIPOU
+2	github	1.7	-	OPEN_ISSUE	https://github.com/0xddneto/AI-Proof-of-Us/issues/4	[Bounty] 32x32 pixel-art work receipt icon - 100 AIPOU
+2	github	3.4	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/216	[radar] SN open bounty 2026-07-23T12:45
+2	github	3.5	-	OPEN_ISSUE	https://github.com/heathivorjocelyn6/resty/issues/1	🎯 Fix Request Body Exhaustion on Retries Following HTTP 307/308 Redirects
+2	github	5.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1624	Memory Migration
+0	github	4.7	-	OPEN_ISSUE	https://github.com/heathivorjocelyn6/gitea/issues/1	🎯 Prevent Duplicate Check Runs by Handling Concurrent Webhook Deliveries Idempotently
+0	github	4.7	-	OPEN_ISSUE	https://github.com/heathivorjocelyn6/jwt/issues/1	🎯 Reject JWTs with Out-of-Bounds Expiration (`exp`) Values to Prevent `time.Time` Overflow
