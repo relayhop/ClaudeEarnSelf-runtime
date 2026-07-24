@@ -1,0 +1,26 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	1.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1532012	Should Stackers Without a Gun Receive CCs Instead of Sats?
+6	sn/tech	2.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1531975	FPGA Development Deep Dive - ModRetro's M64
+5	github	2.0	$50	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/693	[Bounty] 💵🐛[BUG BOUNTY] [$50 PER BUG] Complete Removal of Copywritten Material. ⚠️ CRITIC
+4	sn/bitcoin	1.8	-	OPEN_NEED	https://stacker.news/items/1532004	Should Stackers Without a Gun Receive CCs Instead of Sats?
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1644	fix(read): search_as_of recalls since-expired memories (timeline amnesia)
+4	github	3.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/286	[BOUNTY] [CRITICAL] [VERY EASY] [0.1ETH] Add the seahorse emoji to the game
+4	github	3.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/285	💵🐛[BUG BOUNTY] [$50 PER BUG] Complete Removal of Copywritten Material. ⚠️ CRITICAL PRIORITY ⚠️
+3	github	7.6	500 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Farm-credit/stellar-app-os/issues/806	[Contract] Implement Verifier Registration Deposit Requirement
+2	sn/bitcoin	8.8	-	OPEN_NEED	https://stacker.news/items/1531606	Do you mine bitcoin?
+2	sn/bitcoin	6.9	-	OPEN_NEED	https://stacker.news/items/1531749	Why is there so much overlap between Christians and BIP110?
+2	github	30.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrustHire/hiresettle-contract/issues/128	docs(readme): document token allowlist functions
+2	github	38.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergepay/mergepay-api/issues/31	Add Zod validation for all expense creation and update requests
+2	github	38.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergepay/mergepay-web/issues/25	Expense split rounding discrepancy when using unequal shares
+2	github	4.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/284	[Bounty] [50$ per PR] Add non-copyright infringing Family Guy inspired content to the game
+2	github	6.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/281	[BOUNTY] 1000 USD - Fix all flaky unit tests
+2	github	6.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1639	feat: add ChatGPT migration provider — the freedom loop
+2	github	6.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/280	[Bounty] [$200] Add a shrimp-person species 🦐
+2	github	6.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/279	[BOUNTY] [200$] [URGENT] Write a Python/Javascript based linter for DM [CRITICAL] [P0] [HELP WANTED] [EASY] [OPIRE] [OPP
+2	github	8.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1636	Migration Showcase: The Great Memory Migration - IN → OWNED → PORTABLE Freedom Loop
+2	github	9.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/277	[BOUNTY] [AGENTIC] [AGENT] [MANDATE OF HEAVEN] [SIMPLE] [COMPLEX] [EASY] [HARD] [¥10,000,000 YUAN] Replace Christian Hea
+1	github	5.2	$200	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/692	[Bounty] [Bounty] [$200] Add a shrimp-person species 🦐
+1	github	5.2	1000 USD	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/691	[Bounty] [BOUNTY] 1000 USD - Fix all flaky unit tests
+1	github	6.8	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/690	[Bounty] [BOUNTY] [$100 USD] Resprite the corgi into a hyperrealistic front-facing 4K ima
+1	github	6.8	$670	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/689	[Bounty] [BOUNTY] [$670 USD] [HARD] Replace Action delays from high ping with rubberbandi
+0	github	47.2	-	OPEN_ISSUE	https://github.com/JustTemmie/steam-presence/issues/145	[Bounty: $300] Salesforce integration
