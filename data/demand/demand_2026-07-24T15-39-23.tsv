@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+7	sn/bitcoin	2.6	$64	OPEN_NEED,LOW_COMP	https://stacker.news/items/1531567	Jack Mallers is one of the good ones
+5	github	0.6	500 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Farm-credit/stellar-app-os/issues/806	[Contract] Implement Verifier Registration Deposit Requirement
+4	sn/bitcoin	1.8	-	OPEN_NEED	https://stacker.news/items/1531606	Do you mine bitcoin?
+4	github	1.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1636	Migration Showcase: The Great Memory Migration - IN → OWNED → PORTABLE Freedom Loop
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/277	[BOUNTY] [AGENTIC] [AGENT] [MANDATE OF HEAVEN] [SIMPLE] [COMPLEX] [EASY] [HARD] [¥10,000,000 YUAN] Replace Christian Hea
+3	github	9.4	$30	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/684	[Bounty] [Bounty] [$30] Apply an owospeak speech filter to the felinid species
+2	github	23.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrustHire/hiresettle-contract/issues/128	docs(readme): document token allowlist functions
+2	github	31.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergepay/mergepay-api/issues/31	Add Zod validation for all expense creation and update requests
+2	github	31.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergepay/mergepay-web/issues/25	Expense split rounding discrepancy when using unequal shares
+2	github	8.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/275	[BOUNTY] [NO CODE] [REPLY TO ISSUE ONLY] [$5 USD] Player Character Survey
+2	github	9.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1635	fix(recall): include memories with unknown confidence in filtered queries
+2	github	9.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1634	feat(migrate): add ChatGPT conversation export adapter
+1	github	6.9	$50	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/686	[Bounty] Bounty: end-to-end test copperhead create (brief → clean full run) + findings re
+1	github	7.4	$50	OPEN_ISSUE	https://github.com/chouhanindustries/copperhead/issues/66	Bounty: end-to-end test copperhead create (brief → clean full run) + findings report
+0	github	40.2	-	OPEN_ISSUE	https://github.com/JustTemmie/steam-presence/issues/145	[Bounty: $300] Salesforce integration
+0	github	8.6	-	OPEN_ISSUE	https://github.com/jaasielitaigq/pgx/issues/1	🎯 Fix deadlock and inconsistent waiter queue state in pgxpool on Acquire context cancellation
+0	github	8.8	-	OPEN_ISSUE	https://github.com/jaasielitaigq/go-git/issues/1	🎯 Prevent inconsistent repository state when Worktree.Checkout() sparse checkout updates fail mid-operation
+0	github	9.4	-	OPEN_ISSUE	https://github.com/UID9622/lh-standard-adapter/issues/5	🏆 [BOUNTY] Ruby Adapter — lh_standard_adapter for RubyGems
+0	github	9.4	-	OPEN_ISSUE	https://github.com/UID9622/lh-standard-adapter/issues/4	🏆 [BOUNTY] Java/Kotlin Adapter — lh_standard_adapter for Maven Central
+0	github	9.4	-	OPEN_ISSUE	https://github.com/UID9622/lh-standard-adapter/issues/3	🏆 [BOUNTY] Rust Adapter — lh_standard_adapter for crates.io
+0	github	9.4	-	OPEN_ISSUE	https://github.com/UID9622/lh-standard-adapter/issues/2	🏆 [BOUNTY] Go Adapter — lh_standard_adapter for Go modules
+0	github	9.4	-	OPEN_ISSUE	https://github.com/UID9622/lh-standard-adapter/issues/1	🏆 [BOUNTY] JavaScript/TypeScript Adapter — lh_standard_adapter for npm
