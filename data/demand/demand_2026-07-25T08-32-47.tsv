@@ -1,0 +1,27 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	3.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1532207	"I don't need to run a node right now" - Steve Barbour
+5	github	3.3	$120	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1478	[BUG] S3 Bucket Misconfiguration → Mass Data Leak $120
+5	github	3.3	$180	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1477	[BUG] Hardcoded AWS Keys in Public Artifact → Cloud Takeover $180
+5	github	3.3	$150	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1476	[BUG] Predictable OAuth State Token → CSRF + Account Takeover $150
+5	github	3.3	$120	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1475	[BUG] ECB Mode Encryption → Data Leak via Pattern Matching $120
+5	github	3.7	$25	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/695	[Bounty] [BOUNTY] [$25] [Priority] [Easy] [Agentic] Puzzlescript implementation
+4	sn/bitcoin	11.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1532012	Should Stackers Without a Gun Receive CCs Instead of Sats?
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/223	[radar] SN open bounty 2026-07-25T08:20
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1647	feat(migration): add Open WebUI chat export to OKF adapter
+4	github	2.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1646	fix: Resolve #770 - [BOUNTY $100] 🐜The Memanto Bug & Exploit Challenge
+3	github	17.5	500 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Farm-credit/stellar-app-os/issues/806	[Contract] Implement Verifier Registration Deposit Requirement
+2	sn/bitcoin	18.7	-	OPEN_NEED	https://stacker.news/items/1531606	Do you mine bitcoin?
+2	sn/bitcoin	16.8	-	OPEN_NEED	https://stacker.news/items/1531749	Why is there so much overlap between Christians and BIP110?
+2	sn/bitcoin	11.7	-	OPEN_NEED	https://stacker.news/items/1532004	Should Stackers Without a Gun Receive CCs Instead of Sats?
+2	sn/tech	12.6	-	OPEN_NEED	https://stacker.news/items/1531975	FPGA Development Deep Dive - ModRetro's M64
+2	github	40.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrustHire/hiresettle-contract/issues/128	docs(readme): document token allowlist functions
+2	github	48.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergepay/mergepay-api/issues/31	Add Zod validation for all expense creation and update requests
+2	github	48.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergepay/mergepay-web/issues/25	Expense split rounding discrepancy when using unequal shares
+2	github	2.9	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1645	feat(examples): add Hindsight to OKF migration showcase
+2	github	9.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/289	[BOUNTY] [$25] [Priority] [Easy] [Agentic] Puzzlescript implementation
+2	github	11.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1644	fix(read): search_as_of recalls since-expired memories (timeline amnesia)
+2	github	14.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/284	[Bounty] [50$ per PR] Add non-copyright infringing Family Guy inspired content to the game
+1	github	11.9	$50	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/693	[Bounty] 💵🐛[BUG BOUNTY] [$50 PER BUG] Complete Removal of Copywritten Material. ⚠️ CRITIC
+0	github	57.1	-	OPEN_ISSUE	https://github.com/JustTemmie/steam-presence/issues/145	[Bounty: $300] Salesforce integration
+0	github	13.1	-	OPEN_ISSUE	https://github.com/Iamgoofball/-tg-station/issues/286	[BOUNTY] [CRITICAL] [VERY EASY] [0.1ETH] Add the seahorse emoji to the game
+0	github	13.2	-	OPEN_ISSUE	https://github.com/Iamgoofball/-tg-station/issues/285	💵🐛[BUG BOUNTY] [$50 PER BUG] Complete Removal of Copywritten Material. ⚠️ CRITICAL PRIORITY ⚠️
