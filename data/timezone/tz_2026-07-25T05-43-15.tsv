@@ -1,0 +1,8 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH_LOW_COMP	github	0.4	0	0	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1478	[BUG] S3 Bucket Misconfiguration → Mass Data Leak $120
+FRESH_LOW_COMP	github	0.4	0	0	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1477	[BUG] Hardcoded AWS Keys in Public Artifact → Cloud Takeover $180
+FRESH_LOW_COMP	github	0.4	0	0	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1476	[BUG] Predictable OAuth State Token → CSRF + Account Takeover $150
+FRESH_LOW_COMP	github	0.4	0	0	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1475	[BUG] ECB Mode Encryption → Data Leak via Pattern Matching $120
+FRESH_LOW_COMP	github	0.9	0	0	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/695	[Bounty] [BOUNTY] [$25] [Priority] [Easy] [Agentic] Puzzlescript implementation
+FRESH	github	0.1	0	3	https://github.com/moorcheh-ai/memanto/pull/1645	feat(examples): add Hindsight to OKF migration showcase
+FRESH	sn/bitcoin	1.0	0	1	https://stacker.news/items/1532207	"I don't need to run a node right now" - Steve Barbour
