@@ -1,0 +1,26 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/tech	2.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1533420	How much energy do data centers and artificial intelligence use?
+5	github	2.4	$25	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/706	[Bounty] [BOUNTY] [$25] Prove that you personally smelled a number we have not chosen yet
+5	github	2.4	$600	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/707	[Bounty] [Bounty] [$600] Add Thursday's Boots
+5	github	3.4	$100	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1679	fix(#770): resolve update_memory contradiction — validate before document build
+4	sn/bitcoin	6.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1533211	Sunday Survey: How many blocks will BIP110 signaling blocks be mined on 8/8/26?
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/228	[radar] SN open bounty 2026-07-26T19:24
+4	github	3.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1678	feat: Ollama embeddings migration adapter for memanto migrate (#1609)
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/227	[radar] SN open bounty 2026-07-26T17:11
+3	github	16.4	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/FeeeeelixWong/intent-proof/issues/1	AI Agent Contribution Challenge: Up to 100 USDC for outstanding work
+2	sn/bitcoin	4.4	-	OPEN_NEED	https://stacker.news/items/1533307	What’s the best wallet to connect to SN?
+2	sn/tech	17.5	-	OPEN_NEED	https://stacker.news/items/1532971	How do you stop YouTube's algorithm from deciding what you watch?
+2	github	16.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/FeeeeelixWong/intent-proof/issues/3	Agent task: Cover policy boundary conditions
+2	github	16.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/FeeeeelixWong/intent-proof/issues/2	Agent task: Verify exported receipt chains
+2	github	22.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellerforge-for-dev/stellarforge/issues/4	feat: implement balance checking
+2	github	34.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/0xNgoo/anchor-kit/issues/385	Validate Stellar asset code format
+2	github	3.4	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1681	fix: preserve provenance field when updating memories [FaaFyfxR9WAQrL7FcAgEHJvztd8cVMxvjHRS55rw1nwH]
+2	github	3.4	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1680	fix: use aware datetime and preserve metadata in _supersede [FaaFyfxR9WAQrL7FcAgEHJvztd8cVMxvjHRS55rw1nwH]
+2	github	5.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1676	fix: date only end of day recall bounds drop the final subsecond of the day
+2	github	5.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1675	feat: add ChatGPT conversation export → OKF migration adapter (Path B showcase) [FaaFyfxR9WAQrL7FcAgEHJvztd8cVMxvjHRS55r
+2	github	5.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/226	[radar] SN open bounty 2026-07-26T15:14
+2	github	5.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1673	fix(rate_limiting): fail-closed on unknown operations; unify memory id validation (#1438)
+2	github	7.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/225	[radar] SN open bounty 2026-07-26T13:48
+1	github	54.1	500 USDC	OPEN_ISSUE	https://github.com/Farm-credit/stellar-app-os/issues/806	[Contract] Implement Verifier Registration Deposit Requirement
+0	github	6.6	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1672	feat(examples): migrate Claude Code local memory to portable OKF
+0	github	8.2	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1671	fix(write): preserve active facts until replacements are stored (#770)
