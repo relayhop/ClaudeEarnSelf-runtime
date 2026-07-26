@@ -1,0 +1,15 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH_LOW_COMP	github	0.5	0	0	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1489	[BUG] JWT Kid Injection → Path Traversal → Secret Key Leak $150
+FRESH	sn/bitcoin	1.5	0	0	https://stacker.news/items/1532985	Blockvase - real-time graphical representation of bitcoin mempool
+FRESH	github	1.8	0	2	https://github.com/moorcheh-ai/memanto/pull/1664	feat(migration): agent operational-log adapter — migrate the correction structure, not just the text
+FRESH	github	2.7	0	3	https://github.com/moorcheh-ai/memanto/pull/1663	feat: add ChatGPT conversation memory adapter (OKF migration path) [FaaFyfxR9WAQrL7FcAgEHJvztd8cVMxvjHRS55rw1nwH]
+FRESH	github	3.4	0	1	https://github.com/moorcheh-ai/memanto/pull/1662	fix: remove duplicate SUCCESSFUL_UPLOAD_STATUSES constant [FaaFyfxR9WAQrL7FcAgEHJvztd8cVMxvjHRS55rw1nwH]
+FRESH	github	3.4	0	1	https://github.com/moorcheh-ai/memanto/pull/1661	fix: fix flaky test timing assertion and register asyncio marker in pytest.ini [FaaFyfxR9WAQrL7FcAgEHJvztd8cVMxvjHRS55rw
+FRESH	github	3.4	0	1	https://github.com/moorcheh-ai/memanto/pull/1660	fix: bump updated_at instead of clamping created_at; remove duplicate constant [FaaFyfxR9WAQrL7FcAgEHJvztd8cVMxvjHRS55rw
+FRESH	github	3.6	0	1	https://github.com/moorcheh-ai/memanto/pull/1659	fix: rate limiter memory leak, duplicate imports, and naive datetime [FaaFyfxR9WAQrL7FcAgEHJvztd8cVMxvjHRS55rw1nwH]
+FRESH	github	3.6	0	1	https://github.com/moorcheh-ai/memanto/pull/1658	fix: reject invalid date-only values in parse_as_of_timestamp with a clear error [FaaFyfxR9WAQrL7FcAgEHJvztd8cVMxvjHRS55
+FRESH	github	3.8	0	2	https://github.com/moorcheh-ai/memanto/pull/1657	fix(temporal): as_of date-only parsed as start-of-day on one path, end-of-day on another (23:59:59 divergence)
+FRESH	github	4.8	0	1	https://github.com/moorcheh-ai/memanto/pull/1654	fix: use timezone-aware datetime throughout validation, logging, timestamp coercion, and OKF export [FaaFyfxR9WAQrL7FcAg
+FRESH	github	5.2	0	1	https://github.com/moorcheh-ai/memanto/pull/1653	fix(export): use ISO 8601 format for datetime in memory export metadata [FaaFyfxR9WAQrL7FcAgEHJvztd8cVMxvjHRS55rw1nwH]
+FRESH	github	5.5	0	1	https://github.com/moorcheh-ai/memanto/pull/1652	fix(okf): ensure valid ISO 8601 timestamp in OKF export when created_at is a datetime object [FaaFyfxR9WAQrL7FcAgEHJvztd
+FRESH	github	5.6	0	1	https://github.com/moorcheh-ai/memanto/pull/1651	fix: resolve flaky prefetch timing test and remove duplicate constant [FaaFyfxR9WAQrL7FcAgEHJvztd8cVMxvjHRS55rw1nwH]
