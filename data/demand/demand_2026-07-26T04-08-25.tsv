@@ -1,0 +1,28 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/tech	0.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1532971	How do you stop YouTube's algorithm from deciding what you watch?
+5	github	1.7	$100	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1659	fix: rate limiter memory leak, duplicate imports, and naive datetime [FaaFyfxR9WAQrL7FcAgEHJvztd8cVMxvjHRS55rw1nwH]
+5	github	1.9	$100	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1657	fix(temporal): as_of date-only parsed as start-of-day on one path, end-of-day on another (23:59:59 divergence)
+4	sn/bitcoin	22.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1532232	Looking for opinions on BitPay
+4	sn/bitcoin	23.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1532207	"I don't need to run a node right now" - Steve Barbour
+4	github	0.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1663	feat: add ChatGPT conversation memory adapter (OKF migration path) [FaaFyfxR9WAQrL7FcAgEHJvztd8cVMxvjHRS55rw1nwH]
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1662	fix: remove duplicate SUCCESSFUL_UPLOAD_STATUSES constant [FaaFyfxR9WAQrL7FcAgEHJvztd8cVMxvjHRS55rw1nwH]
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1661	fix: fix flaky test timing assertion and register asyncio marker in pytest.ini [FaaFyfxR9WAQrL7FcAgEHJvztd8cVMxvjHRS55rw
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1660	fix: bump updated_at instead of clamping created_at; remove duplicate constant [FaaFyfxR9WAQrL7FcAgEHJvztd8cVMxvjHRS55rw
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1658	fix: reject invalid date-only values in parse_as_of_timestamp with a clear error [FaaFyfxR9WAQrL7FcAgEHJvztd8cVMxvjHRS55
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1654	fix: use timezone-aware datetime throughout validation, logging, timestamp coercion, and OKF export [FaaFyfxR9WAQrL7FcAg
+4	github	3.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1653	fix(export): use ISO 8601 format for datetime in memory export metadata [FaaFyfxR9WAQrL7FcAgEHJvztd8cVMxvjHRS55rw1nwH]
+4	github	3.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1652	fix(okf): ensure valid ISO 8601 timestamp in OKF export when created_at is a datetime object [FaaFyfxR9WAQrL7FcAgEHJvztd
+4	github	3.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1651	fix: resolve flaky prefetch timing test and remove duplicate constant [FaaFyfxR9WAQrL7FcAgEHJvztd8cVMxvjHRS55rw1nwH]
+3	github	4.5	$25	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/702	[Bounty] [BOUNTY] [$25] Open a duplicate of this issue to test our external duplicate iss
+2	sn/bitcoin	12.5	-	OPEN_NEED	https://stacker.news/items/1532565	What Is a UTXO, and Why Does It Matter for Bitcoin Privacy?
+2	sn/bitcoin	8.6	-	OPEN_NEED	https://stacker.news/items/1532724	Leave sats on exchange for easy selling of fork or withdraw?
+2	sn/bitcoin	8.3	-	OPEN_NEED	https://stacker.news/items/1532737	Plebly - The Bitcoin Pleb Consortium
+2	github	5.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellerforge-for-dev/stellarforge/issues/4	feat: implement balance checking
+2	github	17.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/0xNgoo/anchor-kit/issues/385	Validate Stellar asset code format
+2	github	68.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergepay/mergepay-api/issues/31	Add Zod validation for all expense creation and update requests
+2	github	8.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1650	feat(migration): CogniMem → Memanto OKF Migration Adapter
+1	github	37.1	500 USDC	OPEN_ISSUE	https://github.com/Farm-credit/stellar-app-os/issues/806	[Contract] Implement Verifier Registration Deposit Requirement
+0	github	59.9	-	OPEN_ISSUE	https://github.com/TrustHire/hiresettle-contract/issues/128	docs(readme): document token allowlist functions
+0	github	68.1	-	OPEN_ISSUE	https://github.com/mergepay/mergepay-web/issues/25	Expense split rounding discrepancy when using unequal shares
+0	github	13.2	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1649	fix: resolve session deletion issue in client delete_agent Closes #770
+0	github	17.3	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/700	[Bounty] Automate Bug Detection and Reviews
