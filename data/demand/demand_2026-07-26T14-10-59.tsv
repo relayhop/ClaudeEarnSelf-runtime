@@ -1,0 +1,28 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	1.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1533168	Built a burglar alarm for cold storage — alerts the second a sat moves out
+5	github	2.8	$120	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1491	[BUG] Session Fixation + Session ID in URL $120
+5	github	2.8	$120	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1490	[BUG] LDAP Injection → Anonymous Bind Bypass $120
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/225	[radar] SN open bounty 2026-07-26T13:48
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1671	fix(write): preserve active facts until replacements are stored (#770)
+4	github	2.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1670	fix: Resolve #770 - [BOUNTY $100] 🐜The Memanto Bug & Exploit Challenge
+4	github	2.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/224	[radar] SN open bounty 2026-07-26T11:33
+3	github	9.5	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/FeeeeelixWong/intent-proof/issues/1	AI Agent Contribution Challenge: Up to 100 USDC for outstanding work
+3	github	8.6	$150	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1489	[BUG] JWT Kid Injection → Path Traversal → Secret Key Leak $150
+3	github	9.9	$200	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1664	feat(migration): agent operational-log adapter — migrate the correction structure, not just the text
+2	sn/bitcoin	22.5	-	OPEN_NEED	https://stacker.news/items/1532565	What Is a UTXO, and Why Does It Matter for Bitcoin Privacy?
+2	sn/bitcoin	18.7	-	OPEN_NEED	https://stacker.news/items/1532724	Leave sats on exchange for easy selling of fork or withdraw?
+2	sn/bitcoin	18.3	-	OPEN_NEED	https://stacker.news/items/1532737	Plebly - The Bitcoin Pleb Consortium
+2	sn/tech	10.6	-	OPEN_NEED	https://stacker.news/items/1532971	How do you stop YouTube's algorithm from deciding what you watch?
+2	github	9.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/FeeeeelixWong/intent-proof/issues/3	Agent task: Cover policy boundary conditions
+2	github	9.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/FeeeeelixWong/intent-proof/issues/2	Agent task: Verify exported receipt chains
+2	github	15.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellerforge-for-dev/stellarforge/issues/4	feat: implement balance checking
+2	github	27.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/0xNgoo/anchor-kit/issues/385	Validate Stellar asset code format
+2	github	2.9	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1669	feat(migration): add Codex memory to OKF adapter
+2	github	6.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1667	fix: Resolve #770 - [BOUNTY $100] 🐜The Memanto Bug & Exploit Challenge
+2	github	7.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1666	fix: migrate deprecated Pydantic V1 @validator to V2 @field_validator
+2	github	11.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1662	fix: remove duplicate SUCCESSFUL_UPLOAD_STATUSES constant [FaaFyfxR9WAQrL7FcAgEHJvztd8cVMxvjHRS55rw1nwH]
+2	github	11.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1661	fix: fix flaky test timing assertion and register asyncio marker in pytest.ini [FaaFyfxR9WAQrL7FcAgEHJvztd8cVMxvjHRS55rw
+1	github	47.1	500 USDC	OPEN_ISSUE	https://github.com/Farm-credit/stellar-app-os/issues/806	[Contract] Implement Verifier Registration Deposit Requirement
+0	github	69.9	-	OPEN_ISSUE	https://github.com/TrustHire/hiresettle-contract/issues/128	docs(readme): document token allowlist functions
+0	github	7.9	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1665	fix(write): update_memory bypasses contradiction resolution → silent coexistence of two active contradictory memories (#
+0	github	10.8	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1663	feat: add ChatGPT conversation memory adapter (OKF migration path) [FaaFyfxR9WAQrL7FcAgEHJvztd8cVMxvjHRS55rw1nwH]
