@@ -1,0 +1,26 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	0.9	$25	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/730	[Bounty] [BOUNTY] [$25] Give space carp visible feet
+5	github	0.9	$300	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/729	[Bounty] [BOUNTY] [$300] re-add nanites
+5	github	3.6	$200	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1686	fix: fix: Resolve #1609 - [BOUNTY $200] 🐜 The Great Memory Migr… (fixes #1683)
+4	sn/bitcoin	7.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1533826	Buying Bitcoin KYC/P2P? Do you know your exchange/peer fork policy?
+4	sn/tech	23.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1533420	How much energy do data centers and artificial intelligence use?
+4	github	3.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/345	[BOUNTY] [$300] re-add nanites
+3	sn/bitcoin	4.5	28 BTC	OPEN_NEED	https://stacker.news/items/1533916	The Messy Middle: Or What Actually Happens if BIP110 Splits the Chain
+3	github	19.4	56 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/ritik4ever/stellar-goal-vault/issues/612	[FEATURE] Add number formatting for large pledge amounts
+3	github	38.3	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/FeeeeelixWong/intent-proof/issues/1	AI Agent Contribution Challenge: Up to 100 USDC for outstanding work
+3	github	11.1	$50	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/710	[Bounty] [BOUNTY] [MONEY] [$50] Implement Dodge Rolling
+3	github	13.1	$150	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1503	[BUG] Race Condition in /tmp File Handling (TOCTOU) $150
+2	github	38.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/FeeeeelixWong/intent-proof/issues/3	Agent task: Cover policy boundary conditions
+2	github	38.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/FeeeeelixWong/intent-proof/issues/2	Agent task: Verify exported receipt chains
+2	github	43.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellerforge-for-dev/stellarforge/issues/4	feat: implement balance checking
+2	github	56.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/0xNgoo/anchor-kit/issues/385	Validate Stellar asset code format
+2	github	8.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/233	[radar] SN open bounty 2026-07-27T10:05
+2	github	11.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/232	[radar] SN open bounty 2026-07-27T07:43
+2	github	12.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/340	[BOUNTY] [$25] Give space carp visible feet
+0	github	8.5	-	OPEN_ISSUE	https://github.com/Neurowealth/NeuroWealth-Smartcontract/issues/423	Add event payload field descriptions to EVENTS.md for all missing fields
+0	github	5.2	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/604	[Search][Bounty] Add search result quality feedback loop to search_knowledge.py
+0	github	5.2	-	OPEN_ISSUE	https://github.com/raimeecas/mysql/issues/2	🎯 Prevent Connection Leak to Pool on Context Cancellation during `BeginTx()`
+0	github	5.2	-	OPEN_ISSUE	https://github.com/raimeecas/mysql/issues/1	🎯 Prevent Connection Pollution by Closing/Resetting Connection on Context Cancellation During `BeginTx`
+0	github	9.8	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1684	feat(examples): migrate MCP Memory Server graphs to portable OKF
+0	github	10.5	-	OPEN_ISSUE	https://github.com/zamariyahg/go-jose/issues/1	🎯 Ensure Database Transaction Rollback on Migration Failure to Prevent Dirty State
+0	github	13.0	-	OPEN_ISSUE	https://github.com/madalynerlge2/chi/issues/1	🎯 Fix URL Parameter Loss When `Request.URL.Path` is Rewritten by Middleware
