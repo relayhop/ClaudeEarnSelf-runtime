@@ -1,0 +1,26 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	14.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1533211	Sunday Survey: How many blocks will BIP110 signaling blocks be mined on 8/8/26?
+4	sn/tech	10.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1533420	How much energy do data centers and artificial intelligence use?
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/madalynerlge2/cobra/issues/1	🎯 Fix silent failure of `MarkFlagsRequiredTogether` for inherited persistent flags
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/tokenization-singapore/issues/3	[BOUNTY] Implement P2P Messaging System with WebSocket for Investors
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1682	[#770] Reject NaN and infinity in persisted float configuration
+4	github	1.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/231	[radar] SN open bounty 2026-07-27T03:56
+4	github	2.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/madalynerlge2/cli/issues/1	🎯 Fix: Redirect GitHub App token refresh logs to stderr to prevent invalid JSON output
+3	github	5.9	56 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/ritik4ever/stellar-goal-vault/issues/612	[FEATURE] Add number formatting for large pledge amounts
+3	github	24.8	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/FeeeeelixWong/intent-proof/issues/1	AI Agent Contribution Challenge: Up to 100 USDC for outstanding work
+3	github	10.8	$25	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/706	[Bounty] [BOUNTY] [$25] Prove that you personally smelled a number we have not chosen yet
+3	github	10.8	$600	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/707	[Bounty] [Bounty] [$600] Add Thursday's Boots
+3	github	11.8	$100	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1679	fix(#770): resolve update_memory contradiction — validate before document build
+2	sn/bitcoin	12.8	-	OPEN_NEED	https://stacker.news/items/1533307	What’s the best wallet to connect to SN?
+2	github	24.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/FeeeeelixWong/intent-proof/issues/3	Agent task: Cover policy boundary conditions
+2	github	24.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/FeeeeelixWong/intent-proof/issues/2	Agent task: Verify exported receipt chains
+2	github	30.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellerforge-for-dev/stellarforge/issues/4	feat: implement balance checking
+2	github	42.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/0xNgoo/anchor-kit/issues/385	Validate Stellar asset code format
+2	github	6.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/230	[radar] SN open bounty 2026-07-26T23:07
+2	github	8.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/229	[radar] SN open bounty 2026-07-26T21:08
+2	github	10.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/228	[radar] SN open bounty 2026-07-26T19:24
+2	github	11.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1678	feat: Ollama embeddings migration adapter for memanto migrate (#1609)
+2	github	12.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/227	[radar] SN open bounty 2026-07-26T17:11
+1	github	62.4	500 USDC	OPEN_ISSUE	https://github.com/Farm-credit/stellar-app-os/issues/806	[Contract] Implement Verifier Registration Deposit Requirement
+0	github	11.7	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1681	fix: preserve provenance field when updating memories [FaaFyfxR9WAQrL7FcAgEHJvztd8cVMxvjHRS55rw1nwH]
+0	github	11.7	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1680	fix: use aware datetime and preserve metadata in _supersede [FaaFyfxR9WAQrL7FcAgEHJvztd8cVMxvjHRS55rw1nwH]
