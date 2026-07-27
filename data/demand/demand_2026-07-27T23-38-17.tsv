@@ -1,0 +1,27 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	3.1	-	OPEN_NEED	https://stacker.news/items/1534239	What’s the difference between a soft fork, a hard fork, and a chain split?
+4	sn/bitcoin	11.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1533826	Buying Bitcoin KYC/P2P? Do you know your exchange/peer fork policy?
+4	sn/bitcoin	4.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1534205	El costo oculto de la soberanía: ¿Tu nodo es realmente tuyo?
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1699	fix(write): batch supersede executes before replacements are stored
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1698	fix(migrate): OKF round-trip resurrects superseded memories as active
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1697	fix(read): search_changed_since returns superseded memories as false changes
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1696	fix(validation): _supersede drops expires_at, ttl_seconds, source_ref fields
+4	github	1.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1695	fix(read): search_as_of returns superseded memories, corrupting point-in-time recall (#770)
+3	sn/bitcoin	9.1	28 BTC	OPEN_NEED	https://stacker.news/items/1533916	The Messy Middle: Or What Actually Happens if BIP110 Splits the Chain
+3	github	24.1	56 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/ritik4ever/stellar-goal-vault/issues/612	[FEATURE] Add number formatting for large pledge amounts
+3	github	42.9	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/FeeeeelixWong/intent-proof/issues/1	AI Agent Contribution Challenge: Up to 100 USDC for outstanding work
+3	github	5.5	$300	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/729	[Bounty] [BOUNTY] [$300] re-add nanites
+3	github	5.5	$25	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/730	[Bounty] [BOUNTY] [$25] Give space carp visible feet
+3	github	8.2	$200	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1686	fix: fix: Resolve #1609 - [BOUNTY $200] 🐜 The Great Memory Migr… (fixes #1683)
+2	github	42.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/FeeeeelixWong/intent-proof/issues/3	Agent task: Cover policy boundary conditions
+2	github	42.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/FeeeeelixWong/intent-proof/issues/2	Agent task: Verify exported receipt chains
+2	github	48.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellerforge-for-dev/stellarforge/issues/4	feat: implement balance checking
+2	github	60.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/0xNgoo/anchor-kit/issues/385	Validate Stellar asset code format
+2	github	8.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/345	[BOUNTY] [$300] re-add nanites
+0	github	13.2	-	OPEN_ISSUE	https://github.com/Neurowealth/NeuroWealth-Smartcontract/issues/423	Add event payload field descriptions to EVENTS.md for all missing fields
+0	github	9.8	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/604	[Search][Bounty] Add search result quality feedback loop to search_knowledge.py
+0	github	9.8	-	OPEN_ISSUE	https://github.com/raimeecas/mysql/issues/2	🎯 Prevent Connection Leak to Pool on Context Cancellation during `BeginTx()`
+0	github	9.9	-	OPEN_ISSUE	https://github.com/raimeecas/mysql/issues/1	🎯 Prevent Connection Pollution by Closing/Resetting Connection on Context Cancellation During `BeginTx`
+0	github	13.5	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/233	[radar] SN open bounty 2026-07-27T10:05
+0	github	14.5	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1684	feat(examples): migrate MCP Memory Server graphs to portable OKF
+0	github	15.1	-	OPEN_ISSUE	https://github.com/zamariyahg/go-jose/issues/1	🎯 Ensure Database Transaction Rollback on Migration Failure to Prevent Dirty State
