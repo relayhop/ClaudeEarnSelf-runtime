@@ -1,0 +1,11 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH_LOW_COMP	github	0.6	0	0	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1503	[BUG] Race Condition in /tmp File Handling (TOCTOU) $150
+FRESH_LOW_COMP	github	0.6	0	0	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1502	[BUG] AWS IAM Privilege Escalation via PassRole + EC2 $150
+FRESH_LOW_COMP	github	0.6	0	0	https://github.com/zhangjiayang6835-cyber/ai-research/issues/1501	[BUG] Reentrancy via ERC-777 Callback in Withdraw Function $180
+FRESH_LOW_COMP	github	0.9	0	0	https://github.com/Iamgoofball/-tg-station/issues/338	[BOUNTY] [MONEY] [$50] Implement Dodge Rolling
+FRESH_LOW_COMP	github	1.5	0	0	https://github.com/DanielIoni-creator/tokenization-singapore/issues/3	[BOUNTY] Implement P2P Messaging System with WebSocket for Investors
+FRESH_LOW_COMP	github	2.6	0	0	https://github.com/relayhop/sn-monetization-runtime/issues/231	[radar] SN open bounty 2026-07-27T03:56
+FRESH	github	0.1	0	2	https://github.com/madalynerlge2/redis/issues/1	🎯 Fix Pipeline.Exec() returning nil command errors and dropping subsequent commands on context deadline
+FRESH	github	0.5	0	2	https://github.com/madalynerlge2/chi/issues/1	🎯 Fix URL Parameter Loss When `Request.URL.Path` is Rewritten by Middleware
+FRESH	github	2.0	0	2	https://github.com/moorcheh-ai/memanto/pull/1682	[#770] Reject NaN and infinity in persisted float configuration
+FRESH	github	3.4	0	2	https://github.com/madalynerlge2/cli/issues/1	🎯 Fix: Redirect GitHub App token refresh logs to stderr to prevent invalid JSON output
