@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+7	sn/bitcoin	3.1	$5	OPEN_NEED,LOW_COMP	https://stacker.news/items/1534531	I gave an AI agent one measurable goal: earn $5. Here is what did not count.
+4	sn/bitcoin	21.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1533826	Buying Bitcoin KYC/P2P? Do you know your exchange/peer fork policy?
+4	sn/bitcoin	13.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1534205	El costo oculto de la soberanía: ¿Tu nodo es realmente tuyo?
+4	github	3.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Thalos-Infrastructure/ThalosFrontend/issues/109	Add Accesly (passkey, non-custodial) as a login method
+4	github	3.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Thalos-Infrastructure/ThalosFrontend/issues/108	Add social/passkey login with auto-generated Stellar wallet - Pollar implementation
+4	github	1.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Kubo-cmd/lyta-shield/issues/2	🚩 Red team challenge: bypass LYTA Shield in a live Hermes chat
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/738	[Bounty] [DIRECT] Restore the public ChatGPT bounty inventory tool
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/737	[Bounty] [DIRECT] Add an end-to-end profitable inventory contract test
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/735	[Bounty] [DIRECT] Make activation reconciliation lifecycle-aware
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/736	[Bounty] [DIRECT] Show solver cash margin before claim
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/734	[Bounty] [DIRECT] Add a reusable five-bounty direct seed runner
+3	github	33.8	56 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/ritik4ever/stellar-goal-vault/issues/612	[FEATURE] Add number formatting for large pledge amounts
+3	github	52.6	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/FeeeeelixWong/intent-proof/issues/1	AI Agent Contribution Challenge: Up to 100 USDC for outstanding work
+3	github	10.3	00 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/NSPG13/agent-bounties/issues/638	[DIRECT] Expose direct-bounty verifier-readiness diagnostics
+3	github	10.3	00 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/NSPG13/agent-bounties/issues/637	[DIRECT] Make activation reconciliation lifecycle-aware
+3	github	10.3	00 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/NSPG13/agent-bounties/issues/636	[DIRECT] Show solver cash margin before claim
+3	github	10.3	00 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/NSPG13/agent-bounties/issues/635	[DIRECT] Add an end-to-end profitable inventory contract test
+3	github	10.3	00 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/NSPG13/agent-bounties/issues/634	[DIRECT] Restore the public ChatGPT bounty inventory tool
+2	sn/bitcoin	12.7	-	OPEN_NEED	https://stacker.news/items/1534239	What’s the difference between a soft fork, a hard fork, and a chain split?
+2	github	52.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/FeeeeelixWong/intent-proof/issues/3	Agent task: Cover policy boundary conditions
+2	github	52.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/FeeeeelixWong/intent-proof/issues/2	Agent task: Verify exported receipt chains
+2	github	58.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellerforge-for-dev/stellarforge/issues/4	feat: implement balance checking
+2	github	70.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/0xNgoo/anchor-kit/issues/385	Validate Stellar asset code format
+2	github	11.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1699	fix(write): batch supersede executes before replacements are stored
+2	github	11.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1698	fix(migrate): OKF round-trip resurrects superseded memories as active
+2	github	11.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1697	fix(read): search_changed_since returns superseded memories as false changes
+0	github	22.9	-	OPEN_ISSUE	https://github.com/Neurowealth/NeuroWealth-Smartcontract/issues/423	Add event payload field descriptions to EVENTS.md for all missing fields
+0	github	9.2	-	OPEN_ISSUE	https://github.com/kyresehk190/vault/issues/2	🎯 Fix `vault login -method=oidc -format=json` returning exit code 0 on callback timeout/failure
