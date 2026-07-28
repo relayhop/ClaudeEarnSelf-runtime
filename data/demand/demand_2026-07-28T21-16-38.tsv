@@ -1,0 +1,30 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	3.4	500 USD	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/741	[Bounty] [BOUNTY] 500 USD - Add Runescape inspired chat effects
+4	sn/bitcoin	5.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1534831	Repost: Request: Make this anonymous?
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1707	fix(migrate): update Mem0 export to v3 API
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1706	fix(export): split comma-separated tags in OKF export [FaaFyfxR9WAQrL7FcAgEHJvztd8cVMxvjHRS55rw1nwH]
+4	github	1.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1705	fix(migrate): use valid source for imported memories
+3	github	64.6	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/FeeeeelixWong/intent-proof/issues/1	AI Agent Contribution Challenge: Up to 100 USDC for outstanding work
+3	github	3.5	10 USDC	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/664	[SYNTHETIC CANARY] Repair claim-next-action state mapper
+2	github	7.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarState/SS-backend/issues/139	[BACKEND] Build seller invoice discounting & yield calculator utility service
+2	github	8.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Quittance-Labs/Quittance0/issues/125	test(backend): isolated smoke — sum amounts for USDC only (backend/tests/isolated/084-sum-usdc.test.js)
+2	github	8.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Quittance-Labs/Quittance0/issues/66	docs: add contributor note — USDC asset code / issuer notes (docs/contributor-notes/023-asset-usdc.md)
+2	github	15.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Thalos-Infrastructure/ThalosFrontend/issues/109	Add Accesly (passkey, non-custodial) as a login method
+2	github	64.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/FeeeeelixWong/intent-proof/issues/3	Agent task: Cover policy boundary conditions
+2	github	64.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/FeeeeelixWong/intent-proof/issues/2	Agent task: Verify exported receipt chains
+2	github	70.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellerforge-for-dev/stellarforge/issues/4	feat: implement balance checking
+2	github	4.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Iamgoofball/-tg-station/issues/371	[BOUNTY] 500 USD - Add Runescape inspired chat effects
+2	github	5.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1703	feat(examples): migrate Antigravity brain archives through OKF
+2	github	6.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1702	feat(migration): add Zep/Graphiti → OKF migration adapter
+2	github	14.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/738	[Bounty] [DIRECT] Restore the public ChatGPT bounty inventory tool
+2	github	14.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/737	[Bounty] [DIRECT] Add an end-to-end profitable inventory contract test
+2	github	14.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/736	[Bounty] [DIRECT] Show solver cash margin before claim
+2	github	14.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/735	[Bounty] [DIRECT] Make activation reconciliation lifecycle-aware
+2	github	14.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/734	[Bounty] [DIRECT] Add a reusable five-bounty direct seed runner
+1	github	45.7	56 USDC	OPEN_ISSUE	https://github.com/ritik4ever/stellar-goal-vault/issues/612	[FEATURE] Add number formatting for large pledge amounts
+0	github	4.5	-	OPEN_ISSUE	https://github.com/TrusTrove/TrusTrove-contract/issues/458	bug(docs): escrow contract initialize doc comment contains misplaced line for usdc_client
+0	github	7.2	-	OPEN_ISSUE	https://github.com/StellarState/SS-backend/issues/175	[TESTING] Add unit tests for stroopsToXlm and xlmToStroops unit conversion helpers
+0	github	15.8	-	OPEN_ISSUE	https://github.com/Thalos-Infrastructure/ThalosFrontend/issues/108	Add social/passkey login with auto-generated Stellar wallet - Pollar implementation
+0	github	34.8	-	OPEN_ISSUE	https://github.com/Neurowealth/NeuroWealth-Smartcontract/issues/423	Add event payload field descriptions to EVENTS.md for all missing fields
+0	github	10.5	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1701	fix: resolve 3 bugs for Bounty #770 (duplicate constant, flaky test, deprecated utcnow) [FaaFyfxR9WAQrL7FcAgEHJvztd8cVMx
+0	github	21.1	-	OPEN_ISSUE	https://github.com/kyresehk190/vault/issues/2	🎯 Fix `vault login -method=oidc -format=json` returning exit code 0 on callback timeout/failure
