@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	20.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1534831	Repost: Request: Make this anonymous?
+4	github	1.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1716	feat: migrate LangGraph SQLite checkpoints to OKF
+4	github	3.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1715	feat: ChatGPT conversation export → OKF migration adapter (Path B showcase) [FaaFyfxR9WAQrL7FcAgEHJvztd8cVMxvjHRS55rw1nw
+3	github	6.2	$67	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/747	[Bounty] [BOUNTY][$67] Add the Tung Tung Tung Sahur antagonist.
+3	github	6.2	$640	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/746	[Bounty] [BOUNTY][$640][FIX] Fix the compatability issues with the TempleOS operating sys
+3	github	6.2	$600	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/745	[Bounty] [Bounty] [$600] Add Thursday's Boots
+3	github	7.5	$640	OPEN_ISSUE,LOW_COMP	https://github.com/theselfish/SlopStation13/issues/4	[BOUNTY][$640][FIX] Fix the compatability issues with the TempleOS operating system.
+3	github	10.1	$200	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1714	feat(migration): add ChatGPT data export (conversations.json) → OKF migration adapter (#1609)
+3	github	10.1	$200	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1713	feat(migration): add LangMem / LangChain memory → OKF migration adapter (#1609)
+3	github	10.5	$200	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1711	feat(migration): add AutoGen multi-agent state → OKF migration adapter (#1609)
+3	github	10.6	$200	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1710	feat(migration): add CrewAI memory → OKF migration adapter (#1609)
+2	github	13.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-Ecosystem/lodestar/issues/375	Frontend: `parseFloat` used for price sorting on currency strings
+2	github	13.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-Ecosystem/lodestar/issues/323	Agents: default spending limits are dangerously permissive
+2	github	14.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritik4ever/stellar-stream/issues/764	[FEATURE] Add number formatting utilities (locale-aware)
+2	github	22.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarState/SS-backend/issues/139	[BACKEND] Build seller invoice discounting & yield calculator utility service
+2	github	24.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Quittance-Labs/Quittance0/issues/125	test(backend): isolated smoke — sum amounts for USDC only (backend/tests/isolated/084-sum-usdc.test.js)
+2	github	24.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Quittance-Labs/Quittance0/issues/66	docs: add contributor note — USDC asset code / issuer notes (docs/contributor-notes/023-asset-usdc.md)
+2	github	7.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/theselfish/SlopStation13/issues/5	[Bounty] [$600] Add Thursday's Boots
+2	github	7.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/theselfish/SlopStation13/issues/3	[BOUNTY][$67] Add the Tung Tung Tung Sahur antagonist.
+2	github	7.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/theselfish/SlopStation13/issues/2	[BOUNTY][UNCLAIMED] Add the Kirkificator
+2	github	7.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/theselfish/SlopStation13/issues/1	[BOUNTY] Bounties and Issues Guidelines [READ AND OBEY OR BE DISQUALIFIED]
+2	github	10.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1712	Harden invalid session marker cleanup
+1	github	61.0	56 USDC	OPEN_ISSUE	https://github.com/ritik4ever/stellar-goal-vault/issues/612	[FEATURE] Add number formatting for large pledge amounts
+0	github	19.7	-	OPEN_ISSUE	https://github.com/TrusTrove/TrusTrove-contract/issues/458	bug(docs): escrow contract initialize doc comment contains misplaced line for usdc_client
+0	github	22.4	-	OPEN_ISSUE	https://github.com/StellarState/SS-backend/issues/175	[TESTING] Add unit tests for stroopsToXlm and xlmToStroops unit conversion helpers
+0	github	30.9	-	OPEN_ISSUE	https://github.com/Thalos-Infrastructure/ThalosFrontend/issues/109	Add Accesly (passkey, non-custodial) as a login method
+0	github	31.0	-	OPEN_ISSUE	https://github.com/Thalos-Infrastructure/ThalosFrontend/issues/108	Add social/passkey login with auto-generated Stellar wallet - Pollar implementation
+0	github	50.1	-	OPEN_ISSUE	https://github.com/Neurowealth/NeuroWealth-Smartcontract/issues/423	Add event payload field descriptions to EVENTS.md for all missing fields
