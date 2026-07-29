@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	3.5	-	OPEN_NEED	https://stacker.news/items/1535596	Looking for someone to record a voiceover for a Bitcoin commercial.  Gig pays.
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1720	feat: add semantic OKF bundle diff
+3	github	5.4	$200	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1718	feat: ChatGPT & Claude conversation migration adapters
+3	github	13.3	$640	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/746	[Bounty] [BOUNTY][$640][FIX] Fix the compatability issues with the TempleOS operating sys
+3	github	13.3	$600	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/745	[Bounty] [Bounty] [$600] Add Thursday's Boots
+3	github	14.6	$640	OPEN_ISSUE,LOW_COMP	https://github.com/theselfish/SlopStation13/issues/4	[BOUNTY][$640][FIX] Fix the compatability issues with the TempleOS operating system.
+3	github	17.2	$200	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1714	feat(migration): add ChatGPT data export (conversations.json) → OKF migration adapter (#1609)
+2	github	20.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-Ecosystem/lodestar/issues/375	Frontend: `parseFloat` used for price sorting on currency strings
+2	github	20.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-Ecosystem/lodestar/issues/323	Agents: default spending limits are dangerously permissive
+2	github	21.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritik4ever/stellar-stream/issues/764	[FEATURE] Add number formatting utilities (locale-aware)
+2	github	29.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarState/SS-backend/issues/139	[BACKEND] Build seller invoice discounting & yield calculator utility service
+2	github	31.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Quittance-Labs/Quittance0/issues/125	test(backend): isolated smoke — sum amounts for USDC only (backend/tests/isolated/084-sum-usdc.test.js)
+2	github	31.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Quittance-Labs/Quittance0/issues/66	docs: add contributor note — USDC asset code / issuer notes (docs/contributor-notes/023-asset-usdc.md)
+2	github	8.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1716	feat: migrate LangGraph SQLite checkpoints to OKF
+2	github	10.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1715	feat: ChatGPT conversation export → OKF migration adapter (Path B showcase) [FaaFyfxR9WAQrL7FcAgEHJvztd8cVMxvjHRS55rw1nw
+2	github	14.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/theselfish/SlopStation13/issues/5	[Bounty] [$600] Add Thursday's Boots
+2	github	14.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/theselfish/SlopStation13/issues/3	[BOUNTY][$67] Add the Tung Tung Tung Sahur antagonist.
+2	github	14.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/theselfish/SlopStation13/issues/2	[BOUNTY][UNCLAIMED] Add the Kirkificator
+2	github	14.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/theselfish/SlopStation13/issues/1	[BOUNTY] Bounties and Issues Guidelines [READ AND OBEY OR BE DISQUALIFIED]
+1	github	68.1	56 USDC	OPEN_ISSUE	https://github.com/ritik4ever/stellar-goal-vault/issues/612	[FEATURE] Add number formatting for large pledge amounts
+1	github	13.3	$67	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/747	[Bounty] [BOUNTY][$67] Add the Tung Tung Tung Sahur antagonist.
+0	github	26.8	-	OPEN_ISSUE	https://github.com/TrusTrove/TrusTrove-contract/issues/458	bug(docs): escrow contract initialize doc comment contains misplaced line for usdc_client
+0	github	29.5	-	OPEN_ISSUE	https://github.com/StellarState/SS-backend/issues/175	[TESTING] Add unit tests for stroopsToXlm and xlmToStroops unit conversion helpers
+0	github	38.0	-	OPEN_ISSUE	https://github.com/Thalos-Infrastructure/ThalosFrontend/issues/109	Add Accesly (passkey, non-custodial) as a login method
+0	github	38.1	-	OPEN_ISSUE	https://github.com/Thalos-Infrastructure/ThalosFrontend/issues/108	Add social/passkey login with auto-generated Stellar wallet - Pollar implementation
+0	github	57.2	-	OPEN_ISSUE	https://github.com/Neurowealth/NeuroWealth-Smartcontract/issues/423	Add event payload field descriptions to EVENTS.md for all missing fields
+0	github	4.2	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/657	[Bounty] Contribute a high-quality lesson in Russian
+0	github	5.0	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/646	[Onboarding] Try MisakaNet — search a lesson + register your node
