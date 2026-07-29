@@ -1,0 +1,17 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH_LOW_COMP	github	0.8	0	0	https://github.com/theselfish/SlopStation13/issues/3	[BOUNTY][$67] Add the Tung Tung Tung Sahur antagonist.
+FRESH_LOW_COMP	github	0.8	0	0	https://github.com/theselfish/SlopStation13/issues/2	[BOUNTY][UNCLAIMED] Add the Kirkificator
+FRESH_LOW_COMP	github	0.9	0	0	https://github.com/theselfish/SlopStation13/issues/1	[BOUNTY] Bounties and Issues Guidelines [READ AND OBEY OR BE DISQUALIFIED]
+FRESH	github	0.8	0	1	https://github.com/theselfish/SlopStation13/issues/5	[Bounty] [$600] Add Thursday's Boots
+FRESH	github	0.8	0	1	https://github.com/theselfish/SlopStation13/issues/4	[BOUNTY][$640][FIX] Fix the compatability issues with the TempleOS operating system.
+FRESH	sn/bitcoin	2.7	0	0	https://stacker.news/items/1535282	Silent Payments functions merged into libsecp256k1 - BIP352 | Pull Request #1765
+FRESH	github	3.5	0	1	https://github.com/moorcheh-ai/memanto/pull/1714	feat(migration): add ChatGPT data export (conversations.json) → OKF migration adapter (#1609)
+FRESH	github	3.5	0	1	https://github.com/moorcheh-ai/memanto/pull/1713	feat(migration): add LangMem / LangChain memory → OKF migration adapter (#1609)
+FRESH	github	3.7	0	1	https://github.com/moorcheh-ai/memanto/pull/1712	Harden invalid session marker cleanup
+FRESH	github	3.9	0	1	https://github.com/moorcheh-ai/memanto/pull/1711	feat(migration): add AutoGen multi-agent state → OKF migration adapter (#1609)
+FRESH	github	4.0	0	1	https://github.com/moorcheh-ai/memanto/pull/1710	feat(migration): add CrewAI memory → OKF migration adapter (#1609)
+FRESH	github	4.1	0	1	https://github.com/moorcheh-ai/memanto/pull/1708	fix: caller auth enforcement on agent management + /status endpoint (#1436)
+FRESH	github	4.3	0	3	https://github.com/NSPG13/agent-bounties/issues/686	[DIRECT] Add a concise direct-bounty evidence checklist
+FRESH	github	4.3	0	3	https://github.com/NSPG13/agent-bounties/issues/684	[DIRECT] Add a fail-closed API test for stale domain origins
+FRESH	github	4.3	0	3	https://github.com/NSPG13/agent-bounties/issues/685	[DIRECT] Add MCP/API tool-registry drift coverage
+FRESH	github	4.3	0	3	https://github.com/NSPG13/agent-bounties/issues/683	[DIRECT] Add a ready-to-earn inventory filter regression test
