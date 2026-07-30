@@ -1,0 +1,30 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	6.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1535905	The Forest Reunion - How I lost my passion for music.
+4	sn/bitcoin	13.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1535759	¿Mempool vacía o calma antes de la siguiente tormenta?
+4	github	0.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1728	fix: two data-loss bugs in point-in-time recall and conflict resolution
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1727	feat: Add multi-agent support for recall
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1726	fix: [BOUNTY $200] 🐜 The Great Memory Migration: Own Your Agentic Memory with Memanto + OKF
+2	sn/bitcoin	17.9	-	OPEN_NEED	https://stacker.news/items/1535596	Looking for someone to record a voiceover for a Bitcoin commercial.  Gig pays.
+2	github	34.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-Ecosystem/lodestar/issues/375	Frontend: `parseFloat` used for price sorting on currency strings
+2	github	34.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-Ecosystem/lodestar/issues/323	Agents: default spending limits are dangerously permissive
+2	github	35.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritik4ever/stellar-stream/issues/764	[FEATURE] Add number formatting utilities (locale-aware)
+2	github	44.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarState/SS-backend/issues/139	[BACKEND] Build seller invoice discounting & yield calculator utility service
+2	github	45.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Quittance-Labs/Quittance0/issues/125	test(backend): isolated smoke — sum amounts for USDC only (backend/tests/isolated/084-sum-usdc.test.js)
+2	github	45.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Quittance-Labs/Quittance0/issues/66	docs: add contributor note — USDC asset code / issuer notes (docs/contributor-notes/023-asset-usdc.md)
+2	github	3.7	-	OPEN_ISSUE	https://github.com/DanielIoni-creator/MyZubsterWeb/issues/2	[Bounty] Complete marketplace API integration (orders, payments, users, webhooks)
+2	github	4.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/66	[Bounty] Escrow gateway to coordinate orders and signatures
+2	github	4.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/64	[Bounty] Integrate 2/3 multisig wallet with Monero
+2	github	4.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/63	[Bounty] Escrow gateway to coordinate orders and signatures
+2	github	4.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/62	[Bounty] Create AI agent for multisig (third signer)
+2	github	6.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1725	fix: [BOUNTY $100] 🐜The Memanto Bug & Exploit Challenge
+1	github	4.8	$5	OPEN_ISSUE	https://github.com/Vicentegg4212/sasmex-rss-bounty/issues/1	$5 Reward: find one Mexican RSS feed for SASMEX
+0	github	41.2	-	OPEN_ISSUE	https://github.com/TrusTrove/TrusTrove-contract/issues/458	bug(docs): escrow contract initialize doc comment contains misplaced line for usdc_client
+0	github	43.9	-	OPEN_ISSUE	https://github.com/StellarState/SS-backend/issues/175	[TESTING] Add unit tests for stroopsToXlm and xlmToStroops unit conversion helpers
+0	github	52.4	-	OPEN_ISSUE	https://github.com/Thalos-Infrastructure/ThalosFrontend/issues/109	Add Accesly (passkey, non-custodial) as a login method
+0	github	52.5	-	OPEN_ISSUE	https://github.com/Thalos-Infrastructure/ThalosFrontend/issues/108	Add social/passkey login with auto-generated Stellar wallet - Pollar implementation
+0	github	71.5	-	OPEN_ISSUE	https://github.com/Neurowealth/NeuroWealth-Smartcontract/issues/423	Add event payload field descriptions to EVENTS.md for all missing fields
+0	github	4.8	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubster-Marketplace/issues/1	[Bounty] Integrate escrow with the marketplace
+0	github	4.8	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/65	[Bounty] Create AI agent for multisig (third signer)
+0	github	4.8	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/61	[Bounty] Integrate 2/3 multisig wallet with Monero
+0	github	4.9	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/60	[Bounty] Integrate 2/3 multisig wallet with Monero
+0	github	7.2	-	OPEN_ISSUE	https://github.com/jahmeergnlt/traefik/issues/1	🎯 Fix Race Condition Causing Stale Middleware Chain During Concurrent Provider Updates
