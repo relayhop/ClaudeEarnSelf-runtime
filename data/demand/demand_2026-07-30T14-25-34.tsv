@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	10.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1535905	The Forest Reunion - How I lost my passion for music.
+4	sn/bitcoin	17.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1535759	¿Mempool vacía o calma antes de la siguiente tormenta?
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/105	[Bounty] API for Seed & Cutting Exchange
+4	github	2.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1732	feat(migrations): add privacy-first Codex session to OKF adapter
+4	github	2.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/97	[Bounty] API per ricevere dati da Arduino (IoT)
+4	github	3.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/96	[Bounty] API per ricevere dati da Arduino (IoT)
+4	github	3.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/myzubster/issues/17	[Bounty] Geolocalizzazione automatica e ricerca per area
+4	github	3.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1731	fix(conflicts): resolving a conflict from the Web UI deletes another conflict's memories (#770)
+2	sn/bitcoin	22.3	-	OPEN_NEED	https://stacker.news/items/1535596	Looking for someone to record a voiceover for a Bitcoin commercial.  Gig pays.
+2	github	38.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-Ecosystem/lodestar/issues/375	Frontend: `parseFloat` used for price sorting on currency strings
+2	github	38.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-Ecosystem/lodestar/issues/323	Agents: default spending limits are dangerously permissive
+2	github	40.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritik4ever/stellar-stream/issues/764	[FEATURE] Add number formatting utilities (locale-aware)
+2	github	48.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarState/SS-backend/issues/139	[BACKEND] Build seller invoice discounting & yield calculator utility service
+2	github	50.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Quittance-Labs/Quittance0/issues/125	test(backend): isolated smoke — sum amounts for USDC only (backend/tests/isolated/084-sum-usdc.test.js)
+2	github	50.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Quittance-Labs/Quittance0/issues/66	docs: add contributor note — USDC asset code / issuer notes (docs/contributor-notes/023-asset-usdc.md)
+2	github	0.2	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/109	[Bounty] Seed Exchange: add CSV/GeoJSON export endpoints
+2	github	1.3	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/104	[Bounty] API per Scambio di semi e talee
+2	github	4.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1728	fix: two data-loss bugs in point-in-time recall and conflict resolution
+2	github	4.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1727	feat: Add multi-agent support for recall
+2	github	6.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1726	fix: [BOUNTY $200] 🐜 The Great Memory Migration: Own Your Agentic Memory with Memanto + OKF
+1	github	9.2	$5	OPEN_ISSUE	https://github.com/Vicentegg4212/sasmex-rss-bounty/issues/1	$5 Reward: find one Mexican RSS feed for SASMEX
+0	github	45.6	-	OPEN_ISSUE	https://github.com/TrusTrove/TrusTrove-contract/issues/458	bug(docs): escrow contract initialize doc comment contains misplaced line for usdc_client
+0	github	48.3	-	OPEN_ISSUE	https://github.com/StellarState/SS-backend/issues/175	[TESTING] Add unit tests for stroopsToXlm and xlmToStroops unit conversion helpers
+0	github	56.8	-	OPEN_ISSUE	https://github.com/Thalos-Infrastructure/ThalosFrontend/issues/109	Add Accesly (passkey, non-custodial) as a login method
+0	github	56.9	-	OPEN_ISSUE	https://github.com/Thalos-Infrastructure/ThalosFrontend/issues/108	Add social/passkey login with auto-generated Stellar wallet - Pollar implementation
+0	github	4.4	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1729	feat: migrate n8n execution history to portable OKF
+0	github	8.1	-	OPEN_ISSUE	https://github.com/DanielIoni-creator/MyZubsterWeb/issues/2	[Bounty] Complete marketplace API integration (orders, payments, users, webhooks)
+0	github	9.2	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubster-Marketplace/issues/1	[Bounty] Integrate escrow with the marketplace
