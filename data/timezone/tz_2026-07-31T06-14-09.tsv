@@ -1,0 +1,9 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH	github	0.5	0	1	https://github.com/moorcheh-ai/memanto/pull/1744	feat: Comprehensive Memanto vs Competitors Benchmark (#770)
+FRESH	github	1.9	0	2	https://github.com/moorcheh-ai/memanto/pull/1743	fix: prevent FastAPI Header metadata from becoming an API key
+FRESH	github	3.4	0	2	https://github.com/moorcheh-ai/memanto/pull/1742	feat(migrations): add Claude Code memory adapter to OKF (#1609)
+FRESH	github	3.7	0	5	https://github.com/moorcheh-ai/memanto/pull/1741	fix: agent deletion leaves memories, sessions, and conflicts (data resurrection bug) #770
+FRESH	github	4.3	0	3	https://github.com/moorcheh-ai/memanto/pull/1740	fix(integrations): restore valid memory writes
+FRESH	github	5.0	0	2	https://github.com/moorcheh-ai/memanto/pull/1739	[Bug Fix] Batch memory constants dedup, is_valid_memory_id hardening, and input validation
+FRESH	github	5.3	0	1	https://github.com/moorcheh-ai/memanto/pull/1738	perf(okf): prevent quadratic link parsing in malformed notes
+FRESH	sn/bitcoin	5.8	0	5	https://stacker.news/items/1536555	BearBull: Lightning-native pari-mutuel BTC prediction market (raising on Geyser)
