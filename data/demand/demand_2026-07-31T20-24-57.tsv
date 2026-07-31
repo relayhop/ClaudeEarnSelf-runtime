@@ -1,0 +1,34 @@
+# score	source	age_h	payout_hint	tags	url	title
+7	sn/bitcoin	3.8	20 sats	OPEN_NEED,LOW_COMP	https://stacker.news/items/1537111	Latest Strikes 30 - Junly 20th-26th 2026
+6	sn/bitcoin	1.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1537267	Spiral x Goose: The Best is Yet to Honk
+5	sn/bitcoin	2.7	$150	OPEN_NEED	https://stacker.news/items/1537204	The False Promise of Commercial Hardware Wallets
+4	sn/bitcoin	6.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1536955	Will MemPool fees be significantly higher today because of the ColdCard issue?
+4	sn/bitcoin	8.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1536852	Are We Taking Bitcoin Privacy Seriously Enough?
+4	sn/tech	21.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1536450	Is The State Department Really Building "Freedom Tech"?
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1746	fix: prevent LangGraph key collisions and stale agent locks
+3	github	14.7	$100	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1744	feat: Comprehensive Memanto vs Competitors Benchmark (#770)
+2	sn/bitcoin	5.4	-	OPEN_NEED	https://stacker.news/items/1537022	Pleb Economist #13: ColdCard and the Law of Large Numbers
+2	sn/bitcoin	5.7	-	OPEN_NEED	https://stacker.news/items/1536996	Let's crowdsource a very short guide for people who used Coldcards
+2	sn/bitcoin	8.6	-	OPEN_NEED	https://stacker.news/items/1536864	What is your spouse's response to the ColdCard entropy vulnerability?
+2	github	4.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/hiero-hackers/hiero-x402/issues/11	Hub: show a running spend total against the cap
+2	github	8.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Novatip/novatip-contracts/issues/21	test: cover tipping with an insufficient sender balance
+2	github	27.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/figranium/figranium/issues/323	Source-confirmed: raw cron validation accepts impossible field values
+2	github	28.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/amankoli09/LynxX/issues/42	Issue 3: Claim Link Landing Page
+2	github	28.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/amankoli09/LynxX/issues/41	Issue 2: Create Escrow UI Form
+2	github	68.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-Ecosystem/lodestar/issues/375	Frontend: `parseFloat` used for price sorting on currency strings
+2	github	68.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-Ecosystem/lodestar/issues/323	Agents: default spending limits are dangerously permissive
+2	github	70.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritik4ever/stellar-stream/issues/764	[FEATURE] Add number formatting utilities (locale-aware)
+2	github	7.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Arrow-air/website/issues/201	This is a test bounty
+2	github	9.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/684	[P4][Distribution] Audit Glama / MCP Registry / PyPI / README metadata consistency
+2	github	9.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/683	[P2][Runtime] Smoke test Cursor / Claude / misaka run failure-memory flow
+2	github	16.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1743	fix: prevent FastAPI Header metadata from becoming an API key
+2	github	17.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1742	feat(migrations): add Claude Code memory adapter to OKF (#1609)
+2	github	19.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1739	[Bug Fix] Batch memory constants dedup, is_valid_memory_id hardening, and input validation
+2	github	19.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1738	perf(okf): prevent quadratic link parsing in malformed notes
+2	github	22.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1736	Fix: fix(conflicts): resolving a conflict from the Web UI deletes another conflict's memories (#770)
+0	github	17.3	-	OPEN_ISSUE	https://github.com/aiforuseac4-blockchain/quorum-reliability-bounty/issues/1	[Submitted — verification pending] Fix duplicate verifier counting — 0.99 USDC
+0	github	9.4	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/682	[P3][Benchmark] Build 10-task Agent Self-Healing mini benchmark
+0	github	14.6	-	OPEN_ISSUE	https://github.com/asyncapi/website/pull/5673	perf: lazy-load Algolia DocSearch to reduce initial bundle size and eliminate render-blocking CSS
+0	github	17.9	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1741	fix: agent deletion leaves memories, sessions, and conflicts (data resurrection bug) #770
+0	github	18.5	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1740	fix(integrations): restore valid memory writes
+0	github	30.2	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/109	[Bounty] Seed Exchange: add CSV/GeoJSON export endpoints
