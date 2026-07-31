@@ -1,0 +1,31 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	0.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1536996	Let's crowdsource a very short guide for people who used Coldcards
+6	sn/bitcoin	1.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1536955	Will MemPool fees be significantly higher today because of the ColdCard issue?
+6	sn/bitcoin	3.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1536852	Are We Taking Bitcoin Privacy Seriously Enough?
+4	sn/bitcoin	3.2	-	OPEN_NEED	https://stacker.news/items/1536864	What is your spouse's response to the ColdCard entropy vulnerability?
+4	sn/bitcoin	18.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1536316	granola: Cashu atomic swaps coordinated over Nostr - brenorb
+4	sn/tech	16.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1536450	Is The State Department Really Building "Freedom Tech"?
+4	github	2.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Novatip/novatip-contracts/issues/21	test: cover tipping with an insufficient sender balance
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Arrow-air/website/issues/201	This is a test bounty
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/684	[P4][Distribution] Audit Glama / MCP Registry / PyPI / README metadata consistency
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/683	[P2][Runtime] Smoke test Cursor / Claude / misaka run failure-memory flow
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/682	[P3][Benchmark] Build 10-task Agent Self-Healing mini benchmark
+3	github	9.3	$100	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1744	feat: Comprehensive Memanto vs Competitors Benchmark (#770)
+2	github	22.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/figranium/figranium/issues/323	Source-confirmed: raw cron validation accepts impossible field values
+2	github	23.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/amankoli09/LynxX/issues/42	Issue 3: Claim Link Landing Page
+2	github	23.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/amankoli09/LynxX/issues/41	Issue 2: Create Escrow UI Form
+2	github	63.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-Ecosystem/lodestar/issues/375	Frontend: `parseFloat` used for price sorting on currency strings
+2	github	63.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-Ecosystem/lodestar/issues/323	Agents: default spending limits are dangerously permissive
+2	github	64.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/ritik4ever/stellar-stream/issues/764	[FEATURE] Add number formatting utilities (locale-aware)
+2	github	10.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1743	fix: prevent FastAPI Header metadata from becoming an API key
+2	github	12.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1742	feat(migrations): add Claude Code memory adapter to OKF (#1609)
+2	github	13.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1739	[Bug Fix] Batch memory constants dedup, is_valid_memory_id hardening, and input validation
+2	github	14.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1738	perf(okf): prevent quadratic link parsing in malformed notes
+2	github	17.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1736	Fix: fix(conflicts): resolving a conflict from the Web UI deletes another conflict's memories (#770)
+0	github	11.9	-	OPEN_ISSUE	https://github.com/aiforuseac4-blockchain/quorum-reliability-bounty/issues/1	[Submitted — verification pending] Fix duplicate verifier counting — 0.99 USDC
+0	github	70.2	-	OPEN_ISSUE	https://github.com/TrusTrove/TrusTrove-contract/issues/458	bug(docs): escrow contract initialize doc comment contains misplaced line for usdc_client
+0	github	9.3	-	OPEN_ISSUE	https://github.com/asyncapi/website/pull/5673	perf: lazy-load Algolia DocSearch to reduce initial bundle size and eliminate render-blocking CSS
+0	github	12.5	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1741	fix: agent deletion leaves memories, sessions, and conflicts (data resurrection bug) #770
+0	github	13.1	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1740	fix(integrations): restore valid memory writes
+0	github	24.9	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/109	[Bounty] Seed Exchange: add CSV/GeoJSON export endpoints
+0	github	26.0	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/104	[Bounty] API per Scambio di semi e talee
