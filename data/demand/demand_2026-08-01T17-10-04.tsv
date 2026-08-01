@@ -1,0 +1,28 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	2.6	$40	OPEN_NEED	https://stacker.news/items/1537803	Can we have a serious talk about the LARP in Bitcoin
+4	sn/bitcoin	6.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1537637	You only need the first 4 letters of BIP39 words
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/726	[P2][SEO] Windows encoding troubleshooting landing page
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/725	[P2][SEO] MCP setup troubleshooting landing page
+2	sn/bitcoin	21.3	-	OPEN_NEED	https://stacker.news/items/1537306	Has holding Bitcoin changed how you think about money?
+2	sn/bitcoin	23.3	-	OPEN_NEED	https://stacker.news/items/1537215	Is Coldcard legally responsible for the lost of the funds?
+2	github	9.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/aiforuseac4-blockchain/agent-wallet-review-bounty/issues/1	[Upcoming 0.99 USDC bounty · Node.js] Build a safer Base wallet transaction review CLI
+2	github	9.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/aiforuseac4-blockchain/mcp-version-negotiation-bounty/issues/1	[Upcoming 0.99 USDC bounty · Shell] Fix one MCP version-negotiation edge case
+2	github	25.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/hiero-hackers/hiero-x402/issues/11	Hub: show a running spend total against the cap
+2	github	28.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Novatip/novatip-contracts/issues/21	test: cover tipping with an insufficient sender balance
+2	github	48.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/figranium/figranium/issues/323	Source-confirmed: raw cron validation accepts impossible field values
+2	github	49.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/amankoli09/LynxX/issues/42	Issue 3: Claim Link Landing Page
+2	github	49.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/amankoli09/LynxX/issues/41	Issue 2: Create Escrow UI Form
+2	github	4.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1762	feat(migration): Claude to Memanto OKF Bundle Migration Adapter [Bounty #1609]
+2	github	4.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1761	fix(idempotency): prevent TOCTOU race condition in IdempotencyStore [Bounty #770]
+2	github	4.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1760	fix(cli): restore minimum-confidence recall filtering
+2	github	7.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1759	fix: guard idempotency store with a lock
+2	github	8.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1757	feat(migrations): add Zep session export migration adapter [Bounty #1609]
+2	github	8.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/244	[radar] SN open bounty 2026-08-01T08:31
+2	github	9.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1756	feat(examples): add ChatGPT export to OKF migration
+2	github	11.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1755	fix(validation): trailing-newline bypass in idempotency + memory ID validation [Bug #770]
+0	github	38.0	-	OPEN_ISSUE	https://github.com/aiforuseac4-blockchain/quorum-reliability-bounty/issues/1	[Submitted — verification pending] Fix duplicate verifier counting — 0.99 USDC
+0	github	7.9	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1758	feat(examples): migrate Google ADK memory to portable OKF
+0	github	17.1	-	OPEN_ISSUE	https://github.com/ab2bc/QA-reporting/issues/448	[bounty] Publish a public network status page and auto-post incidents/all-clears to Disco
+0	github	17.1	-	OPEN_ISSUE	https://github.com/ab2bc/QA-reporting/issues/447	[bounty] Discord: add self-assign reaction roles in #choose-your-roles so members pick la
+0	github	17.1	-	OPEN_ISSUE	https://github.com/ab2bc/QA-reporting/issues/446	[bounty] Wallet: add a "Connect Discord" action in the Apps screen that calls an authenti
+0	github	18.2	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1752	[Bounty #770] Fix TOCTOU race condition in IdempotencyStore
