@@ -1,0 +1,31 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	12.3	20 sats	OPEN_NEED,LOW_COMP	https://stacker.news/items/1537111	Latest Strikes 30 - Junly 20th-26th 2026
+4	sn/bitcoin	15.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1536955	Will MemPool fees be significantly higher today because of the ColdCard issue?
+4	sn/bitcoin	10.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1537267	Spiral x Goose: The Best is Yet to Honk
+3	sn/bitcoin	11.2	$150	OPEN_NEED	https://stacker.news/items/1537204	The False Promise of Commercial Hardware Wallets
+3	github	23.2	$100	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1744	feat: Comprehensive Memanto vs Competitors Benchmark (#770)
+2	sn/bitcoin	13.9	-	OPEN_NEED	https://stacker.news/items/1537022	Pleb Economist #13: ColdCard and the Law of Large Numbers
+2	sn/bitcoin	14.3	-	OPEN_NEED	https://stacker.news/items/1536996	Let's crowdsource a very short guide for people who used Coldcards
+2	sn/bitcoin	9.1	-	OPEN_NEED	https://stacker.news/items/1537306	Has holding Bitcoin changed how you think about money?
+2	sn/bitcoin	17.1	-	OPEN_NEED	https://stacker.news/items/1536864	What is your spouse's response to the ColdCard entropy vulnerability?
+2	sn/bitcoin	11.1	-	OPEN_NEED	https://stacker.news/items/1537215	Is Coldcard legally responsible for the lost of the funds?
+2	github	12.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/hiero-hackers/hiero-x402/issues/11	Hub: show a running spend total against the cap
+2	github	16.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Novatip/novatip-contracts/issues/21	test: cover tipping with an insufficient sender balance
+2	github	35.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/figranium/figranium/issues/323	Source-confirmed: raw cron validation accepts impossible field values
+2	github	37.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/amankoli09/LynxX/issues/42	Issue 3: Claim Link Landing Page
+2	github	37.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/amankoli09/LynxX/issues/41	Issue 2: Create Escrow UI Form
+2	github	7.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1749	fix(validation): reject overly long session IDs to prevent OSError [Bug #770]
+2	github	8.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1748	feat: [BOUNTY $100] 🐜The Memanto Bug & Exploit Challenge
+2	github	8.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1747	Bounty #770: prevent silent OKF context overwrite
+2	github	8.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1746	fix: prevent LangGraph key collisions and stale agent locks
+2	github	15.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Arrow-air/website/issues/201	This is a test bounty
+2	github	17.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/683	[P2][Runtime] Smoke test Cursor / Claude / misaka run failure-memory flow
+2	github	24.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1743	fix: prevent FastAPI Header metadata from becoming an API key
+0	github	25.8	-	OPEN_ISSUE	https://github.com/aiforuseac4-blockchain/quorum-reliability-bounty/issues/1	[Submitted — verification pending] Fix duplicate verifier counting — 0.99 USDC
+0	github	4.9	-	OPEN_ISSUE	https://github.com/ab2bc/QA-reporting/issues/448	[bounty] Publish a public network status page and auto-post incidents/all-clears to Disco
+0	github	4.9	-	OPEN_ISSUE	https://github.com/ab2bc/QA-reporting/issues/447	[bounty] Discord: add self-assign reaction roles in #choose-your-roles so members pick la
+0	github	4.9	-	OPEN_ISSUE	https://github.com/ab2bc/QA-reporting/issues/446	[bounty] Wallet: add a "Connect Discord" action in the Apps screen that calls an authenti
+0	github	6.0	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1752	[Bounty #770] Fix TOCTOU race condition in IdempotencyStore
+0	github	17.9	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/684	[P4][Distribution] Audit Glama / MCP Registry / PyPI / README metadata consistency
+0	github	18.0	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/682	[P3][Benchmark] Build 10-task Agent Self-Healing mini benchmark
+0	github	23.2	-	OPEN_ISSUE	https://github.com/asyncapi/website/pull/5673	perf: lazy-load Algolia DocSearch to reduce initial bundle size and eliminate render-blocking CSS
