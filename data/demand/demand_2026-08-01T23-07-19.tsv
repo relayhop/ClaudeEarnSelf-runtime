@@ -1,0 +1,28 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	0.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1538049	PSA: Advice Regarding the Coldcard Bug - Exploit - Hack - Theft
+4	sn/bitcoin	1.6	-	OPEN_NEED	https://stacker.news/items/1538018	Brainstorming Bitcoin disaster recovery businesses
+4	sn/bitcoin	12.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1537637	You only need the first 4 letters of BIP39 words
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1785	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: feat(migration)
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1784	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: feat(migration): Cla
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1783	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: feat(migration): Claude t
+4	github	1.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1782	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: feat(migration): Claude to Mem
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1781	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: feat(migration): Claude to Memanto 
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1780	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: feat(migration): Claude to Memanto OKF B
+4	github	1.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1779	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: feat(migration): Claude to Memanto OKF Bundle
+4	github	1.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1778	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: feat(migration): Claude to Memanto OKF Bundle Migr
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1777	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: feat(migration): Claude to Memanto OKF Bundle Migration
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1776	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: feat(migration): Claude to Memanto OKF Bundle Migration Adap
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1775	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: feat(migration): Claude to Memanto OKF Bundle Migration Adapter [
+3	sn/bitcoin	8.6	$40	OPEN_NEED	https://stacker.news/items/1537803	Can we have a serious talk about the LARP in Bitcoin
+2	github	15.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/aiforuseac4-blockchain/agent-wallet-review-bounty/issues/1	[Upcoming 0.99 USDC bounty · Node.js] Build a safer Base wallet transaction review CLI
+2	github	15.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/aiforuseac4-blockchain/mcp-version-negotiation-bounty/issues/1	[Upcoming 0.99 USDC bounty · Shell] Fix one MCP version-negotiation edge case
+2	github	31.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/hiero-hackers/hiero-x402/issues/11	Hub: show a running spend total against the cap
+2	github	34.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Novatip/novatip-contracts/issues/21	test: cover tipping with an insufficient sender balance
+2	github	54.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/figranium/figranium/issues/323	Source-confirmed: raw cron validation accepts impossible field values
+2	github	55.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/amankoli09/LynxX/issues/42	Issue 3: Claim Link Landing Page
+2	github	55.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/amankoli09/LynxX/issues/41	Issue 2: Create Escrow UI Form
+2	github	1.2	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1786	feat(examples): migrate Codex CLI sessions to privacy-safe OKF
+2	github	4.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1774	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: feat(migration): Claude to Memanto OKF Bundle Migration Adapter [Bount
+2	github	4.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1773	fix: fix: fix: fix: fix: fix: fix: fix: fix: feat(migration): Claude to Memanto OKF Bundle Migration Adapter [Bounty #16
+2	github	4.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1772	fix: fix: fix: fix: fix: fix: fix: fix: feat(migration): Claude to Memanto OKF Bundle Migration Adapter [Bounty #1609]
+0	github	44.0	-	OPEN_ISSUE	https://github.com/aiforuseac4-blockchain/quorum-reliability-bounty/issues/1	[Submitted — verification pending] Fix duplicate verifier counting — 0.99 USDC
