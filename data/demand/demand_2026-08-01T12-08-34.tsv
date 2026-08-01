@@ -1,0 +1,31 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	1.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1537637	You only need the first 4 letters of BIP39 words
+5	sn/bitcoin	19.5	20 sats	OPEN_NEED,LOW_COMP	https://stacker.news/items/1537111	Latest Strikes 30 - Junly 20th-26th 2026
+4	sn/bitcoin	22.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1536955	Will MemPool fees be significantly higher today because of the ColdCard issue?
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/aiforuseac4-blockchain/agent-wallet-review-bounty/issues/1	[Upcoming 0.99 USDC bounty · Node.js] Build a safer Base wallet transaction review CLI
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/aiforuseac4-blockchain/mcp-version-negotiation-bounty/issues/1	[Upcoming 0.99 USDC bounty · Shell] Fix one MCP version-negotiation edge case
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1759	fix: guard idempotency store with a lock
+4	github	3.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1757	feat(migrations): add Zep session export migration adapter [Bounty #1609]
+4	github	3.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/244	[radar] SN open bounty 2026-08-01T08:31
+2	sn/bitcoin	21.1	-	OPEN_NEED	https://stacker.news/items/1537022	Pleb Economist #13: ColdCard and the Law of Large Numbers
+2	sn/bitcoin	16.3	-	OPEN_NEED	https://stacker.news/items/1537306	Has holding Bitcoin changed how you think about money?
+2	sn/bitcoin	21.5	-	OPEN_NEED	https://stacker.news/items/1536996	Let's crowdsource a very short guide for people who used Coldcards
+2	sn/bitcoin	18.3	-	OPEN_NEED	https://stacker.news/items/1537215	Is Coldcard legally responsible for the lost of the funds?
+2	github	20.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/hiero-hackers/hiero-x402/issues/11	Hub: show a running spend total against the cap
+2	github	23.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Novatip/novatip-contracts/issues/21	test: cover tipping with an insufficient sender balance
+2	github	43.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/figranium/figranium/issues/323	Source-confirmed: raw cron validation accepts impossible field values
+2	github	44.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/amankoli09/LynxX/issues/42	Issue 3: Claim Link Landing Page
+2	github	44.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/amankoli09/LynxX/issues/41	Issue 2: Create Escrow UI Form
+2	github	2.9	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1758	feat(examples): migrate Google ADK memory to portable OKF
+2	github	3.9	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/702	[Bounty] Contribute a high-quality lesson in Russian
+2	github	4.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1756	feat(examples): add ChatGPT export to OKF migration
+2	github	5.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1755	fix(validation): trailing-newline bypass in idempotency + memory ID validation [Bug #770]
+2	github	15.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1749	fix(validation): reject overly long session IDs to prevent OSError [Bug #770]
+2	github	15.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1748	feat: [BOUNTY $100] 🐜The Memanto Bug & Exploit Challenge
+2	github	15.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1747	Bounty #770: prevent silent OKF context overwrite
+2	github	15.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1746	fix: prevent LangGraph key collisions and stale agent locks
+0	github	33.0	-	OPEN_ISSUE	https://github.com/aiforuseac4-blockchain/quorum-reliability-bounty/issues/1	[Submitted — verification pending] Fix duplicate verifier counting — 0.99 USDC
+0	github	12.1	-	OPEN_ISSUE	https://github.com/ab2bc/QA-reporting/issues/448	[bounty] Publish a public network status page and auto-post incidents/all-clears to Disco
+0	github	12.1	-	OPEN_ISSUE	https://github.com/ab2bc/QA-reporting/issues/447	[bounty] Discord: add self-assign reaction roles in #choose-your-roles so members pick la
+0	github	12.1	-	OPEN_ISSUE	https://github.com/ab2bc/QA-reporting/issues/446	[bounty] Wallet: add a "Connect Discord" action in the Apps screen that calls an authenti
+0	github	13.2	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1752	[Bounty #770] Fix TOCTOU race condition in IdempotencyStore
