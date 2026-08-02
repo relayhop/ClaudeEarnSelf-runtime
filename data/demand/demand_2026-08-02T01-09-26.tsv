@@ -1,0 +1,28 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	2.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1538049	PSA: Advice Regarding the Coldcard Bug - Exploit - Hack - Theft
+4	sn/bitcoin	3.6	-	OPEN_NEED	https://stacker.news/items/1538018	Brainstorming Bitcoin disaster recovery businesses
+4	sn/bitcoin	14.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1537637	You only need the first 4 letters of BIP39 words
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1798	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: 
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1797	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: 
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1796	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: 
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1795	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: 
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1794	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: 
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1793	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: 
+4	github	0.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1792	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: 
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1791	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: 
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1790	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: 
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1789	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: feat(
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1788	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: feat(migra
+4	github	3.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1785	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: feat(migration)
+4	github	3.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1784	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: feat(migration): Cla
+4	github	3.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1783	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: feat(migration): Claude t
+3	sn/bitcoin	10.6	$40	OPEN_NEED	https://stacker.news/items/1537803	Can we have a serious talk about the LARP in Bitcoin
+2	github	17.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/aiforuseac4-blockchain/agent-wallet-review-bounty/issues/1	[Upcoming 0.99 USDC bounty · Node.js] Build a safer Base wallet transaction review CLI
+2	github	17.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/aiforuseac4-blockchain/mcp-version-negotiation-bounty/issues/1	[Upcoming 0.99 USDC bounty · Shell] Fix one MCP version-negotiation edge case
+2	github	33.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/hiero-hackers/hiero-x402/issues/11	Hub: show a running spend total against the cap
+2	github	36.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Novatip/novatip-contracts/issues/21	test: cover tipping with an insufficient sender balance
+2	github	56.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/figranium/figranium/issues/323	Source-confirmed: raw cron validation accepts impossible field values
+2	github	57.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/amankoli09/LynxX/issues/42	Issue 3: Claim Link Landing Page
+2	github	57.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/amankoli09/LynxX/issues/41	Issue 2: Create Escrow UI Form
+2	github	3.2	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1786	feat(examples): migrate Codex CLI sessions to privacy-safe OKF
+0	github	46.0	-	OPEN_ISSUE	https://github.com/aiforuseac4-blockchain/quorum-reliability-bounty/issues/1	[Submitted — verification pending] Fix duplicate verifier counting — 0.99 USDC
