@@ -1,0 +1,28 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	6.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1538049	PSA: Advice Regarding the Coldcard Bug - Exploit - Hack - Theft
+4	sn/bitcoin	18.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1537637	You only need the first 4 letters of BIP39 words
+4	github	2.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/742	[P3][Benchmark] Define deterministic Agent Self-Healing task catalog
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1798	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: 
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1797	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: 
+3	sn/bitcoin	14.4	$40	OPEN_NEED	https://stacker.news/items/1537803	Can we have a serious talk about the LARP in Bitcoin
+2	sn/bitcoin	7.4	-	OPEN_NEED	https://stacker.news/items/1538018	Brainstorming Bitcoin disaster recovery businesses
+2	github	20.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/aiforuseac4-blockchain/agent-wallet-review-bounty/issues/1	[Upcoming 0.99 USDC bounty · Node.js] Build a safer Base wallet transaction review CLI
+2	github	20.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/aiforuseac4-blockchain/mcp-version-negotiation-bounty/issues/1	[Upcoming 0.99 USDC bounty · Shell] Fix one MCP version-negotiation edge case
+2	github	36.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/hiero-hackers/hiero-x402/issues/11	Hub: show a running spend total against the cap
+2	github	40.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Novatip/novatip-contracts/issues/21	test: cover tipping with an insufficient sender balance
+2	github	59.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/figranium/figranium/issues/323	Source-confirmed: raw cron validation accepts impossible field values
+2	github	61.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/amankoli09/LynxX/issues/42	Issue 3: Claim Link Landing Page
+2	github	61.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/amankoli09/LynxX/issues/41	Issue 2: Create Escrow UI Form
+2	github	2.6	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/746	[P4][CI Hygiene] Reject generated cache files in PRs
+2	github	2.6	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/745	[P3][Search] Add domain synonym query expansion
+2	github	2.6	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/744	[P3][Maintainer] Add intake digest CLI
+2	github	2.6	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/743	[P2][Lessons] Clean-room English translation batch for top lessons
+2	github	2.6	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/741	[P2][Integration] Add shell helper for MisakaNet search
+2	github	4.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1796	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: 
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1795	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: 
+2	github	4.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1794	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: 
+2	github	4.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1793	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: 
+2	github	4.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1792	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: 
+2	github	4.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1791	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: 
+2	github	4.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1790	fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: fix: 
+0	github	49.8	-	OPEN_ISSUE	https://github.com/aiforuseac4-blockchain/quorum-reliability-bounty/issues/1	[Submitted — verification pending] Fix duplicate verifier counting — 0.99 USDC
