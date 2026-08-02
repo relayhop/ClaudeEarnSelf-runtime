@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	github	1.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/251	[radar] SN open bounty 2026-08-02T19:23
+2	sn/bitcoin	12.4	-	OPEN_NEED	https://stacker.news/items/1538230	Request for comment:  Unbroadcast Bitcoin transactions as failsafe
+2	sn/bitcoin	22.1	-	OPEN_NEED	https://stacker.news/items/1538049	PSA: Advice Regarding the Coldcard Bug - Exploit - Hack - Theft
+2	github	36.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/aiforuseac4-blockchain/agent-wallet-review-bounty/issues/1	[Upcoming 0.99 USDC bounty · Node.js] Build a safer Base wallet transaction review CLI
+2	github	52.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/hiero-hackers/hiero-x402/issues/11	Hub: show a running spend total against the cap
+2	github	56.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Novatip/novatip-contracts/issues/21	test: cover tipping with an insufficient sender balance
+2	github	3.3	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/250	[radar] SN open bounty 2026-08-02T17:11
+2	github	3.3	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubster-Robot/issues/69	⚖️ [Core] Escrow 2-di-3 per lavori robot (Cliente + Robot + AI Arbitro)
+2	github	3.4	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1802	feat: add LlamaIndex Memory → OKF migration showcase
+2	github	4.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1801	fix: use valid SourceType in migration mappers
+2	github	5.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/249	[radar] SN open bounty 2026-08-02T15:12
+2	github	6.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/248	[radar] SN open bounty 2026-08-02T13:47
+2	github	8.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1799	fix: prevent empty query when first message exceeds MAX_CONTENT_CHARS
+2	github	13.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/763	[P2][Analytics] Track first-call funnel manually for Glama
+2	github	13.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/758	[P3][Distribution] Add GHCR container quickstart to install docs
+1	github	6.2	$1	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/330	Frantic bounty #120: Add a valuable startup offer to Sourcey
+0	github	36.4	-	OPEN_ISSUE	https://github.com/aiforuseac4-blockchain/mcp-version-negotiation-bounty/issues/1	[Upcoming 0.99 USDC bounty · Shell] Fix one MCP version-negotiation edge case
+0	github	65.3	-	OPEN_ISSUE	https://github.com/aiforuseac4-blockchain/quorum-reliability-bounty/issues/1	[Submitted — verification pending] Fix duplicate verifier counting — 0.99 USDC
+0	github	13.4	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/764	[P0][Glama] Verify what Tool Calls actually counts
+0	github	13.5	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/762	[P1][Docs] Add Glama-first quickstart block to README and server metadata
+0	github	13.5	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/761	[P0][MCP] Add public MCP smoke report for Glama users
+0	github	13.5	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/760	[P0][Glama] Fix first MCP tool call conversion
