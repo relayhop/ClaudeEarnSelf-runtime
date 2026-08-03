@@ -1,0 +1,27 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	21.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1538720	Commodity Hardware vs. Idiot Index
+4	sn/bitcoin	19.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1538791	Introducing Satisfied: An AI Assisted Food Logger
+4	sn/bitcoin	23.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1538639	Do you blindly trust your own discipline to avoid failing yourself?
+4	github	3.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/18	[documentation] Add video walkthrough link to README
+4	github	3.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/17	[documentation] Add architecture diagram to TECHNICAL.md
+4	github	3.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/15	[good first issue] Add 3 more Soroban contract unit tests
+4	github	1.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/260	[radar] SN open bounty 2026-08-03T18:00
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1807	fix: prevent silent data loss in search_changed_since when memory id is None
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/259	[radar] SN open bounty 2026-08-03T15:10
+2	sn/bitcoin	7.5	-	OPEN_NEED	https://stacker.news/items/1539033	MARA Slipstream now available as a permissionless public good
+2	sn/bitcoin	6.3	-	OPEN_NEED	https://stacker.news/items/1539067	Coldcard exploit: Can Blockchain analysis mistakenly blacklist our “Clean”coins?
+2	sn/bitcoin	22.4	-	OPEN_NEED	https://stacker.news/items/1538677	At what point can this attack be considered over?
+2	github	59.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/aiforuseac4-blockchain/agent-wallet-review-bounty/issues/1	[Upcoming 0.99 USDC bounty · Node.js] Build a safer Base wallet transaction review CLI
+2	github	7.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1806	feat: Mem0 → Memanto → OKF migration showcase (Path A — The Real-World Escape)
+2	github	7.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/258	[radar] SN open bounty 2026-08-03T11:38
+2	github	9.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/257	[radar] SN open bounty 2026-08-03T10:02
+2	github	11.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/256	[radar] SN open bounty 2026-08-03T07:38
+2	github	12.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/779	[Docs] Clarify registered MCP server vs Glama-routed tool calls
+0	github	59.0	-	OPEN_ISSUE	https://github.com/aiforuseac4-blockchain/mcp-version-negotiation-bounty/issues/1	[Upcoming 0.99 USDC bounty · Shell] Fix one MCP version-negotiation edge case
+0	github	9.1	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/788	[Analytics] Add privacy-preserving unsolved failure map
+0	github	9.1	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/786	[Trust] Add evidence levels for failure-recovery lessons
+0	github	10.1	-	OPEN_ISSUE	https://github.com/rasoolharlym8/CockroachDB/issues/3	🎯 Fix Cache Key Collision and Partial Results during Tenant Shuffle-Sharding Rebalance in Query Frontend
+0	github	10.2	-	OPEN_ISSUE	https://github.com/rasoolharlym8/Grafana-Mimir/issues/1	🎯 Fix Cache Key Collision and Partial Results During Tenant Shuffle-Sharding Rebalance in Query Frontend
+0	github	12.0	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/783	[Health] Add recurring public site health snapshot
+0	github	12.0	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/781	[CI] Observe PR Genius v1.3.1 on next 5 non-docs PRs
+0	github	15.3	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/255	[radar] SN open bounty 2026-08-03T03:47
