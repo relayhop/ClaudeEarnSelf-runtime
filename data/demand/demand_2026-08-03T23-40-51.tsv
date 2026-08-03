@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	0.9	1367 BTC	OPEN_NEED	https://stacker.news/items/1539600	How do I privately spend 1367 BTC given to me by NVK's friends?
+5	github	1.9	$6	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/765	[Bounty] [Bounty $6,000] Fix SFPU RNG correlation and improve FP32 uniform random quality
+4	sn/bitcoin	4.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1539443	Everything You Need to Know About the COLDCARD Hack
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/263	[radar] SN open bounty 2026-08-03T23:14
+4	github	0.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1095	[BOUNTY] Suggestion #1065
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/tenstorrent/tt-metal/issues/52014	[Bounty $6,000] Fix SFPU RNG correlation and improve FP32 uniform random quality
+4	github	2.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/262	[radar] SN open bounty 2026-08-03T21:15
+4	github	3.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/261	[radar] SN open bounty 2026-08-03T19:51
+2	sn/bitcoin	12.0	-	OPEN_NEED	https://stacker.news/items/1539033	MARA Slipstream now available as a permissionless public good
+2	sn/bitcoin	10.9	-	OPEN_NEED	https://stacker.news/items/1539067	Coldcard exploit: Can Blockchain analysis mistakenly blacklist our “Clean”coins?
+2	github	8.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/18	[documentation] Add video walkthrough link to README
+2	github	8.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/17	[documentation] Add architecture diagram to TECHNICAL.md
+2	github	8.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/15	[good first issue] Add 3 more Soroban contract unit tests
+2	github	63.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/aiforuseac4-blockchain/agent-wallet-review-bounty/issues/1	[Upcoming 0.99 USDC bounty · Node.js] Build a safer Base wallet transaction review CLI
+2	github	5.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/260	[radar] SN open bounty 2026-08-03T18:00
+2	github	8.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1807	fix: prevent silent data loss in search_changed_since when memory id is None
+2	github	8.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/259	[radar] SN open bounty 2026-08-03T15:10
+2	github	11.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1806	feat: Mem0 → Memanto → OKF migration showcase (Path A — The Real-World Escape)
+2	github	12.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/258	[radar] SN open bounty 2026-08-03T11:38
+2	github	13.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/257	[radar] SN open bounty 2026-08-03T10:02
+0	github	63.5	-	OPEN_ISSUE	https://github.com/aiforuseac4-blockchain/mcp-version-negotiation-bounty/issues/1	[Upcoming 0.99 USDC bounty · Shell] Fix one MCP version-negotiation edge case
+0	github	13.6	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/788	[Analytics] Add privacy-preserving unsolved failure map
+0	github	13.6	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/786	[Trust] Add evidence levels for failure-recovery lessons
+0	github	14.7	-	OPEN_ISSUE	https://github.com/rasoolharlym8/CockroachDB/issues/3	🎯 Fix Cache Key Collision and Partial Results during Tenant Shuffle-Sharding Rebalance in Query Frontend
