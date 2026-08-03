@@ -1,0 +1,24 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	11.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1538720	Commodity Hardware vs. Idiot Index
+4	sn/bitcoin	9.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1538791	Introducing Satisfied: An AI Assisted Food Logger
+4	sn/bitcoin	13.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1538639	Do you blindly trust your own discipline to avoid failing yourself?
+4	github	0.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/rasoolharlym8/SeaweedFS/issues/1	🎯 Fix Stale Chunk Cache Invalidation During Concurrent File Writes and Directory Renames
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/256	[radar] SN open bounty 2026-08-03T07:38
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/783	[Health] Add recurring public site health snapshot
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/781	[CI] Observe PR Genius v1.3.1 on next 5 non-docs PRs
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/779	[Docs] Clarify registered MCP server vs Glama-routed tool calls
+2	sn/bitcoin	12.1	-	OPEN_NEED	https://stacker.news/items/1538677	At what point can this attack be considered over?
+2	github	48.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/aiforuseac4-blockchain/agent-wallet-review-bounty/issues/1	[Upcoming 0.99 USDC bounty · Node.js] Build a safer Base wallet transaction review CLI
+2	github	64.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/hiero-hackers/hiero-x402/issues/11	Hub: show a running spend total against the cap
+2	github	68.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Novatip/novatip-contracts/issues/21	test: cover tipping with an insufficient sender balance
+2	github	1.6	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/782	[Growth] Contributor story / first-call intro for MisakaNet
+2	github	5.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/255	[radar] SN open bounty 2026-08-03T03:47
+2	github	9.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/254	[radar] SN open bounty 2026-08-02T23:07
+2	github	9.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Arrow-air/website/issues/217	Design the purchase flow on top of the store prototype
+2	github	9.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Arrow-air/website/issues/216	AIP-009 Accelerator: call meeting and publish decision ledger
+2	github	9.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Arrow-air/website/issues/214	Walk into Arrow from every direction and report where the path loses people
+2	github	10.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/253	[radar] SN open bounty 2026-08-02T22:07
+0	github	48.7	-	OPEN_ISSUE	https://github.com/aiforuseac4-blockchain/mcp-version-negotiation-bounty/issues/1	[Upcoming 0.99 USDC bounty · Shell] Fix one MCP version-negotiation edge case
+0	github	9.2	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1804	feat(examples): add LangGraph checkpoints -> OKF migration adapter (Bounty #1609)
+0	github	9.9	-	OPEN_ISSUE	https://github.com/Arrow-air/website/issues/215	Put live Discord events on the community calls page
+0	github	11.5	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1803	feat: add chat export migration adapter (Bounty #1609)
