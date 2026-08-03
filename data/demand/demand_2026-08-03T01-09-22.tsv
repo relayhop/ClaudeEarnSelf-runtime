@@ -1,0 +1,26 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	3.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1538720	Commodity Hardware vs. Idiot Index
+6	sn/bitcoin	1.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1538791	Introducing Satisfied: An AI Assisted Food Logger
+4	sn/bitcoin	5.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1538639	Do you blindly trust your own discipline to avoid failing yourself?
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/254	[radar] SN open bounty 2026-08-02T23:07
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Arrow-air/website/issues/217	Design the purchase flow on top of the store prototype
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Arrow-air/website/issues/216	AIP-009 Accelerator: call meeting and publish decision ledger
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Arrow-air/website/issues/215	Put live Discord events on the community calls page
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Arrow-air/website/issues/214	Walk into Arrow from every direction and report where the path loses people
+4	github	3.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/253	[radar] SN open bounty 2026-08-02T22:07
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/252	[radar] SN open bounty 2026-08-02T21:06
+2	sn/bitcoin	4.4	-	OPEN_NEED	https://stacker.news/items/1538677	At what point can this attack be considered over?
+2	sn/bitcoin	17.0	-	OPEN_NEED	https://stacker.news/items/1538230	Request for comment:  Unbroadcast Bitcoin transactions as failsafe
+2	github	41.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/aiforuseac4-blockchain/agent-wallet-review-bounty/issues/1	[Upcoming 0.99 USDC bounty · Node.js] Build a safer Base wallet transaction review CLI
+2	github	57.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/hiero-hackers/hiero-x402/issues/11	Hub: show a running spend total against the cap
+2	github	60.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Novatip/novatip-contracts/issues/21	test: cover tipping with an insufficient sender balance
+2	github	1.6	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1804	feat(examples): add LangGraph checkpoints -> OKF migration adapter (Bounty #1609)
+2	github	3.8	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1803	feat: add chat export migration adapter (Bounty #1609)
+2	github	5.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/251	[radar] SN open bounty 2026-08-02T19:23
+2	github	8.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/250	[radar] SN open bounty 2026-08-02T17:11
+2	github	8.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubster-Robot/issues/69	⚖️ [Core] Escrow 2-di-3 per lavori robot (Cliente + Robot + AI Arbitro)
+2	github	9.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1801	fix: use valid SourceType in migration mappers
+2	github	10.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/249	[radar] SN open bounty 2026-08-02T15:12
+0	github	41.0	-	OPEN_ISSUE	https://github.com/aiforuseac4-blockchain/mcp-version-negotiation-bounty/issues/1	[Upcoming 0.99 USDC bounty · Shell] Fix one MCP version-negotiation edge case
+0	github	70.0	-	OPEN_ISSUE	https://github.com/aiforuseac4-blockchain/quorum-reliability-bounty/issues/1	[Submitted — verification pending] Fix duplicate verifier counting — 0.99 USDC
+0	github	8.0	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1802	feat: add LlamaIndex Memory → OKF migration showcase
