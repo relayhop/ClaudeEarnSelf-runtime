@@ -1,0 +1,24 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	13.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1539443	Everything You Need to Know About the COLDCARD Hack
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/243	[BOUNTY B10] Bot Telegram per monitoraggio robot
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/242	[BOUNTY B9] Docker Compose per sviluppo
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/241	[BOUNTY B8] Test automatizzati (Jest)
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/240	[BOUNTY B7] Documentazione API completa (Swagger/OpenAPI)
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/239	[BOUNTY B6] Sistema di notifiche reali
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/238	[BOUNTY B5] Wallet reale per Monero (XMR)
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/237	[BOUNTY B4] Wallet reale per Tari (MYZ)
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/236	[BOUNTY B3] GitHub Webhook per reward automatici
+4	github	3.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/myzubster/issues/256	[MYZ Bounty] QA reward system for bug reports
+4	github	3.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/myzubster/issues/255	[MYZ Bounty] Referral system with reward tracking
+4	github	3.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/myzubster/issues/254	[MYZ Bounty] GitHub bot for automatic reward assignment
+4	github	3.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/myzubster/issues/253	[MYZ Bounty] Reward dashboard: view earned rewards and history
+3	sn/bitcoin	10.6	1367 BTC	OPEN_NEED	https://stacker.news/items/1539600	How do I privately spend 1367 BTC given to me by NVK's friends?
+2	sn/bitcoin	7.3	-	OPEN_NEED	https://stacker.news/items/1539720	What are the attack vectors of rolling 100 dice?
+2	sn/bitcoin	21.7	-	OPEN_NEED	https://stacker.news/items/1539033	MARA Slipstream now available as a permissionless public good
+2	sn/bitcoin	20.6	-	OPEN_NEED	https://stacker.news/items/1539067	Coldcard exploit: Can Blockchain analysis mistakenly blacklist our “Clean”coins?
+2	github	17.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/18	[documentation] Add video walkthrough link to README
+2	github	18.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/17	[documentation] Add architecture diagram to TECHNICAL.md
+2	github	18.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/15	[good first issue] Add 3 more Soroban contract unit tests
+2	github	0.2	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/235	[BOUNTY B2] Robot Dashboard - Frontend
+2	github	0.2	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/234	[BOUNTY B1] Dashboard Rewards - Frontend
+2	github	3.5	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/myzubster/issues/252	[MYZ Bounty] Reward backend: automatic assignment and minting
