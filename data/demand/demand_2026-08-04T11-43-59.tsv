@@ -1,0 +1,26 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	1.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1539875	Bitcoins Have No Physical Form: The Coldcard Heist (Money Stuff, Matt Levine)
+4	sn/bitcoin	0.7	-	OPEN_NEED	https://stacker.news/items/1539912	Tails+Electrum as an alternative to a HWW as part of a 2-of-3 multisig?
+4	sn/bitcoin	16.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1539443	Everything You Need to Know About the COLDCARD Hack
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/olawaleakanbi035-maker/endowStellar/issues/5	[Docs] Create Nonprofit Onboarding & Wallet Verification Guide
+4	github	0.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1808	fix: Moorcheh filter injection, pagination truncation, session-renew lockout, stale-field persistence (Bounty #770)
+4	github	1.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/274	[BOUNTY P10] DevOps - Docker Compose per sviluppo
+3	sn/bitcoin	12.9	1367 BTC	OPEN_NEED	https://stacker.news/items/1539600	How do I privately spend 1367 BTC given to me by NVK's friends?
+2	sn/bitcoin	9.7	-	OPEN_NEED	https://stacker.news/items/1539720	What are the attack vectors of rolling 100 dice?
+2	sn/bitcoin	22.9	-	OPEN_NEED	https://stacker.news/items/1539067	Coldcard exploit: Can Blockchain analysis mistakenly blacklist our “Clean”coins?
+2	github	20.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/18	[documentation] Add video walkthrough link to README
+2	github	20.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/17	[documentation] Add architecture diagram to TECHNICAL.md
+2	github	20.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/15	[good first issue] Add 3 more Soroban contract unit tests
+2	github	1.6	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/285	[BOUNTY B20] Backup e restore
+2	github	1.6	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/284	[BOUNTY B19] Sistema ruoli e permessi
+2	github	1.6	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/283	[BOUNTY B18] Modulo analytics
+2	github	1.6	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/282	[BOUNTY B17] Job queue con Bull
+2	github	1.6	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/281	[BOUNTY B16] Cache con Redis
+2	github	1.6	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/280	[BOUNTY B15] Rate limiting avanzato
+2	github	1.6	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/279	[BOUNTY B14] Audit logging completo
+2	github	1.6	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/278	[BOUNTY B13] Swap MYZ/XMR integrato
+2	github	1.6	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/277	[BOUNTY B12] Dashboard di monitoraggio
+2	github	1.6	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/276	[BOUNTY B11] WebSocket per aggiornamenti in tempo reale
+2	github	1.9	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/273	[BOUNTY P9] Testing - Unit test per escrow_robot
+2	github	1.9	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/272	[BOUNTY P8] Blockchain - Integrazione Monero per pagamenti XMR
+2	github	1.9	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/271	[BOUNTY P7] Frontend - Pagina di stato del gateway
