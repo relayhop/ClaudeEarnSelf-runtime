@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	3.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1541127	wiz is looking for support to register .bitcoin top level domain
+5	github	1.3	$3000	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/798	[Bounty] [Bounty $3000] Fix Blackhole destination-reuse synchronization
+4	sn/bitcoin	2.6	-	OPEN_NEED	https://stacker.news/items/1541165	Node Runners what are you running?
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1103	[BOUNTY] Suggestion #1073
+4	github	1.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/tenstorrent/tt-metal/issues/52252	[Bounty $3000] Fix Blackhole destination-reuse synchronization
+2	sn/bitcoin	5.3	-	OPEN_NEED	https://stacker.news/items/1541015	Is Bitcoin primarily a "lifestyle brand"?
+2	github	6.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/38	feat: Paymaster SAC token selector dropdown
+2	github	6.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/18	feat: Paymaster SAC token selector dropdown
+2	github	6.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/soroban-gasless-contracts/issues/1	feat: implement TokenPaymaster for USDC gas payments
+2	github	13.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Far-Beyond-Pulsar/Solid3D/issues/27	USDZ: referenced textures are never extracted from the archive — texture-bearing models load textureless
+2	github	24.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Aqua-Vault/aqua/issues/20	[Docs]: Inline Rustdoc Documentation and Architecture Diagram Generation
+2	github	24.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Aqua-Vault/aqua/issues/7	[Feature]: Real-Time Win-Probability Calculator Component
+2	github	37.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/olawaleakanbi035-maker/endowStellar/issues/5	[Docs] Create Nonprofit Onboarding & Wallet Verification Guide
+2	github	55.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/18	[documentation] Add video walkthrough link to README
+2	github	55.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/17	[documentation] Add architecture diagram to TECHNICAL.md
+2	github	55.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/15	[good first issue] Add 3 more Soroban contract unit tests
+2	github	4.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1819	fix: use versioned marker to distinguish serialized tags from user content
+2	github	5.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1818	feat: migrate OpenAI Agents SQLiteSession memory to OKF 0.2
+2	github	6.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/818	[Bounty] 发布 MisakaNet Remote MCP 社媒引流帖
+2	github	7.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1817	fix: silent data loss in search_changed_since when memory id is None
+2	github	13.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/391	[BOUNTY] Bug Hunter (50-500 MYZ)
+2	github	13.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/390	[BOUNTY] Content Creator (30 MYZ + 10 MYZ/1000 views)
+2	github	13.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/389	📢 MyZubster Bounty Program - 1.070 MYZ in ricompense!
+2	github	13.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/388	[BOUNTY] Kit di lancio per negozi (90 MYZ)
+2	github	13.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/387	[BOUNTY] Robot Logo Avanzato con Brand Kit (200 MYZ)
+2	github	13.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/386	[BOUNTY] Analytics avanzato per robot (100 MYZ)
+0	github	5.9	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/819	[Growth] Add non-transferable contributor reputation points for lessons
+0	github	13.5	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/385	[BOUNTY] Sistema referral per negozi (60 MYZ)
