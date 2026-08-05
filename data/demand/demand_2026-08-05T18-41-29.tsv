@@ -1,0 +1,28 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	0.8	-	OPEN_NEED	https://stacker.news/items/1541015	Is Bitcoin primarily a "lifestyle brand"?
+4	github	1.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/38	feat: Paymaster SAC token selector dropdown
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/18	feat: Paymaster SAC token selector dropdown
+4	github	2.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/soroban-gasless-contracts/issues/1	feat: implement TokenPaymaster for USDC gas payments
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1819	fix: use versioned marker to distinguish serialized tags from user content
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1818	feat: migrate OpenAI Agents SQLiteSession memory to OKF 0.2
+4	github	1.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/818	[Bounty] 发布 MisakaNet Remote MCP 社媒引流帖
+4	github	2.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1817	fix: silent data loss in search_changed_since when memory id is None
+2	sn/bitcoin	22.3	-	OPEN_NEED	https://stacker.news/items/1540370	Adding to the Public Record on Our Ongoing Investigation - Coldcard
+2	github	9.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Far-Beyond-Pulsar/Solid3D/issues/27	USDZ: referenced textures are never extracted from the archive — texture-bearing models load textureless
+2	github	19.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Aqua-Vault/aqua/issues/20	[Docs]: Inline Rustdoc Documentation and Architecture Diagram Generation
+2	github	19.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Aqua-Vault/aqua/issues/7	[Feature]: Real-Time Win-Probability Calculator Component
+2	github	33.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/olawaleakanbi035-maker/endowStellar/issues/5	[Docs] Create Nonprofit Onboarding & Wallet Verification Guide
+2	github	51.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/18	[documentation] Add video walkthrough link to README
+2	github	51.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/17	[documentation] Add architecture diagram to TECHNICAL.md
+2	github	51.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/15	[good first issue] Add 3 more Soroban contract unit tests
+2	github	1.4	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/819	[Growth] Add non-transferable contributor reputation points for lessons
+2	github	8.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/391	[BOUNTY] Bug Hunter (50-500 MYZ)
+2	github	8.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/390	[BOUNTY] Content Creator (30 MYZ + 10 MYZ/1000 views)
+2	github	9.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/389	📢 MyZubster Bounty Program - 1.070 MYZ in ricompense!
+2	github	9.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/388	[BOUNTY] Kit di lancio per negozi (90 MYZ)
+2	github	9.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/387	[BOUNTY] Robot Logo Avanzato con Brand Kit (200 MYZ)
+2	github	9.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/386	[BOUNTY] Analytics avanzato per robot (100 MYZ)
+2	github	9.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/385	[BOUNTY] Sistema referral per negozi (60 MYZ)
+2	github	9.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/384	[BOUNTY] Dashboard pubblica dei robot (120 MYZ)
+2	github	9.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/383	[BOUNTY] Template di marketing per negozi (80 MYZ)
+2	github	9.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/382	[BOUNTY] Sistema pagamenti MYZ/XMR (120 MYZ)
