@@ -1,0 +1,27 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	20.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1539875	Bitcoins Have No Physical Form: The Coldcard Heist (Money Stuff, Matt Levine)
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/347	[BOUNTY BOT-10] Robot marketplace
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/346	[BOUNTY BOT-9] Robot analytics avanzato
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/345	[BOUNTY BOT-8] Hardware bridge per robot fisici
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/344	[BOUNTY BOT-7] Template per nuovi robot (scaffolding)
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/343	[BOUNTY BOT-6] Sistema di reputation e feedback per robot
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/342	[BOUNTY BOT-5] Integrazione robot con Telegram
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/341	[BOUNTY BOT-4] Simulatore di robot per test
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/340	[BOUNTY BOT-3] Robot scheduler per job automatici
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/339	[BOUNTY BOT-2] Sistema di code review automatica per robot
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/338	[BOUNTY BOT-1] Dashboard robot in tempo reale (WebSocket)
+4	github	2.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1815	fix: bound pagination loop, fail-closed temporal limits, truthful total_found, configurable conflict dir (Bounty #770 ro
+2	sn/bitcoin	18.1	-	OPEN_NEED	https://stacker.news/items/1539991	Bitcoin is my Dread Pirate Roberts
+2	sn/bitcoin	20.3	-	OPEN_NEED	https://stacker.news/items/1539912	Tails+Electrum as an alternative to a HWW as part of a 2-of-3 multisig?
+2	sn/bitcoin	10.9	-	OPEN_NEED	https://stacker.news/items/1540370	Adding to the Public Record on Our Ongoing Investigation - Coldcard
+2	sn/bitcoin	17.5	-	OPEN_NEED	https://stacker.news/items/1540033	Cold Card Retirement Attack?
+2	github	8.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Aqua-Vault/aqua/issues/20	[Docs]: Inline Rustdoc Documentation and Architecture Diagram Generation
+2	github	8.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Aqua-Vault/aqua/issues/7	[Feature]: Real-Time Win-Probability Calculator Component
+2	github	21.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/olawaleakanbi035-maker/endowStellar/issues/5	[Docs] Create Nonprofit Onboarding & Wallet Verification Guide
+2	github	39.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/18	[documentation] Add video walkthrough link to README
+2	github	39.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/17	[documentation] Add architecture diagram to TECHNICAL.md
+2	github	39.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/15	[good first issue] Add 3 more Soroban contract unit tests
+2	github	12.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1813	feat(examples): add OKF portability audit
+2	github	13.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1812	fix: prevent silent data loss in temporal filter for memories with missing timestamps [Bounty #770]
+2	github	14.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1811	feat: ChatGPT to OKF Migration Adapter (Bounty #1609)
+0	github	13.9	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/804	[MCP] Add remote Streamable HTTP endpoint for MisakaNet
