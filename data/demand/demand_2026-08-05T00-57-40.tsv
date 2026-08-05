@@ -1,0 +1,28 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	14.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1539875	Bitcoins Have No Physical Form: The Coldcard Heist (Money Stuff, Matt Levine)
+4	github	1.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Aqua-Vault/aqua/issues/20	[Docs]: Inline Rustdoc Documentation and Architecture Diagram Generation
+4	github	1.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Aqua-Vault/aqua/issues/7	[Feature]: Real-Time Win-Probability Calculator Component
+2	sn/bitcoin	11.8	-	OPEN_NEED	https://stacker.news/items/1539991	Bitcoin is my Dread Pirate Roberts
+2	sn/bitcoin	13.9	-	OPEN_NEED	https://stacker.news/items/1539912	Tails+Electrum as an alternative to a HWW as part of a 2-of-3 multisig?
+2	sn/bitcoin	4.6	-	OPEN_NEED	https://stacker.news/items/1540370	Adding to the Public Record on Our Ongoing Investigation - Coldcard
+2	sn/bitcoin	11.1	-	OPEN_NEED	https://stacker.news/items/1540033	Cold Card Retirement Attack?
+2	sn/bitcoin	22.9	-	OPEN_NEED	https://stacker.news/items/1539720	What are the attack vectors of rolling 100 dice?
+2	github	15.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/olawaleakanbi035-maker/endowStellar/issues/5	[Docs] Create Nonprofit Onboarding & Wallet Verification Guide
+2	github	33.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/18	[documentation] Add video walkthrough link to README
+2	github	33.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/17	[documentation] Add architecture diagram to TECHNICAL.md
+2	github	33.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/15	[good first issue] Add 3 more Soroban contract unit tests
+2	github	6.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1813	feat(examples): add OKF portability audit
+2	github	6.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1812	fix: prevent silent data loss in temporal filter for memories with missing timestamps [Bounty #770]
+2	github	7.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/804	[MCP] Add remote Streamable HTTP endpoint for MisakaNet
+2	github	7.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1811	feat: ChatGPT to OKF Migration Adapter (Bounty #1609)
+2	github	9.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1810	fix: prevent silent data loss when content paragraphs start with "Tags: "
+2	github	14.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1808	fix: Moorcheh filter injection, pagination truncation, session-renew lockout, stale-field persistence (Bounty #770)
+0	github	14.8	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/284	[BOUNTY B19] Sistema ruoli e permessi
+0	github	14.8	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/283	[BOUNTY B18] Modulo analytics
+0	github	14.8	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/281	[BOUNTY B16] Cache con Redis
+0	github	14.8	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/279	[BOUNTY B14] Audit logging completo
+0	github	14.8	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/278	[BOUNTY B13] Swap MYZ/XMR integrato
+0	github	14.8	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/277	[BOUNTY B12] Dashboard di monitoraggio
+0	github	14.8	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/276	[BOUNTY B11] WebSocket per aggiornamenti in tempo reale
+0	github	15.1	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/274	[BOUNTY P10] DevOps - Docker Compose per sviluppo
+0	github	15.1	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/273	[BOUNTY P9] Testing - Unit test per escrow_robot
