@@ -1,0 +1,32 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	13.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1541175	joinmarket-clientserver makers with a fidelity bond need to restart periodically
+4	sn/bitcoin	14.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1541127	wiz is looking for support to register .bitcoin top level domain
+4	sn/bitcoin	21.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1540797	El  café de los bitcoiners
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/quicksilverj2/openbuild-gallery/issues/11	[bounty] Shared rate-limit middleware (hot-key correct)
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/quicksilverj2/openbuild-gallery/issues/10	[bounty] Preview-DB seeding + reset endpoint
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/quicksilverj2/openbuild-gallery/issues/9	[bounty] Per-clone observability (logs + /metrics + middleware)
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/quicksilverj2/openbuild-gallery/issues/8	[bounty] Voucher clone (single-use redemption)
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/quicksilverj2/openbuild-gallery/issues/7	[bounty] Inventory / reservation clone (never oversell)
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/quicksilverj2/openbuild-gallery/issues/6	[bounty] Wallet clone (atomic transfers + ledger)
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/quicksilverj2/openbuild-gallery/issues/5	[bounty] Gallery: contributor credit + "new since last visit"
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/quicksilverj2/openbuild-gallery/issues/4	[bounty] Paste clone (view-once)
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/quicksilverj2/openbuild-gallery/issues/3	[bounty] Shortlink clone
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/613	[PORTALI] Rete di portali - Sistema solare
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/612	[PORTALI] Portale interstellare - Proxima Centauri
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/611	[PORTALI] Portale Marte-Terra - Collegamento
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/610	[PORTALI] Portale Luna-Terra - Collegamento
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/609	[PORTALI] Portale spaziale - Installazione in orbita
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/608	[PORTALI] Wormhole - Prototipo di laboratorio
+2	sn/bitcoin	11.6	-	OPEN_NEED	https://stacker.news/items/1541227	How CTV Covenant Enabled Vaults Could Have Protected Cold Card Victims
+2	sn/bitcoin	13.7	-	OPEN_NEED	https://stacker.news/items/1541165	Node Runners what are you running?
+2	sn/bitcoin	16.4	-	OPEN_NEED	https://stacker.news/items/1541015	Is Bitcoin primarily a "lifestyle brand"?
+2	github	17.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/38	feat: Paymaster SAC token selector dropdown
+2	github	17.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/18	feat: Paymaster SAC token selector dropdown
+2	github	18.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/soroban-gasless-contracts/issues/1	feat: implement TokenPaymaster for USDC gas payments
+2	github	24.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Far-Beyond-Pulsar/Solid3D/issues/27	USDZ: referenced textures are never extracted from the archive — texture-bearing models load textureless
+2	github	35.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Aqua-Vault/aqua/issues/20	[Docs]: Inline Rustdoc Documentation and Architecture Diagram Generation
+2	github	35.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Aqua-Vault/aqua/issues/7	[Feature]: Real-Time Win-Probability Calculator Component
+2	github	48.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/olawaleakanbi035-maker/endowStellar/issues/5	[Docs] Create Nonprofit Onboarding & Wallet Verification Guide
+2	github	66.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/18	[documentation] Add video walkthrough link to README
+2	github	66.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/17	[documentation] Add architecture diagram to TECHNICAL.md
+2	github	66.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/15	[good first issue] Add 3 more Soroban contract unit tests
