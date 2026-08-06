@@ -1,0 +1,7 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH	github	1.3	0	2	https://github.com/moorcheh-ai/memanto/pull/1823	feat(migration): ChatGPT & Claude conversation export → OKF adapters (bounty #1609)
+FRESH	github	2.8	0	1	https://github.com/moorcheh-ai/memanto/pull/1822	fix: daily summary must fail loudly on empty/missing AI answer (Bounty #770 round 6)
+FRESH	github	3.6	0	10	https://github.com/Ikalus1988/MisakaNet/issues/830	[MCP][UX] Validate remote MCP first-call user journey
+FRESH	github	4.8	0	3	https://github.com/moorcheh-ai/memanto/pull/1821	feat(examples): escape CrewAI 1.15 unified memory to OKF (#1609)
+FRESH	github	4.8	0	1	https://github.com/moorcheh-ai/memanto/pull/1820	fix: expand preference negation lexicon — 'can not' stand + detest/loathe/despise
+FRESH	github	5.7	0	11	https://github.com/OxBenji/progress-ledger/issues/2	Bounty template for verified work
