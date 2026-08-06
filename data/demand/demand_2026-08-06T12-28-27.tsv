@@ -1,0 +1,31 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	15.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1541175	joinmarket-clientserver makers with a fidelity bond need to restart periodically
+4	sn/bitcoin	16.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1541127	wiz is looking for support to register .bitcoin top level domain
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/750	🤖 [BOUNTY] EVA IONI - Prototipo braccio robotico per orti urbani
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/749	🌱 [BOUNTY] Sensori IoT per orti urbani - Temperatura e umidità
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/747	🌱 [BOUNTY] Mercato Semi - Scambio semi e talee
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/746	🌱 [BOUNTY] Dashboard Orti - Visualizzazione dati
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/745	🌱 [BOUNTY] Mappa Orti Urbani - Geolocalizzazione
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/744	🌱 [BOUNTY] Dashboard Orti - Visualizzazione dati
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/741	[PAGAMENTI] Crypto - BTC/ETH/ADA
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/740	[PAGAMENTI] Batch - Pagamenti multipli
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/738	[PAGAMENTI] Fiat - USD/EUR/GBP
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/736	[AGENTI-IA] Monitoraggio - IA in tempo reale
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/735	[AGENTI-IA] IA - Portfolio ottimizzazione
+2	sn/bitcoin	13.9	-	OPEN_NEED	https://stacker.news/items/1541227	How CTV Covenant Enabled Vaults Could Have Protected Cold Card Victims
+2	sn/bitcoin	15.9	-	OPEN_NEED	https://stacker.news/items/1541165	Node Runners what are you running?
+2	sn/bitcoin	18.6	-	OPEN_NEED	https://stacker.news/items/1541015	Is Bitcoin primarily a "lifestyle brand"?
+2	github	19.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/38	feat: Paymaster SAC token selector dropdown
+2	github	19.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/18	feat: Paymaster SAC token selector dropdown
+2	github	20.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/soroban-gasless-contracts/issues/1	feat: implement TokenPaymaster for USDC gas payments
+2	github	27.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Far-Beyond-Pulsar/Solid3D/issues/27	USDZ: referenced textures are never extracted from the archive — texture-bearing models load textureless
+2	github	37.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Aqua-Vault/aqua/issues/20	[Docs]: Inline Rustdoc Documentation and Architecture Diagram Generation
+2	github	37.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Aqua-Vault/aqua/issues/7	[Feature]: Real-Time Win-Probability Calculator Component
+2	github	50.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/olawaleakanbi035-maker/endowStellar/issues/5	[Docs] Create Nonprofit Onboarding & Wallet Verification Guide
+2	github	69.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/18	[documentation] Add video walkthrough link to README
+2	github	69.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/17	[documentation] Add architecture diagram to TECHNICAL.md
+2	github	69.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/15	[good first issue] Add 3 more Soroban contract unit tests
+2	github	1.4	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/743	🌱 [BOUNTY] Mappa Orti Urbani - Geolocalizzazione
+2	github	1.4	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/742	🌱 [BOUNTY] API Arduino per sensori pH/EC - Orti Urbani
+2	github	1.6	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/739	[PAGAMENTI] Ricorrenti - Subscription
+2	github	1.6	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/737	[PAGAMENTI] Stablecoin - USDC/USDT
