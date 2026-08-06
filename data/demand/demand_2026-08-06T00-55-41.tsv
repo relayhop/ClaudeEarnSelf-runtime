@@ -1,0 +1,31 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	3.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1541175	joinmarket-clientserver makers with a fidelity bond need to restart periodically
+6	sn/bitcoin	2.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1541227	How CTV Covenant Enabled Vaults Could Have Protected Cold Card Victims
+5	github	3.0	$3000	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/798	[Bounty] [Bounty $3000] Fix Blackhole destination-reuse synchronization
+4	sn/bitcoin	5.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1541127	wiz is looking for support to register .bitcoin top level domain
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1103	[BOUNTY] Suggestion #1073
+4	github	3.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/tenstorrent/tt-metal/issues/52252	[Bounty $3000] Fix Blackhole destination-reuse synchronization
+2	sn/bitcoin	4.4	-	OPEN_NEED	https://stacker.news/items/1541165	Node Runners what are you running?
+2	sn/bitcoin	7.1	-	OPEN_NEED	https://stacker.news/items/1541015	Is Bitcoin primarily a "lifestyle brand"?
+2	github	8.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/38	feat: Paymaster SAC token selector dropdown
+2	github	8.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/18	feat: Paymaster SAC token selector dropdown
+2	github	8.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/soroban-gasless-contracts/issues/1	feat: implement TokenPaymaster for USDC gas payments
+2	github	15.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Far-Beyond-Pulsar/Solid3D/issues/27	USDZ: referenced textures are never extracted from the archive — texture-bearing models load textureless
+2	github	25.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Aqua-Vault/aqua/issues/20	[Docs]: Inline Rustdoc Documentation and Architecture Diagram Generation
+2	github	25.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Aqua-Vault/aqua/issues/7	[Feature]: Real-Time Win-Probability Calculator Component
+2	github	39.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/olawaleakanbi035-maker/endowStellar/issues/5	[Docs] Create Nonprofit Onboarding & Wallet Verification Guide
+2	github	57.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/18	[documentation] Add video walkthrough link to README
+2	github	57.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/17	[documentation] Add architecture diagram to TECHNICAL.md
+2	github	57.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/15	[good first issue] Add 3 more Soroban contract unit tests
+2	github	0.8	-	OPEN_ISSUE	https://github.com/OxBenji/progress-ledger/issues/2	Bounty template for verified work
+2	github	6.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1819	fix: use versioned marker to distinguish serialized tags from user content
+2	github	7.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1818	feat: migrate OpenAI Agents SQLiteSession memory to OKF 0.2
+2	github	7.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/818	[Bounty] 发布 MisakaNet Remote MCP 社媒引流帖
+2	github	9.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1817	fix: silent data loss in search_changed_since when memory id is None
+2	github	15.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/391	[BOUNTY] Bug Hunter (50-500 MYZ)
+2	github	15.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/390	[BOUNTY] Content Creator (30 MYZ + 10 MYZ/1000 views)
+2	github	15.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/389	📢 MyZubster Bounty Program - 1.070 MYZ in ricompense!
+2	github	15.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/388	[BOUNTY] Kit di lancio per negozi (90 MYZ)
+2	github	15.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/387	[BOUNTY] Robot Logo Avanzato con Brand Kit (200 MYZ)
+2	github	15.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/386	[BOUNTY] Analytics avanzato per robot (100 MYZ)
+0	github	7.6	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/819	[Growth] Add non-transferable contributor reputation points for lessons
