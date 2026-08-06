@@ -1,0 +1,32 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	8.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1541227	How CTV Covenant Enabled Vaults Could Have Protected Cold Card Victims
+4	sn/bitcoin	10.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1541175	joinmarket-clientserver makers with a fidelity bond need to restart periodically
+4	sn/bitcoin	11.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1541127	wiz is looking for support to register .bitcoin top level domain
+4	sn/bitcoin	18.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1540797	El  café de los bitcoiners
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/NSPG13/agent-bounties/issues/772	[DIRECT] Add a verified Hermes earning integration
+3	github	9.5	$3000	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/798	[Bounty] [Bounty $3000] Fix Blackhole destination-reuse synchronization
+2	sn/bitcoin	10.8	-	OPEN_NEED	https://stacker.news/items/1541165	Node Runners what are you running?
+2	sn/bitcoin	13.5	-	OPEN_NEED	https://stacker.news/items/1541015	Is Bitcoin primarily a "lifestyle brand"?
+2	github	14.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/38	feat: Paymaster SAC token selector dropdown
+2	github	14.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/18	feat: Paymaster SAC token selector dropdown
+2	github	15.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/soroban-gasless-contracts/issues/1	feat: implement TokenPaymaster for USDC gas payments
+2	github	21.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Far-Beyond-Pulsar/Solid3D/issues/27	USDZ: referenced textures are never extracted from the archive — texture-bearing models load textureless
+2	github	32.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Aqua-Vault/aqua/issues/20	[Docs]: Inline Rustdoc Documentation and Architecture Diagram Generation
+2	github	32.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Aqua-Vault/aqua/issues/7	[Feature]: Real-Time Win-Probability Calculator Component
+2	github	45.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/olawaleakanbi035-maker/endowStellar/issues/5	[Docs] Create Nonprofit Onboarding & Wallet Verification Guide
+2	github	63.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/18	[documentation] Add video walkthrough link to README
+2	github	63.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/17	[documentation] Add architecture diagram to TECHNICAL.md
+2	github	64.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/15	[good first issue] Add 3 more Soroban contract unit tests
+2	github	1.6	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/774	[DIRECT] Add a mini-SWE-agent paid-work environment
+2	github	1.6	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/773	[DIRECT] Add an OpenHands earning-loop integration
+2	github	1.6	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/771	[DIRECT] Publish an A2A Agent Card for machine discovery
+2	github	2.9	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1823	feat(migration): ChatGPT & Claude conversation export → OKF adapters (bounty #1609)
+2	github	4.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1822	fix: daily summary must fail loudly on empty/missing AI answer (Bounty #770 round 6)
+2	github	6.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1820	fix: expand preference negation lexicon — 'can not' stand + detest/loathe/despise
+2	github	12.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1819	fix: use versioned marker to distinguish serialized tags from user content
+2	github	13.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1818	feat: migrate OpenAI Agents SQLiteSession memory to OKF 0.2
+0	github	5.2	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/830	[MCP][UX] Validate remote MCP first-call user journey
+0	github	6.3	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1821	feat(examples): escape CrewAI 1.15 unified memory to OKF (#1609)
+0	github	7.2	-	OPEN_ISSUE	https://github.com/OxBenji/progress-ledger/issues/2	Bounty template for verified work
+0	github	8.4	-	OPEN_ISSUE	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1103	[BOUNTY] Suggestion #1073
+0	github	9.6	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/52252	[Bounty $3000] Fix Blackhole destination-reuse synchronization
