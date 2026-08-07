@@ -1,0 +1,24 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/270	[radar] SN open bounty 2026-08-07T20:52
+4	github	1.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/FjrREPO/gitbounty-demo/issues/3	Add an average() helper
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/269	[radar] SN open bounty 2026-08-07T19:09
+4	github	3.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/268	[radar] SN open bounty 2026-08-07T17:57
+3	github	6.5	24 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Femology/pulsepay/issues/1	feat(contract): implement multi-token support for EURC and native XLM streams
+2	github	10.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/poteto0/endor.mbt/issues/105	types/ChainId: CAIP-2 (eip155:8453) との相互変換
+2	github	52.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/38	feat: Paymaster SAC token selector dropdown
+2	github	52.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/18	feat: Paymaster SAC token selector dropdown
+2	github	53.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/soroban-gasless-contracts/issues/1	feat: implement TokenPaymaster for USDC gas payments
+2	github	59.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Far-Beyond-Pulsar/Solid3D/issues/27	USDZ: referenced textures are never extracted from the archive — texture-bearing models load textureless
+2	github	70.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Aqua-Vault/aqua/issues/20	[Docs]: Inline Rustdoc Documentation and Architecture Diagram Generation
+2	github	70.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Aqua-Vault/aqua/issues/7	[Feature]: Real-Time Win-Probability Calculator Component
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/hellofajar/gitbounty-demo/issues/1	sum() skips the first element
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/267	[radar] SN open bounty 2026-08-07T17:03
+2	github	5.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/266	[radar] SN open bounty 2026-08-07T16:05
+2	github	5.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/786	🤖 [BOUNTY] Robot Scheduler - Gestione automatica robot
+2	github	6.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/265	[radar] SN open bounty 2026-08-07T15:04
+2	github	7.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/264	[radar] SN open bounty 2026-08-07T13:23
+1	github	20.7	$1	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/802	[Bounty] [Bounty $1,500] Generalize multi_scale_deformable_attn to support D values that 
+0	github	5.3	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/789	💰 [BOUNTY] Repeater Payment Model - x402 Micro-Transactions
+0	github	5.3	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/788	🔁 [BOUNTY] MyZubster Repeater Logic & Mesh Routing
+0	github	5.3	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/787	📡 [BOUNTY] MyZubster Antenna Protocol - Gateway Integration
+0	github	9.3	-	OPEN_ISSUE	https://github.com/morriganreza973/etcd/issues/5	🎯 Fix Race Condition: Watch Misses Deletion Event Near Compaction Boundary
