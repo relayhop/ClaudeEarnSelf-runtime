@@ -1,0 +1,30 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	20.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1541655	Malice OR Incompetence?
+4	sn/tech	17.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1541799	Rasperarrium 2.0 or Raspberrarium: the comeback
+4	github	3.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/poteto0/endor.mbt/issues/105	types/ChainId: CAIP-2 (eip155:8453) との相互変換
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/morriganreza973/minio/issues/3	🎯 Fix: Aborted Multipart Uploads Persisting in ListMultipartUploads Results
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/264	[radar] SN open bounty 2026-08-07T13:23
+2	sn/bitcoin	23.3	-	OPEN_NEED	https://stacker.news/items/1541534	What the heck is a spawn camping attack in Bitcoin?
+2	sn/bitcoin	18.4	-	OPEN_NEED	https://stacker.news/items/1541765	How do you physically back up a passphrase
+2	sn/bitcoin	23.9	-	OPEN_NEED	https://stacker.news/items/1541507	Meet Glow: The Bitcoin App for Everyone ⚡️
+2	sn/bitcoin	23.5	-	OPEN_NEED	https://stacker.news/items/1541526	Canary Sensationalism?
+2	sn/tech	23.9	-	OPEN_NEED	https://stacker.news/items/1541507	Meet Glow: The Bitcoin App for Everyone ⚡️
+2	github	45.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/38	feat: Paymaster SAC token selector dropdown
+2	github	45.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/18	feat: Paymaster SAC token selector dropdown
+2	github	45.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/soroban-gasless-contracts/issues/1	feat: implement TokenPaymaster for USDC gas payments
+2	github	52.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Far-Beyond-Pulsar/Solid3D/issues/27	USDZ: referenced textures are never extracted from the archive — texture-bearing models load textureless
+2	github	62.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Aqua-Vault/aqua/issues/20	[Docs]: Inline Rustdoc Documentation and Architecture Diagram Generation
+2	github	62.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Aqua-Vault/aqua/issues/7	[Feature]: Real-Time Win-Probability Calculator Component
+2	github	1.8	-	OPEN_ISSUE	https://github.com/morriganreza973/etcd/issues/5	🎯 Fix Race Condition: Watch Misses Deletion Event Near Compaction Boundary
+2	github	7.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1832	[BOUNTY #1609] ChatGPT→OKF Memory Migration Adapter
+2	github	8.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1831	feat: add Claude export mapper for memory migration (#1609)
+2	github	9.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1829	fix(ts): authenticate remote management requests with X-Api-Key
+2	github	16.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1104	[BOUNTY] Suggestion #1078
+2	github	22.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1826	fix: preserve expires_at on memory update when ttl_seconds is absent
+2	github	23.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubster-Marketplace/issues/21	📡 Installazione sensori Arduino per orti urbani di Rimini
+1	github	13.3	$1	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/802	[Bounty] [Bounty $1,500] Generalize multi_scale_deformable_attn to support D values that 
+0	github	6.2	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1833	[BOUNTY #1609] ChatGPT → OKF Memory Migration Adapter (Path B: New Frontier)
+0	github	9.2	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1830	feat(migrate): Qdrant → OKF migration adapter (Path B, #1609)
+0	github	22.2	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/52328	[Bounty $1,500] Generalize multi_scale_deformable_attn to support D values that are multiples of 16
+0	github	22.5	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubster-Marketplace/issues/33	📱 Integrazione Telegram Bot per AgricoloBot
+0	github	25.2	-	OPEN_ISSUE	https://github.com/colmev080/pgx/issues/3	🎯 Prevent Connection Storms and MaxConns Violations in pgxpool during DB Recovery
