@@ -1,0 +1,33 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/tech	3.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1541799	Rasperarrium 2.0 or Raspberrarium: the comeback
+4	sn/bitcoin	7.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1541655	Malice OR Incompetence?
+4	sn/bitcoin	8.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1541634	What good is broadcast to the entire world that Bitcoin projects are vulnerable?
+4	sn/tech	12.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1541448	How to Make a Nintendo 64 Game in 2026
+4	github	3.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1104	[BOUNTY] Suggestion #1078
+2	sn/bitcoin	9.9	-	OPEN_NEED	https://stacker.news/items/1541534	What the heck is a spawn camping attack in Bitcoin?
+2	sn/bitcoin	5.0	-	OPEN_NEED	https://stacker.news/items/1541765	How do you physically back up a passphrase
+2	sn/bitcoin	11.9	-	OPEN_NEED	https://stacker.news/items/1541459	Scar Tissue (The Bitcoin Layer, Johan Bergman)
+2	sn/bitcoin	10.5	-	OPEN_NEED	https://stacker.news/items/1541507	Meet Glow: The Bitcoin App for Everyone ⚡️
+2	sn/bitcoin	10.1	-	OPEN_NEED	https://stacker.news/items/1541526	Canary Sensationalism?
+2	sn/tech	10.5	-	OPEN_NEED	https://stacker.news/items/1541507	Meet Glow: The Bitcoin App for Everyone ⚡️
+2	github	31.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/38	feat: Paymaster SAC token selector dropdown
+2	github	31.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/18	feat: Paymaster SAC token selector dropdown
+2	github	32.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/soroban-gasless-contracts/issues/1	feat: implement TokenPaymaster for USDC gas payments
+2	github	39.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Far-Beyond-Pulsar/Solid3D/issues/27	USDZ: referenced textures are never extracted from the archive — texture-bearing models load textureless
+2	github	49.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Aqua-Vault/aqua/issues/20	[Docs]: Inline Rustdoc Documentation and Architecture Diagram Generation
+2	github	49.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Aqua-Vault/aqua/issues/7	[Feature]: Real-Time Win-Probability Calculator Component
+2	github	62.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/olawaleakanbi035-maker/endowStellar/issues/5	[Docs] Create Nonprofit Onboarding & Wallet Verification Guide
+2	github	9.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1826	fix: preserve expires_at on memory update when ttl_seconds is absent
+2	github	9.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubster-Marketplace/issues/21	📡 Installazione sensori Arduino per orti urbani di Rimini
+2	github	12.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/750	🤖 [BOUNTY] EVA IONI - Prototipo braccio robotico per orti urbani
+2	github	12.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/749	🌱 [BOUNTY] Sensori IoT per orti urbani - Temperatura e umidità
+2	github	13.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/747	🌱 [BOUNTY] Mercato Semi - Scambio semi e talee
+0	github	8.4	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/868	[UX] Absorb merged journey reports into actionable docs/issues
+0	github	8.7	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/52328	[Bounty $1,500] Generalize multi_scale_deformable_attn to support D values that are multiples of 16
+0	github	9.1	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubster-Marketplace/issues/33	📱 Integrazione Telegram Bot per AgricoloBot
+0	github	11.8	-	OPEN_ISSUE	https://github.com/colmev080/pgx/issues/3	🎯 Prevent Connection Storms and MaxConns Violations in pgxpool during DB Recovery
+0	github	13.4	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/746	🌱 [BOUNTY] Dashboard Orti - Visualizzazione dati
+0	github	13.4	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/745	🌱 [BOUNTY] Mappa Orti Urbani - Geolocalizzazione
+0	github	13.4	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/744	🌱 [BOUNTY] Dashboard Orti - Visualizzazione dati
+0	github	13.4	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/743	🌱 [BOUNTY] Mappa Orti Urbani - Geolocalizzazione
+0	github	13.4	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/742	🌱 [BOUNTY] API Arduino per sensori pH/EC - Orti Urbani
