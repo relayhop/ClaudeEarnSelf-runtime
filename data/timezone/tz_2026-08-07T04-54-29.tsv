@@ -1,0 +1,8 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH	github	0.2	0	2	https://github.com/moorcheh-ai/memanto/pull/1830	feat(migrate): Qdrant → OKF migration adapter (Path B, #1609)
+FRESH	github	0.9	0	1	https://github.com/moorcheh-ai/memanto/pull/1829	fix(ts): authenticate remote management requests with X-Api-Key
+FRESH	github	1.7	0	1	https://github.com/moorcheh-ai/memanto/pull/1828	fix: langgraph store crash + silent memory drop, ui_router bad-input 400s, CLI migrate friendly errors (Bounty #770 roun
+FRESH	github	1.9	0	1	https://github.com/moorcheh-ai/memanto/pull/1827	fix: memory-integrity fixes — extraction truncation, summary archiving, JWT payload validation, session duration, export
+FRESH	sn/bitcoin	2.4	0	0	https://stacker.news/items/1541990	An analogy between the marathon and Bitcoin
+FRESH	github	4.3	0	3	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/802	[Bounty] [Bounty $1,500] Generalize multi_scale_deformable_attn to support D values that 
+FRESH	sn/bitcoin	4.5	0	4	https://stacker.news/items/1541955	Generating seed phrase from dice - an easy, understandable method
