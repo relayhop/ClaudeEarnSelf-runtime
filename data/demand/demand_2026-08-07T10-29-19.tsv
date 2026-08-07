@@ -1,0 +1,32 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	17.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1541655	Malice OR Incompetence?
+4	sn/bitcoin	18.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1541634	What good is broadcast to the entire world that Bitcoin projects are vulnerable?
+4	sn/tech	14.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1541799	Rasperarrium 2.0 or Raspberrarium: the comeback
+4	sn/tech	22.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1541448	How to Make a Nintendo 64 Game in 2026
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1833	[BOUNTY #1609] ChatGPT → OKF Memory Migration Adapter (Path B: New Frontier)
+4	github	3.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1832	[BOUNTY #1609] ChatGPT→OKF Memory Migration Adapter
+2	sn/bitcoin	19.9	-	OPEN_NEED	https://stacker.news/items/1541534	What the heck is a spawn camping attack in Bitcoin?
+2	sn/bitcoin	15.0	-	OPEN_NEED	https://stacker.news/items/1541765	How do you physically back up a passphrase
+2	sn/bitcoin	20.5	-	OPEN_NEED	https://stacker.news/items/1541507	Meet Glow: The Bitcoin App for Everyone ⚡️
+2	sn/bitcoin	21.9	-	OPEN_NEED	https://stacker.news/items/1541459	Scar Tissue (The Bitcoin Layer, Johan Bergman)
+2	sn/bitcoin	20.1	-	OPEN_NEED	https://stacker.news/items/1541526	Canary Sensationalism?
+2	sn/tech	20.5	-	OPEN_NEED	https://stacker.news/items/1541507	Meet Glow: The Bitcoin App for Everyone ⚡️
+2	github	41.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/38	feat: Paymaster SAC token selector dropdown
+2	github	41.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/18	feat: Paymaster SAC token selector dropdown
+2	github	42.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/soroban-gasless-contracts/issues/1	feat: implement TokenPaymaster for USDC gas payments
+2	github	49.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Far-Beyond-Pulsar/Solid3D/issues/27	USDZ: referenced textures are never extracted from the archive — texture-bearing models load textureless
+2	github	59.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Aqua-Vault/aqua/issues/20	[Docs]: Inline Rustdoc Documentation and Architecture Diagram Generation
+2	github	59.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Aqua-Vault/aqua/issues/7	[Feature]: Real-Time Win-Probability Calculator Component
+2	github	4.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1831	feat: add Claude export mapper for memory migration (#1609)
+2	github	6.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1829	fix(ts): authenticate remote management requests with X-Api-Key
+2	github	7.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1828	fix: langgraph store crash + silent memory drop, ui_router bad-input 400s, CLI migrate friendly errors (Bounty #770 roun
+2	github	7.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1827	fix: memory-integrity fixes — extraction truncation, summary archiving, JWT payload validation, session duration, export
+2	github	13.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1104	[BOUNTY] Suggestion #1078
+2	github	19.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1826	fix: preserve expires_at on memory update when ttl_seconds is absent
+2	github	19.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubster-Marketplace/issues/21	📡 Installazione sensori Arduino per orti urbani di Rimini
+2	github	22.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/750	🤖 [BOUNTY] EVA IONI - Prototipo braccio robotico per orti urbani
+1	github	9.9	$1	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/802	[Bounty] [Bounty $1,500] Generalize multi_scale_deformable_attn to support D values that 
+0	github	5.8	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1830	feat(migrate): Qdrant → OKF migration adapter (Path B, #1609)
+0	github	18.8	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/52328	[Bounty $1,500] Generalize multi_scale_deformable_attn to support D values that are multiples of 16
+0	github	19.1	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubster-Marketplace/issues/33	📱 Integrazione Telegram Bot per AgricoloBot
+0	github	21.8	-	OPEN_ISSUE	https://github.com/colmev080/pgx/issues/3	🎯 Prevent Connection Storms and MaxConns Violations in pgxpool during DB Recovery
