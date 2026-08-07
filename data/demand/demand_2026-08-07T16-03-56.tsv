@@ -1,0 +1,27 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	1.2	24 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Femology/pulsepay/issues/1	feat(contract): implement multi-token support for EURC and native XLM streams
+4	sn/bitcoin	22.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1541655	Malice OR Incompetence?
+4	sn/tech	19.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1541799	Rasperarrium 2.0 or Raspberrarium: the comeback
+4	github	0.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/jaeldkzv7/goose/issues/1	🎯 Ensure `goose_db_version` consistency on transactional migration failures
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/789	💰 [BOUNTY] Repeater Payment Model - x402 Micro-Transactions
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/788	🔁 [BOUNTY] MyZubster Repeater Logic & Mesh Routing
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/787	📡 [BOUNTY] MyZubster Antenna Protocol - Gateway Integration
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1834	fix: use session.session_id instead of hardcoded 'unknown' in CLI client remember/batch_remember
+4	github	0.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/786	🤖 [BOUNTY] Robot Scheduler - Gestione automatica robot
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/265	[radar] SN open bounty 2026-08-07T15:04
+4	github	2.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/264	[radar] SN open bounty 2026-08-07T13:23
+2	sn/bitcoin	20.6	-	OPEN_NEED	https://stacker.news/items/1541765	How do you physically back up a passphrase
+2	github	5.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/poteto0/endor.mbt/issues/105	types/ChainId: CAIP-2 (eip155:8453) との相互変換
+2	github	47.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/38	feat: Paymaster SAC token selector dropdown
+2	github	47.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/18	feat: Paymaster SAC token selector dropdown
+2	github	47.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/soroban-gasless-contracts/issues/1	feat: implement TokenPaymaster for USDC gas payments
+2	github	54.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Far-Beyond-Pulsar/Solid3D/issues/27	USDZ: referenced textures are never extracted from the archive — texture-bearing models load textureless
+2	github	64.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Aqua-Vault/aqua/issues/20	[Docs]: Inline Rustdoc Documentation and Architecture Diagram Generation
+2	github	65.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Aqua-Vault/aqua/issues/7	[Feature]: Real-Time Win-Probability Calculator Component
+2	github	4.0	-	OPEN_ISSUE	https://github.com/morriganreza973/etcd/issues/5	🎯 Fix Race Condition: Watch Misses Deletion Event Near Compaction Boundary
+2	github	9.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1832	[BOUNTY #1609] ChatGPT→OKF Memory Migration Adapter
+2	github	10.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1831	feat: add Claude export mapper for memory migration (#1609)
+2	github	12.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/moorcheh-ai/memanto/pull/1829	fix(ts): authenticate remote management requests with X-Api-Key
+1	github	15.5	$1	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/802	[Bounty] [Bounty $1,500] Generalize multi_scale_deformable_attn to support D values that 
+0	github	8.4	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1833	[BOUNTY #1609] ChatGPT → OKF Memory Migration Adapter (Path B: New Frontier)
+0	github	11.3	-	OPEN_ISSUE	https://github.com/moorcheh-ai/memanto/pull/1830	feat(migrate): Qdrant → OKF migration adapter (Path B, #1609)
