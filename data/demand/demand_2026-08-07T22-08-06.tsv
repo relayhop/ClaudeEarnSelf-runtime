@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/tech	2.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1542722	Signal app on registration without a phone number. But what form will it take?
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/271	[radar] SN open bounty 2026-08-07T21:50
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/jflournoy/for-funsies/issues/4	[Bounty: 1 GSD + 2 GSD if built] Propose new features aligned with the vision of this repository
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/270	[radar] SN open bounty 2026-08-07T20:52
+4	github	2.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/FjrREPO/gitbounty-demo/issues/3	Add an average() helper
+4	github	3.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/269	[radar] SN open bounty 2026-08-07T19:09
+3	github	7.3	24 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Femology/pulsepay/issues/1	feat(contract): implement multi-token support for EURC and native XLM streams
+2	github	11.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/poteto0/endor.mbt/issues/105	types/ChainId: CAIP-2 (eip155:8453) との相互変換
+2	github	53.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/38	feat: Paymaster SAC token selector dropdown
+2	github	53.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/18	feat: Paymaster SAC token selector dropdown
+2	github	53.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/soroban-gasless-contracts/issues/1	feat: implement TokenPaymaster for USDC gas payments
+2	github	60.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Far-Beyond-Pulsar/Solid3D/issues/27	USDZ: referenced textures are never extracted from the archive — texture-bearing models load textureless
+2	github	71.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Aqua-Vault/aqua/issues/20	[Docs]: Inline Rustdoc Documentation and Architecture Diagram Generation
+2	github	71.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Aqua-Vault/aqua/issues/7	[Feature]: Real-Time Win-Probability Calculator Component
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/268	[radar] SN open bounty 2026-08-07T17:57
+2	github	5.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/hellofajar/gitbounty-demo/issues/1	sum() skips the first element
+2	github	5.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/267	[radar] SN open bounty 2026-08-07T17:03
+2	github	6.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/266	[radar] SN open bounty 2026-08-07T16:05
+2	github	6.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/786	🤖 [BOUNTY] Robot Scheduler - Gestione automatica robot
+2	github	7.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/265	[radar] SN open bounty 2026-08-07T15:04
+2	github	8.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/264	[radar] SN open bounty 2026-08-07T13:23
+0	github	6.1	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/789	💰 [BOUNTY] Repeater Payment Model - x402 Micro-Transactions
+0	github	6.1	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/788	🔁 [BOUNTY] MyZubster Repeater Logic & Mesh Routing
+0	github	6.1	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/787	📡 [BOUNTY] MyZubster Antenna Protocol - Gateway Integration
