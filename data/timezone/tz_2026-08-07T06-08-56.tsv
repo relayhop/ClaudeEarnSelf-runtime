@@ -1,0 +1,15 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH_LOW_COMP	github	0.6	0	0	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/771	[Frontend] Registrazione Orti Comunali - Form per Comuni
+FRESH_LOW_COMP	github	0.6	0	0	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/770	[Frontend] Registrazione Orti - Form per cittadini
+FRESH	github	0.3	0	1	https://github.com/moorcheh-ai/memanto/pull/1831	feat: add Claude export mapper for memory migration (#1609)
+FRESH	github	0.6	0	1	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/772	[Frontend] Monitoraggio Fauna - Dashboard biodiversita
+FRESH	github	0.6	0	3	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/769	[API] Monitoraggio Fauna - Biodiversita negli orti
+FRESH	github	0.6	0	2	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/768	[API] Registrazione Orti Comunali - Gestione per Comuni
+FRESH	github	0.6	0	2	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/767	[API] Registrazione Orti Urbani - Endpoint per cittadini
+FRESH	github	1.4	0	3	https://github.com/moorcheh-ai/memanto/pull/1830	feat(migrate): Qdrant → OKF migration adapter (Path B, #1609)
+FRESH	github	2.2	0	1	https://github.com/moorcheh-ai/memanto/pull/1829	fix(ts): authenticate remote management requests with X-Api-Key
+FRESH	github	2.9	0	1	https://github.com/moorcheh-ai/memanto/pull/1828	fix: langgraph store crash + silent memory drop, ui_router bad-input 400s, CLI migrate friendly errors (Bounty #770 roun
+FRESH	github	3.2	0	1	https://github.com/moorcheh-ai/memanto/pull/1827	fix: memory-integrity fixes — extraction truncation, summary archiving, JWT payload validation, session duration, export
+FRESH	sn/bitcoin	3.6	0	1	https://stacker.news/items/1541990	An analogy between the marathon and Bitcoin
+FRESH	github	5.6	0	3	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/802	[Bounty] [Bounty $1,500] Generalize multi_scale_deformable_attn to support D values that 
+FRESH	sn/bitcoin	5.8	0	4	https://stacker.news/items/1541955	Generating seed phrase from dice - an easy, understandable method
