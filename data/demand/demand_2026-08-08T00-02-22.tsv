@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/tech	4.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1542722	Signal app on registration without a phone number. But what form will it take?
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/273	[radar] SN open bounty 2026-08-07T23:42
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/sourcey/startup-credits/issues/259	Paid bounty: add a new vendor offer to the catalog
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/272	[radar] SN open bounty 2026-08-07T22:49
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/jflournoy/for-funsies/issues/9	[Bounty: 2 GSD] Make merged work visible on the published Pages site
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/271	[radar] SN open bounty 2026-08-07T21:50
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/jflournoy/for-funsies/issues/4	[Bounty: 1 GSD + 2 GSD if built] Propose new features aligned with the vision of this repository
+4	github	3.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/270	[radar] SN open bounty 2026-08-07T20:52
+3	github	9.2	24 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Femology/pulsepay/issues/1	feat(contract): implement multi-token support for EURC and native XLM streams
+2	github	13.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/poteto0/endor.mbt/issues/105	types/ChainId: CAIP-2 (eip155:8453) との相互変換
+2	github	55.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/38	feat: Paymaster SAC token selector dropdown
+2	github	55.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/18	feat: Paymaster SAC token selector dropdown
+2	github	55.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/soroban-gasless-contracts/issues/1	feat: implement TokenPaymaster for USDC gas payments
+2	github	62.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Far-Beyond-Pulsar/Solid3D/issues/27	USDZ: referenced textures are never extracted from the archive — texture-bearing models load textureless
+2	github	4.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/FjrREPO/gitbounty-demo/issues/3	Add an average() helper
+2	github	4.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/269	[radar] SN open bounty 2026-08-07T19:09
+2	github	6.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/268	[radar] SN open bounty 2026-08-07T17:57
+2	github	7.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/hellofajar/gitbounty-demo/issues/1	sum() skips the first element
+2	github	7.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/267	[radar] SN open bounty 2026-08-07T17:03
+2	github	7.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/266	[radar] SN open bounty 2026-08-07T16:05
+0	github	8.0	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/789	💰 [BOUNTY] Repeater Payment Model - x402 Micro-Transactions
+0	github	8.0	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/788	🔁 [BOUNTY] MyZubster Repeater Logic & Mesh Routing
