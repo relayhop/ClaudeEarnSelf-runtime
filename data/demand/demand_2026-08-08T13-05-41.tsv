@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/tech	17.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1542722	Signal app on registration without a phone number. But what form will it take?
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/889	🔥 [URGENT] Fix Security Vulnerability
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/888	📚 [BOUNTY] Technical Documentation
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/887	💬 [BOUNTY] Community Management
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/886	🎥 [BOUNTY] YouTube Video Tutorial
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/885	🎨 [BOUNTY] Design System & Components
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/884	🐳 [BOUNTY] Dockerize All Services
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/883	🔒 [BOUNTY] Implement Escrow Smart Contract 2-of-3
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/876	♿ [UI/UX] Accessibility Improvements
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/875	🌓 [UI/UX] Add Dark/Light Mode
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/874	📱 [UI/UX] Improve Responsive Marketplace
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/873	🎪 [COMMUNITY] Event Organizer
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/872	👥 [COMMUNITY] Community Moderator
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/871	📱 [COMMUNITY] Social Media Ambassador
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/870	🎥 [CONTENT] Become a MyZubster Content Creator
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/869	🌐 [TRANSLATION] German Translation
+3	github	22.3	24 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Femology/pulsepay/issues/1	feat(contract): implement multi-token support for EURC and native XLM streams
+2	github	4.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi-contracts/issues/86	Validate currency symbols in register_currency
+2	github	9.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi/issues/128	Settings: default display currency preference (XLM/USDC)
+2	github	9.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi/issues/123	Centralize XLM/USDC amount formatting into one shared util
+2	github	26.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/poteto0/endor.mbt/issues/105	types/ChainId: CAIP-2 (eip155:8453) との相互変換
+2	github	68.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/38	feat: Paymaster SAC token selector dropdown
+2	github	68.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/18	feat: Paymaster SAC token selector dropdown
+2	github	68.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/soroban-gasless-contracts/issues/1	feat: implement TokenPaymaster for USDC gas payments
