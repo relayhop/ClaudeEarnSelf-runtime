@@ -1,0 +1,26 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	2.6	-	OPEN_NEED	https://stacker.news/items/1543355	How to Set Up BTCPay Server Better After the Hack?
+4	sn/tech	22.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1542722	Signal app on registration without a phone number. But what form will it take?
+4	github	3.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Wayfare-labs/wayfare/issues/6	Verify the USDC issuer against circle.com's stellar.toml
+4	github	3.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Wayfare-labs/wayfare/issues/2	Add unit tests for the asset package
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/291	[radar] SN open bounty 2026-08-08T17:39
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/290	[radar] SN open bounty 2026-08-08T16:47
+4	github	3.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/289	[radar] SN open bounty 2026-08-08T15:38
+3	sn/bitcoin	5.0	10 BTC	OPEN_NEED	https://stacker.news/items/1543234	2.5 years accepting Bitcoin: 19 bookings and 43 nights paid in sats. Failure?
+3	github	28.0	24 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Femology/pulsepay/issues/1	feat(contract): implement multi-token support for EURC and native XLM streams
+2	github	10.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi-contracts/issues/86	Validate currency symbols in register_currency
+2	github	15.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi/issues/128	Settings: default display currency preference (XLM/USDC)
+2	github	15.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi/issues/123	Centralize XLM/USDC amount formatting into one shared util
+2	github	32.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/poteto0/endor.mbt/issues/105	types/ChainId: CAIP-2 (eip155:8453) との相互変換
+2	github	4.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/288	[radar] SN open bounty 2026-08-08T14:42
+2	github	5.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/287	[radar] SN open bounty 2026-08-08T13:54
+2	github	5.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/286	[radar] SN open bounty 2026-08-08T13:06
+2	github	6.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/887	💬 [BOUNTY] Community Management
+2	github	6.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/886	🎥 [BOUNTY] YouTube Video Tutorial
+0	github	6.4	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/889	🔥 [URGENT] Fix Security Vulnerability
+0	github	6.4	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/888	📚 [BOUNTY] Technical Documentation
+0	github	6.4	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/885	🎨 [BOUNTY] Design System & Components
+0	github	6.4	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/884	🐳 [BOUNTY] Dockerize All Services
+0	github	6.4	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/883	🔒 [BOUNTY] Implement Escrow Smart Contract 2-of-3
+0	github	6.4	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/876	♿ [UI/UX] Accessibility Improvements
+0	github	6.4	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/875	🌓 [UI/UX] Add Dark/Light Mode
