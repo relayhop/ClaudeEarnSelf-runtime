@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/tech	11.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1542722	Signal app on registration without a phone number. But what form will it take?
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/278	[radar] SN open bounty 2026-08-08T07:08
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/277	[radar] SN open bounty 2026-08-08T07:08
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/276	[radar] SN open bounty 2026-08-08T05:51
+4	github	3.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/jflournoy/for-funsies/issues/14	[Bounty: 3 GSD] Make the site generative — it should change every time it builds
+4	github	3.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/275	[radar] SN open bounty 2026-08-08T04:17
+3	github	17.1	24 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Femology/pulsepay/issues/1	feat(contract): implement multi-token support for EURC and native XLM streams
+2	github	4.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi/issues/128	Settings: default display currency preference (XLM/USDC)
+2	github	4.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi/issues/123	Centralize XLM/USDC amount formatting into one shared util
+2	github	21.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/poteto0/endor.mbt/issues/105	types/ChainId: CAIP-2 (eip155:8453) との相互変換
+2	github	63.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/38	feat: Paymaster SAC token selector dropdown
+2	github	63.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/18	feat: Paymaster SAC token selector dropdown
+2	github	63.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/soroban-gasless-contracts/issues/1	feat: implement TokenPaymaster for USDC gas payments
+2	github	70.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Far-Beyond-Pulsar/Solid3D/issues/27	USDZ: referenced textures are never extracted from the archive — texture-bearing models load textureless
+2	github	5.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/274	[radar] SN open bounty 2026-08-08T02:13
+2	github	8.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/273	[radar] SN open bounty 2026-08-07T23:42
+2	github	8.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/sourcey/startup-credits/issues/259	Paid bounty: add a new vendor offer to the catalog
+2	github	9.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/272	[radar] SN open bounty 2026-08-07T22:49
+2	github	9.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/jflournoy/for-funsies/issues/9	[Bounty: 2 GSD] Make merged work visible on the published Pages site
+2	github	10.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/jflournoy/for-funsies/issues/7	[Proposal] Add --summary flag for contributor totals
+2	github	10.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/jflournoy/for-funsies/issues/6	[Proposal] Add --validate flag to the ledger script
+2	github	10.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/jflournoy/for-funsies/issues/5	[Proposal] Add --format json output to the ledger script
+2	github	10.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/271	[radar] SN open bounty 2026-08-07T21:50
+2	github	10.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/jflournoy/for-funsies/issues/4	[Bounty: 1 GSD + 2 GSD if built] Propose new features aligned with the vision of this repository
