@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	1.8	$150	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/807	[Bounty] [FEAT] Add wallet integration support for Freighter and Stellar Kit
+4	sn/tech	15.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1542722	Signal app on registration without a phone number. But what form will it take?
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi-contracts/issues/86	Validate currency symbols in register_currency
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/284	[radar] SN open bounty 2026-08-08T10:45
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/AbleeGod/stellar-drips-protocol/issues/4	[FEAT] Implement on-chain subscription analytics and event history viewer
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/AbleeGod/soroban-defi-analytics/issues/4	[FEAT] Implement CSV export functionality for historical pool TVL data
+4	github	1.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/283	[radar] SN open bounty 2026-08-08T09:49
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/chukwuebukachineche/soroban-defi-analytics/issues/8	[FEAT] Implement CSV export functionality for historical pool TVL data
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/chukwuebukachineche/soroban-defi-analytics/issues/4	[FEAT] Implement CSV export functionality for historical pool TVL data
+4	github	2.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/282	[radar] SN open bounty 2026-08-08T08:53
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Bigg770/soroban-defi-analytics/issues/4	[FEAT] Implement CSV export functionality for historical pool TVL data
+3	github	20.8	24 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Femology/pulsepay/issues/1	feat(contract): implement multi-token support for EURC and native XLM streams
+2	github	8.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi/issues/128	Settings: default display currency preference (XLM/USDC)
+2	github	8.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi/issues/123	Centralize XLM/USDC amount formatting into one shared util
+2	github	24.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/poteto0/endor.mbt/issues/105	types/ChainId: CAIP-2 (eip155:8453) との相互変換
+2	github	66.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/38	feat: Paymaster SAC token selector dropdown
+2	github	67.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/gasless-relayer-dashboard/issues/18	feat: Paymaster SAC token selector dropdown
+2	github	67.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-gasless-net/soroban-gasless-contracts/issues/1	feat: implement TokenPaymaster for USDC gas payments
+2	github	4.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/278	[radar] SN open bounty 2026-08-08T07:08
+2	github	4.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/277	[radar] SN open bounty 2026-08-08T07:08
+2	github	5.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/276	[radar] SN open bounty 2026-08-08T05:51
+2	github	6.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/jflournoy/for-funsies/issues/14	[Bounty: 3 GSD] Make the site generative — it should change every time it builds
+2	github	7.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/275	[radar] SN open bounty 2026-08-08T04:17
+2	github	9.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/274	[radar] SN open bounty 2026-08-08T02:13
