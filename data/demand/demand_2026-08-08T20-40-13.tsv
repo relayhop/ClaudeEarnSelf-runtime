@@ -1,0 +1,27 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	0.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1543613	DTails OS & Tool - build your own verifiable Tails
+4	sn/bitcoin	1.6	-	OPEN_NEED	https://stacker.news/items/1543487	How long until a bip110 signalling block is mined after mandatory signalling?
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/293	[radar] SN open bounty 2026-08-08T19:38
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/ShawnLi14/campus-bites-api/issues/2	Sold-out menu items still appear when available_only=true
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/ShawnLi14/study-spot/issues/2	Minimum capacity filter only shows exact capacity matches
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/ShawnLi14/study-spot/issues/1	Back-to-back room bookings are rejected as overlapping
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/ShawnLi14/campus-bites-api/issues/1	Excluding multiple allergens still returns dishes containing one of them
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/ShawnLi14/campus-ride/issues/2	Wheelchair accessibility filter does not restore hidden shuttles when disabled
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/ShawnLi14/campus-ride/issues/1	Arrival board sorts ETAs lexicographically instead of by soonest arrival
+4	github	1.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/292	[radar] SN open bounty 2026-08-08T18:52
+4	github	3.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/291	[radar] SN open bounty 2026-08-08T17:39
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/290	[radar] SN open bounty 2026-08-08T16:47
+3	sn/bitcoin	6.8	10 BTC	OPEN_NEED	https://stacker.news/items/1543234	2.5 years accepting Bitcoin: 19 bookings and 43 nights paid in sats. Failure?
+3	github	29.9	24 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Femology/pulsepay/issues/1	feat(contract): implement multi-token support for EURC and native XLM streams
+2	sn/bitcoin	4.4	-	OPEN_NEED	https://stacker.news/items/1543355	How to Set Up BTCPay Server Better After the Hack?
+2	github	4.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Wayfare-labs/wayfare/issues/6	Verify the USDC issuer against circle.com's stellar.toml
+2	github	4.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Wayfare-labs/wayfare/issues/2	Add unit tests for the asset package
+2	github	11.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi-contracts/issues/86	Validate currency symbols in register_currency
+2	github	17.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi/issues/128	Settings: default display currency preference (XLM/USDC)
+2	github	17.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi/issues/123	Centralize XLM/USDC amount formatting into one shared util
+2	github	33.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/poteto0/endor.mbt/issues/105	types/ChainId: CAIP-2 (eip155:8453) との相互変換
+2	github	5.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/289	[radar] SN open bounty 2026-08-08T15:38
+2	github	6.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/288	[radar] SN open bounty 2026-08-08T14:42
+2	github	6.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/287	[radar] SN open bounty 2026-08-08T13:54
+2	github	7.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/286	[radar] SN open bounty 2026-08-08T13:06
+0	github	8.2	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/889	🔥 [URGENT] Fix Security Vulnerability
