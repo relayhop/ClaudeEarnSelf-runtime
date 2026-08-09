@@ -1,0 +1,27 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	3.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1544178	Sunday Survey: Are you willing to trade BIP110 coin now?
+4	sn/bitcoin	6.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1544100	From Cowboy Credits to Lightning: could communities build their own economies?
+4	sn/bitcoin	6.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1544094	Has BIP-110 failed?
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/305	[radar] SN open bounty 2026-08-09T21:42
+4	github	1.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/304	[radar] SN open bounty 2026-08-09T20:47
+4	github	3.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/303	[radar] SN open bounty 2026-08-09T19:42
+4	github	3.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Bubberstation/Bubberstation/pull/6084	FEATURE FREEZE STARTING ABOVE THIS PR - NON FIX PRS WILL BE CLOSED
+4	github	3.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/302	[radar] SN open bounty 2026-08-09T18:54
+3	github	55.9	24 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Femology/pulsepay/issues/1	feat(contract): implement multi-token support for EURC and native XLM streams
+2	sn/bitcoin	8.5	-	OPEN_NEED	https://stacker.news/items/1544010	Update: the default OCEAN stratum endpoint will return to the non-BIP110 chain
+2	github	30.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Wayfare-labs/wayfare/issues/6	Verify the USDC issuer against circle.com's stellar.toml
+2	github	30.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Wayfare-labs/wayfare/issues/2	Add unit tests for the asset package
+2	github	37.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi-contracts/issues/86	Validate currency symbols in register_currency
+2	github	43.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi/issues/128	Settings: default display currency preference (XLM/USDC)
+2	github	43.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi/issues/123	Centralize XLM/USDC amount formatting into one shared util
+2	github	59.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/poteto0/endor.mbt/issues/105	types/ChainId: CAIP-2 (eip155:8453) との相互変換
+2	github	3.9	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1245	🧪 [CHEMISTRY] Tokenizzazione Chimica
+2	github	4.0	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1237	💎 [MINERALS] Tokenizzazione Minerali e Risorse
+2	github	4.0	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1230	💎 [FASHION] Tokenizzazione Moda Italiana
+2	github	4.0	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1229	🎮 [GAMING] Tokenizzazione Videogiochi
+2	github	4.0	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1228	🏙️ [CITIES] Tokenizzazione Città e Monumenti
+2	github	4.0	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1227	🍕 [FOOD] Tokenizzazione Cucina Italiana
+2	github	4.0	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1226	🎵 [MUSIC] Tokenizzazione Musica Classica
+2	github	4.0	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1225	🏆 [SPORT] Tokenizzazione Calcio e Sport
+2	github	4.0	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1224	🌿 [NATURE] Tokenizzazione Animali e Piante
+2	github	5.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/301	[radar] SN open bounty 2026-08-09T17:41
