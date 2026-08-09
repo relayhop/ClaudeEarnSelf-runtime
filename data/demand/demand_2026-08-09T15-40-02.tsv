@@ -1,0 +1,27 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	1.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1544010	Update: the default OCEAN stratum endpoint will return to the non-BIP110 chain
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/10	[trivial] [bounty] Add error boundary and retry UI to dashboard data fetches
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/9	[medium] [bounty] Add dark mode support to the dashboard
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/8	[trivial] [bounty] Add transaction builder tests to @x402/wallet package
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/6	[medium] [bounty] Add mainnet Stellar network configuration
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/5	[high] [bounty] Integrate Soroban credit-escrow contract into gateway charge flow
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/4	[medium] [bounty] Add health check endpoints to Docker Compose services
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/3	[medium] [bounty] Implement load balancing across multiple providers
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/2	[medium] [bounty] Add Kubernetes deployment manifests
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/1	[high] [bounty] Add Python SDK with LangChain integration
+4	github	2.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/298	[radar] SN open bounty 2026-08-09T13:10
+3	github	48.9	24 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Femology/pulsepay/issues/1	feat(contract): implement multi-token support for EURC and native XLM streams
+2	sn/bitcoin	23.4	-	OPEN_NEED	https://stacker.news/items/1543355	How to Set Up BTCPay Server Better After the Hack?
+2	sn/bitcoin	20.6	-	OPEN_NEED	https://stacker.news/items/1543487	How long until a bip110 signalling block is mined after mandatory signalling?
+2	sn/bitcoin	19.3	-	OPEN_NEED	https://stacker.news/items/1543613	DTails OS & Tool - build your own verifiable Tails
+2	github	23.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Wayfare-labs/wayfare/issues/6	Verify the USDC issuer against circle.com's stellar.toml
+2	github	23.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Wayfare-labs/wayfare/issues/2	Add unit tests for the asset package
+2	github	30.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi-contracts/issues/86	Validate currency symbols in register_currency
+2	github	36.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi/issues/128	Settings: default display currency preference (XLM/USDC)
+2	github	36.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi/issues/123	Centralize XLM/USDC amount formatting into one shared util
+2	github	52.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/poteto0/endor.mbt/issues/105	types/ChainId: CAIP-2 (eip155:8453) との相互変換
+0	github	9.9	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1048	📱 [BOUNTY] Mobile App iOS/Android
+0	github	9.9	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1047	🦾 [BOUNTY] EVA IONI Arm Prototype
+0	github	9.9	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1046	🪙 [BOUNTY] Multi-Currency Crypto BTC/ETH/ADA
+0	github	9.9	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1045	💵 [BOUNTY] Pagamenti Fiat USD/EUR/GBP
+0	github	9.9	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1044	🌱 [BOUNTY] Integrazione Sensori IoT per Orti Urbani
