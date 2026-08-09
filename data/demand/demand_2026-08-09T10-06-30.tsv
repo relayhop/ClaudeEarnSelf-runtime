@@ -1,0 +1,27 @@
+# score	source	age_h	payout_hint	tags	url	title
+3	sn/bitcoin	20.2	10 BTC	OPEN_NEED	https://stacker.news/items/1543234	2.5 years accepting Bitcoin: 19 bookings and 43 nights paid in sats. Failure?
+3	github	43.3	24 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Femology/pulsepay/issues/1	feat(contract): implement multi-token support for EURC and native XLM streams
+2	sn/bitcoin	17.8	-	OPEN_NEED	https://stacker.news/items/1543355	How to Set Up BTCPay Server Better After the Hack?
+2	sn/bitcoin	13.7	-	OPEN_NEED	https://stacker.news/items/1543613	DTails OS & Tool - build your own verifiable Tails
+2	sn/bitcoin	15.1	-	OPEN_NEED	https://stacker.news/items/1543487	How long until a bip110 signalling block is mined after mandatory signalling?
+2	github	18.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Wayfare-labs/wayfare/issues/6	Verify the USDC issuer against circle.com's stellar.toml
+2	github	18.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Wayfare-labs/wayfare/issues/2	Add unit tests for the asset package
+2	github	25.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi-contracts/issues/86	Validate currency symbols in register_currency
+2	github	30.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi/issues/128	Settings: default display currency preference (XLM/USDC)
+2	github	30.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi/issues/123	Centralize XLM/USDC amount formatting into one shared util
+2	github	47.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/poteto0/endor.mbt/issues/105	types/ChainId: CAIP-2 (eip155:8453) との相互変換
+0	github	4.3	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1048	📱 [BOUNTY] Mobile App iOS/Android
+0	github	4.3	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1047	🦾 [BOUNTY] EVA IONI Arm Prototype
+0	github	4.3	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1046	🪙 [BOUNTY] Multi-Currency Crypto BTC/ETH/ADA
+0	github	4.3	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1045	💵 [BOUNTY] Pagamenti Fiat USD/EUR/GBP
+0	github	4.3	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1044	🌱 [BOUNTY] Integrazione Sensori IoT per Orti Urbani
+0	github	4.4	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1043	📱 [BOUNTY] Mobile App iOS/Android
+0	github	4.4	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1042	🦾 [BOUNTY] EVA IONI Arm Prototype
+0	github	4.4	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1041	🪙 [BOUNTY] Multi-Currency Crypto BTC/ETH/ADA
+0	github	4.4	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1040	💵 [BOUNTY] Pagamenti Fiat USD/EUR/GBP
+0	github	4.4	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1039	🌱 [BOUNTY] Integrazione Sensori IoT per Orti Urbani
+0	github	5.6	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1030	🌍 [FUTURA] Community Ambientale
+0	github	5.6	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1029	⛓️ [FUTURA] Blockchain per Dati Ambientali
+0	github	5.6	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1027	📊 [FUTURA] Analytics Ambientali
+0	github	5.6	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1026	🔬 [FUTURA] Integrazione Sensori Ambientali
+0	github	5.6	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues/1025	🌱 [FUTURA] Dashboard Monitoraggio Ambientale
