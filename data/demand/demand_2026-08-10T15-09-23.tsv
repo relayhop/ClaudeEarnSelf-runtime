@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	2.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1544607	Who will be the sacrifice for the next bear market?
+6	sn/bitcoin	1.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1544639	BIP DRAFT: ChillDKG - Distributed Key Generation for FROST
+4	sn/bitcoin	3.5	-	OPEN_NEED	https://stacker.news/items/1544572	Why Is The Red Team Seeking Publicity?
+4	sn/bitcoin	22.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1544100	From Cowboy Credits to Lightning: could communities build their own economies?
+4	sn/bitcoin	22.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1544094	Has BIP-110 failed?
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/I-ECO-01/issues/106	[BOUNTY 6 XMR] Life Support System - Space Station
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/I-ECO-01/issues/105	[BOUNTY 9 XMR] Interplanetary Communication Network
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/I-ECO-01/issues/104	[BOUNTY 6 XMR] Astronaut AI Assistant - EVA Space Edition
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/I-ECO-01/issues/103	[BOUNTY 12 XMR] Lunar Rover Explorer
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/I-ECO-01/issues/102	[BOUNTY 8 XMR] Satellite Communication System
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/I-ECO-01/issues/88	[BOUNTY 3 XMR] Hera Robot - Pulizia Avanzata con AI
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/I-ECO-01/issues/85	[BOUNTY 4 XMR] Nurse Robot - Monitoraggio Avanzato Pazienti
+3	sn/bitcoin	13.8	3 sats	OPEN_NEED	https://stacker.news/items/1544331	First it was 'fix the spam' then 'the miners are hostile' now 'change the PoW'?
+2	sn/bitcoin	20.4	-	OPEN_NEED	https://stacker.news/items/1544178	Sunday Survey: Are you willing to trade BIP110 coin now?
+2	github	12.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi-contracts/issues/118	docs: integer-only protocol fee model with worked examples
+2	github	47.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Wayfare-labs/wayfare/issues/6	Verify the USDC issuer against circle.com's stellar.toml
+2	github	47.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Wayfare-labs/wayfare/issues/2	Add unit tests for the asset package
+2	github	54.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi-contracts/issues/86	Validate currency symbols in register_currency
+2	github	59.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi/issues/128	Settings: default display currency preference (XLM/USDC)
+2	github	59.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi/issues/123	Centralize XLM/USDC amount formatting into one shared util
+2	github	4.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/313	[radar] SN open bounty 2026-08-10T10:33
+2	github	4.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/I-ECO-01/issues/60	[BOUNTY 1 XMR] Patient Call System - Nurse Robot
+2	github	4.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/I-ECO-01/issues/59	[BOUNTY 2 XMR] Medication Dispenser - Nurse Robot
+2	github	4.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/I-ECO-01/issues/58	[BOUNTY 3 XMR] Vital Signs Monitor - Nurse Robot
+2	github	6.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/MyZubsterWeb/issues/55	[BOUNTY 2 XMR] Dashboard admin per MyZubster
+2	github	6.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/MyZubster-App/issues/2	[BOUNTY 2 XMR] Wallet XMR per Android
+2	github	6.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/I-ECO-01/issues/41	...
+2	github	6.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/312	[radar] SN open bounty 2026-08-10T08:47
