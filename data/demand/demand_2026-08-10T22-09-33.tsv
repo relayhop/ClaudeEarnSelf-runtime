@@ -1,0 +1,30 @@
+# score	source	age_h	payout_hint	tags	url	title
+7	sn/bitcoin	2.3	21 BTC	OPEN_NEED,LOW_COMP	https://stacker.news/items/1544984	BTCPay Server Security Incident: Our Response and Next Steps
+6	sn/bitcoin	1.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1545013	What If Social Media Had Never Been Invented?
+4	sn/bitcoin	8.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1544639	BIP DRAFT: ChillDKG - Distributed Key Generation for FROST
+4	sn/bitcoin	5.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1544865	Next Steps for bip110 coin?
+4	sn/bitcoin	6.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1544767	Should Bitcoin Core be replaced by a colony of Beavers?
+3	sn/bitcoin	20.8	3 sats	OPEN_NEED	https://stacker.news/items/1544331	First it was 'fix the spam' then 'the miners are hostile' now 'change the PoW'?
+2	sn/bitcoin	10.5	-	OPEN_NEED	https://stacker.news/items/1544572	Why Is The Red Team Seeking Publicity?
+2	sn/bitcoin	9.7	-	OPEN_NEED	https://stacker.news/items/1544607	Who will be the sacrifice for the next bear market?
+2	github	19.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi-contracts/issues/118	docs: integer-only protocol fee model with worked examples
+2	github	54.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Wayfare-labs/wayfare/issues/6	Verify the USDC issuer against circle.com's stellar.toml
+2	github	54.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Wayfare-labs/wayfare/issues/2	Add unit tests for the asset package
+2	github	61.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi-contracts/issues/86	Validate currency symbols in register_currency
+2	github	66.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi/issues/128	Settings: default display currency preference (XLM/USDC)
+2	github	66.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi/issues/123	Centralize XLM/USDC amount formatting into one shared util
+2	github	4.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Scottcjn/rustchain-bounties/issues/16471	[BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failures
+2	github	7.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/I-ECO-01/issues/105	[BOUNTY 9 XMR] Interplanetary Communication Network
+2	github	7.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/I-ECO-01/issues/104	[BOUNTY 6 XMR] Astronaut AI Assistant - EVA Space Edition
+2	github	7.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/I-ECO-01/issues/103	[BOUNTY 12 XMR] Lunar Rover Explorer
+2	github	7.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/I-ECO-01/issues/102	[BOUNTY 8 XMR] Satellite Communication System
+2	github	9.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/I-ECO-01/issues/88	[BOUNTY 3 XMR] Hera Robot - Pulizia Avanzata con AI
+2	github	9.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/I-ECO-01/issues/85	[BOUNTY 4 XMR] Nurse Robot - Monitoraggio Avanzato Pazienti
+2	github	11.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/313	[radar] SN open bounty 2026-08-10T10:33
+2	github	11.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/I-ECO-01/issues/60	[BOUNTY 1 XMR] Patient Call System - Nurse Robot
+2	github	11.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/I-ECO-01/issues/59	[BOUNTY 2 XMR] Medication Dispenser - Nurse Robot
+2	github	13.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/MyZubsterWeb/issues/55	[BOUNTY 2 XMR] Dashboard admin per MyZubster
+0	github	4.6	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/16472	[BOUNTY: 20 RTC] BoTTube CI jobs hang to a 15-minute timeout and blame the contributor
+0	github	6.9	-	OPEN_ISSUE	https://github.com/KentonMaverick47/cobra/issues/1	🎯 Fix persistent flag value leakage across repeated Command.Execute() invocations
+0	github	7.1	-	OPEN_ISSUE	https://github.com/DanielIoni-creator/I-ECO-01/issues/106	[BOUNTY 6 XMR] Life Support System - Space Station
+0	github	11.9	-	OPEN_ISSUE	https://github.com/DanielIoni-creator/I-ECO-01/issues/58	[BOUNTY 3 XMR] Vital Signs Monitor - Nurse Robot
