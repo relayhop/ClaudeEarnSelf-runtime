@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	17.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1544100	From Cowboy Credits to Lightning: could communities build their own economies?
+4	sn/bitcoin	17.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1544094	Has BIP-110 failed?
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/MyZubsterWeb/issues/55	[BOUNTY 2 XMR] Dashboard admin per MyZubster
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/MyZubster-Robot/issues/4	[BOUNTY 1.5 XMR] Display per QR code e stato del robot
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/MyZubster-App/issues/2	[BOUNTY 2 XMR] Wallet XMR per Android
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/MyZubster-Robot/issues/3	[BOUNTY 1.5 XMR] Display per QR code e stato
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/MyZubster-Robot/issues/2	[BOUNTY 2 XMR] Controllo pompe peristaltiche
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/I-ECO-01/issues/41	...
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/312	[radar] SN open bounty 2026-08-10T08:47
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/I-ECO-01/issues/39	[BOUNTY 30 XMR] Demo Fluffypony per evento pubblico
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/I-ECO-01/issues/38	[BOUNTY 20 XMR] Kit Grafico 'MyZubster TAZ DAY Riccione'
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/MyZubsterWeb/issues/54	[BOUNTY 1 XMR] Dashboard TAZ - Monitoraggio Bar Live
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/MyZubster-Marketplace/issues/1	[BOUNTY 1 XMR] Orti DAO - Smart Contract Seme
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/MyZubster-App/issues/1	[BOUNTY 1.5 XMR] MyZubster Wallet Mobile - Plugin iOS
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/MyZubster-Robot/issues/1	[BOUNTY 3 XMR] Robot Vision - Riconoscimento Bicchiere
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/311	[radar] SN open bounty 2026-08-10T07:58
+4	github	3.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/310	[radar] SN open bounty 2026-08-10T06:18
+3	sn/bitcoin	8.3	3 sats	OPEN_NEED	https://stacker.news/items/1544331	First it was 'fix the spam' then 'the miners are hostile' now 'change the PoW'?
+3	github	66.9	24 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Femology/pulsepay/issues/1	feat(contract): implement multi-token support for EURC and native XLM streams
+2	sn/bitcoin	19.5	-	OPEN_NEED	https://stacker.news/items/1544010	Update: the default OCEAN stratum endpoint will return to the non-BIP110 chain
+2	sn/bitcoin	14.9	-	OPEN_NEED	https://stacker.news/items/1544178	Sunday Survey: Are you willing to trade BIP110 coin now?
+2	github	7.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi-contracts/issues/118	docs: integer-only protocol fee model with worked examples
+2	github	41.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Wayfare-labs/wayfare/issues/6	Verify the USDC issuer against circle.com's stellar.toml
+2	github	41.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Wayfare-labs/wayfare/issues/2	Add unit tests for the asset package
+2	github	48.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi-contracts/issues/86	Validate currency symbols in register_currency
+2	github	54.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi/issues/128	Settings: default display currency preference (XLM/USDC)
+2	github	54.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi/issues/123	Centralize XLM/USDC amount formatting into one shared util
+2	github	70.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/poteto0/endor.mbt/issues/105	types/ChainId: CAIP-2 (eip155:8453) との相互変換
