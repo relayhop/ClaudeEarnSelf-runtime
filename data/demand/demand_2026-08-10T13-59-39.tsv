@@ -1,0 +1,31 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	1.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1544607	Who will be the sacrifice for the next bear market?
+6	sn/bitcoin	0.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1544639	BIP DRAFT: ChillDKG - Distributed Key Generation for FROST
+4	sn/bitcoin	2.4	-	OPEN_NEED	https://stacker.news/items/1544572	Why Is The Red Team Seeking Publicity?
+4	sn/bitcoin	21.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1544100	From Cowboy Credits to Lightning: could communities build their own economies?
+4	sn/bitcoin	21.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1544094	Has BIP-110 failed?
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/I-ECO-01/issues/88	[BOUNTY 3 XMR] Hera Robot - Pulizia Avanzata con AI
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/I-ECO-01/issues/85	[BOUNTY 4 XMR] Nurse Robot - Monitoraggio Avanzato Pazienti
+4	github	3.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/313	[radar] SN open bounty 2026-08-10T10:33
+4	github	3.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/I-ECO-01/issues/60	[BOUNTY 1 XMR] Patient Call System - Nurse Robot
+4	github	3.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/I-ECO-01/issues/59	[BOUNTY 2 XMR] Medication Dispenser - Nurse Robot
+4	github	3.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/I-ECO-01/issues/58	[BOUNTY 3 XMR] Vital Signs Monitor - Nurse Robot
+3	sn/bitcoin	12.6	3 sats	OPEN_NEED	https://stacker.news/items/1544331	First it was 'fix the spam' then 'the miners are hostile' now 'change the PoW'?
+3	github	71.2	24 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/PulsePay-Agency/pulsepay/issues/1	feat(contract): implement multi-token support for EURC and native XLM streams
+2	sn/bitcoin	23.8	-	OPEN_NEED	https://stacker.news/items/1544010	Update: the default OCEAN stratum endpoint will return to the non-BIP110 chain
+2	sn/bitcoin	19.2	-	OPEN_NEED	https://stacker.news/items/1544178	Sunday Survey: Are you willing to trade BIP110 coin now?
+2	github	11.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi-contracts/issues/118	docs: integer-only protocol fee model with worked examples
+2	github	46.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Wayfare-labs/wayfare/issues/6	Verify the USDC issuer against circle.com's stellar.toml
+2	github	46.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Wayfare-labs/wayfare/issues/2	Add unit tests for the asset package
+2	github	53.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi-contracts/issues/86	Validate currency symbols in register_currency
+2	github	58.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi/issues/128	Settings: default display currency preference (XLM/USDC)
+2	github	58.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi/issues/123	Centralize XLM/USDC amount formatting into one shared util
+2	github	4.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/MyZubsterWeb/issues/55	[BOUNTY 2 XMR] Dashboard admin per MyZubster
+2	github	4.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/MyZubster-App/issues/2	[BOUNTY 2 XMR] Wallet XMR per Android
+2	github	5.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/I-ECO-01/issues/41	...
+2	github	5.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/312	[radar] SN open bounty 2026-08-10T08:47
+2	github	5.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/933	[Feature] Voice volume control UI
+2	github	5.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/932	[Test] Windows Voice hook verification
+2	github	6.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/311	[radar] SN open bounty 2026-08-10T07:58
+0	github	5.3	-	OPEN_ISSUE	https://github.com/DanielIoni-creator/MyZubster-Robot/issues/1	[BOUNTY 3 XMR] Robot Vision - Riconoscimento Bicchiere
+0	github	7.7	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/310	[radar] SN open bounty 2026-08-10T06:18
