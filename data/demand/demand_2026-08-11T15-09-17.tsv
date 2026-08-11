@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	19.3	21 BTC	OPEN_NEED,LOW_COMP	https://stacker.news/items/1544984	BTCPay Server Security Incident: Our Response and Next Steps
+4	sn/bitcoin	3.7	-	OPEN_NEED	https://stacker.news/items/1545366	Some advice re Lukeless knots?
+4	sn/bitcoin	22.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1544865	Next Steps for bip110 coin?
+4	sn/bitcoin	18.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1545013	What If Social Media Had Never Been Invented?
+4	sn/tech	20.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1544946	Who Discovered the Very First Magnet?
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/37	chore: remove unused WebSocket/socket.io dependencies from gateway
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/36	chore: cut v0.1.0 git tag and publish GitHub Release
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/35	chore: commit untracked project files and add CHANGELOG.md
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/34	test(contracts): add invariant tests for credit-escrow token balance equation
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/33	feat: implement email notification channel with nodemailer
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/32	test: add Jest unit tests for dashboard pages and components
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/31	fix: enforce minPaymentAmount config in quote generation and payment verification
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/30	fix: re-validate upstream DNS at request time to prevent DNS rebinding SSRF
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/29	fix: set X-Payment-Receipt headers on streaming (SSE) responses
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/28	perf(contracts): remove extend_ttl from read-only functions to reduce unnecessary gas
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/27	fix(contracts): clamp unbounded limit in paginated queries to prevent gas DoS
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/26	fix: implement external signer path in SDK executePayment
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/25	feat: wire credit-escrow settlement for metered per-token pricing
+3	github	14.7	000 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/StelFlow-labs/StelFlow/issues/1	docs: add a worked Alice-and-Bob example to concepts.md
+2	github	36.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi-contracts/issues/118	docs: integer-only protocol fee model with worked examples
+2	github	71.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Wayfare-labs/wayfare/issues/6	Verify the USDC issuer against circle.com's stellar.toml
+2	github	71.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Wayfare-labs/wayfare/issues/2	Add unit tests for the asset package
+0	github	4.6	-	OPEN_ISSUE	https://github.com/EncarnacionP/cli/issues/1	🎯 Fix premature termination in API pagination when page size is less than requested
+0	github	12.4	-	OPEN_ISSUE	https://github.com/CornelParsch21/client-go/issues/1	🎯 Prevent Indefinite Request Throttling When RateLimiter Burst is Configured Too Low
