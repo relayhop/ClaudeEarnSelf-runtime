@@ -1,0 +1,16 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH_LOW_COMP	github	4.2	0	0	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/818	[Bounty] [Bounty] Seed a paid MCP child bounty
+FRESH_LOW_COMP	github	4.2	0	0	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/816	[Bounty] [Bounty] Seed a paid wallet UX child bounty
+FRESH_LOW_COMP	github	4.2	0	0	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/817	[Bounty] [Bounty] Seed a paid API child bounty
+FRESH_LOW_COMP	github	4.2	0	0	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/815	[Bounty] [Bounty] Seed a paid CLI child bounty
+FRESH	github	0.0	0	2	https://github.com/LucianaGade07/goose/issues/3	🎯 Prevent Race Condition: Acquire Migration Lock Before Checking Database Version
+FRESH	github	3.8	0	7	https://github.com/CornelParsch21/client-go/issues/1	🎯 Prevent Indefinite Request Throttling When RateLimiter Burst is Configured Too Low
+FRESH	github	4.6	0	1	https://github.com/NSPG13/agent-bounties/issues/873	[DIRECT] Diagnose stalled claimed and submitted bounties
+FRESH	github	4.6	0	1	https://github.com/NSPG13/agent-bounties/issues/872	[DIRECT] Generate deterministic inventory replenishment plans
+FRESH	github	4.6	0	1	https://github.com/NSPG13/agent-bounties/issues/871	[DIRECT] Expose bounded-wallet liquidity and authority separately
+FRESH	github	4.6	0	9	https://github.com/NSPG13/agent-bounties/issues/870	[DIRECT] Add one truthful inventory-state breakdown response
+FRESH	github	4.6	0	9	https://github.com/NSPG13/agent-bounties/issues/869	[DIRECT] Add retry-safe Base RPC failover for maintainer workflows
+FRESH	github	5.7	0	2	https://github.com/NSPG13/agent-bounties/issues/865	[Bounty] Seed a paid CLI child bounty
+FRESH	github	5.7	0	2	https://github.com/NSPG13/agent-bounties/issues/864	[Bounty] Seed a paid wallet UX child bounty
+FRESH	github	5.7	0	2	https://github.com/NSPG13/agent-bounties/issues/863	[Bounty] Seed a paid API child bounty
+FRESH	github	5.7	0	2	https://github.com/NSPG13/agent-bounties/issues/862	[Bounty] Publish an A2A Agent Card for machine discovery
