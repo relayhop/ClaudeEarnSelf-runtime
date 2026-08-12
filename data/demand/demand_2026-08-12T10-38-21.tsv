@@ -1,0 +1,22 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	19.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1545589	If Bitcoin is digital gold, why are central banks buying the real thing?
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/326	[radar] SN open bounty 2026-08-12T10:16
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/325	[radar] SN open bounty 2026-08-12T08:36
+4	github	2.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/324	[radar] SN open bounty 2026-08-12T07:46
+4	github	3.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/iv-org/invidious/issues/5931	[Enhancement] Rework the bounty process fully
+3	github	34.2	000 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/StelFlow-labs/StelFlow/issues/1	docs: add a worked Alice-and-Bob example to concepts.md
+2	sn/bitcoin	16.4	-	OPEN_NEED	https://stacker.news/items/1545803	Who's a bigger bitcoin villain to you?
+2	sn/bitcoin	14.3	-	OPEN_NEED	https://stacker.news/items/1545879	Thanks & Goodbye ⚡🤖🤝
+2	sn/bitcoin	23.2	-	OPEN_NEED	https://stacker.news/items/1545366	Some advice re Lukeless knots?
+2	github	56.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi-contracts/issues/118	docs: integer-only protocol fee model with worked examples
+2	github	3.2	-	OPEN_ISSUE	https://github.com/EstefanyLonsway6/traefik/issues/1	🎯 Fix: FastProxy appends "Internal Server Error" to body when upstream closes during streaming
+2	github	4.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/323	[radar] SN open bounty 2026-08-12T06:22
+2	github	5.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/322	[radar] SN open bounty 2026-08-12T04:55
+2	github	8.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/321	[radar] SN open bounty 2026-08-12T02:37
+2	github	10.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/320	[radar] SN open bounty 2026-08-11T23:52
+2	github	11.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/319	[radar] SN open bounty 2026-08-11T22:55
+2	github	12.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/318	[radar] SN open bounty 2026-08-11T21:57
+2	github	13.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/317	[radar] SN open bounty 2026-08-11T20:58
+0	github	6.2	-	OPEN_ISSUE	https://github.com/CurtFigone19/pgx/issues/18	🎯 Respect Context Deadline during pgxpool Health Check Connection Establishment
+0	github	12.4	-	OPEN_ISSUE	https://github.com/jflournoy/for-funsies/issues/30	[Bounty: 3 GSD] Awards don't appear on the board until an unrelated push rebuilds it
+0	github	12.8	-	OPEN_ISSUE	https://github.com/jflournoy/for-funsies/issues/28	[Bounty: 2 GSD] Ledger rows record bare PR/issue numbers, so award pages can't link to them
