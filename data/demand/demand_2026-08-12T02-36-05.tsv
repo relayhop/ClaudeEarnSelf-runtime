@@ -1,0 +1,22 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	11.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1545589	If Bitcoin is digital gold, why are central banks buying the real thing?
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/I-ECO-01/issues/161	🪙 BOUNTY: Migliorare la chat di Pytho
+4	github	2.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/320	[radar] SN open bounty 2026-08-11T23:52
+4	github	3.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/319	[radar] SN open bounty 2026-08-11T22:55
+3	github	26.2	000 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/StelFlow-labs/StelFlow/issues/1	docs: add a worked Alice-and-Bob example to concepts.md
+3	github	7.2	$1	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/819	[Bounty] $1,000 Bounty: Break the AgentShield Rules Engine
+2	sn/bitcoin	8.3	-	OPEN_NEED	https://stacker.news/items/1545803	Who's a bigger bitcoin villain to you?
+2	sn/bitcoin	6.3	-	OPEN_NEED	https://stacker.news/items/1545879	Thanks & Goodbye ⚡🤖🤝
+2	sn/bitcoin	15.2	-	OPEN_NEED	https://stacker.news/items/1545366	Some advice re Lukeless knots?
+2	github	48.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-VaultLink/invofi-contracts/issues/118	docs: integer-only protocol fee model with worked examples
+2	github	4.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/jflournoy/for-funsies/issues/30	[Bounty: 3 GSD] Awards don't appear on the board until an unrelated push rebuilds it
+2	github	4.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/318	[radar] SN open bounty 2026-08-11T21:57
+2	github	4.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/jflournoy/for-funsies/issues/28	[Bounty: 2 GSD] Ledger rows record bare PR/issue numbers, so award pages can't link to them
+2	github	5.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/317	[radar] SN open bounty 2026-08-11T20:58
+2	github	7.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/316	[radar] SN open bounty 2026-08-11T19:14
+2	github	9.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/315	[radar] SN open bounty 2026-08-11T17:08
+2	github	11.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/47	chore: remove unused Session and ApiKey Prisma models
+2	github	11.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/46	fix: populate route in payment receipts (X-Payment-Receipt shows empty route)
+2	github	11.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/45	test: add unit tests for @x402/sdk (call, streaming, signer paths)
+2	github	11.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/44	perf: move analytics time-series bucketing from JS to SQL
+1	github	8.0	$1	OPEN_ISSUE	https://github.com/kindrat86/agentshield/issues/1	$1,000 Bounty: Break the AgentShield Rules Engine
