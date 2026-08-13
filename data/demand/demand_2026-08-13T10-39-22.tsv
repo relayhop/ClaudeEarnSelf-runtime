@@ -1,0 +1,26 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	3.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1546904	Eligius miners aware of prayers in block headers?
+4	sn/bitcoin	17.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1546524	BIP460: CISA for Taproot Key Path Spends in SegWit v2 - fjahr
+4	sn/bitcoin	18.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1546435	Bitcoin Core v32.0 is targeted for release in October. What is in it?
+4	sn/bitcoin	22.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1546301	How to destroy bitcoin (and what happened to the 107 coins burned in May)
+4	sn/bitcoin	16.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1546554	Is Luke trying to rig the PoW function selection for his coin?
+3	sn/bitcoin	21.3	000 sats	OPEN_NEED	https://stacker.news/items/1546335	BTC vote: Who do you prefer as Brazil’s next president?
+3	github	58.2	000 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/StelFlow-labs/StelFlow/issues/1	docs: add a worked Alice-and-Bob example to concepts.md
+2	sn/bitcoin	15.7	-	OPEN_NEED	https://stacker.news/items/1546607	Wasabi Wallet Plans
+2	sn/bitcoin	16.4	-	OPEN_NEED	https://stacker.news/items/1546583	What is with all the universal pussyfooting in the Bitcoin space?
+2	github	23.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/82	docs: update README badges and roadmap now that mainnet config exists
+2	github	10.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/336	[radar] SN open bounty 2026-08-12T23:53
+2	github	11.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/335	[radar] SN open bounty 2026-08-12T22:54
+2	github	12.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/334	[radar] SN open bounty 2026-08-12T21:56
+2	github	13.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/333	[radar] SN open bounty 2026-08-12T20:57
+2	github	15.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/332	[radar] SN open bounty 2026-08-12T19:15
+2	github	16.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/yavorl/test-repo-staging/issues/15	test
+2	github	16.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/331	[radar] SN open bounty 2026-08-12T18:04
+2	github	19.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/329	[radar] SN open bounty 2026-08-12T15:08
+2	github	21.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/328	[radar] SN open bounty 2026-08-12T13:37
+2	github	22.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/327	[radar] SN open bounty 2026-08-12T11:54
+2	github	24.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/326	[radar] SN open bounty 2026-08-12T10:16
+0	github	7.0	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/927	Capture a macOS Safari compatibility evidence bundle
+0	github	16.5	-	OPEN_ISSUE	https://github.com/eirik-rune/runemap/issues/39	Bounty (2 USDC/month): a non-datacenter egress for our own announcements
+0	github	17.5	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/330	[radar] SN open bounty 2026-08-12T17:06
+0	github	18.8	-	OPEN_ISSUE	https://github.com/CinnamonFaldet48/cli/issues/3	🎯 Prevent silent fallback to unauthenticated API requests when keyring lookup fails
