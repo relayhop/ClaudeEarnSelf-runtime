@@ -1,0 +1,27 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	3.2	-	OPEN_NEED	https://stacker.news/items/1547823	What can I do with a Rudi Embedded System with NVIDIA Jetson™ TX2?
+4	sn/tech	3.2	-	OPEN_NEED	https://stacker.news/items/1547823	What can I do with a Rudi Embedded System with NVIDIA Jetson™ TX2?
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/yachamdaniel1-alt/corpuslane/issues/5	M3: Curated SEP-41 token quick-picks in the licensee dashboard (Medium, 150 pts)
+2	sn/bitcoin	23.6	-	OPEN_NEED	https://stacker.news/items/1547194	A casual acceptance of the sentiment shift
+2	sn/bitcoin	22.8	-	OPEN_NEED	https://stacker.news/items/1547259	What does "bitcoin failed" mean?
+2	sn/bitcoin	16.9	-	OPEN_NEED	https://stacker.news/items/1547505	Rolling Dice to Generate Fresh Entropy on Coldcard Devices
+2	github	13.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-sharpy/sharpy-contracts/issues/58	test: add test for pool_pay across three different tokens
+2	github	22.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Dargon789/stablecoin-evm/issues/14	Sequence diagram for bridged USDC upgrade burn and role transfer
+2	github	26.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/use-plumbline/plumbline/issues/22	hardcoded-address-literal: a Stellar address baked into contract source
+2	github	27.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Yinklekay64/smart-contract-escrow/issues/10	Add a token units and decimals guide
+2	github	52.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/82	docs: update README badges and roadmap now that mainnet config exists
+2	github	39.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/336	[radar] SN open bounty 2026-08-12T23:53
+2	github	40.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/335	[radar] SN open bounty 2026-08-12T22:54
+2	github	41.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/334	[radar] SN open bounty 2026-08-12T21:56
+2	github	42.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/333	[radar] SN open bounty 2026-08-12T20:57
+2	github	43.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/332	[radar] SN open bounty 2026-08-12T19:15
+2	github	44.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/yavorl/test-repo-staging/issues/15	test
+2	github	44.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/331	[radar] SN open bounty 2026-08-12T18:04
+1	github	18.0	$2000	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/821	[Bounty] Engine Support: Roblox Studio path for Goal to Game skill
+1	github	18.5	$2000	OPEN_ISSUE	https://github.com/thrixel/goal-to-game/issues/3	Engine Support: Roblox Studio path for Goal to Game skill
+0	github	17.5	-	OPEN_ISSUE	https://github.com/jflournoy/for-funsies/issues/43	[Bounty: 5 GSD] The payout workflow pays every PR that closes an issue, and silently drops concurrent awards
+0	github	18.7	-	OPEN_ISSUE	https://github.com/jflournoy/for-funsies/issues/41	[Bounty: 3 GSD] DARE 003: Build a pulse page showing what changed since the last build
+0	github	18.8	-	OPEN_ISSUE	https://github.com/jflournoy/for-funsies/issues/40	[Bounty: 3 GSD] DARE 002: Give every contributor their own page
+0	github	18.8	-	OPEN_ISSUE	https://github.com/jflournoy/for-funsies/issues/39	[Bounty: 3 GSD] DARE 001: Make the garden constellation interactive
+0	github	35.4	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/927	Capture a macOS Safari compatibility evidence bundle
+0	github	44.8	-	OPEN_ISSUE	https://github.com/eirik-rune/runemap/issues/39	Bounty (2 USDC/month): a non-datacenter egress for our own announcements
