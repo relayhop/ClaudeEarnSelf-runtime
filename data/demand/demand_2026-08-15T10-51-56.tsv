@@ -1,0 +1,31 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	13.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1548225	How to Get Rich in America | SNL #237
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/341	[radar] SN open bounty 2026-08-15T06:53
+3	sn/bitcoin	17.0	$112	OPEN_NEED	https://stacker.news/items/1548121	Losses Climb to $112m: State of Coldcard Investigation - Alex Thorn
+2	sn/bitcoin	14.4	-	OPEN_NEED	https://stacker.news/items/1548216	Zeus Post-Mortem: Security Update - August 5th, 2026
+2	sn/bitcoin	23.1	-	OPEN_NEED	https://stacker.news/items/1547823	What can I do with a Rudi Embedded System with NVIDIA Jetson™ TX2?
+2	sn/tech	18.5	-	OPEN_NEED	https://stacker.news/items/1548049	I've been thinking about some stuff, no, it's not clickbait, or is it?
+2	sn/tech	23.1	-	OPEN_NEED	https://stacker.news/items/1547823	What can I do with a Rudi Embedded System with NVIDIA Jetson™ TX2?
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/ACTA-Team/news-acta/issues/42	Verifiable author identity with did:stellar and ACTA credentials
+2	github	9.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/59	[documentation] Translate README to Spanish
+2	github	10.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/44	[enhancement] Add CSV export for proof explorer
+2	github	20.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/yachamdaniel1-alt/corpuslane/issues/5	M3: Curated SEP-41 token quick-picks in the licensee dashboard (Medium, 150 pts)
+2	github	33.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-sharpy/sharpy-contracts/issues/58	test: add test for pool_pay across three different tokens
+2	github	42.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Dargon789/stablecoin-evm/issues/14	Sequence diagram for bridged USDC upgrade burn and role transfer
+2	github	46.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/use-plumbline/plumbline/issues/22	hardcoded-address-literal: a Stellar address baked into contract source
+2	github	47.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Yinklekay64/smart-contract-escrow/issues/10	Add a token units and decimals guide
+2	github	71.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/82	docs: update README badges and roadmap now that mainnet config exists
+2	github	8.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/urban-lab-hardware/issues/3	📖 Guida di assemblaggio scritta (con foto)
+2	github	8.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/DanielIoni-creator/urban-lab-hardware/issues/2	📋 Migliorare la BOM con link fornitori reali
+2	github	19.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/337	[radar] SN open bounty 2026-08-14T15:33
+2	github	59.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/336	[radar] SN open bounty 2026-08-12T23:53
+2	github	60.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/335	[radar] SN open bounty 2026-08-12T22:54
+1	github	37.8	$2000	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/821	[Bounty] Engine Support: Roblox Studio path for Goal to Game skill
+1	github	38.4	$2000	OPEN_ISSUE	https://github.com/thrixel/goal-to-game/issues/3	Engine Support: Roblox Studio path for Goal to Game skill
+0	github	4.7	-	OPEN_ISSUE	https://github.com/iv-org/invidious/issues/5940	[Bug] HMoneyTop casing
+0	github	19.5	-	OPEN_ISSUE	https://github.com/TrudieMasenheimer3/prometheus/issues/1	🎯 Fix false positive truncation warning in /api/v1/query when result count equals limit
+0	github	37.3	-	OPEN_ISSUE	https://github.com/jflournoy/for-funsies/issues/43	[Bounty: 5 GSD] The payout workflow pays every PR that closes an issue, and silently drops concurrent awards
+0	github	38.5	-	OPEN_ISSUE	https://github.com/jflournoy/for-funsies/issues/41	[Bounty: 3 GSD] DARE 003: Build a pulse page showing what changed since the last build
+0	github	38.6	-	OPEN_ISSUE	https://github.com/jflournoy/for-funsies/issues/40	[Bounty: 3 GSD] DARE 002: Give every contributor their own page
+0	github	38.6	-	OPEN_ISSUE	https://github.com/jflournoy/for-funsies/issues/39	[Bounty: 3 GSD] DARE 001: Make the garden constellation interactive
+0	github	55.2	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/927	Capture a macOS Safari compatibility evidence bundle
