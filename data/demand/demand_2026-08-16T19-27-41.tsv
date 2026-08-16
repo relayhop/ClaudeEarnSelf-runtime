@@ -1,0 +1,27 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/tech	2.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1549358	TryHackMe's HackerHolidays 2026 Event - Day 05 - Beach Bar [writeup]
+5	sn/bitcoin	22.2	20 sats	OPEN_NEED,LOW_COMP	https://stacker.news/items/1548835	aeonBTC/IbisWallet awards bug bounty to Bitcoin red team
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/423	[radar] SN open bounty 2026-08-16T19:03
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/422	[radar] SN open bounty 2026-08-16T18:41
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/421	[radar] SN open bounty 2026-08-16T18:38
+4	github	1.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/420	[radar] SN open bounty 2026-08-16T17:59
+4	github	1.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Bitcoindefi/OpenAO/issues/28	El protocolo binario esta duplicado entre cliente y servidor
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Bitcoindefi/OpenAO/issues/24	Etapa 5: espacio aislado de mapas de usuario con propiedad y cuotas
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/419	[radar] SN open bounty 2026-08-16T17:46
+4	github	1.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Bitcoindefi/OpenAO/issues/23	Etapa 2: importar y exportar mapas del editor oficial de escritorio
+4	github	1.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Bitcoindefi/OpenAO/issues/21	Soporte mobile: hoy el juego no se puede jugar desde un celular
+4	github	1.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Bitcoindefi/OpenAO/issues/20	Rendimiento del cliente: mapa completo en memoria, sin limite de FPS y prefetch sin tope
+2	sn/bitcoin	14.7	-	OPEN_NEED	https://stacker.news/items/1549006	At what point did we stop caring about freedom?
+2	github	4.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/Fluxa/issues/68	Stellar Anchor Integration: SEP-6 Deposit/Withdrawal, SEP-10 Web Auth & SEP-24 Interactive Flow
+2	github	4.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/Fluxa/issues/67	Platform Fee Wallet Sweeper, Reserve Calculator & Liquidity Dashboard
+2	github	27.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/konfirm-HQ/konfirm-backend/issues/5	x402 facilitator: support additional SEP-41 assets beyond USDC
+2	github	42.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/59	[documentation] Translate README to Spanish
+2	github	42.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/44	[enhancement] Add CSV export for proof explorer
+2	github	53.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/yachamdaniel1-alt/corpuslane/issues/5	M3: Curated SEP-41 token quick-picks in the licensee dashboard (Medium, 150 pts)
+2	github	66.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-sharpy/sharpy-contracts/issues/58	test: add test for pool_pay across three different tokens
+2	github	1.3	-	OPEN_ISSUE	https://github.com/Bitcoindefi/OpenAO/issues/29	Etapa 4: paleta y navegador de objetos, terreno y NPCs para el editor
+2	github	1.5	-	OPEN_ISSUE	https://github.com/Bitcoindefi/OpenAO/issues/27	No hay CI: los tests existen pero nadie los ejecuta
+2	github	1.6	-	OPEN_ISSUE	https://github.com/Bitcoindefi/OpenAO/issues/26	El server no desmarca personajes al apagarse: quedan bloqueados tras un reinicio
+2	github	1.6	-	OPEN_ISSUE	https://github.com/Bitcoindefi/OpenAO/issues/25	Etapa 5: flujo de propuesta y moderacion de mapas de usuario
+2	github	1.9	-	OPEN_ISSUE	https://github.com/Bitcoindefi/OpenAO/issues/22	docker-compose no levanta: postgres:18 cambio la ruta del volumen de datos
+0	github	36.8	-	OPEN_ISSUE	https://github.com/ACTA-Team/news-acta/issues/42	Verifiable author identity with did:stellar and ACTA credentials
