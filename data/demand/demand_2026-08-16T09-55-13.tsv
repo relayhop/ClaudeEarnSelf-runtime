@@ -1,0 +1,28 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	12.7	20 sats	OPEN_NEED,LOW_COMP	https://stacker.news/items/1548835	aeonBTC/IbisWallet awards bug bounty to Bitcoin red team
+4	sn/bitcoin	17.1	1000sats	BOUNTY	https://stacker.news/items/1548616	Asking 🤔 the stackers ⚡
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/388	[radar] SN open bounty 2026-08-16T09:43
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/387	[radar] SN open bounty 2026-08-16T09:36
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/386	[radar] SN open bounty 2026-08-16T09:03
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/385	[radar] SN open bounty 2026-08-16T08:41
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/384	[radar] SN open bounty 2026-08-16T08:39
+4	github	1.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/383	[radar] SN open bounty 2026-08-16T08:01
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/382	[radar] SN open bounty 2026-08-16T07:38
+4	github	2.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/381	[radar] SN open bounty 2026-08-16T07:33
+4	github	3.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/380	[radar] SN open bounty 2026-08-16T06:54
+4	github	3.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/379	[radar] SN open bounty 2026-08-16T06:54
+4	github	3.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/378	[radar] SN open bounty 2026-08-16T06:53
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/377	[radar] SN open bounty 2026-08-16T06:02
+2	sn/bitcoin	5.2	-	OPEN_NEED	https://stacker.news/items/1549006	At what point did we stop caring about freedom?
+2	github	17.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/konfirm-HQ/konfirm-backend/issues/5	x402 facilitator: support additional SEP-41 assets beyond USDC
+2	github	32.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/59	[documentation] Translate README to Spanish
+2	github	33.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/44	[enhancement] Add CSV export for proof explorer
+2	github	43.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/yachamdaniel1-alt/corpuslane/issues/5	M3: Curated SEP-41 token quick-picks in the licensee dashboard (Medium, 150 pts)
+2	github	56.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-sharpy/sharpy-contracts/issues/58	test: add test for pool_pay across three different tokens
+2	github	65.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Dargon789/stablecoin-evm/issues/14	Sequence diagram for bridged USDC upgrade burn and role transfer
+2	github	69.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/use-plumbline/plumbline/issues/22	hardcoded-address-literal: a Stellar address baked into contract source
+2	github	70.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Yinklekay64/smart-contract-escrow/issues/10	Add a token units and decimals guide
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/376	[radar] SN open bounty 2026-08-16T05:44
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/myzubster/issues/402	Bounty #006 — Integrate Poppy Ergo Jr with Space Station
+2	github	4.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/375	[radar] SN open bounty 2026-08-16T05:36
+0	github	27.2	-	OPEN_ISSUE	https://github.com/ACTA-Team/news-acta/issues/42	Verifiable author identity with did:stellar and ACTA credentials
