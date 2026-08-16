@@ -1,0 +1,26 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	19.7	20 sats	OPEN_NEED,LOW_COMP	https://stacker.news/items/1548835	aeonBTC/IbisWallet awards bug bounty to Bitcoin red team
+4	github	2.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/Fluxa/issues/68	Stellar Anchor Integration: SEP-6 Deposit/Withdrawal, SEP-10 Web Auth & SEP-24 Interactive Flow
+4	github	2.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/Fluxa/issues/67	Platform Fee Wallet Sweeper, Reserve Calculator & Liquidity Dashboard
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/415	[radar] SN open bounty 2026-08-16T16:36
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/414	[radar] SN open bounty 2026-08-16T16:34
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/413	[radar] SN open bounty 2026-08-16T16:00
+4	github	1.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/412	[radar] SN open bounty 2026-08-16T15:47
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/411	[radar] SN open bounty 2026-08-16T15:30
+4	github	1.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/410	[radar] SN open bounty 2026-08-16T15:24
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/409	[radar] SN open bounty 2026-08-16T14:52
+4	github	2.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/407	[radar] SN open bounty 2026-08-16T14:33
+4	github	2.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/406	[radar] SN open bounty 2026-08-16T14:30
+4	github	2.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/405	[radar] SN open bounty 2026-08-16T14:00
+4	github	3.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/403	[radar] SN open bounty 2026-08-16T13:38
+4	github	3.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/402	[radar] SN open bounty 2026-08-16T13:33
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/400	[radar] SN open bounty 2026-08-16T12:56
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/398	[radar] SN open bounty 2026-08-16T12:53
+2	sn/bitcoin	12.2	-	OPEN_NEED	https://stacker.news/items/1549006	At what point did we stop caring about freedom?
+2	github	24.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/konfirm-HQ/konfirm-backend/issues/5	x402 facilitator: support additional SEP-41 assets beyond USDC
+2	github	39.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/59	[documentation] Translate README to Spanish
+2	github	40.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/44	[enhancement] Add CSV export for proof explorer
+2	github	50.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/yachamdaniel1-alt/corpuslane/issues/5	M3: Curated SEP-41 token quick-picks in the licensee dashboard (Medium, 150 pts)
+2	github	63.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/stellar-sharpy/sharpy-contracts/issues/58	test: add test for pool_pay across three different tokens
+2	github	4.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/396	[radar] SN open bounty 2026-08-16T12:00
+0	github	34.2	-	OPEN_ISSUE	https://github.com/ACTA-Team/news-acta/issues/42	Verifiable author identity with did:stellar and ACTA credentials
