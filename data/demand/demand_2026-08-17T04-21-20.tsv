@@ -1,0 +1,12 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	9.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1549399	Sunday Survey: Did we bottom?
+4	sn/tech	4.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1549509	Text Slide Maker tool (looking for user feedback / use on Laptop)
+4	sn/tech	11.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1549358	TryHackMe's HackerHolidays 2026 Event - Day 05 - Beach Bar [writeup]
+2	sn/bitcoin	23.6	-	OPEN_NEED	https://stacker.news/items/1549006	At what point did we stop caring about freedom?
+2	github	13.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/Fluxa/issues/67	Platform Fee Wallet Sweeper, Reserve Calculator & Liquidity Dashboard
+2	github	36.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/konfirm-HQ/konfirm-backend/issues/5	x402 facilitator: support additional SEP-41 assets beyond USDC
+2	github	51.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/59	[documentation] Translate README to Spanish
+2	github	51.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/44	[enhancement] Add CSV export for proof explorer
+2	github	62.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/yachamdaniel1-alt/corpuslane/issues/5	M3: Curated SEP-41 token quick-picks in the licensee dashboard (Medium, 150 pts)
+0	github	13.8	-	OPEN_ISSUE	https://github.com/Savitura/Fluxa/issues/68	Stellar Anchor Integration: SEP-6 Deposit/Withdrawal, SEP-10 Web Auth & SEP-24 Interactive Flow
+0	github	45.7	-	OPEN_ISSUE	https://github.com/ACTA-Team/news-acta/issues/42	Verifiable author identity with did:stellar and ACTA credentials
