@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	10.0	$100	OPEN_NEED,LOW_COMP	https://stacker.news/items/1549719	Bitcoin Culture Is Not Dead. It Just Stopped Being One Culture
+4	sn/bitcoin	7.3	5000sats	BOUNTY	https://stacker.news/items/1549793	⚡Best tips for running a profitable lighting node?⚡
+4	sn/bitcoin	12.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1549663	BIP-118 vs. BIP-448: How Much Should a Bitcoin Signature Remember?
+4	sn/tech	21.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1549509	Text Slide Maker tool (looking for user feedback / use on Laptop)
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/468	[radar] SN open bounty 2026-08-17T21:28
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/467	[radar] SN open bounty 2026-08-17T20:56
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/466	[radar] SN open bounty 2026-08-17T20:37
+4	github	1.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/465	[radar] SN open bounty 2026-08-17T20:30
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/464	[radar] SN open bounty 2026-08-17T19:53
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/463	[radar] SN open bounty 2026-08-17T19:35
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/462	[radar] SN open bounty 2026-08-17T19:32
+4	github	2.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/461	[radar] SN open bounty 2026-08-17T18:59
+4	github	2.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/459	[radar] SN open bounty 2026-08-17T18:52
+4	github	3.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/458	[radar] SN open bounty 2026-08-17T17:45
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/457	[radar] SN open bounty 2026-08-17T17:37
+2	sn/bitcoin	4.9	-	OPEN_NEED	https://stacker.news/items/1549904	Compact Block Filters for Users and Wallet Developers
+2	github	11.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/anchor-tools/stellar-toml-lint/issues/4	Flag display_decimals on the native asset
+2	github	12.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/LuminaRail/luminarail-frontend/issues/21	[Frontend] Add CSV and JSON export functionality for user transaction history
+2	github	31.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/Fluxa/issues/67	Platform Fee Wallet Sweeper, Reserve Calculator & Liquidity Dashboard
+2	github	53.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/konfirm-HQ/konfirm-backend/issues/5	x402 facilitator: support additional SEP-41 assets beyond USDC
+2	github	68.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/59	[documentation] Translate README to Spanish
+2	github	68.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/44	[enhancement] Add CSV export for proof explorer
+2	github	4.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/455	[radar] SN open bounty 2026-08-17T17:05
+2	github	4.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/454	[radar] SN open bounty 2026-08-17T16:38
+2	github	5.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/453	[radar] SN open bounty 2026-08-17T16:36
+2	github	5.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/452	[radar] SN open bounty 2026-08-17T15:41
+0	github	31.0	-	OPEN_ISSUE	https://github.com/Savitura/Fluxa/issues/68	Stellar Anchor Integration: SEP-6 Deposit/Withdrawal, SEP-10 Web Auth & SEP-24 Interactive Flow
+0	github	62.9	-	OPEN_ISSUE	https://github.com/ACTA-Team/news-acta/issues/42	Verifiable author identity with did:stellar and ACTA credentials
