@@ -1,0 +1,30 @@
+# score	source	age_h	payout_hint	tags	url	title
+7	sn/bitcoin	2.2	$100	OPEN_NEED,LOW_COMP	https://stacker.news/items/1549719	Bitcoin Culture Is Not Dead. It Just Stopped Being One Culture
+4	sn/bitcoin	5.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1549663	BIP-118 vs. BIP-448: How Much Should a Bitcoin Signature Remember?
+4	sn/tech	14.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1549509	Text Slide Maker tool (looking for user feedback / use on Laptop)
+4	sn/tech	20.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1549358	TryHackMe's HackerHolidays 2026 Event - Day 05 - Beach Bar [writeup]
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/anchor-tools/stellar-toml-lint/issues/4	Flag display_decimals on the native asset
+2	sn/bitcoin	18.7	-	OPEN_NEED	https://stacker.news/items/1549399	Sunday Survey: Did we bottom?
+2	github	4.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/LuminaRail/luminarail-frontend/issues/21	[Frontend] Add CSV and JSON export functionality for user transaction history
+2	github	23.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/Fluxa/issues/67	Platform Fee Wallet Sweeper, Reserve Calculator & Liquidity Dashboard
+2	github	45.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/konfirm-HQ/konfirm-backend/issues/5	x402 facilitator: support additional SEP-41 assets beyond USDC
+2	github	60.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/59	[documentation] Translate README to Spanish
+2	github	61.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/MJ-RWA/ZeroWage/issues/44	[enhancement] Add CSV export for proof explorer
+2	github	71.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/yachamdaniel1-alt/corpuslane/issues/5	M3: Curated SEP-41 token quick-picks in the licensee dashboard (Medium, 150 pts)
+2	github	7.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/myzubster/issues/490	Security Bounty — Launch Checklist & Program Governance
+2	github	7.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/myzubster/issues/489	Security Bounty — Reward Policy MYZ / XMR
+2	github	9.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/446	[radar] SN open bounty 2026-08-17T04:25
+2	github	10.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/445	[radar] SN open bounty 2026-08-17T03:34
+2	github	10.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/444	[radar] SN open bounty 2026-08-17T03:08
+2	github	11.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/443	[radar] SN open bounty 2026-08-17T02:46
+2	github	12.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/442	[radar] SN open bounty 2026-08-17T01:50
+2	github	12.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/441	[radar] SN open bounty 2026-08-17T01:40
+2	github	13.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/440	[radar] SN open bounty 2026-08-16T23:58
+2	github	14.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/439	[radar] SN open bounty 2026-08-16T23:45
+2	github	14.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/438	[radar] SN open bounty 2026-08-16T23:29
+2	github	14.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/437	[radar] SN open bounty 2026-08-16T23:22
+2	github	15.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/436	[radar] SN open bounty 2026-08-16T22:48
+2	github	15.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/435	[radar] SN open bounty 2026-08-16T22:31
+2	github	15.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/434	[radar] SN open bounty 2026-08-16T22:27
+0	github	23.2	-	OPEN_ISSUE	https://github.com/Savitura/Fluxa/issues/68	Stellar Anchor Integration: SEP-6 Deposit/Withdrawal, SEP-10 Web Auth & SEP-24 Interactive Flow
+0	github	55.1	-	OPEN_ISSUE	https://github.com/ACTA-Team/news-acta/issues/42	Verifiable author identity with did:stellar and ACTA credentials
