@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	14.2	$100	OPEN_NEED,LOW_COMP	https://stacker.news/items/1549719	Bitcoin Culture Is Not Dead. It Just Stopped Being One Culture
+4	sn/bitcoin	11.5	5000sats	BOUNTY	https://stacker.news/items/1549793	⚡Best tips for running a profitable lighting node?⚡
+4	sn/bitcoin	16.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1549663	BIP-118 vs. BIP-448: How Much Should a Bitcoin Signature Remember?
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Micopay/micopaybridge/issues/9	[BRIDGE-06] Agent discovery is broken: /skill.md always 404s and the service catalog misrepresents the API
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Micopay/micopaybridge/issues/7	[BRIDGE-04] Expired intents never leave the bazaar feed, and /stats reports fabricated numbers as PostgreSQL data
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Micopay/micopaybridge/issues/4	[BRIDGE-01] Add .env.example — the API cannot be started from a clean clone
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/478	[radar] SN open bounty 2026-08-18T01:24
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/mxx1111/spare-cycles/issues/5	[Task] mdlook: 补上 CI，dependabot 正在往没有任何检查的仓库提 PR
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/mxx1111/spare-cycles/issues/4	[Task] Homelab: notify.py 增加 ntfy 推送渠道
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/mxx1111/spare-cycles/issues/3	[Task] wechat-mp-writer-skill: platform-limits.json 的 lastVerified 陈旧度检查
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/mxx1111/spare-cycles/issues/1	[Task] Homelab: CI 拦截硬编码内网 IP 与误提交的 config.yaml
+4	github	1.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/477	[radar] SN open bounty 2026-08-17T23:48
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/476	[radar] SN open bounty 2026-08-17T23:31
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/474	[radar] SN open bounty 2026-08-17T23:26
+4	github	2.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/473	[radar] SN open bounty 2026-08-17T22:51
+4	github	3.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/472	[radar] SN open bounty 2026-08-17T22:34
+4	github	3.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/471	[radar] SN open bounty 2026-08-17T22:28
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/470	[radar] SN open bounty 2026-08-17T21:51
+2	sn/bitcoin	9.1	-	OPEN_NEED	https://stacker.news/items/1549904	Compact Block Filters for Users and Wallet Developers
+2	github	16.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/anchor-tools/stellar-toml-lint/issues/4	Flag display_decimals on the native asset
+2	github	16.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/LuminaRail/luminarail-frontend/issues/21	[Frontend] Add CSV and JSON export functionality for user transaction history
+2	github	57.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/konfirm-HQ/konfirm-backend/issues/5	x402 facilitator: support additional SEP-41 assets beyond USDC
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/469	[radar] SN open bounty 2026-08-17T21:34
+2	github	4.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/468	[radar] SN open bounty 2026-08-17T21:28
+2	github	4.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/467	[radar] SN open bounty 2026-08-17T20:56
+0	github	35.2	-	OPEN_ISSUE	https://github.com/Savitura/Fluxa/issues/68	Stellar Anchor Integration: SEP-6 Deposit/Withdrawal, SEP-10 Web Auth & SEP-24 Interactive Flow
+0	github	35.2	-	OPEN_ISSUE	https://github.com/Savitura/Fluxa/issues/67	Platform Fee Wallet Sweeper, Reserve Calculator & Liquidity Dashboard
+0	github	67.1	-	OPEN_ISSUE	https://github.com/ACTA-Team/news-acta/issues/42	Verifiable author identity with did:stellar and ACTA credentials
