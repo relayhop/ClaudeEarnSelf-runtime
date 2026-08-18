@@ -1,0 +1,27 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	23.1	$100	OPEN_NEED,LOW_COMP	https://stacker.news/items/1549719	Bitcoin Culture Is Not Dead. It Just Stopped Being One Culture
+4	sn/bitcoin	20.4	5000sats	BOUNTY	https://stacker.news/items/1549793	⚡Best tips for running a profitable lighting node?⚡
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/500	[radar] SN open bounty 2026-08-18T10:03
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/499	[radar] SN open bounty 2026-08-18T09:43
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/498	[radar] SN open bounty 2026-08-18T09:37
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/497	[radar] SN open bounty 2026-08-18T08:54
+4	github	1.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/496	[radar] SN open bounty 2026-08-18T08:49
+4	github	2.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/495	[radar] SN open bounty 2026-08-18T08:15
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/494	[radar] SN open bounty 2026-08-18T07:47
+4	github	3.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/493	[radar] SN open bounty 2026-08-18T07:40
+4	github	3.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/492	[radar] SN open bounty 2026-08-18T06:59
+4	github	3.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/491	[radar] SN open bounty 2026-08-18T06:59
+4	github	3.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/490	[radar] SN open bounty 2026-08-18T06:49
+2	sn/bitcoin	18.0	-	OPEN_NEED	https://stacker.news/items/1549904	Compact Block Filters for Users and Wallet Developers
+2	github	24.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/anchor-tools/stellar-toml-lint/issues/4	Flag display_decimals on the native asset
+2	github	25.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/LuminaRail/luminarail-frontend/issues/21	[Frontend] Add CSV and JSON export functionality for user transaction history
+2	github	44.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/Fluxa/issues/67	Platform Fee Wallet Sweeper, Reserve Calculator & Liquidity Dashboard
+2	github	66.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/konfirm-HQ/konfirm-backend/issues/5	x402 facilitator: support additional SEP-41 assets beyond USDC
+2	github	4.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/489	[radar] SN open bounty 2026-08-18T05:57
+2	github	5.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/488	[radar] SN open bounty 2026-08-18T05:38
+2	github	5.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/487	[radar] SN open bounty 2026-08-18T05:32
+2	github	5.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/486	[radar] SN open bounty 2026-08-18T04:53
+0	github	9.7	-	OPEN_ISSUE	https://github.com/Micopay/micopaybridge/issues/9	[BRIDGE-06] Agent discovery is broken: /skill.md always 404s and the service catalog misrepresents the API
+0	github	9.7	-	OPEN_ISSUE	https://github.com/Micopay/micopaybridge/issues/7	[BRIDGE-04] Expired intents never leave the bazaar feed, and /stats reports fabricated numbers as PostgreSQL data
+0	github	9.7	-	OPEN_ISSUE	https://github.com/Micopay/micopaybridge/issues/4	[BRIDGE-01] Add .env.example — the API cannot be started from a clean clone
+0	github	44.1	-	OPEN_ISSUE	https://github.com/Savitura/Fluxa/issues/68	Stellar Anchor Integration: SEP-6 Deposit/Withdrawal, SEP-10 Web Auth & SEP-24 Interactive Flow
