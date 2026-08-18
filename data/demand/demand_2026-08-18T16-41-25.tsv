@@ -1,0 +1,24 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	1.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1550381	The Fiat Autopsy: Why Are We Here?
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/516	[radar] SN open bounty 2026-08-18T16:12
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/515	[radar] SN open bounty 2026-08-18T15:46
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/514	[radar] SN open bounty 2026-08-18T15:40
+4	github	1.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/513	[radar] SN open bounty 2026-08-18T15:13
+4	github	1.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/512	[radar] SN open bounty 2026-08-18T14:45
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/511	[radar] SN open bounty 2026-08-18T14:36
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/510	[radar] SN open bounty 2026-08-18T13:51
+4	github	2.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/509	[radar] SN open bounty 2026-08-18T13:49
+4	github	3.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/508	[radar] SN open bounty 2026-08-18T13:02
+4	github	3.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/507	[radar] SN open bounty 2026-08-18T13:01
+2	github	30.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/anchor-tools/stellar-toml-lint/issues/4	Flag display_decimals on the native asset
+2	github	31.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/LuminaRail/luminarail-frontend/issues/21	[Frontend] Add CSV and JSON export functionality for user transaction history
+2	github	50.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/Fluxa/issues/67	Platform Fee Wallet Sweeper, Reserve Calculator & Liquidity Dashboard
+2	github	1.5	-	OPEN_ISSUE	https://github.com/mxx1111/spare-cycles/issues/10	[Task] sparepack: 包内路径无法重映射，从 monorepo 根打包会带出 packages/api/src/...
+2	github	1.5	-	OPEN_ISSUE	https://github.com/mxx1111/spare-cycles/issues/9	[Task] sparepack: pack 产出不是可运行工程，接单者跑不了那组定义任务的测试
+2	github	4.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/506	[radar] SN open bounty 2026-08-18T12:01
+2	github	5.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/505	[radar] SN open bounty 2026-08-18T11:42
+2	github	5.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/504	[radar] SN open bounty 2026-08-18T11:34
+0	github	15.8	-	OPEN_ISSUE	https://github.com/Micopay/micopaybridge/issues/9	[BRIDGE-06] Agent discovery is broken: /skill.md always 404s and the service catalog misrepresents the API
+0	github	15.8	-	OPEN_ISSUE	https://github.com/Micopay/micopaybridge/issues/7	[BRIDGE-04] Expired intents never leave the bazaar feed, and /stats reports fabricated numbers as PostgreSQL data
+0	github	15.8	-	OPEN_ISSUE	https://github.com/Micopay/micopaybridge/issues/4	[BRIDGE-01] Add .env.example — the API cannot be started from a clean clone
+0	github	50.1	-	OPEN_ISSUE	https://github.com/Savitura/Fluxa/issues/68	Stellar Anchor Integration: SEP-6 Deposit/Withdrawal, SEP-10 Web Auth & SEP-24 Interactive Flow
