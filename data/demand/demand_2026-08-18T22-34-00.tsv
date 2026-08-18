@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/535	[radar] SN open bounty 2026-08-18T22:27
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/534	[radar] SN open bounty 2026-08-18T21:48
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/533	[radar] SN open bounty 2026-08-18T21:33
+4	github	1.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/532	[radar] SN open bounty 2026-08-18T21:27
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/531	[radar] SN open bounty 2026-08-18T20:52
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/530	[radar] SN open bounty 2026-08-18T20:34
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/529	[radar] SN open bounty 2026-08-18T20:29
+4	github	2.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/528	[radar] SN open bounty 2026-08-18T19:58
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/527	[radar] SN open bounty 2026-08-18T19:43
+4	github	3.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/526	[radar] SN open bounty 2026-08-18T19:34
+4	github	3.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/525	[radar] SN open bounty 2026-08-18T19:16
+4	github	3.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/524	[radar] SN open bounty 2026-08-18T18:51
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/523	[radar] SN open bounty 2026-08-18T18:42
+2	github	36.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/anchor-tools/stellar-toml-lint/issues/4	Flag display_decimals on the native asset
+2	github	37.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/LuminaRail/luminarail-frontend/issues/21	[Frontend] Add CSV and JSON export functionality for user transaction history
+2	github	56.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/Fluxa/issues/67	Platform Fee Wallet Sweeper, Reserve Calculator & Liquidity Dashboard
+2	github	4.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/522	[radar] SN open bounty 2026-08-18T17:56
+2	github	4.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/521	[radar] SN open bounty 2026-08-18T17:37
+0	github	21.6	-	OPEN_ISSUE	https://github.com/Micopay/micopaybridge/issues/9	[BRIDGE-06] Agent discovery is broken: /skill.md always 404s and the service catalog misrepresents the API
+0	github	21.6	-	OPEN_ISSUE	https://github.com/Micopay/micopaybridge/issues/7	[BRIDGE-04] Expired intents never leave the bazaar feed, and /stats reports fabricated numbers as PostgreSQL data
+0	github	21.7	-	OPEN_ISSUE	https://github.com/Micopay/micopaybridge/issues/4	[BRIDGE-01] Add .env.example — the API cannot be started from a clean clone
+0	github	56.0	-	OPEN_ISSUE	https://github.com/Savitura/Fluxa/issues/68	Stellar Anchor Integration: SEP-6 Deposit/Withdrawal, SEP-10 Web Auth & SEP-24 Interactive Flow
