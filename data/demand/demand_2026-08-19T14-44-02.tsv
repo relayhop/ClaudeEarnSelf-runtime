@@ -1,0 +1,21 @@
+# score	source	age_h	payout_hint	tags	url	title
+2	github	53.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/anchor-tools/stellar-toml-lint/issues/4	Flag display_decimals on the native asset
+2	github	53.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/LuminaRail/luminarail-frontend/issues/21	[Frontend] Add CSV and JSON export functionality for user transaction history
+2	github	7.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/iduyuhe/LDA/issues/2	[bounty] 对抗题：让 AI 求解器在「弱导模硅氮波导 neff」上翻车
+2	github	7.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubster-Visual/issues/2	[BOUNTY] MyZubster Cyberpunk Discovery Series — 750 MYZ
+2	github	11.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/jflournoy/for-funsies/issues/56	[Bounty: 3 GSD] Make some part of the published site more fun
+2	github	12.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/542	[radar] SN open bounty 2026-08-19T01:47
+2	github	13.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/541	[radar] SN open bounty 2026-08-19T01:26
+2	github	14.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/540	[radar] SN open bounty 2026-08-18T23:48
+2	github	15.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/539	[radar] SN open bounty 2026-08-18T23:31
+2	github	15.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/538	[radar] SN open bounty 2026-08-18T23:25
+2	github	15.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/537	[radar] SN open bounty 2026-08-18T22:51
+2	github	16.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/536	[radar] SN open bounty 2026-08-18T22:34
+2	github	16.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/535	[radar] SN open bounty 2026-08-18T22:27
+2	github	16.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/534	[radar] SN open bounty 2026-08-18T21:48
+2	github	17.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/533	[radar] SN open bounty 2026-08-18T21:33
+2	github	17.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/532	[radar] SN open bounty 2026-08-18T21:27
+2	github	17.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/531	[radar] SN open bounty 2026-08-18T20:52
+0	github	37.8	-	OPEN_ISSUE	https://github.com/Micopay/micopaybridge/issues/9	[BRIDGE-06] Agent discovery is broken: /skill.md always 404s and the service catalog misrepresents the API
+0	github	37.8	-	OPEN_ISSUE	https://github.com/Micopay/micopaybridge/issues/7	[BRIDGE-04] Expired intents never leave the bazaar feed, and /stats reports fabricated numbers as PostgreSQL data
+0	github	37.8	-	OPEN_ISSUE	https://github.com/Micopay/micopaybridge/issues/4	[BRIDGE-01] Add .env.example — the API cannot be started from a clean clone
