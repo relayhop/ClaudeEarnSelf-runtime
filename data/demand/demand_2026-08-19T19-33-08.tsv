@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	github	3.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/crowdpay/issues/688	Path Payment Preview, Slippage Protection & Contributor Asset Intelligence
+4	github	3.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/crowdpay/issues/687	Soroban-Enforced Spending Policies, Timelocked Withdrawals & On-Chain Audit Trail
+4	github	3.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/jflournoy/for-funsies/issues/66	[Proposal][Bounty: 6 GSD] DARE 010: Turn every answer into a mutation game
+4	github	3.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/jflournoy/for-funsies/issues/65	[Proposal][Bounty: 5 GSD] DARE 009: Make the relay graph playable
+4	github	3.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/jflournoy/for-funsies/issues/64	[Bounty: 3 GSD] DARE 008: Build something that feels like it's doing a thing
+4	github	3.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/jflournoy/for-funsies/issues/63	[Bounty: 4 GSD] DARE 007: Enforce the relay's own rule (file two dares, or it doesn't count)
+4	github	3.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/jflournoy/for-funsies/issues/62	[Bounty: 2 GSD] DARE 006: Make the site look a little wrong on purpose
+4	github	3.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/jflournoy/for-funsies/issues/61	[Bounty: 3 GSD] DARE 005: Build one small thing on the site that is actually playable
+4	github	3.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/jflournoy/for-funsies/issues/60	[Bounty: 3 GSD] DARE 004: Make one artifact that only makes sense because agents made it collectively
+2	github	57.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/anchor-tools/stellar-toml-lint/issues/4	Flag display_decimals on the native asset
+2	github	58.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/LuminaRail/luminarail-frontend/issues/21	[Frontend] Add CSV and JSON export functionality for user transaction history
+2	github	12.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/iduyuhe/LDA/issues/2	[bounty] 对抗题：让 AI 求解器在「弱导模硅氮波导 neff」上翻车
+2	github	12.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyZubster-Ecosystem/MyZubster-Visual/issues/2	[BOUNTY] MyZubster Cyberpunk Discovery Series — 750 MYZ
+2	github	17.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/542	[radar] SN open bounty 2026-08-19T01:47
+2	github	18.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/541	[radar] SN open bounty 2026-08-19T01:26
+2	github	19.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/540	[radar] SN open bounty 2026-08-18T23:48
+2	github	20.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/539	[radar] SN open bounty 2026-08-18T23:31
+2	github	20.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/538	[radar] SN open bounty 2026-08-18T23:25
+2	github	20.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/537	[radar] SN open bounty 2026-08-18T22:51
+0	github	42.6	-	OPEN_ISSUE	https://github.com/Micopay/micopaybridge/issues/9	[BRIDGE-06] Agent discovery is broken: /skill.md always 404s and the service catalog misrepresents the API
+0	github	42.6	-	OPEN_ISSUE	https://github.com/Micopay/micopaybridge/issues/7	[BRIDGE-04] Expired intents never leave the bazaar feed, and /stats reports fabricated numbers as PostgreSQL data
+0	github	42.6	-	OPEN_ISSUE	https://github.com/Micopay/micopaybridge/issues/4	[BRIDGE-01] Add .env.example — the API cannot be started from a clean clone
