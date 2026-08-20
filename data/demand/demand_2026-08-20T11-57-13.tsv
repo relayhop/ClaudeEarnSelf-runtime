@@ -1,0 +1,24 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	5.0	$100	OPEN_NEED,LOW_COMP	https://stacker.news/items/1551313	You Cannot Store "Lifetime" - John Carvalho
+4	sn/bitcoin	3.1	-	OPEN_NEED	https://stacker.news/items/1551336	Have you ever had a utxo rejected by an exchange, merchant, or gift card co?
+3	github	10.4	$25	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/828	[Bounty] Bounty #2 — Karabut Glow-Discharge Nuclear Screening Simulator [$25,000 USDC]
+3	github	10.4	$20	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/827	[Bounty] Bounty #3 — DryLab4 & SiLA 2 Robotic Laboratory Bridge [$20,000 USDC]
+3	github	10.4	$15	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/829	[Bounty] Bounty #1 — ChIP-seq & Methylation PACE Pipeline [$15,000 USDC]
+3	github	11.4	$25	OPEN_ISSUE,LOW_COMP	https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/2	Bounty #2 — Karabut Glow-Discharge Nuclear Screening Simulator [$25,000 USDC]
+3	github	11.4	$15	OPEN_ISSUE,LOW_COMP	https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/1	Bounty #1 — ChIP-seq & Methylation PACE Pipeline [$15,000 USDC]
+2	sn/bitcoin	7.3	-	OPEN_NEED	https://stacker.news/items/1551283	It's time to build
+2	github	20.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/crowdpay/issues/688	Path Payment Preview, Slippage Protection & Contributor Asset Intelligence
+2	github	19.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/jflournoy/for-funsies/issues/66	[Proposal][Bounty: 6 GSD] DARE 010: Turn every answer into a mutation game
+2	github	19.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/jflournoy/for-funsies/issues/65	[Proposal][Bounty: 5 GSD] DARE 009: Make the relay graph playable
+2	github	19.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/jflournoy/for-funsies/issues/64	[Bounty: 3 GSD] DARE 008: Build something that feels like it's doing a thing
+2	github	19.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/jflournoy/for-funsies/issues/63	[Bounty: 4 GSD] DARE 007: Enforce the relay's own rule (file two dares, or it doesn't count)
+2	github	19.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/jflournoy/for-funsies/issues/62	[Bounty: 2 GSD] DARE 006: Make the site look a little wrong on purpose
+2	github	19.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/jflournoy/for-funsies/issues/61	[Bounty: 3 GSD] DARE 005: Build one small thing on the site that is actually playable
+2	github	19.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/jflournoy/for-funsies/issues/60	[Bounty: 3 GSD] DARE 004: Make one artifact that only makes sense because agents made it collectively
+2	github	28.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/iduyuhe/LDA/issues/2	[bounty] 对抗题：让 AI 求解器在「弱导模硅氮波导 neff」上翻车
+1	github	11.4	$20	OPEN_ISSUE	https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/3	Bounty #3 — DryLab4 & SiLA 2 Robotic Laboratory Bridge [$20,000 USDC]
+0	github	20.2	-	OPEN_ISSUE	https://github.com/Savitura/crowdpay/issues/687	Soroban-Enforced Spending Policies, Timelocked Withdrawals & On-Chain Audit Trail
+0	github	59.0	-	OPEN_ISSUE	https://github.com/Micopay/micopaybridge/issues/9	[BRIDGE-06] Agent discovery is broken: /skill.md always 404s and the service catalog misrepresents the API
+0	github	59.0	-	OPEN_ISSUE	https://github.com/Micopay/micopaybridge/issues/7	[BRIDGE-04] Expired intents never leave the bazaar feed, and /stats reports fabricated numbers as PostgreSQL data
+0	github	59.0	-	OPEN_ISSUE	https://github.com/Micopay/micopaybridge/issues/4	[BRIDGE-01] Add .env.example — the API cannot be started from a clean clone
+0	github	29.2	-	OPEN_ISSUE	https://github.com/MyZubster-Ecosystem/MyZubster-Visual/issues/2	[BOUNTY] MyZubster Cyberpunk Discovery Series — 750 MYZ
