@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/tech	0.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1551824	What else can you use to find subdomains?
+4	sn/bitcoin	11.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1551505	COLDCARD Security Update: Seed Generation, Transaction Integrity, Data Isolation
+3	sn/bitcoin	20.2	$100	OPEN_NEED	https://stacker.news/items/1551313	You Cannot Store "Lifetime" - John Carvalho
+3	github	12.4	3 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/835	[Bounty] [3 USDC][Open Competition V2] Write the shortest deterministic agent earning run
+3	github	12.4	3 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/834	[Bounty] [3 USDC][Open Competition V2] Map the shortest discovery path for eight AI-agent
+3	github	12.4	3 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/833	[Bounty] [3 USDC][Open Competition V2] Build a machine-readable Beta3 error recovery cata
+3	github	12.4	3 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/832	[Bounty] [3 USDC][Open Competition V2] Create one complete earning example for every agen
+3	github	12.4	3 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/831	[Bounty] [3 USDC][Open Competition V2] Build a 25-case agent findability and task-search 
+3	github	25.6	$20	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/827	[Bounty] Bounty #3 — DryLab4 & SiLA 2 Robotic Laboratory Bridge [$20,000 USDC]
+3	github	25.6	$15	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/829	[Bounty] Bounty #1 — ChIP-seq & Methylation PACE Pipeline [$15,000 USDC]
+3	github	25.6	$25	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/828	[Bounty] Bounty #2 — Karabut Glow-Discharge Nuclear Screening Simulator [$25,000 USDC]
+2	sn/bitcoin	18.3	-	OPEN_NEED	https://stacker.news/items/1551336	Have you ever had a utxo rejected by an exchange, merchant, or gift card co?
+2	sn/bitcoin	22.6	-	OPEN_NEED	https://stacker.news/items/1551283	It's time to build
+2	github	14.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/accensa/x402-facilitator-stellar/issues/147	Four scripts in scripts/ are referenced by neither package.json nor the README
+2	github	35.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Savitura/crowdpay/issues/688	Path Payment Preview, Slippage Protection & Contributor Asset Intelligence
+2	github	9.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/iv-org/invidious/issues/5957	[Bug] HMooneyPot alias
+1	github	12.6	00 USDC	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1063	[3 USDC][Open Competition V2] Build a 25-case agent findability and task-search corpus
+1	github	12.6	00 USDC	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1061	[3 USDC][Open Competition V2] Build a machine-readable Beta3 error recovery catalog
+1	github	12.6	00 USDC	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1062	[3 USDC][Open Competition V2] Create one complete earning example for every agent interface
+1	github	12.6	00 USDC	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1060	[3 USDC][Open Competition V2] Write the shortest deterministic agent earning runbook
+1	github	12.6	00 USDC	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1059	[3 USDC][Open Competition V2] Map the shortest discovery path for eight AI-agent channels
+1	github	26.6	$20	OPEN_ISSUE	https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/3	Bounty #3 — DryLab4 & SiLA 2 Robotic Laboratory Bridge [$20,000 USDC]
+0	github	14.4	-	OPEN_ISSUE	https://github.com/stellarspend/stellarspend-app/issues/124	Connect BudgetModal in QuickActions to the real budget contract
+0	github	35.4	-	OPEN_ISSUE	https://github.com/Savitura/crowdpay/issues/687	Soroban-Enforced Spending Policies, Timelocked Withdrawals & On-Chain Audit Trail
