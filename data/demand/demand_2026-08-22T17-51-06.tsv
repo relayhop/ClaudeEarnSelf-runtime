@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	3.2	$10	OPEN_NEED	https://stacker.news/items/1552780	NOBODY likes the idea of pay to post (outside SN)
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/92	[Bug] maxSizeMB prop silently accepted as NaN / 0 / negative
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/83	[Docs] README payout instructions say Base — bounties pay test USDC on ARC Testnet
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/82	[Bug] fix.py is a stale hardcoded stub
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/76	[Bug] npm test silently skips file_upload_component.test.js
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/92	[Bug] maxSizeMB prop silently accepted as NaN / 0 / negative
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/91	[Refactor] Extract shared useFileUpload hook — three drifted copies of one uploader
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/90	[Bug] Double-submit race: rapid clicks fire duplicate POSTs before isUploading flushes
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/89	[Bug] No AbortController — unmount mid-upload leaves requests running and setState-after-unmount
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/88	[Bug] File inputs have no accessible label — screen readers announce an unnamed control
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/87	[Bug] Raw fetch errors surfaced to users ('Upload failed with status 500', 'Failed to fetch')
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/86	[Bug] Cannot remove an individual selected file; previews keyed by array index
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/85	[Bug] Login.tsx has no file-size cap (FileUpload caps at 5MB)
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/84	[Bug] No CI workflow — tests never run on push/PR
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/83	[Docs] README payout instructions say Base — bounties pay test USDC on ARC Testnet
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/82	[Bug] fix.py is a stale hardcoded stub
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/81	[Bug] No tsconfig.json / typecheck despite .tsx sources
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/80	[Bug] FileUpload accepts files that violate the accept filter (no MIME/extension check)
+2	sn/bitcoin	23.6	-	OPEN_NEED	https://stacker.news/items/1552219	New service for stacking no-KYC + free (gifted) sats
+2	github	3.9	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/94	[Bug] Enter key after choosing a file doesn't start upload (no form submit path)
+2	github	16.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/SO4-Markets/so4-oracle/issues/772	fail_ok_fail_sequence_counts_all_three_cycles doesn't test a sequence at all — it uses three independent AppState instan
+2	github	17.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/SO4-Markets/so4-oracle/issues/757	token_failure_does_not_abort_remaining_tokens checks the cache for the wrong address due to a one-character typo, making
+2	github	31.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Vaulty-X/Vaulty-App/issues/42	Build an anchor-partner deposit webhook ingestion flow
+2	github	52.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/accensa/x402-facilitator-stellar/issues/147	Four scripts in scripts/ are referenced by neither package.json nor the README
+2	github	3.9	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/94	[Bug] Enter key after choosing a file doesn't start upload (no form submit path)
+2	github	3.9	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/93	[Bug] Drag-and-drop path would bypass validation — no dropzone wiring through the validator
+0	github	16.4	-	OPEN_ISSUE	https://github.com/SO4-Markets/so4-oracle/issues/787	mixed_ledger_fail_and_ok_both_logged_in_metrics uses two independent AppState instances instead of testing an actual mix
+0	github	53.1	-	OPEN_ISSUE	https://github.com/stellarspend/stellarspend-app/issues/124	Connect BudgetModal in QuickActions to the real budget contract
