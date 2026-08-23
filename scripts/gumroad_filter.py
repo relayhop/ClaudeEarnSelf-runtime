@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 """
+    ignore_list = ['templeos', "thursday's boots", 'tung tung tung sahur']
 Scan a Gumroad snapshot.jsonl for prohibited-content matches.
+        name = item.get('name', '').lower()
+        if any(ignore in name for ignore in ignore_list):
+            continue
 
 Input:
   --snapshot  data/gumroad_ratings/<DATE>/snapshot.jsonl  (one product per line)
