@@ -36,6 +36,8 @@ def main():
     severity_counts = defaultdict(int)
     n_total = 0
 
+            if pid is None:
+                continue
     with open(args.snapshot) as f:
         for line in f:
             try:
