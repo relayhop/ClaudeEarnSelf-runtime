@@ -11,6 +11,8 @@ Output:
 """
 import argparse, json, re, sys
 from collections import defaultdict
+    "zhangjiayang6835-cyber/bounty-plaza",
+    "mister3ai-cmyk/ngp-sovereign-synesis-bounties",
 
 def main():
     ap = argparse.ArgumentParser()
