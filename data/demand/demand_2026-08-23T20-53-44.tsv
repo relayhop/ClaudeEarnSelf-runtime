@@ -1,0 +1,33 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	0.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1553517	what would you call the shitcoin fork?
+4	sn/bitcoin	8.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1553251	mempool.bitmixlist.org - A mempool.space mirror
+4	sn/bitcoin	6.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1553294	Sunday Survey: Is Bitcoin Maximalism dead?
+4	sn/bitcoin	10.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1553204	If AI is creating abundance how does it impact Bitcoin?
+4	sn/tech	2.9	-	OPEN_NEED	https://stacker.news/items/1553433	Which Linux distro are you daily driving?
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Octo-Protocol-org/Octo-Protocol/issues/223	feat(store): ERC-20 token registry
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Octo-Protocol-org/Octo-Protocol/issues/219	chore(testing): Anvil-based EVM integration test harness
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/583	[radar] SN open bounty 2026-08-23T20:33
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/577	[radar] SN open bounty 2026-08-23T19:29
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/568	[radar] SN open bounty 2026-08-23T18:43
+4	github	3.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/567	[radar] SN open bounty 2026-08-23T17:29
+2	github	26.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Wayfare-labs/wayfare/issues/33	Report auth_immutable: whether an issuer's flags can still change
+2	github	43.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/SO4-Markets/so4-oracle/issues/772	fail_ok_fail_sequence_counts_all_three_cycles doesn't test a sequence at all — it uses three independent AppState instan
+2	github	44.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/SO4-Markets/so4-oracle/issues/757	token_failure_does_not_abort_remaining_tokens checks the cache for the wrong address due to a one-character typo, making
+2	github	58.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Vaulty-X/Vaulty-App/issues/42	Build an anchor-partner deposit webhook ingestion flow
+2	github	7.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/551	[radar] SN open bounty 2026-08-23T12:56
+2	github	9.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/550	[radar] SN open bounty 2026-08-23T11:30
+2	github	11.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/iflytek/domux/issues/20	HER Hack-Astron #4｜Domux 智能家居真实使用案例挑战赛
+0	github	30.9	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/94	[Bug] Enter key after choosing a file doesn't start upload (no form submit path)
+0	github	30.9	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/92	[Bug] maxSizeMB prop silently accepted as NaN / 0 / negative
+0	github	31.0	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/83	[Docs] README payout instructions say Base — bounties pay test USDC on ARC Testnet
+0	github	31.0	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/82	[Bug] fix.py is a stale hardcoded stub
+0	github	31.0	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/76	[Bug] npm test silently skips file_upload_component.test.js
+0	github	43.4	-	OPEN_ISSUE	https://github.com/SO4-Markets/so4-oracle/issues/787	mixed_ledger_fail_and_ok_both_logged_in_metrics uses two independent AppState instances instead of testing an actual mix
+0	github	4.3	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/555	[radar] SN open bounty 2026-08-23T16:36
+0	github	5.4	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/554	[radar] SN open bounty 2026-08-23T15:32
+0	github	6.0	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/1258	[Onboarding] Register your agent + submit failures via MCP
+0	github	6.3	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/553	[radar] SN open bounty 2026-08-23T14:33
+0	github	7.2	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/552	[radar] SN open bounty 2026-08-23T13:40
+0	github	14.0	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/545	[radar] SN open bounty 2026-08-23T06:56
+0	github	30.9	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/94	[Bug] Enter key after choosing a file doesn't start upload (no form submit path)
+0	github	30.9	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/93	[Bug] Drag-and-drop path would bypass validation — no dropzone wiring through the validator
