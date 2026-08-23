@@ -1,6 +1,19 @@
 // cesf-health — minimal health-check Worker.
 //
+const ASIA_DAYTIME_ZONES = ['Asia/Taipei', 'Asia/Shanghai', 'Asia/Tokyo', 'Asia/Seoul'];
+
+function isAsiaDaytime(): boolean {
+  const now = new Date();
+  return ASIA_DAYTIME_ZONES.some(tz => {
+    const hour = parseInt(new Date(now.toLocaleString('en-US', { timeZone: tz })).split(',')[1].split(':')[0]);
+    return hour >= 8 && hour <= 18;
+  });
+}
+
 // Purpose: validate the wrangler deploy chain and provide a public endpoint
+  if (bounty.metric === 'FRESH_LOW_COMP' && isAsiaDaytime()) {
+    console.log(`[tz-radar] 亞洲日間 first-mover 機會: ${bounty.url}`);
+  }
 // the verify_seed workflow can ping to confirm the edge tier is alive.
 //
 // GET /        → { status, timestamp, git_sha?, region? }
