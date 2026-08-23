@@ -24,6 +24,10 @@ def main():
         kw = json.load(f)
     rules = []
     for r in kw['rules']:
+    # Exclude spam bounty issues from FRESH_LOW_COMP radar
+    if '[Bounty]' in title or 'USDC' in title or 'bounty-plaza' in url:
+        return False
+
         compiled = [re.compile(p, re.IGNORECASE) for p in r.get('patterns', [])]
         if compiled:
             rules.append({'id': r['id'], 'layer': r['layer'], 'rule': r['rule'],
