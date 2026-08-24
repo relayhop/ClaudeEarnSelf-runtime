@@ -1,0 +1,32 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/721	[radar] SN open bounty 2026-08-24T20:41
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/NSPG13/agent-bounties/issues/1213	Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — daily 20260826
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/NSPG13/agent-bounties/issues/1211	Generate qualifying GMV for Highest externally funded canonical GMV — daily August 26
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/NSPG13/agent-bounties/issues/1210	Generate qualifying GMV for Highest externally funded canonical GMV — August 24 sprint
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/NSPG13/agent-bounties/issues/1209	Generate qualifying GMV for Highest externally funded canonical GMV — week of August 24
+2	sn/tech	7.7	-	OPEN_NEED	https://stacker.news/items/1553995	How Much of the Internet Is Written With AI?
+2	github	10.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/OlaGreat/NovaSupport/issues/916	[Frontend] Removing one accepted asset deletes every asset that shares its code, even across different issuers
+2	github	10.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-MarketPay-/issues/1132	[Docs] ROADMAP.md is badly out of date
+2	github	16.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-IndigoPay/Stellar-IndigoPay/issues/1062	Contracts: Add configurable deviation-threshold per token in the oracle contract
+2	github	16.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-IndigoPay/Stellar-IndigoPay/issues/1049	Contracts: Implement per-token pause for selective emergency gating
+2	github	16.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-IndigoPay/Stellar-IndigoPay/issues/1008	All Contracts: Add cross-contract fuzz harness deploying all 4 contracts together
+2	github	16.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-IndigoPay/Stellar-IndigoPay/issues/998	(Critical) Oracle: Implement deviation-tolerance ramp to prevent TWAP deadlock during rapid market moves
+2	github	17.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/647	tests(escrow): test_handle_default_returns_funds_to_pool never checks the pool's balance despite the name
+2	github	17.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/646	tests(escrow): test_lock_stores_record_and_transfers_usdc never asserts on USDC transfer despite the name
+2	github	17.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/591	tests(pool): get_usdc_asset has zero test coverage
+2	github	17.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/579	docs(pool): set_max_utilization has no rustdoc, unlike every other public function
+2	github	17.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/578	enhancement(pool): missing public getters for admin, invoice_contract, and escrow_contract addresses
+2	github	17.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/545	refactor(escrow): usdc_client uses a raw unwrap() instead of the typed NotInitialized error used everywhere else
+2	github	17.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/544	enhancement(escrow): initialize does not validate pool_contract/usdc_asset/admin are distinct addresses
+2	github	2.8	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1221	Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — week 20260831
+2	github	2.8	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1222	Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — daily 20260827
+2	github	2.8	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1220	Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — daily 20260825
+2	github	2.8	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1219	Generate qualifying GMV for Highest externally funded canonical GMV — daily August 27
+2	github	2.8	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1218	Generate qualifying GMV for Highest externally funded canonical GMV — August 24 to September 21
+2	github	2.8	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1217	Generate qualifying GMV for Highest externally funded canonical GMV — daily August 24
+2	github	2.8	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1216	Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — fortnight 20260907
+2	github	2.8	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1215	Generate qualifying GMV for Highest externally funded canonical GMV — August 24 to September 7
+2	github	2.8	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1214	Generate qualifying GMV for Highest externally funded canonical GMV — daily August 25
+2	github	2.8	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1212	Generate qualifying GMV for Highest externally funded canonical GMV — September 7 to September 21
+0	github	10.8	-	OPEN_ISSUE	https://github.com/Emmy123222/Stellar-MarketPay-/issues/1198	[Docs] Update `README.md`
+0	github	16.2	-	OPEN_ISSUE	https://github.com/astera-hq/Astera/issues/1229	fix: `TestnetFaucet` destructures `NEXT_PUBLIC_USDC_TOKEN_ID` but never uses it to gate the USDC button
