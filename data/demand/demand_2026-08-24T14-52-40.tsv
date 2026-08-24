@@ -1,0 +1,33 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	18.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1553517	what would you call the shitcoin fork?
+4	github	1.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/OlaGreat/NovaSupport/issues/916	[Frontend] Removing one accepted asset deletes every asset that shares its code, even across different issuers
+4	github	2.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-MarketPay-/issues/1132	[Docs] ROADMAP.md is badly out of date
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/RealMiLyfe/MiLyfe-Platform/issues/9	[Bounty P13-05] RAG over Community Knowledge
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/RealMiLyfe/MiLyfe-Platform/issues/8	[Bounty P5-02] Quests System
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/RealMiLyfe/MiLyfe-Platform/issues/7	[Bounty P3-04] Live Activity Feed (Heartbeat)
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/RealMiLyfe/MiLyfe-Platform/issues/6	[Bounty P0-01] MiAction — Common Human-Action Protocol
+4	github	2.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/RealMiLyfe/MiLyfe-Platform/issues/5	[Bounty P4-07] Petition/Referendum System
+4	github	2.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/RealMiLyfe/MiLyfe-Platform/issues/4	[Bounty P2-01] Pocket Alive — Animated Wallet
+4	github	2.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/RealMiLyfe/MiLyfe-Platform/issues/3	[Bounty P3-03] Quick Post (10-Second Content)
+4	github	2.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/RealMiLyfe/MiLyfe-Platform/issues/2	[Bounty P2-08] $MLY Transaction History (Rich)
+4	github	2.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/RealMiLyfe/MiLyfe-Platform/issues/1	[Bounty P1-10] Guest Experience
+4	github	3.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/658	[radar] SN open bounty 2026-08-24T11:37
+2	sn/tech	20.9	-	OPEN_NEED	https://stacker.news/items/1553433	Which Linux distro are you daily driving?
+2	github	2.7	-	OPEN_ISSUE	https://github.com/Emmy123222/Stellar-MarketPay-/issues/1198	[Docs] Update `README.md`
+2	github	8.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/astera-hq/Astera/issues/1229	fix: `TestnetFaucet` destructures `NEXT_PUBLIC_USDC_TOKEN_ID` but never uses it to gate the USDC button
+2	github	8.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-IndigoPay/Stellar-IndigoPay/issues/1062	Contracts: Add configurable deviation-threshold per token in the oracle contract
+2	github	8.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-IndigoPay/Stellar-IndigoPay/issues/1049	Contracts: Implement per-token pause for selective emergency gating
+2	github	8.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-IndigoPay/Stellar-IndigoPay/issues/1008	All Contracts: Add cross-contract fuzz harness deploying all 4 contracts together
+2	github	8.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-IndigoPay/Stellar-IndigoPay/issues/998	(Critical) Oracle: Implement deviation-tolerance ramp to prevent TWAP deadlock during rapid market moves
+2	github	9.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/647	tests(escrow): test_handle_default_returns_funds_to_pool never checks the pool's balance despite the name
+2	github	9.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/646	tests(escrow): test_lock_stores_record_and_transfers_usdc never asserts on USDC transfer despite the name
+2	github	9.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/591	tests(pool): get_usdc_asset has zero test coverage
+2	github	9.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/579	docs(pool): set_max_utilization has no rustdoc, unlike every other public function
+2	github	9.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/578	enhancement(pool): missing public getters for admin, invoice_contract, and escrow_contract addresses
+2	github	9.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/545	refactor(escrow): usdc_client uses a raw unwrap() instead of the typed NotInitialized error used everywhere else
+2	github	9.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/544	enhancement(escrow): initialize does not validate pool_contract/usdc_asset/admin are distinct addresses
+2	github	1.8	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/664	[radar] SN open bounty 2026-08-24T13:07
+2	github	2.0	-	OPEN_ISSUE	https://github.com/RealMiLyfe/MiLyfe-Platform/issues/11	[Bounty P7-02] Walking-Home Timer
+2	github	2.0	-	OPEN_ISSUE	https://github.com/RealMiLyfe/MiLyfe-Platform/issues/10	[Bounty P14-02] PWA Enhancements
+2	github	4.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/652	[radar] SN open bounty 2026-08-24T10:48
+0	github	4.9	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/646	[radar] SN open bounty 2026-08-24T09:57
