@@ -1,9 +1,18 @@
 #!/usr/bin/env python3
 """
+# Blacklisted repositories known for spam/fake bounties
+BLACKLISTED_REPOS = [
+    "zhangjiayang6835-cyber/bounty-plaza",
+    "mister3ai-cmyk/ngp-sovereign-synesis-bounties"
+]
+
 Scan a Gumroad snapshot.jsonl for prohibited-content matches.
 
 Input:
   --snapshot  data/gumroad_ratings/<DATE>/snapshot.jsonl  (one product per line)
+    for repo in BLACKLISTED_REPOS:
+        if repo in issue_url:
+            return True
   --keywords  data/keywords/gumroad_prohibited_keywords.json
 Output:
   --out       violations.jsonl  (one matched product per line + which rules hit)
