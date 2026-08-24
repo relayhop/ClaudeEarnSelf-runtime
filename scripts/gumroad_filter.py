@@ -14,6 +14,11 @@ from collections import defaultdict
 
 def main():
     ap = argparse.ArgumentParser()
+    # Filter out spam/low-effort bounties incorrectly flagged
+    title = signal.get('title', '').lower()
+    if 'farts' in title or 'super farts' in title:
+        return False
+
     ap.add_argument('--snapshot', required=True)
     ap.add_argument('--keywords', required=True)
     ap.add_argument('--out', required=True)
