@@ -1,0 +1,36 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	12.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1553517	what would you call the shitcoin fork?
+4	github	2.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/astera-hq/Astera/issues/1229	fix: `TestnetFaucet` destructures `NEXT_PUBLIC_USDC_TOKEN_ID` but never uses it to gate the USDC button
+4	github	3.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-IndigoPay/Stellar-IndigoPay/issues/1062	Contracts: Add configurable deviation-threshold per token in the oracle contract
+4	github	3.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-IndigoPay/Stellar-IndigoPay/issues/1049	Contracts: Implement per-token pause for selective emergency gating
+4	github	3.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-IndigoPay/Stellar-IndigoPay/issues/1008	All Contracts: Add cross-contract fuzz harness deploying all 4 contracts together
+4	github	3.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-IndigoPay/Stellar-IndigoPay/issues/998	(Critical) Oracle: Implement deviation-tolerance ramp to prevent TWAP deadlock during rapid market moves
+4	github	3.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/647	tests(escrow): test_handle_default_returns_funds_to_pool never checks the pool's balance despite the name
+4	github	3.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/646	tests(escrow): test_lock_stores_record_and_transfers_usdc never asserts on USDC transfer despite the name
+4	github	3.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/591	tests(pool): get_usdc_asset has zero test coverage
+4	github	3.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/579	docs(pool): set_max_utilization has no rustdoc, unlike every other public function
+4	github	3.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/578	enhancement(pool): missing public getters for admin, invoice_contract, and escrow_contract addresses
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/545	refactor(escrow): usdc_client uses a raw unwrap() instead of the typed NotInitialized error used everywhere else
+4	github	3.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/544	enhancement(escrow): initialize does not validate pool_contract/usdc_asset/admin are distinct addresses
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/645	[radar] SN open bounty 2026-08-24T08:58
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/632	[radar] SN open bounty 2026-08-24T07:14
+2	sn/bitcoin	21.5	-	OPEN_NEED	https://stacker.news/items/1553251	mempool.bitmixlist.org - A mempool.space mirror
+2	sn/bitcoin	19.4	-	OPEN_NEED	https://stacker.news/items/1553294	Sunday Survey: Is Bitcoin Maximalism dead?
+2	sn/bitcoin	22.9	-	OPEN_NEED	https://stacker.news/items/1553204	If AI is creating abundance how does it impact Bitcoin?
+2	sn/tech	15.4	-	OPEN_NEED	https://stacker.news/items/1553433	Which Linux distro are you daily driving?
+2	github	13.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Octo-Protocol-org/Octo-Protocol/issues/219	chore(testing): Anvil-based EVM integration test harness
+2	github	38.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Wayfare-labs/wayfare/issues/33	Report auth_immutable: whether an issuer's flags can still change
+2	github	3.6	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/620	[radar] SN open bounty 2026-08-24T05:47
+0	github	13.0	-	OPEN_ISSUE	https://github.com/Octo-Protocol-org/Octo-Protocol/issues/223	feat(store): ERC-20 token registry
+0	github	4.5	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/614	[radar] SN open bounty 2026-08-24T04:56
+0	github	6.2	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/608	[radar] SN open bounty 2026-08-24T03:12
+0	github	7.6	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/602	[radar] SN open bounty 2026-08-24T01:52
+0	github	9.9	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/596	[radar] SN open bounty 2026-08-23T23:30
+0	github	10.9	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/595	[radar] SN open bounty 2026-08-23T22:32
+0	github	11.9	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/589	[radar] SN open bounty 2026-08-23T21:30
+0	github	12.9	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/583	[radar] SN open bounty 2026-08-23T20:33
+0	github	13.9	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/577	[radar] SN open bounty 2026-08-23T19:29
+0	github	14.7	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/568	[radar] SN open bounty 2026-08-23T18:43
+0	github	15.9	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/567	[radar] SN open bounty 2026-08-23T17:29
+0	github	16.8	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/555	[radar] SN open bounty 2026-08-23T16:36
+0	github	17.9	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/554	[radar] SN open bounty 2026-08-23T15:32
