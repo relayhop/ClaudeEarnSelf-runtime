@@ -1,0 +1,36 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	18.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1553251	mempool.bitmixlist.org - A mempool.space mirror
+4	sn/bitcoin	9.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1553517	what would you call the shitcoin fork?
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/647	tests(escrow): test_handle_default_returns_funds_to_pool never checks the pool's balance despite the name
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/646	tests(escrow): test_lock_stores_record_and_transfers_usdc never asserts on USDC transfer despite the name
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/591	tests(pool): get_usdc_asset has zero test coverage
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/579	docs(pool): set_max_utilization has no rustdoc, unlike every other public function
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/578	enhancement(pool): missing public getters for admin, invoice_contract, and escrow_contract addresses
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/545	refactor(escrow): usdc_client uses a raw unwrap() instead of the typed NotInitialized error used everywhere else
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/544	enhancement(escrow): initialize does not validate pool_contract/usdc_asset/admin are distinct addresses
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/620	[radar] SN open bounty 2026-08-24T05:47
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/614	[radar] SN open bounty 2026-08-24T04:56
+2	sn/bitcoin	16.1	-	OPEN_NEED	https://stacker.news/items/1553294	Sunday Survey: Is Bitcoin Maximalism dead?
+2	sn/bitcoin	19.5	-	OPEN_NEED	https://stacker.news/items/1553204	If AI is creating abundance how does it impact Bitcoin?
+2	sn/tech	12.1	-	OPEN_NEED	https://stacker.news/items/1553433	Which Linux distro are you daily driving?
+2	github	9.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Octo-Protocol-org/Octo-Protocol/issues/219	chore(testing): Anvil-based EVM integration test harness
+2	github	35.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Wayfare-labs/wayfare/issues/33	Report auth_immutable: whether an issuer's flags can still change
+2	github	2.9	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/608	[radar] SN open bounty 2026-08-24T03:12
+0	github	9.6	-	OPEN_ISSUE	https://github.com/Octo-Protocol-org/Octo-Protocol/issues/223	feat(store): ERC-20 token registry
+0	github	40.1	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/94	[Bug] Enter key after choosing a file doesn't start upload (no form submit path)
+0	github	40.1	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/92	[Bug] maxSizeMB prop silently accepted as NaN / 0 / negative
+0	github	40.2	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/83	[Docs] README payout instructions say Base — bounties pay test USDC on ARC Testnet
+0	github	40.2	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/82	[Bug] fix.py is a stale hardcoded stub
+0	github	40.2	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/76	[Bug] npm test silently skips file_upload_component.test.js
+0	github	4.2	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/602	[radar] SN open bounty 2026-08-24T01:52
+0	github	6.6	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/596	[radar] SN open bounty 2026-08-23T23:30
+0	github	7.6	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/595	[radar] SN open bounty 2026-08-23T22:32
+0	github	8.6	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/589	[radar] SN open bounty 2026-08-23T21:30
+0	github	9.5	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/583	[radar] SN open bounty 2026-08-23T20:33
+0	github	10.6	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/577	[radar] SN open bounty 2026-08-23T19:29
+0	github	11.4	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/568	[radar] SN open bounty 2026-08-23T18:43
+0	github	12.6	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/567	[radar] SN open bounty 2026-08-23T17:29
+0	github	13.5	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/555	[radar] SN open bounty 2026-08-23T16:36
+0	github	14.6	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/554	[radar] SN open bounty 2026-08-23T15:32
+0	github	15.2	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/1258	[Onboarding] Register your agent + submit failures via MCP
+0	github	15.5	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/553	[radar] SN open bounty 2026-08-23T14:33
