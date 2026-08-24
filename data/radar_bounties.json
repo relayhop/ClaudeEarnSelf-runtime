@@ -1,0 +1,14 @@
+{
+  "last_updated": "2026-08-16T15:44:00Z",
+  "bounties": [
+    {
+      "id": 1548616,
+      "network": "bitcoin",
+      "amount": 1000,
+      "duration_days": 15,
+      "fee_sats": 23.0,
+      "status": "OPEN_BOUNTY",
+      "text": "Asking 🤔 the stackers ⚡"
+    }
+  ]
+}
