@@ -1,0 +1,33 @@
+# score	source	age_h	payout_hint	tags	url	title
+2	sn/bitcoin	14.4	-	OPEN_NEED	https://stacker.news/items/1554247	Nostr + Lightning: Building the Future of Social Networks
+2	sn/tech	20.8	-	OPEN_NEED	https://stacker.news/items/1553995	How Much of the Internet Is Written With AI?
+2	github	25.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/3K1-Labs/latch-mobile/issues/57	Let people pick the currency amounts are shown in
+2	github	29.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-IndigoPay/Stellar-IndigoPay/issues/1062	Contracts: Add configurable deviation-threshold per token in the oracle contract
+2	github	29.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-IndigoPay/Stellar-IndigoPay/issues/1049	Contracts: Implement per-token pause for selective emergency gating
+2	github	29.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-IndigoPay/Stellar-IndigoPay/issues/1008	All Contracts: Add cross-contract fuzz harness deploying all 4 contracts together
+2	github	29.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-IndigoPay/Stellar-IndigoPay/issues/998	(Critical) Oracle: Implement deviation-tolerance ramp to prevent TWAP deadlock during rapid market moves
+2	github	30.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/646	tests(escrow): test_lock_stores_record_and_transfers_usdc never asserts on USDC transfer despite the name
+2	github	30.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/591	tests(pool): get_usdc_asset has zero test coverage
+2	github	30.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/579	docs(pool): set_max_utilization has no rustdoc, unlike every other public function
+2	github	30.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/578	enhancement(pool): missing public getters for admin, invoice_contract, and escrow_contract addresses
+2	github	30.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/545	refactor(escrow): usdc_client uses a raw unwrap() instead of the typed NotInitialized error used everywhere else
+2	github	1.5	-	OPEN_ISSUE	https://github.com/muckomdeead/argo-c/issues/1	🎯 Differentiate GitHub API Failures from Missing Webhooks to Prevent Erroneous Reconciliation
+2	github	3.6	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/1296	🎉 MCP Intake 重新上线 — 欢迎重新提交失败案例
+2	github	12.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Bitcoindefi/runa/issues/16	el dibujo del heroe se pinta a traves de las paredes
+2	github	12.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Bitcoindefi/runa/issues/15	El botin como activos Stellar: que la espada exista fuera del juego
+2	github	12.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Bitcoindefi/runa/issues/14	ZK: probar que ganaste sin revelar tu estrategia
+2	github	12.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Bitcoindefi/runa/issues/12	desalineaciones del arte de la ciudad
+2	github	12.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Bitcoindefi/runa/issues/10	el dungeon tiene 941 celdas caminables y cero contenido
+2	github	12.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Bitcoindefi/runa/issues/9	el heroe le come el dibujo al NPC justo a la distancia en la que se puede hablar
+2	github	12.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Bitcoindefi/runa/issues/8	el cartel ofrece 'e hablar' a dos celdas pero la tecla e no alcanza
+2	github	12.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Bitcoindefi/runa/issues/7	entre 64 y 90 columnas la ciudad no dibuja la ficha ni el log
+2	github	12.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Bitcoindefi/runa/issues/6	paredes invisibles: los espacios del arte quedan solidos y chocas contra la nada
+2	github	12.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Bitcoindefi/runa/issues/5	los dos jardines de la ciudad estan sellados: 4946 celdas sin entrada
+2	github	12.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Bitcoindefi/runa/issues/4	caminar contra la pared del gran porton te teletransporta a la pradera
+2	github	12.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Bitcoindefi/runa/issues/3	regresion: cada salida al campo es exactamente el mismo campo
+0	github	23.0	-	OPEN_ISSUE	https://github.com/OlaGreat/NovaSupport/issues/916	[Frontend] Removing one accepted asset deletes every asset that shares its code, even across different issuers
+0	github	23.8	-	OPEN_ISSUE	https://github.com/Emmy123222/Stellar-MarketPay-/issues/1198	[Docs] Update `README.md`
+0	github	23.8	-	OPEN_ISSUE	https://github.com/Emmy123222/Stellar-MarketPay-/issues/1132	[Docs] ROADMAP.md is badly out of date
+0	github	29.2	-	OPEN_ISSUE	https://github.com/astera-hq/Astera/issues/1229	fix: `TestnetFaucet` destructures `NEXT_PUBLIC_USDC_TOKEN_ID` but never uses it to gate the USDC button
+0	github	30.3	-	OPEN_ISSUE	https://github.com/TrusTrove/TrusTrove-contract/issues/647	tests(escrow): test_handle_default_returns_funds_to_pool never checks the pool's balance despite the name
+0	github	12.2	-	OPEN_ISSUE	https://github.com/Bitcoindefi/runa/issues/13	Duelos asincronicos verificables con un contrato Soroban
