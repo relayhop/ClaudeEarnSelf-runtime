@@ -1,0 +1,16 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH	github	3.9	0	1	https://github.com/Bitcoindefi/runa/issues/16	el dibujo del heroe se pinta a traves de las paredes
+FRESH	github	4.0	0	1	https://github.com/Bitcoindefi/runa/issues/15	El botin como activos Stellar: que la espada exista fuera del juego
+FRESH	github	4.0	0	1	https://github.com/Bitcoindefi/runa/issues/14	ZK: probar que ganaste sin revelar tu estrategia
+FRESH	github	4.0	0	2	https://github.com/Bitcoindefi/runa/issues/13	Duelos asincronicos verificables con un contrato Soroban
+FRESH	github	4.0	0	1	https://github.com/Bitcoindefi/runa/issues/12	desalineaciones del arte de la ciudad
+FRESH	github	4.0	0	1	https://github.com/Bitcoindefi/runa/issues/10	el dungeon tiene 941 celdas caminables y cero contenido
+FRESH	github	4.0	0	1	https://github.com/Bitcoindefi/runa/issues/9	el heroe le come el dibujo al NPC justo a la distancia en la que se puede hablar
+FRESH	github	4.0	0	1	https://github.com/Bitcoindefi/runa/issues/8	el cartel ofrece 'e hablar' a dos celdas pero la tecla e no alcanza
+FRESH	github	4.0	0	1	https://github.com/Bitcoindefi/runa/issues/7	entre 64 y 90 columnas la ciudad no dibuja la ficha ni el log
+FRESH	github	4.0	0	1	https://github.com/Bitcoindefi/runa/issues/6	paredes invisibles: los espacios del arte quedan solidos y chocas contra la nada
+FRESH	github	4.1	0	1	https://github.com/Bitcoindefi/runa/issues/5	los dos jardines de la ciudad estan sellados: 4946 celdas sin entrada
+FRESH	github	4.1	0	1	https://github.com/Bitcoindefi/runa/issues/4	caminar contra la pared del gran porton te teletransporta a la pradera
+FRESH	github	4.1	0	1	https://github.com/Bitcoindefi/runa/issues/3	regresion: cada salida al campo es exactamente el mismo campo
+FRESH	github	4.1	0	1	https://github.com/Bitcoindefi/runa/issues/2	regresion: las tiendas volvieron a ser decorativas, se equipa lo que no compraste
+FRESH	github	4.1	0	2	https://github.com/Bitcoindefi/runa/issues/1	regresion: el juego dejo de guardar la partida
