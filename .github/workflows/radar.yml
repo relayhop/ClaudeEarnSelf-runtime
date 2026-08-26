@@ -1,0 +1,52 @@
+name: SN Bounty Radar
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Scan SN bounties
+        id: scan
+        run: |
+          node src/sn-bounty-scanner.js
+        env:
+          SN_API_URL: ${{ vars.SN_API_URL || 'https://stacker.news' }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DEBUG_SN_PARSER: ${{ vars.DEBUG_SN_PARSER || 'false' }}
+
+      - name: Create issues for new bounties
+        if: steps.scan.outputs.new-bounties != ''
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { parseBountyLine, formatIssueBody, formatIssueTitle, generateIssueLabels } = require('./src/sn-bounty-parser');
+            const rawBounties = JSON.parse('${{ steps.scan.outputs.new-bounties }}');
+            for (const raw of rawBounties) {
+              const bounty = parseBountyLine(raw);
+              const title = formatIssueTitle(bounty);
+              const body = formatIssueBody(bounty);
+              const labels = generateIssueLabels(bounty);
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title,
+                body,
+                labels,
+              });
+            }
