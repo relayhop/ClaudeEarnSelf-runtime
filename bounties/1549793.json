@@ -1,0 +1,26 @@
+{
+  "id": 1549793,
+  "source": "SN",
+  "currency": "bitcoin",
+  "amount": 5000,
+  "replies": 17,
+  "upvotes": 14.8,
+  "tags": ["OPEN_BOUNTY", "HOT"],
+  "title": "Best tips for running a profitable lightning node?",
+  "detected_at": "2026-08-18T05:02:00Z",
+  "status": "open",
+  "answer": {
+    "summary": "Practical, tested advice for running a profitable Lightning Network node.",
+    "points": [
+      "Pick your strategy first: routing fees, channel leasing (e.g. liquidity marketplaces), or holding inbound liquidity for a service. Routing alone rarely pays back capital costs on small nodes.",
+      "Channel selection matters more than node size. Open channels to well-connected, honest peers (Amboss, 1ML reputation, LNBig, Bitrefill) with good uptime and balanced two-way flow.",
+      "Set fees with data, not guesses. Start at ~0.1% base / 1 ppm and adjust based on your forwarding statistics over 1-2 weeks. Watch forward vs. local fail rates.",
+      "Maintain balanced liquidity: use circular rebalancing through cheap peers when a channel is one-sided, and consider swaps (Loop) when on-chain costs are low.",
+      "Watch your cost basis: on-chain fees at open/close, VPS cost, and time. A node under ~0.1 BTC routed volume per month usually operates at a loss on routing fees alone.",
+      "Run reliable software (Core Lightning or LND on latest stable), keep 99%+ uptime, enable watchtowers, and keep a hot wallet only as large as you can afford to lose.",
+      "Track profitability per channel with tools like lnmetrics, RTL, or LNMonitor dashboards; close chronically unprofitable channels.",
+      "Consider paid services that leverage your node: channel leasing (Lightning Pool style), serving as an LSP for wallet apps, or routing for merchants - these often beat raw routing fees.",
+      "Tax and regulatory note: fee income is generally taxable income in most jurisdictions; keep records from day one."
+    ]
+  }
+}
