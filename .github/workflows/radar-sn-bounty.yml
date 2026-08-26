@@ -1,0 +1,35 @@
+name: SN Bounty Radar
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: write
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run SN bounty radar
+        env:
+          SN_BOUNTY_FEED_URL: ${{ secrets.SN_BOUNTY_FEED_URL }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: node src/scripts/radar-sn-bounty.js
+
+      - name: Commit known bounties
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
+          git add data/sn-bounties/known-bounties.json
+          git diff --staged --quiet || git commit -m "chore: update known SN bounties"
+          git push
