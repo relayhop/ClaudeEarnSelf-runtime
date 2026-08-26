@@ -1,0 +1,19 @@
+{
+  "item_id": 1549793,
+  "currency": "bitcoin",
+  "amount": 5000,
+  "upvotes": 18,
+  "score": 20.8,
+  "tags": ["OPEN_BOUNTY", "HOT"],
+  "title": "Best tips for running a profitable lighting node?",
+  "raw_title": "⚡Best tips for running a profitable lighting node?⚡",
+  "detected_at": "2026-08-18T11:02:00Z",
+  "source": "stacker_news",
+  "status": "open",
+  "url": "https://stacker.news/items/1549793",
+  "bounty_amount_sats": 5000,
+  "priority": "high",
+  "category": "lightning_network",
+  "keywords": ["lightning", "node", "profitable", "lighting"],
+  "notes": "Bounty detected by radar scan. Title contains misspelling 'lighting' instead of 'lightning' - preserve original but tag for searchability."
+}

@@ -1,0 +1,18 @@
+{
+  "bounties": [
+    {
+      "item_id": 1549793,
+      "currency": "bitcoin",
+      "amount": 5000,
+      "tags": ["OPEN_BOUNTY", "HOT"],
+      "title": "Best tips for running a profitable lighting node?",
+      "detected_at": "2026-08-18T11:02:00Z",
+      "status": "open",
+      "priority": "high",
+      "category": "lightning_network"
+    }
+  ],
+  "last_updated": "2026-08-18T11:02:00Z",
+  "total_open_bounties": 1,
+  "radar_version": "1.0.0"
+}
