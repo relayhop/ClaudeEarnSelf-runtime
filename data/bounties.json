@@ -1,0 +1,15 @@
+{
+  "bounties": [
+    {
+      "postId": 1549793,
+      "currency": "bitcoin",
+      "amount": 5000,
+      "minValue": 17,
+      "maxValue": 17.1,
+      "tags": ["OPEN_BOUNTY", "HOT"],
+      "title": "⚡Best tips for running a profitable lighting node?⚡",
+      "parsedAt": "2026-08-18T07:23:00.000Z"
+    }
+  ],
+  "lastUpdated": "2026-08-18T07:23:00.000Z"
+}
