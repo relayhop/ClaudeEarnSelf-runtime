@@ -1,0 +1,34 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	7.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1555711	Message from Blockstream. Is this real?
+4	sn/tech	17.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1555176	DEF CON :: noRecognition : Could a pattern on clothing fool Facial Recognition?
+2	sn/bitcoin	12.0	-	OPEN_NEED	https://stacker.news/items/1555456	How Bitcoin Can Be Co-opted Without Being Destroyed - Efrat Fenigson
+2	github	6.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/MetroLogic/fluxapay-backend/issues/4	Add .env.example with required environment variables
+2	github	16.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract/issues/469	implement: query_effective_fee()
+2	github	16.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract/issues/464	implement: query_all_balances()
+2	github	16.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract/issues/443	implement: set_source_daily_limit()
+2	github	16.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarGateLabs/StellarGate/issues/558	Use a descriptive .expect("...") instead of bare .unwrap() in test: src/config.rs:1350
+2	github	30.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/SUMAN967-GHOSH/PayFlux/issues/1	[Feature] Add support for Mainnet USDC routing
+2	github	69.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-IndigoPay/Stellar-IndigoPay/issues/1062	Contracts: Add configurable deviation-threshold per token in the oracle contract
+2	github	69.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Stellar-IndigoPay/Stellar-IndigoPay/issues/1049	Contracts: Implement per-token pause for selective emergency gating
+0	github	34.2	-	OPEN_ISSUE	https://github.com/OlaGreat/NovaSupport/issues/971	[Backend] PATCH milestone lets an owner change assetCode/assetIssuer without resetting currentAmount or status
+0	github	38.4	-	OPEN_ISSUE	https://github.com/RaceeyXo/use-stellar/issues/190	feat(errors): add the error codes payments actually need
+0	github	62.5	-	OPEN_ISSUE	https://github.com/OlaGreat/NovaSupport/issues/916	[Frontend] Removing one accepted asset deletes every asset that shares its code, even across different issuers
+0	github	63.3	-	OPEN_ISSUE	https://github.com/Emmy123222/Stellar-MarketPay-/issues/1198	[Docs] Update `README.md`
+0	github	63.4	-	OPEN_ISSUE	https://github.com/Emmy123222/Stellar-MarketPay-/issues/1132	[Docs] ROADMAP.md is badly out of date
+0	github	64.6	-	OPEN_ISSUE	https://github.com/3K1-Labs/latch-mobile/issues/57	Let people pick the currency amounts are shown in
+0	github	68.8	-	OPEN_ISSUE	https://github.com/astera-hq/Astera/issues/1229	fix: `TestnetFaucet` destructures `NEXT_PUBLIC_USDC_TOKEN_ID` but never uses it to gate the USDC button
+0	github	18.7	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/214	API cookbook: curl + response example for every public endpoint
+0	github	18.7	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/213	CI flake detection: retry/annotate flaky tests
+0	github	18.7	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/212	Contract gas-diff regression test (WASM size / fee assertions)
+0	github	18.7	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/211	OpenAPI schema-conformance tests for the API
+0	github	18.7	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/210	Axe accessibility scan wired into CI on key pages
+0	github	18.7	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/209	E2E: webhook delivery + retry flow
+0	github	18.7	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/208	E2E: full batch payment flow (upload → confirm → sign → track)
+0	github	18.7	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/207	Vitest coverage for every API route handler
+0	github	18.7	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/206	Focus management on modals (trap + return focus)
+0	github	18.7	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/205	Mobile batch-creation flow responsive pass
+0	github	18.7	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/204	Toast/announcement accessibility (aria-live) for payment actions
+0	github	18.7	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/203	Empty states for all list pages
+0	github	18.7	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/202	Reduced-motion audit for animated components
+0	github	18.7	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/201	Keyboard navigation for the payments table
+0	github	18.7	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/200	Batch/webhook delivery retry metrics with alert threshold
