@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	3.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1556382	AI × Bitcoin Is Riding Again 🤠⚡️
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/406	CI: shard e2e tests across parallel workers
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/405	CI job: contract WASM reproducibility check
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/404	CI job: verify Prisma schema migrations are up to date
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/403	Soroban contract function reference (args, access, errors)
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/402	SSE event schema documentation for client integrations
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/401	Mainnet deployment runbook (steps and checklist)
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/400	Contributing guide: labels, bounty process, and review expectations
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/399	Local dev environment guide (Neon vs SQLite, seed data, testnet funding)
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/398	Troubleshooting guide: common setup and network errors with fixes
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/397	Validate and sanitize payment memo inputs (length, charset, XSS safety)
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/396	Rate-limit wallet-auth endpoints with per-IP and per-account buckets
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/395	security.txt and security policy documentation
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/394	Dependency vulnerability scan in CI with fail-on-critical
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/393	Secrets scanning in CI (gitleaks/trufflehog) with blocklist policy
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/392	Audit RBAC enforcement on every state-changing API route
+2	github	27.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/MetroLogic/fluxapay-backend/issues/4	Add .env.example with required environment variables
+2	github	36.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract/issues/469	implement: query_effective_fee()
+2	github	36.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract/issues/464	implement: query_all_balances()
+2	github	36.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract/issues/443	implement: set_source_daily_limit()
+2	github	36.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarGateLabs/StellarGate/issues/558	Use a descriptive .expect("...") instead of bare .unwrap() in test: src/config.rs:1350
+2	github	51.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/SUMAN967-GHOSH/PayFlux/issues/1	[Feature] Add support for Mainnet USDC routing
+2	github	58.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/RaceeyXo/use-stellar/issues/190	feat(errors): add the error codes payments actually need
+0	github	54.6	-	OPEN_ISSUE	https://github.com/OlaGreat/NovaSupport/issues/971	[Backend] PATCH milestone lets an owner change assetCode/assetIssuer without resetting currentAmount or status
