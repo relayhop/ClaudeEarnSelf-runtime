@@ -1,0 +1,26 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	18.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1555711	Message from Blockstream. Is this real?
+2	sn/bitcoin	23.0	-	OPEN_NEED	https://stacker.news/items/1555456	How Bitcoin Can Be Co-opted Without Being Destroyed - Efrat Fenigson
+2	github	17.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/MetroLogic/fluxapay-backend/issues/4	Add .env.example with required environment variables
+2	github	27.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract/issues/469	implement: query_effective_fee()
+2	github	27.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract/issues/464	implement: query_all_balances()
+2	github	27.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract/issues/443	implement: set_source_daily_limit()
+2	github	27.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarGateLabs/StellarGate/issues/558	Use a descriptive .expect("...") instead of bare .unwrap() in test: src/config.rs:1350
+2	github	41.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/SUMAN967-GHOSH/PayFlux/issues/1	[Feature] Add support for Mainnet USDC routing
+2	github	49.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/RaceeyXo/use-stellar/issues/190	feat(errors): add the error codes payments actually need
+1	github	5.3	$3	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/391	Frantic bounty #130: Answer live Reddit threads with a dated Sourcey fact
+1	github	5.3	$16	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/390	Frantic bounty #129: Earn a citation for Sourcey on a page that already ranks for a startup-credits, agent-readiness, or
+1	github	5.3	$8	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/389	Frantic bounty #128: Earn a citation for Sourcey on a real external site
+1	github	5.3	$20	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/388	Frantic bounty #127: Publish an original piece on a site AI engines cite
+1	github	5.3	$1	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/387	Frantic bounty #126: Verify the Frantic x402 discovery surface end to end
+1	github	5.3	$1	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/386	Frantic bounty #125: Write the agent-facing quickstart for hiring on Frantic
+1	github	5.3	$1	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/385	Frantic bounty #124: Publish a guide to discovering and paying a Frantic bounty
+0	github	45.3	-	OPEN_ISSUE	https://github.com/OlaGreat/NovaSupport/issues/971	[Backend] PATCH milestone lets an owner change assetCode/assetIssuer without resetting currentAmount or status
+0	github	29.7	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/214	API cookbook: curl + response example for every public endpoint
+0	github	29.7	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/213	CI flake detection: retry/annotate flaky tests
+0	github	29.7	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/212	Contract gas-diff regression test (WASM size / fee assertions)
+0	github	29.7	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/211	OpenAPI schema-conformance tests for the API
+0	github	29.7	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/210	Axe accessibility scan wired into CI on key pages
+0	github	29.7	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/209	E2E: webhook delivery + retry flow
+0	github	29.7	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/208	E2E: full batch payment flow (upload → confirm → sign → track)
+0	github	29.7	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/207	Vitest coverage for every API route handler
