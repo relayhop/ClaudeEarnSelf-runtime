@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+2	github	48.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/MetroLogic/fluxapay-backend/issues/4	Add .env.example with required environment variables
+2	github	57.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract/issues/469	implement: query_effective_fee()
+2	github	58.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract/issues/464	implement: query_all_balances()
+2	github	58.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarGateLabs/StellarGate/issues/558	Use a descriptive .expect("...") instead of bare .unwrap() in test: src/config.rs:1350
+2	github	2.9	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/733	[radar] SN open bounty 2026-08-28T18:35
+1	github	9.2	00 USDC	OPEN_ISSUE	https://github.com/sonoflawal-1/Stellar-agent/issues/453	sdk: Add TypeScript helper function formatUSDC(amount: bigint): string
+1	github	13.3	10 USDC	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/185	[Bug] strix_runs/ scan artifacts committed to main
+1	github	13.3	10 USDC	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/185	[Bug] strix_runs/ scan artifacts committed to main
+0	github	13.3	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/192	[Bug] FileUpload input has duplicate id and aria-describedby attributes
+0	github	13.3	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/189	[Docs] README Development section lists stale test file set
+0	github	13.3	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/188	[Bug] .nvmrc says 20 but CI pins Node 20.19.5
+0	github	13.3	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/186	[Bug] upload_file_fixed.tsx is orphan dead code with a divergent CorrectedUpload API
+0	github	13.3	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/184	[Bug] Repo root littered with SOLUTION_ISSUE_*.md / AGENTCLAW_* docs
+0	github	13.3	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/183	[Bug] npm test does not run double_submit_race.test.js or Python fix.py tests
+0	github	58.3	-	OPEN_ISSUE	https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract/issues/443	implement: set_source_daily_limit()
+0	github	13.3	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/194	[Bug] useFileUpload still surfaces raw fetch errors to users
+0	github	13.3	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/193	[Bug] components/file_upload.test.js still targets FileUpload.tsx inline FormData after hook extraction
+0	github	13.3	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/192	[Bug] FileUpload input has duplicate id and aria-describedby attributes
+0	github	13.3	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/191	[Bug] FileUpload.tsx state type SelectedFile[] but assigns bare File[]
+0	github	13.3	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/190	[Bug] No react/typescript dependencies despite .tsx sources and tsconfig
+0	github	13.3	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/189	[Docs] README Development section lists stale test file set
+0	github	13.3	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/187	[Bug] Login.tsx has no AbortController — unmount mid-upload still setStates
+0	github	13.3	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/186	[Bug] upload_file_fixed.tsx is orphan dead code with a divergent CorrectedUpload API
+0	github	13.3	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/183	[Bug] npm test does not run double_submit_race.test.js or Python fix.py tests
+0	github	13.3	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/182	[Bug] Shared validation contract disagrees with lib/useFileUpload.ts
+0	github	13.3	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/181	[Bug] login_upload.test.js expects useFileUpload + 5MB guard that Login.tsx does not implement
+0	github	13.3	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/180	[Bug] double_submit_race.test.js asserts uploadingRef but code uses uploadInFlightRef
+0	github	13.3	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/179	[Bug] package.json has no typecheck script while CI runs `npm run typecheck --if-present`
