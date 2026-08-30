@@ -1,0 +1,32 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	12.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1558094	Is it overkill to keep your bitcoin in a wallet with no spends?
+4	sn/bitcoin	17.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1557724	Is AI breaking the old rules of responsible disclosure?
+4	sn/bitcoin	16.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1557750	Should we retire "Bitcoin Hardware Wallet" and adopt "Bitcoin Signing Device"?
+3	sn/bitcoin	19.2	000 sats	OPEN_NEED	https://stacker.news/items/1557617	I tested SN's Spark Wallet workflow.  It's smooth as butter.
+2	sn/bitcoin	20.1	-	OPEN_NEED	https://stacker.news/items/1557595	Keep it Simple, Stupid
+2	sn/bitcoin	22.1	-	OPEN_NEED	https://stacker.news/items/1557520	Do open source grants distort Bitcoin?
+2	github	25.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergepay/mergepay-api/issues/401	Add unit tests for group expense split calculation helpers
+2	github	31.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergepay/mergepay-web/issues/314	Add automated test coverage for transaction history filtering and sorting hooks
+2	github	23.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/743	[radar] SN open bounty 2026-08-29T12:38
+1	github	47.5	00 USDC	OPEN_ISSUE	https://github.com/sonoflawal-1/Stellar-agent/issues/453	sdk: Add TypeScript helper function formatUSDC(amount: bigint): string
+1	github	51.6	10 USDC	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/185	[Bug] strix_runs/ scan artifacts committed to main
+1	github	51.6	10 USDC	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/185	[Bug] strix_runs/ scan artifacts committed to main
+1	github	54.9	$1	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/952	[Bounty] [Bounty] Fail-closed Victory Audit on planted auth_bypass
+1	github	57.4	$1	OPEN_ISSUE	https://github.com/s6pa1rta3n-lab/universal_bounty_fleet/issues/1	[Bounty] Fail-closed Victory Audit on planted auth_bypass
+0	github	51.6	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/192	[Bug] FileUpload input has duplicate id and aria-describedby attributes
+0	github	51.6	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/189	[Docs] README Development section lists stale test file set
+0	github	51.6	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/188	[Bug] .nvmrc says 20 but CI pins Node 20.19.5
+0	github	51.6	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/186	[Bug] upload_file_fixed.tsx is orphan dead code with a divergent CorrectedUpload API
+0	github	51.6	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/184	[Bug] Repo root littered with SOLUTION_ISSUE_*.md / AGENTCLAW_* docs
+0	github	51.6	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/183	[Bug] npm test does not run double_submit_race.test.js or Python fix.py tests
+0	github	4.3	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1262	[DRAFT DIRECT] Make verifier settlement deadline-aware and provider-resilient
+0	github	41.2	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/733	[radar] SN open bounty 2026-08-28T18:35
+0	github	51.6	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/189	[Docs] README Development section lists stale test file set
+0	github	51.6	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/186	[Bug] upload_file_fixed.tsx is orphan dead code with a divergent CorrectedUpload API
+0	github	51.6	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/182	[Bug] Shared validation contract disagrees with lib/useFileUpload.ts
+0	github	51.6	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/181	[Bug] login_upload.test.js expects useFileUpload + 5MB guard that Login.tsx does not implement
+0	github	51.6	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/180	[Bug] double_submit_race.test.js asserts uploadingRef but code uses uploadInFlightRef
+0	github	51.6	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/178	[Bug] FileUpload imports useFileUpload but never calls it — dual broken implementations
+0	github	51.6	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/176	[Bug] components/FileUpload.tsx is a broken merge: undefined symbols and JSX mismatch
+0	github	51.6	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/175	[Bug] Login.tsx ReferenceError: `endpoint` is undefined (prop is uploadUrl)
+0	github	54.9	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/951	[Bounty] [Bounty] Repair claim next-action mapper
