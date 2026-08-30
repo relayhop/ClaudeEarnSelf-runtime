@@ -1,0 +1,31 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	2.9	000 sats	OPEN_NEED	https://stacker.news/items/1558458	Self-hosting without exposing your home IP or letting Cloudflare decrypt HTTPS
+5	sn/tech	2.9	000 sats	OPEN_NEED	https://stacker.news/items/1558458	Self-hosting without exposing your home IP or letting Cloudflare decrypt HTTPS
+4	sn/bitcoin	2.5	-	OPEN_NEED	https://stacker.news/items/1558474	Which tech would you prefer your SN sats be stacked with?
+4	github	2.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Quittance-Labs/Quittance0/issues/255	feat(frontend): add asset code normalizer for display
+2	sn/bitcoin	20.2	-	OPEN_NEED	https://stacker.news/items/1558094	Is it overkill to keep your bitcoin in a wallet with no spends?
+2	github	32.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergepay/mergepay-api/issues/401	Add unit tests for group expense split calculation helpers
+2	github	39.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergepay/mergepay-web/issues/314	Add automated test coverage for transaction history filtering and sorting hooks
+2	github	2.0	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/753	[radar] SN open bounty 2026-08-30T17:22
+2	github	6.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/752	[radar] SN open bounty 2026-08-30T12:47
+2	github	7.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/751	[radar] SN open bounty 2026-08-30T11:49
+2	github	30.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/743	[radar] SN open bounty 2026-08-29T12:38
+1	github	55.1	00 USDC	OPEN_ISSUE	https://github.com/sonoflawal-1/Stellar-agent/issues/453	sdk: Add TypeScript helper function formatUSDC(amount: bigint): string
+1	github	59.2	10 USDC	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/185	[Bug] strix_runs/ scan artifacts committed to main
+1	github	62.5	$1	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/952	[Bounty] [Bounty] Fail-closed Victory Audit on planted auth_bypass
+1	github	65.0	$1	OPEN_ISSUE	https://github.com/s6pa1rta3n-lab/universal_bounty_fleet/issues/1	[Bounty] Fail-closed Victory Audit on planted auth_bypass
+0	github	59.2	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/192	[Bug] FileUpload input has duplicate id and aria-describedby attributes
+0	github	59.2	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/189	[Docs] README Development section lists stale test file set
+0	github	59.2	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/188	[Bug] .nvmrc says 20 but CI pins Node 20.19.5
+0	github	59.2	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/186	[Bug] upload_file_fixed.tsx is orphan dead code with a divergent CorrectedUpload API
+0	github	59.2	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/184	[Bug] Repo root littered with SOLUTION_ISSUE_*.md / AGENTCLAW_* docs
+0	github	59.2	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/183	[Bug] npm test does not run double_submit_race.test.js or Python fix.py tests
+0	github	11.9	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1262	[DRAFT DIRECT] Make verifier settlement deadline-aware and provider-resilient
+0	github	48.8	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/733	[radar] SN open bounty 2026-08-28T18:35
+0	github	62.5	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/951	[Bounty] [Bounty] Repair claim next-action mapper
+0	github	70.3	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/393	Secrets scanning in CI (gitleaks/trufflehog) with blocklist policy
+0	github	70.3	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/391	Load test: SSE endpoint with 100 concurrent clients
+0	github	70.3	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/390	E2E: notification center unread-count updates via SSE
+0	github	70.3	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/389	Unit tests for CSV batch parser (malformed rows, encodings, headers)
+0	github	70.3	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/388	E2E: wallet switch between Freighter and Albedo with state preservation
+0	github	70.3	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/387	Property tests for multisig threshold math
