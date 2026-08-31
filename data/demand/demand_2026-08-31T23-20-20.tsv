@@ -1,0 +1,32 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	github	3.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/763	[radar] SN open bounty 2026-08-31T19:57
+2	sn/bitcoin	7.2	-	OPEN_NEED	https://stacker.news/items/1559244	Peach is at a crossroads: what does this mean for KYC-free P2P Bitcoin?
+2	github	13.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/270	[Bug] Login first fragment has no label/htmlFor for the file input
+2	github	13.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/267	[Docs] README test list omits use_file_upload_errors and test_suite_wiring suites
+2	github	13.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/265	[Bug] .gitignore ignores package-lock.json while lockfile is required for reproducible installs
+2	github	9.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/760	[radar] SN open bounty 2026-08-31T13:34
+2	github	9.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/759	[radar] SN open bounty 2026-08-31T13:33
+2	github	13.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/270	[Bug] Login first fragment has no label/htmlFor for the file input
+2	github	13.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/267	[Docs] README test list omits use_file_upload_errors and test_suite_wiring suites
+1	github	13.8	10 USDC	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/264	[Bug] .serena/ agent project config committed to main
+0	github	13.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/279	[Bug] README claims Node 20.19.5 pin but does not mention typecheck or install step
+0	github	13.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/278	[Bug] npm test exit status misleading locally when suites fail under Windows path layout
+0	github	13.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/276	[Bug] file_upload_component.test.js only checks FileUpload previews, not the shared hook contract
+0	github	13.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/275	[Bug] mapUploadError imported as .cjs from TypeScript without allowJs in tsconfig
+0	github	13.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/271	[Bug] Login ignores maxSizeMB prop and hardcodes maxSizeMB: 5 into the hook
+0	github	13.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/266	[Bug] CI never runs npm run typecheck even though the script exists
+0	github	13.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/263	[Bug] Agent dump files bhos_af_BHOS_193.py and docs_update.md still on main
+0	github	13.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/262	[Bug] SOLUTION_ISSUE_*.md still committed on main despite .gitignore
+0	github	13.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/261	[Bug] Orphan workflow bounty-175.yml references missing npm run test:js and Node 22
+0	github	13.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/260	[Bug] .nvmrc pins 20.19.5 while CI still uses node-version: 20
+0	github	13.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/258	[Bug] CI sets up Python but never runs test_fix.py
+0	github	13.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/279	[Bug] README claims Node 20.19.5 pin but does not mention typecheck or install step
+0	github	13.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/278	[Bug] npm test exit status misleading locally when suites fail under Windows path layout
+0	github	13.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/277	[Bug] Login/upload button disabled logic drops uploadingRef in later merge fragment
+0	github	13.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/276	[Bug] file_upload_component.test.js only checks FileUpload previews, not the shared hook contract
+0	github	13.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/275	[Bug] mapUploadError imported as .cjs from TypeScript without allowJs in tsconfig
+0	github	13.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/274	[Bug] clearSelection duplicated and references undefined replacePreviews
+0	github	13.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/272	[Bug] Hook options type omits accept/clearOnSuccess/successMessage used by implementation
+0	github	13.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/271	[Bug] Login ignores maxSizeMB prop and hardcodes maxSizeMB: 5 into the hook
+0	github	13.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/269	[Bug] FileUpload still reimplements upload instead of exclusively using useFileUpload
+0	github	13.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/268	[Bug] use_file_upload_errors.test.js conflicts with mapUploadError network heuristic
