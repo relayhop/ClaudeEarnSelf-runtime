@@ -1,0 +1,36 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	4.0	10 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/264	[Bug] .serena/ agent project config committed to main
+4	sn/bitcoin	18.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1558537	Sunday Survey: How much BTC have you *spent* in the last year?
+4	sn/tech	20.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1558467	TryHackMe's HH 2026 Event - Day 08 - Towel on the Sunbed [Writeup]
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/279	[Bug] README claims Node 20.19.5 pin but does not mention typecheck or install step
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/278	[Bug] npm test exit status misleading locally when suites fail under Windows path layout
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/275	[Bug] mapUploadError imported as .cjs from TypeScript without allowJs in tsconfig
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/271	[Bug] Login ignores maxSizeMB prop and hardcodes maxSizeMB: 5 into the hook
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/270	[Bug] Login first fragment has no label/htmlFor for the file input
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/267	[Docs] README test list omits use_file_upload_errors and test_suite_wiring suites
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/266	[Bug] CI never runs npm run typecheck even though the script exists
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/265	[Bug] .gitignore ignores package-lock.json while lockfile is required for reproducible installs
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/263	[Bug] Agent dump files bhos_af_BHOS_193.py and docs_update.md still on main
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/262	[Bug] SOLUTION_ISSUE_*.md still committed on main despite .gitignore
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/261	[Bug] Orphan workflow bounty-175.yml references missing npm run test:js and Node 22
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/260	[Bug] .nvmrc pins 20.19.5 while CI still uses node-version: 20
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/258	[Bug] CI sets up Python but never runs test_fix.py
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/279	[Bug] README claims Node 20.19.5 pin but does not mention typecheck or install step
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/278	[Bug] npm test exit status misleading locally when suites fail under Windows path layout
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/277	[Bug] Login/upload button disabled logic drops uploadingRef in later merge fragment
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/275	[Bug] mapUploadError imported as .cjs from TypeScript without allowJs in tsconfig
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/272	[Bug] Hook options type omits accept/clearOnSuccess/successMessage used by implementation
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/271	[Bug] Login ignores maxSizeMB prop and hardcodes maxSizeMB: 5 into the hook
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/270	[Bug] Login first fragment has no label/htmlFor for the file input
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/268	[Bug] use_file_upload_errors.test.js conflicts with mapUploadError network heuristic
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/267	[Docs] README test list omits use_file_upload_errors and test_suite_wiring suites
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/266	[Bug] CI never runs npm run typecheck even though the script exists
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/265	[Bug] .gitignore ignores package-lock.json while lockfile is required for reproducible installs
+3	sn/bitcoin	21.0	000 sats	OPEN_NEED	https://stacker.news/items/1558458	Self-hosting without exposing your home IP or letting Cloudflare decrypt HTTPS
+3	sn/tech	21.0	000 sats	OPEN_NEED	https://stacker.news/items/1558458	Self-hosting without exposing your home IP or letting Cloudflare decrypt HTTPS
+2	sn/bitcoin	20.6	-	OPEN_NEED	https://stacker.news/items/1558474	Which tech would you prefer your SN sats be stacked with?
+2	github	4.0	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/276	[Bug] file_upload_component.test.js only checks FileUpload previews, not the shared hook contract
+2	github	4.0	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/276	[Bug] file_upload_component.test.js only checks FileUpload previews, not the shared hook contract
+2	github	4.0	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/274	[Bug] clearSelection duplicated and references undefined replacePreviews
+2	github	4.0	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/273	[Bug] useFileUpload cleanup effect has broken nested forEach / abort braces
+2	github	4.0	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/269	[Bug] FileUpload still reimplements upload instead of exclusively using useFileUpload
