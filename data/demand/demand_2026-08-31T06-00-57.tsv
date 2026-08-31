@@ -1,0 +1,26 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	11.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1558537	Sunday Survey: How much BTC have you *spent* in the last year?
+4	sn/tech	13.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1558467	TryHackMe's HH 2026 Event - Day 08 - Towel on the Sunbed [Writeup]
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/757	[radar] SN open bounty 2026-08-31T05:22
+3	sn/bitcoin	13.5	000 sats	OPEN_NEED	https://stacker.news/items/1558458	Self-hosting without exposing your home IP or letting Cloudflare decrypt HTTPS
+3	sn/tech	13.5	000 sats	OPEN_NEED	https://stacker.news/items/1558458	Self-hosting without exposing your home IP or letting Cloudflare decrypt HTTPS
+2	sn/bitcoin	13.1	-	OPEN_NEED	https://stacker.news/items/1558474	Which tech would you prefer your SN sats be stacked with?
+2	github	13.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Quittance-Labs/Quittance0/issues/255	feat(frontend): add asset code normalizer for display
+2	github	43.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergepay/mergepay-api/issues/401	Add unit tests for group expense split calculation helpers
+2	github	49.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergepay/mergepay-web/issues/314	Add automated test coverage for transaction history filtering and sorting hooks
+2	github	6.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/756	[radar] SN open bounty 2026-08-30T23:25
+2	github	9.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/755	[radar] SN open bounty 2026-08-30T20:58
+2	github	17.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/752	[radar] SN open bounty 2026-08-30T12:47
+2	github	18.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/751	[radar] SN open bounty 2026-08-30T11:49
+2	github	41.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/743	[radar] SN open bounty 2026-08-29T12:38
+1	github	65.7	00 USDC	OPEN_ISSUE	https://github.com/sonoflawal-1/Stellar-agent/issues/453	sdk: Add TypeScript helper function formatUSDC(amount: bigint): string
+1	github	69.8	10 USDC	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/185	[Bug] strix_runs/ scan artifacts committed to main
+0	github	69.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/192	[Bug] FileUpload input has duplicate id and aria-describedby attributes
+0	github	69.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/189	[Docs] README Development section lists stale test file set
+0	github	69.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/188	[Bug] .nvmrc says 20 but CI pins Node 20.19.5
+0	github	69.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/186	[Bug] upload_file_fixed.tsx is orphan dead code with a divergent CorrectedUpload API
+0	github	69.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/184	[Bug] Repo root littered with SOLUTION_ISSUE_*.md / AGENTCLAW_* docs
+0	github	69.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/183	[Bug] npm test does not run double_submit_race.test.js or Python fix.py tests
+0	github	12.6	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/753	[radar] SN open bounty 2026-08-30T17:22
+0	github	22.5	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1262	[DRAFT DIRECT] Make verifier settlement deadline-aware and provider-resilient
+0	github	59.4	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/733	[radar] SN open bounty 2026-08-28T18:35
