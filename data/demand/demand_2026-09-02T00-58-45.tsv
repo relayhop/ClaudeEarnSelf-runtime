@@ -1,0 +1,33 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/775	[radar] SN open bounty 2026-09-02T00:02
+4	github	3.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/772	[radar] SN open bounty 2026-09-01T21:43
+2	sn/bitcoin	13.1	-	OPEN_NEED	https://stacker.news/items/1559806	Are you still using robosats?
+2	github	14.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/forecastingresearch/forecastbench/issues/287	yfinance delisted / renamed stocks
+2	github	6.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/770	[radar] SN open bounty 2026-09-01T18:23
+2	github	10.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/769	[radar] SN open bounty 2026-09-01T14:46
+2	github	12.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/XHToken/Spark-X2.5/issues/3	HER Hack-Astron #5 | Spark-X2.5 Edge Agent Real-World Use Case Challenge
+2	github	13.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/768	[radar] SN open bounty 2026-09-01T11:33
+2	github	15.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/767	[radar] SN open bounty 2026-09-01T09:58
+2	github	16.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1401	[Bounty] Test dsh plugin installation methods
+2	github	20.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/765	[radar] SN open bounty 2026-09-01T04:56
+2	github	25.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/764	[radar] SN open bounty 2026-08-31T23:45
+2	github	29.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/763	[radar] SN open bounty 2026-08-31T19:57
+2	github	35.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/760	[radar] SN open bounty 2026-08-31T13:34
+2	github	35.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/759	[radar] SN open bounty 2026-08-31T13:33
+1	github	39.5	10 USDC	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/264	[Bug] .serena/ agent project config committed to main
+0	github	39.5	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/279	[Bug] README claims Node 20.19.5 pin but does not mention typecheck or install step
+0	github	39.5	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/278	[Bug] npm test exit status misleading locally when suites fail under Windows path layout
+0	github	39.5	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/276	[Bug] file_upload_component.test.js only checks FileUpload previews, not the shared hook contract
+0	github	39.5	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/275	[Bug] mapUploadError imported as .cjs from TypeScript without allowJs in tsconfig
+0	github	39.5	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/271	[Bug] Login ignores maxSizeMB prop and hardcodes maxSizeMB: 5 into the hook
+0	github	39.5	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/270	[Bug] Login first fragment has no label/htmlFor for the file input
+0	github	39.5	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/267	[Docs] README test list omits use_file_upload_errors and test_suite_wiring suites
+0	github	39.5	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/266	[Bug] CI never runs npm run typecheck even though the script exists
+0	github	39.5	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/265	[Bug] .gitignore ignores package-lock.json while lockfile is required for reproducible installs
+0	github	39.5	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/263	[Bug] Agent dump files bhos_af_BHOS_193.py and docs_update.md still on main
+0	github	39.5	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/262	[Bug] SOLUTION_ISSUE_*.md still committed on main despite .gitignore
+0	github	39.5	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/261	[Bug] Orphan workflow bounty-175.yml references missing npm run test:js and Node 22
+0	github	39.5	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/260	[Bug] .nvmrc pins 20.19.5 while CI still uses node-version: 20
+0	github	39.5	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/258	[Bug] CI sets up Python but never runs test_fix.py
+0	github	16.3	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/1403	[Bounty] dsh plugin integration test suite
+0	github	16.3	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/1402	[Bounty] Add dsh plugin installation guide to docs
