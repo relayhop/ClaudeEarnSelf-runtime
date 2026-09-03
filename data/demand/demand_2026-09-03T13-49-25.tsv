@@ -1,0 +1,22 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	9.6	$8	OPEN_NEED,LOW_COMP	https://stacker.news/items/1561111	Daniel Batten: Bitcoin mining saved Texans a 4.3% powerbill increase
+4	sn/bitcoin	19.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1560909	Latest Strikes #34 & #35 - August 17th-30th 2026
+4	sn/bitcoin	19.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1560912	Highlights from 2011 Interview of Julian Assange by Google’s Eric Schmidt
+4	sn/bitcoin	19.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1560888	Inside a Vinteum Deep Dive: Bitcoin Mining from Protocol to Silicon
+2	sn/bitcoin	21.8	-	OPEN_NEED	https://stacker.news/items/1560760	How to split Lukes Airdrop from your cold storage musig bitcoins with electrum
+2	github	51.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/forecastingresearch/forecastbench/issues/287	yfinance delisted / renamed stocks
+2	github	19.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/du82/nonograph/pull/28	fix: reject path traversal in the post id route
+2	github	22.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/commaai/openpilot/issues/38752	Merge PlotJuggler functionality into cabana
+2	github	23.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/794	[radar] SN open bounty 2026-09-02T14:22
+2	github	26.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/790	[radar] SN open bounty 2026-09-02T11:10
+2	github	28.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/787	[radar] SN open bounty 2026-09-02T09:30
+2	github	33.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/781	[radar] SN open bounty 2026-09-02T04:20
+2	github	37.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/775	[radar] SN open bounty 2026-09-02T00:02
+2	github	40.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/772	[radar] SN open bounty 2026-09-01T21:43
+2	github	43.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/770	[radar] SN open bounty 2026-09-01T18:23
+2	github	47.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/769	[radar] SN open bounty 2026-09-01T14:46
+2	github	50.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/768	[radar] SN open bounty 2026-09-01T11:33
+2	github	51.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/767	[radar] SN open bounty 2026-09-01T09:58
+1	github	16.4	$1	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/973	[Bounty] [Bounty $1,000] ttnn.prod_bw returns non-finite gradients for zero inputs
+0	github	7.5	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/976	[Bounty] Add fibonacci function with edge case handling
+0	github	48.9	-	OPEN_ISSUE	https://github.com/XHToken/Spark-X2.5/issues/3	HER Hack-Astron #5 | Spark-X2.5 Edge Agent Real-World Use Case Challenge
