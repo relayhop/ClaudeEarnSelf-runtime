@@ -1,0 +1,19 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/tech	20.0	$2000	OPEN_NEED,LOW_COMP	https://stacker.news/items/1561729	Russian man indicted for spreading malware to 80,000 freelancers
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/804	[radar] SN open bounty 2026-09-04T14:15
+2	sn/bitcoin	22.5	-	OPEN_NEED	https://stacker.news/items/1561572	The Many Headaches of CoinJoin - Spiral
+2	sn/bitcoin	21.4	-	OPEN_NEED	https://stacker.news/items/1561659	Can you name a Bitcoin company that has found product-market fit?
+2	github	5.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/802	[radar] SN open bounty 2026-09-04T11:09
+2	github	6.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/800	[radar] SN open bounty 2026-09-04T09:31
+2	github	11.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/798	[radar] SN open bounty 2026-09-04T04:20
+2	github	45.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/du82/nonograph/pull/28	fix: reject path traversal in the post id route
+2	github	48.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/commaai/openpilot/issues/38752	Merge PlotJuggler functionality into cabana
+2	github	49.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/794	[radar] SN open bounty 2026-09-02T14:22
+2	github	53.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/790	[radar] SN open bounty 2026-09-02T11:10
+2	github	54.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/787	[radar] SN open bounty 2026-09-02T09:30
+2	github	59.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/781	[radar] SN open bounty 2026-09-02T04:20
+2	github	64.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/775	[radar] SN open bounty 2026-09-02T00:02
+2	github	66.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/772	[radar] SN open bounty 2026-09-01T21:43
+2	github	69.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/770	[radar] SN open bounty 2026-09-01T18:23
+1	github	42.9	$1	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/973	[Bounty] [Bounty $1,000] ttnn.prod_bw returns non-finite gradients for zero inputs
+0	github	34.0	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/976	[Bounty] Add fibonacci function with edge case handling
