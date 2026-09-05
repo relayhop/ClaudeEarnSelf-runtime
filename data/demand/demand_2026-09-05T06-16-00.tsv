@@ -1,0 +1,17 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	11.9	08743152 BTC	OPEN_NEED,LOW_COMP	https://stacker.news/items/1562360	Lightning privacy for a normal person
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/812	[radar] SN open bounty 2026-09-05T04:16
+2	github	6.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/809	[radar] SN open bounty 2026-09-04T23:57
+2	github	8.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/807	[radar] SN open bounty 2026-09-04T21:22
+2	github	12.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/806	[radar] SN open bounty 2026-09-04T18:18
+2	github	16.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/804	[radar] SN open bounty 2026-09-04T14:15
+2	github	19.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/802	[radar] SN open bounty 2026-09-04T11:09
+2	github	20.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/800	[radar] SN open bounty 2026-09-04T09:31
+2	github	25.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/798	[radar] SN open bounty 2026-09-04T04:20
+2	github	59.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/du82/nonograph/pull/28	fix: reject path traversal in the post id route
+2	github	63.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/commaai/openpilot/issues/38752	Merge PlotJuggler functionality into cabana
+2	github	63.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/794	[radar] SN open bounty 2026-09-02T14:22
+1	github	12.0	$5000	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1185	[Bounty] [Bounty $5000] Fix INT_MIN correctness in int32 div, remainder, fmod, and scalar
+1	github	56.9	$1	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/973	[Bounty] [Bounty $1,000] ttnn.prod_bw returns non-finite gradients for zero inputs
+0	github	13.4	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/55502	[Bounty $5000] Fix INT_MIN correctness in int32 div, remainder, fmod, and scalar promotion
+0	github	48.0	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/976	[Bounty] Add fibonacci function with edge case handling
