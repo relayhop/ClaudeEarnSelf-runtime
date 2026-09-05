@@ -1,0 +1,16 @@
+# score	source	age_h	payout_hint	tags	url	title
+2	github	4.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/818	[radar] SN open bounty 2026-09-05T12:37
+2	github	6.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/816	[radar] SN open bounty 2026-09-05T10:29
+2	github	7.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/814	[radar] SN open bounty 2026-09-05T08:58
+2	github	12.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/812	[radar] SN open bounty 2026-09-05T04:16
+2	github	16.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/809	[radar] SN open bounty 2026-09-04T23:57
+2	github	19.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/807	[radar] SN open bounty 2026-09-04T21:22
+2	github	22.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/806	[radar] SN open bounty 2026-09-04T18:18
+2	github	26.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/804	[radar] SN open bounty 2026-09-04T14:15
+2	github	29.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/802	[radar] SN open bounty 2026-09-04T11:09
+2	github	31.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/800	[radar] SN open bounty 2026-09-04T09:31
+2	github	36.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/798	[radar] SN open bounty 2026-09-04T04:20
+1	github	22.4	$5000	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1185	[Bounty] [Bounty $5000] Fix INT_MIN correctness in int32 div, remainder, fmod, and scalar
+1	github	67.4	$1	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/973	[Bounty] [Bounty $1,000] ttnn.prod_bw returns non-finite gradients for zero inputs
+0	github	23.9	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/55502	[Bounty $5000] Fix INT_MIN correctness in int32 div, remainder, fmod, and scalar promotion
+0	github	58.5	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/976	[Bounty] Add fibonacci function with edge case handling
