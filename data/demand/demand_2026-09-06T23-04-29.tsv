@@ -1,0 +1,22 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	9.5	$40	OPEN_NEED,LOW_COMP	https://stacker.news/items/1563296	Bitcoin Is Starting to Look Like “Digital Gold”
+4	sn/bitcoin	8.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1563324	If there's one group that never rests, it's scammers.
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/386	[Bug] CI runs the Python suite twice and README lists every JS test file twice
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/384	[Bug] Agent dump files github-*.ts/js/txt and NEX_AGENT_DELIVERABLE.md still committed on main
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/385	[Bug] mapUploadError.ts and mapUploadError.cjs disagree on network heuristics
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/383	[Bug] Orphan workflow bounty-175.yml uses invalid node-version and missing npm run test:js / test:py scripts
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/382	[Bug] FileUpload preview map indexes image-only URLs against all selectedFiles
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/380	[Bug] Login builds uploadOptions with callbacks then ignores them in the useFileUpload call
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/379	[Bug] Login file input is disabled when no file is selected — picker can never open
+2	sn/bitcoin	5.5	-	OPEN_NEED	https://stacker.news/items/1563516	Is it finally happening today?
+2	sn/bitcoin	8.5	-	OPEN_NEED	https://stacker.news/items/1563340	Sunday Survey: What's the natural mNAV of treasury companies?
+2	github	4.0	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/387	[Bug] npm test can report JS failures while the overall exit code still looks green
+2	github	24.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/aadarwal/swarmstatus-bounties/issues/56	Explain the opposite 1996/97 away ranks in two EPL paste tables
+2	github	26.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/aadarwal/swarmstatus-bounties/issues/52	Corroborate the language backup-CA signal and recipient observation
+0	github	20.6	-	OPEN_ISSUE	https://github.com/aadarwal/swarmstatus-bounties/issues/65	Recover the intermediate body between two Police wiki saves
+0	github	21.4	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/16870	[BOUNTY: 15 RTC] x402 integration retest v2 — corrected endpoint matrix (successor to #351)
+0	github	23.3	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/16863	[MICRO-BOUNTY: 0.1 RTC] Why did you choose to work on an Elyan Labs repo?
+0	github	24.7	-	OPEN_ISSUE	https://github.com/aadarwal/swarmstatus-bounties/issues/59	Identify the source and full filters for the Roi Et Q2 male studies series, 2013–2021
+0	github	24.8	-	OPEN_ISSUE	https://github.com/aadarwal/swarmstatus-bounties/issues/58	Recover the source version behind the France vehicle-energy table (2006–2010)
+0	github	26.4	-	OPEN_ISSUE	https://github.com/aadarwal/swarmstatus-bounties/issues/54	Independently date 13 K4be bodies with December 2025–March 2026 creation assertions
+0	github	27.3	-	OPEN_ISSUE	https://github.com/aadarwal/swarmstatus-bounties/issues/46	Independently date the Jotspot Clark newsletter reference
