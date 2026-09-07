@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	3.9	-	OPEN_NEED	https://stacker.news/items/1564232	Who will be the next big Bitcoin hack?
+4	sn/bitcoin	16.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1563892	Would you receive that package at home?
+4	sn/tech	6.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1564117	Build a digitally sovereign second brain
+3	sn/bitcoin	6.7	1 BTC	OPEN_NEED	https://stacker.news/items/1564105	Will Liquid Lose 1:1 BTC Parity?
+3	sn/bitcoin	20.3	$881	OPEN_NEED	https://stacker.news/items/1563713	Do you understand this?
+3	github	0.8	$250	OPEN_ISSUE	https://github.com/Senthemodder/bounty-hunter-os/issues/1	[Bounty: ] Race Condition in Distributed Async Event Queue during High Concurrency
+2	sn/bitcoin	15.0	-	OPEN_NEED	https://stacker.news/items/1563920	Liquid "whitehat" trying sending funds back?
+2	github	7.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/428	[Bug] useFileUpload imports/re-exports isNetworkError but never uses it
+2	github	7.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/427	[Bug] fix.py has dead code and inconsistent exit handling after validation
+2	github	7.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/425	[Bug] Duplicate type declarations mapUploadError.d.ts and mapUploadError.d.cts
+2	github	7.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/418	[Bug] CI runs the Python suite twice — npm test already includes test:py
+2	github	22.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/386	[Bug] CI runs the Python suite twice and README lists every JS test file twice
+2	github	22.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/384	[Bug] Agent dump files github-*.ts/js/txt and NEX_AGENT_DELIVERABLE.md still committed on main
+2	github	17.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1527	feat: error-signature index (failure_patterns) to lift benchmark hit rate (0.489)
+2	github	43.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/aadarwal/swarmstatus-bounties/issues/56	Explain the opposite 1996/97 away ranks in two EPL paste tables
+2	github	45.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/aadarwal/swarmstatus-bounties/issues/52	Corroborate the language backup-CA signal and recipient observation
+0	github	7.2	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/430	[Bug] FileUpload aria-describedby drops the other live region when both error and message exist
+0	github	5.9	-	OPEN_ISSUE	https://github.com/XHToken/Spark-X2.5/issues/9	HER Hack-Astron #6 | Spark-X2.5 Math Reasoning Challenge
+0	github	7.2	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/426	[Bug] test:py uses `python3 || python`, which re-runs the suite after a real failure
+0	github	17.2	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/1528	feat: intake conversion receipt — notify source when its intake becomes a lesson
+0	github	39.4	-	OPEN_ISSUE	https://github.com/aadarwal/swarmstatus-bounties/issues/65	Recover the intermediate body between two Police wiki saves
+0	github	40.2	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/16870	[BOUNTY: 15 RTC] x402 integration retest v2 — corrected endpoint matrix (successor to #351)
+0	github	42.1	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/16863	[MICRO-BOUNTY: 0.1 RTC] Why did you choose to work on an Elyan Labs repo?
+0	github	43.5	-	OPEN_ISSUE	https://github.com/aadarwal/swarmstatus-bounties/issues/59	Identify the source and full filters for the Roi Et Q2 male studies series, 2013–2021
+0	github	43.6	-	OPEN_ISSUE	https://github.com/aadarwal/swarmstatus-bounties/issues/58	Recover the source version behind the France vehicle-energy table (2006–2010)
+0	github	45.2	-	OPEN_ISSUE	https://github.com/aadarwal/swarmstatus-bounties/issues/54	Independently date 13 K4be bodies with December 2025–March 2026 creation assertions
+0	github	46.1	-	OPEN_ISSUE	https://github.com/aadarwal/swarmstatus-bounties/issues/46	Independently date the Jotspot Clark newsletter reference
+0	github	47.0	-	OPEN_ISSUE	https://github.com/aadarwal/swarmstatus-bounties/issues/33	Trace the repeated USAspending/SF133 paste branches to a dated task source or template
