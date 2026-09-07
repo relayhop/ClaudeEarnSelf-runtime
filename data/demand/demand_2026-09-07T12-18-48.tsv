@@ -1,0 +1,31 @@
+# score	source	age_h	payout_hint	tags	url	title
+7	sn/bitcoin	1.1	1 BTC	OPEN_NEED,LOW_COMP	https://stacker.news/items/1564105	Will Liquid Lose 1:1 BTC Parity?
+5	sn/bitcoin	22.7	$40	OPEN_NEED,LOW_COMP	https://stacker.news/items/1563296	Bitcoin Is Starting to Look Like “Digital Gold”
+4	sn/bitcoin	21.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1563324	If there's one group that never rests, it's scammers.
+4	sn/bitcoin	10.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1563892	Would you receive that package at home?
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/428	[Bug] useFileUpload imports/re-exports isNetworkError but never uses it
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/427	[Bug] fix.py has dead code and inconsistent exit handling after validation
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/425	[Bug] Duplicate type declarations mapUploadError.d.ts and mapUploadError.d.cts
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/418	[Bug] CI runs the Python suite twice — npm test already includes test:py
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/428	[Bug] useFileUpload imports/re-exports isNetworkError but never uses it
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/427	[Bug] fix.py has dead code and inconsistent exit handling after validation
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/426	[Bug] test:py uses `python3 || python`, which re-runs the suite after a real failure
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/425	[Bug] Duplicate type declarations mapUploadError.d.ts and mapUploadError.d.cts
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/423	[Bug] Two divergent isAcceptedFile implementations in useFileUpload.ts
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/422	[Bug] selectFiles/commitSelection replace previews without revoking previous object URLs
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/420	[Bug] handleUpload can stick uploadingRef=true when uploadInFlightRef already blocks
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/419	[Bug] useFileUpload selectFiles omits isAcceptedFile from the dependency array
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/418	[Bug] CI runs the Python suite twice — npm test already includes test:py
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/416	[Bug] FileUpload and useFileUpload both create object URLs — dual preview ownership
+3	sn/bitcoin	14.7	$881	OPEN_NEED	https://stacker.news/items/1563713	Do you understand this?
+2	sn/bitcoin	9.5	-	OPEN_NEED	https://stacker.news/items/1563920	Liquid "whitehat" trying sending funds back?
+2	sn/bitcoin	18.8	-	OPEN_NEED	https://stacker.news/items/1563516	Is it finally happening today?
+2	sn/bitcoin	21.7	-	OPEN_NEED	https://stacker.news/items/1563340	Sunday Survey: What's the natural mNAV of treasury companies?
+2	github	1.6	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/430	[Bug] FileUpload aria-describedby drops the other live region when both error and message exist
+2	github	17.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/386	[Bug] CI runs the Python suite twice and README lists every JS test file twice
+2	github	17.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/384	[Bug] Agent dump files github-*.ts/js/txt and NEX_AGENT_DELIVERABLE.md still committed on main
+2	github	1.6	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/429	[Bug] Hook previews API still uses string[] with empty placeholders (index-coupled)
+0	github	33.8	-	OPEN_ISSUE	https://github.com/aadarwal/swarmstatus-bounties/issues/65	Recover the intermediate body between two Police wiki saves
+0	github	34.6	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/16870	[BOUNTY: 15 RTC] x402 integration retest v2 — corrected endpoint matrix (successor to #351)
+0	github	36.5	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/16863	[MICRO-BOUNTY: 0.1 RTC] Why did you choose to work on an Elyan Labs repo?
+0	github	37.9	-	OPEN_ISSUE	https://github.com/aadarwal/swarmstatus-bounties/issues/59	Identify the source and full filters for the Roi Et Q2 male studies series, 2013–2021
