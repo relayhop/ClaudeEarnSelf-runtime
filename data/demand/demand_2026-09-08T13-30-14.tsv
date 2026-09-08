@@ -1,0 +1,30 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	2.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1565067	The current uncomfortable state of Bitcoin security
+4	sn/bitcoin	0.5	-	OPEN_NEED	https://stacker.news/items/1565172	What Would You Do If Bitcoin Become Your Everyday Money?
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Novatip/novatip-web/issues/48	The custom amount field accepts more decimal places than USDC supports
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/NSPG13/agent-bounties/issues/1348	[Bounty] Seed a paid MCP child bounty
+2	sn/bitcoin	23.5	-	OPEN_NEED	https://stacker.news/items/1564232	Who will be the next big Bitcoin hack?
+2	github	7.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/NovaFest-Labs/NovaEvents-app/issues/37	bug: formatUsdc renders literal 'NaN USDC' for malformed input
+2	github	7.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/NovaFest-Labs/NovaEvents-api/issues/44	chore: USDC_CONTRACT_ID is defined but never used
+2	github	18.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Arbellar/Arbellar-SmartContract/issues/4	feat(test-utils): Implement Shared Test Utilities for the Arbellar Test Suite
+2	github	18.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Arbellar/Arbellar-SmartContract/issues/3	feat(vault): Implement Core Vault Contract Operations with Unit Tests
+2	github	26.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/425	[Bug] Duplicate type declarations mapUploadError.d.ts and mapUploadError.d.cts
+2	github	42.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/384	[Bug] Agent dump files github-*.ts/js/txt and NEX_AGENT_DELIVERABLE.md still committed on main
+2	github	0.5	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1351	[Bounty] Seed a paid CLI child bounty
+2	github	0.5	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1350	[Bounty] Seed a paid wallet UX child bounty
+2	github	0.5	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1349	[Bounty] Seed a paid API child bounty
+1	github	18.0	$250	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1200	[Bounty] [Bounty: ] Race Condition in Distributed Async Event Queue during High Concurren
+0	github	26.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/430	[Bug] FileUpload aria-describedby drops the other live region when both error and message exist
+0	github	26.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/428	[Bug] useFileUpload imports/re-exports isNetworkError but never uses it
+0	github	26.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/427	[Bug] fix.py has dead code and inconsistent exit handling after validation
+0	github	26.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/418	[Bug] CI runs the Python suite twice — npm test already includes test:py
+0	github	42.4	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/386	[Bug] CI runs the Python suite twice and README lists every JS test file twice
+0	github	6.6	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/1550	[Zero-Bounty] 复用 misaka-intake-bot：在你的真实仓库接入并交付 ≥20 样本反馈报告
+0	github	15.3	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1201	[Bounty] [Bounty] Flower-shaped rainwater collector for a tinaco
+0	github	17.2	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1340	[Bounty] Flower-shaped rainwater collector for a tinaco
+0	github	25.5	-	OPEN_ISSUE	https://github.com/XHToken/Spark-X2.5/issues/9	HER Hack-Astron #6 | Spark-X2.5 Math Reasoning Challenge
+0	github	36.8	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/1528	feat: intake conversion receipt — notify source when its intake becomes a lesson
+0	github	36.8	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/1527	feat: error-signature index (failure_patterns) to lift benchmark hit rate (0.489)
+0	github	59.0	-	OPEN_ISSUE	https://github.com/aadarwal/swarmstatus-bounties/issues/65	Recover the intermediate body between two Police wiki saves
+0	github	61.7	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/16863	[MICRO-BOUNTY: 0.1 RTC] Why did you choose to work on an Elyan Labs repo?
+0	github	63.1	-	OPEN_ISSUE	https://github.com/aadarwal/swarmstatus-bounties/issues/59	Identify the source and full filters for the Roi Et Q2 male studies series, 2013–2021
