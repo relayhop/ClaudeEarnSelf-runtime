@@ -1,0 +1,30 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	3.2	-	OPEN_NEED	https://stacker.news/items/1566339	Is L-BTC a shitcoin?
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Senthemodder/vat-of-dummies/issues/6	[Bounty: $800] Hitbox Math: entity.getAABB() Desync During High-Speed Kinematic Projection in Script API
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Senthemodder/vat-of-dummies/issues/5	[Bounty: $600] Bedrock 1.26.x: Custom Block Definition Fails Schema Validation with 'minecraft:material_instances'
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Senthemodder/vat-of-dummies/issues/4	[Bounty: $550] Animation Controller: query.anim_time Cyclic Transition Causes Molang Watchdog Lockout
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Senthemodder/vat-of-dummies/issues/3	[Bounty: $750] Bedrock Physics: 1-Tick Hidden Absorption & Jump Boost Amplifier Math Causes Lethal Fall Damage Dropout
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Senthemodder/vat-of-dummies/issues/2	[Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegistrationError on Bedrock 1.21.70
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Senthemodder/vat-of-dummies/issues/1	[Bounty: $650] JSON UI: Dynamic Container Inventory Text Slicing Overflow in hud_screen.json
+4	github	0.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/824	[radar] SN open bounty 2026-09-09T18:30
+3	sn/bitcoin	23.3	000 BTC	OPEN_NEED	https://stacker.news/items/1565577	LIQUID NETWORK UPDATE: INCIDENT REPORT
+2	sn/bitcoin	9.6	-	OPEN_NEED	https://stacker.news/items/1565990	Albyhub Update ASAP!!!
+2	github	26.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Sub-Rosa-Issue/sub-rosa-issue/issues/310	test(web): cover shared display formatter boundaries
+2	github	31.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Novatip/novatip-web/issues/48	The custom amount field accepts more decimal places than USDC supports
+2	github	37.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/NovaFest-Labs/NovaEvents-app/issues/37	bug: formatUsdc renders literal 'NaN USDC' for malformed input
+2	github	37.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/NovaFest-Labs/NovaEvents-api/issues/44	chore: USDC_CONTRACT_ID is defined but never used
+2	github	48.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Arbellar/Arbellar-SmartContract/issues/4	feat(test-utils): Implement Shared Test Utilities for the Arbellar Test Suite
+2	github	48.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Arbellar/Arbellar-SmartContract/issues/3	feat(vault): Implement Core Vault Contract Operations with Unit Tests
+2	github	56.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/425	[Bug] Duplicate type declarations mapUploadError.d.ts and mapUploadError.d.cts
+0	github	56.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/430	[Bug] FileUpload aria-describedby drops the other live region when both error and message exist
+0	github	56.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/428	[Bug] useFileUpload imports/re-exports isNetworkError but never uses it
+0	github	56.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/427	[Bug] fix.py has dead code and inconsistent exit handling after validation
+0	github	56.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/418	[Bug] CI runs the Python suite twice — npm test already includes test:py
+0	github	4.3	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1295	[Bounty] [Bounty] Seed a paid MCP child bounty
+0	github	4.3	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1294	[Bounty] [Bounty] Flower-shaped rainwater collector for a tinaco
+0	github	4.3	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1293	[Bounty] [Bounty] Seed a paid API child bounty
+0	github	4.3	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1292	[Bounty] [Bounty] Seed a paid wallet UX child bounty
+0	github	4.3	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1291	[Bounty] [Bounty] Seed a paid CLI child bounty
+0	github	4.3	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1388	Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — daily 20260827
+0	github	4.4	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1387	Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — week 20260831
+0	github	4.4	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1386	Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — daily 20260825
