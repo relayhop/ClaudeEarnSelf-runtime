@@ -1,0 +1,33 @@
+# score	source	age_h	payout_hint	tags	url	title
+3	sn/bitcoin	14.4	$3.99	OPEN_NEED	https://stacker.news/items/1565359	Review - "What You Need To Know About Bitcoins" (First Bitcoin Book?)
+3	sn/bitcoin	10.5	000 BTC	OPEN_NEED	https://stacker.news/items/1565577	LIQUID NETWORK UPDATE: INCIDENT REPORT
+2	sn/bitcoin	14.5	-	OPEN_NEED	https://stacker.news/items/1565349	Would you accept a payment with an input from a stolen utxo?
+2	sn/bitcoin	17.6	-	OPEN_NEED	https://stacker.news/items/1565172	What Would You Do If Bitcoin Become Your Everyday Money?
+2	github	13.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Sub-Rosa-Issue/sub-rosa-issue/issues/310	test(web): cover shared display formatter boundaries
+2	github	18.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Novatip/novatip-web/issues/48	The custom amount field accepts more decimal places than USDC supports
+2	github	24.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/NovaFest-Labs/NovaEvents-app/issues/37	bug: formatUsdc renders literal 'NaN USDC' for malformed input
+2	github	24.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/NovaFest-Labs/NovaEvents-api/issues/44	chore: USDC_CONTRACT_ID is defined but never used
+2	github	36.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Arbellar/Arbellar-SmartContract/issues/4	feat(test-utils): Implement Shared Test Utilities for the Arbellar Test Suite
+2	github	36.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Arbellar/Arbellar-SmartContract/issues/3	feat(vault): Implement Core Vault Contract Operations with Unit Tests
+2	github	43.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/425	[Bug] Duplicate type declarations mapUploadError.d.ts and mapUploadError.d.cts
+2	github	59.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/384	[Bug] Agent dump files github-*.ts/js/txt and NEX_AGENT_DELIVERABLE.md still committed on main
+2	github	13.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1571	[Lesson] Agent/LLM 工程小课 ×5：thought tags / roleplay 时间一致性 / SDK 集中化 / preset / strings.Contains
+2	github	13.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1570	[Lesson] Vertex/Gemini 工程小课 ×2：流式响应 + safety settings pass-through
+2	github	13.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1569	[Lesson] Vertex AI Embedding 迁移实战（Python + Go + Qwen 嵌入）
+2	github	13.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1568	[Lesson] Vertex AI 成本归因：BigQuery billing exports + Gemma 混合计费实践
+1	github	12.8	$450	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1235	[Bounty] [Bounty: $450] Deploy Script Fails with ENOENT on Windows 11 (Development Pack P
+1	github	12.8	$850	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1233	[Bounty] [Bounty: $850] Hitbox Collision Dropout during Rapid Contraption Kinematic Telep
+1	github	12.8	$500	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1234	[Bounty] [Bounty: $500] Custom Block Definition Fails Schema Validation in Bedrock 1.26.3
+1	github	12.8	$400	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1231	[Bounty] [Bounty: $400] Script API Custom Slash Command Throws Unhandled Startup Exceptio
+1	github	12.8	$650	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1232	[Bounty] [Bounty: $650] Optimize Dynamic Voxel Display Entities to Prevent Massive Draw C
+1	github	12.8	$550	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1230	[Bounty] [Bounty: $550] Build Script Deploys Unexpanded Templates Directly to Com.mojang
+1	github	12.8	$600	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1229	[Bounty] [Bounty: $600] Write Node.js Script to Programmatically Generate Ruby Toolset Te
+1	github	12.8	$350	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1227	[Bounty] [Bounty: $350] CI Build Pipeline Fails: Missing Block Families after Cleaning _t
+1	github	12.8	$450	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1228	[Bounty] [Bounty: $450] Custom Humanoid NPC Texture Scrambled / Left Arm & Leg Mirrored I
+0	github	43.9	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/430	[Bug] FileUpload aria-describedby drops the other live region when both error and message exist
+0	github	43.9	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/428	[Bug] useFileUpload imports/re-exports isNetworkError but never uses it
+0	github	43.9	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/427	[Bug] fix.py has dead code and inconsistent exit handling after validation
+0	github	43.9	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/418	[Bug] CI runs the Python suite twice — npm test already includes test:py
+0	github	59.5	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/386	[Bug] CI runs the Python suite twice and README lists every JS test file twice
+0	github	7.8	-	OPEN_ISSUE	https://github.com/Leonardo-Jacquez/open-cycle/issues/3	Bug-bounty Layer 1 adapter + Q-SCOPE / Q-DUP / Q-IMPACT
+0	github	13.3	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/1572	[Lesson] 运维小课 ×2：iap tcp forwarding + numpy 上传带宽 / docker compose
