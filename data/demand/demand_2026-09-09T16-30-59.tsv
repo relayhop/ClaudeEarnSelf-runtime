@@ -1,0 +1,32 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	0.3	-	OPEN_NEED	https://stacker.news/items/1566339	Is L-BTC a shitcoin?
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1293	[Bounty] [Bounty] Seed a paid API child bounty
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1292	[Bounty] [Bounty] Seed a paid wallet UX child bounty
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1291	[Bounty] [Bounty] Seed a paid CLI child bounty
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/NSPG13/agent-bounties/issues/1382	Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — fortnight 20260907
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/NSPG13/agent-bounties/issues/1381	Generate qualifying GMV for Highest externally funded canonical GMV — August 24 to September 7
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/NSPG13/agent-bounties/issues/1380	Generate qualifying GMV for Highest externally funded canonical GMV — daily August 25
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/NSPG13/agent-bounties/issues/1378	Generate qualifying GMV for Highest externally funded canonical GMV — September 7 to September 21
+3	sn/bitcoin	20.4	000 BTC	OPEN_NEED	https://stacker.news/items/1565577	LIQUID NETWORK UPDATE: INCIDENT REPORT
+2	sn/bitcoin	6.7	-	OPEN_NEED	https://stacker.news/items/1565990	Albyhub Update ASAP!!!
+2	github	23.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Sub-Rosa-Issue/sub-rosa-issue/issues/310	test(web): cover shared display formatter boundaries
+2	github	28.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Novatip/novatip-web/issues/48	The custom amount field accepts more decimal places than USDC supports
+2	github	34.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/NovaFest-Labs/NovaEvents-app/issues/37	bug: formatUsdc renders literal 'NaN USDC' for malformed input
+2	github	34.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/NovaFest-Labs/NovaEvents-api/issues/44	chore: USDC_CONTRACT_ID is defined but never used
+2	github	45.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Arbellar/Arbellar-SmartContract/issues/4	feat(test-utils): Implement Shared Test Utilities for the Arbellar Test Suite
+2	github	45.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Arbellar/Arbellar-SmartContract/issues/3	feat(vault): Implement Core Vault Contract Operations with Unit Tests
+2	github	53.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/425	[Bug] Duplicate type declarations mapUploadError.d.ts and mapUploadError.d.cts
+2	github	69.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/384	[Bug] Agent dump files github-*.ts/js/txt and NEX_AGENT_DELIVERABLE.md still committed on main
+2	github	1.4	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1294	[Bounty] [Bounty] Flower-shaped rainwater collector for a tinaco
+2	github	1.4	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1295	[Bounty] [Bounty] Seed a paid MCP child bounty
+2	github	1.4	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1388	Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — daily 20260827
+2	github	1.4	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1387	Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — week 20260831
+2	github	1.4	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1386	Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — daily 20260825
+2	github	1.4	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1385	Generate qualifying GMV for Highest externally funded canonical GMV — daily August 27
+2	github	1.4	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1383	Generate qualifying GMV for Highest externally funded canonical GMV — daily August 24
+2	github	1.4	-	OPEN_ISSUE	https://github.com/NSPG13/agent-bounties/issues/1384	Generate qualifying GMV for Highest externally funded canonical GMV — August 24 to September 21
+0	github	53.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/430	[Bug] FileUpload aria-describedby drops the other live region when both error and message exist
+0	github	53.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/428	[Bug] useFileUpload imports/re-exports isNetworkError but never uses it
+0	github	53.8	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/427	[Bug] fix.py has dead code and inconsistent exit handling after validation
+0	github	53.9	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/418	[Bug] CI runs the Python suite twice — npm test already includes test:py
+0	github	69.5	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/386	[Bug] CI runs the Python suite twice and README lists every JS test file twice
