@@ -1,0 +1,27 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/tech	2.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1567200	How to H-1B American
+5	sn/bitcoin	0.6	$9	OPEN_NEED	https://stacker.news/items/1567252	Slowly Exiting the Fiat World with Bitcoin e-SIM
+5	sn/bitcoin	8.4	$872	OPEN_NEED,LOW_COMP	https://stacker.news/items/1567073	Is this really the scaling path?
+4	sn/bitcoin	21.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1566335	Cashu is looking for a cracked rust dev to work with the team on cashu
+2	sn/bitcoin	21.3	-	OPEN_NEED	https://stacker.news/items/1566339	Is L-BTC a shitcoin?
+2	github	44.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Sub-Rosa-Issue/sub-rosa-issue/issues/310	test(web): cover shared display formatter boundaries
+2	github	49.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Novatip/novatip-web/issues/48	The custom amount field accepts more decimal places than USDC supports
+2	github	55.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/NovaFest-Labs/NovaEvents-app/issues/37	bug: formatUsdc renders literal 'NaN USDC' for malformed input
+2	github	55.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/NovaFest-Labs/NovaEvents-api/issues/44	chore: USDC_CONTRACT_ID is defined but never used
+2	github	66.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Arbellar/Arbellar-SmartContract/issues/4	feat(test-utils): Implement Shared Test Utilities for the Arbellar Test Suite
+2	github	67.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Arbellar/Arbellar-SmartContract/issues/3	feat(vault): Implement Core Vault Contract Operations with Unit Tests
+2	github	2.4	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/835	[radar] SN open bounty 2026-09-10T11:09
+2	github	3.9	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/832	[radar] SN open bounty 2026-09-10T09:36
+1	github	7.5	$1	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1336	[Bounty] [Bounty: $1,250] Optimize Subgraph Isomorphism to Strict O(N) Deterministic Spac
+1	github	7.5	$650	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1335	[Bounty] [Bounty: $650] JSON UI: Dynamic Container Inventory Text Slicing Overflow in hud
+1	github	7.5	$850	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1334	[Bounty] [Bounty: $850] Bedrock Physics: 1-Tick Kinematic Ghost Teleportation and Swept A
+1	github	7.5	$500	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1333	[Bounty] [Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegistrationE
+1	github	7.5	$700	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1332	[Bounty] [Bounty: $700] Deep Recursive Generic Type Solver Fails Invariant Fuzzing in src
+1	github	10.4	250 USDC	OPEN_ISSUE	https://github.com/Senthemodder/aquarium-of-gullibles/issues/1	[Bounty: $1,250] Optimize Subgraph Isomorphism to Strict O(N) Deterministic Space-Time Complexity
+1	github	12.3	$500	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1326	[Bounty] [Bounty: $500] Custom Block Definition Fails Schema Validation in Bedrock 1.26.3
+1	github	12.3	$450	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1327	[Bounty] [Bounty: $450] Deploy Script Fails with ENOENT on Windows 11 (Development Pack P
+0	github	8.9	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/830	[radar] SN open bounty 2026-09-10T04:35
+0	github	10.4	-	OPEN_ISSUE	https://github.com/Senthemodder/aquarium-of-gullibles/issues/5	[Bounty: $700] Deep Recursive Generic Type Solver Fails Invariant Fuzzing in src/types/state.ts
+0	github	10.4	-	OPEN_ISSUE	https://github.com/Senthemodder/aquarium-of-gullibles/issues/4	[Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegistrationError on Bedrock 1.21.70
+0	github	10.4	-	OPEN_ISSUE	https://github.com/Senthemodder/aquarium-of-gullibles/issues/3	[Bounty: $650] JSON UI: Dynamic Container Inventory Text Slicing Overflow in hud_screen.json
+0	github	10.4	-	OPEN_ISSUE	https://github.com/Senthemodder/aquarium-of-gullibles/issues/2	[Bounty: $850] Bedrock Physics: 1-Tick Kinematic Ghost Teleportation and Swept AABB Dropout
