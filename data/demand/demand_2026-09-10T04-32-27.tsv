@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+3	github	1.4	250 USDC	OPEN_ISSUE	https://github.com/Senthemodder/aquarium-of-gullibles/issues/1	[Bounty: $1,250] Optimize Subgraph Isomorphism to Strict O(N) Deterministic Space-Time Complexity
+3	github	3.3	$450	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1327	[Bounty] [Bounty: $450] Deploy Script Fails with ENOENT on Windows 11 (Development Pack P
+3	github	3.3	$500	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1326	[Bounty] [Bounty: $500] Custom Block Definition Fails Schema Validation in Bedrock 1.26.3
+3	github	3.3	$650	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1325	[Bounty] [Bounty: $650] Optimize Dynamic Voxel Display Entities to Prevent Massive Draw C
+3	github	3.3	$850	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1324	[Bounty] [Bounty: $850] Hitbox Collision Dropout during Rapid Contraption Kinematic Telep
+3	github	3.3	$550	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1322	[Bounty] [Bounty: $550] Build Script Deploys Unexpanded Templates Directly to Com.mojang
+3	github	3.3	$400	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1323	[Bounty] [Bounty: $400] Script API Custom Slash Command Throws Unhandled Startup Exceptio
+3	github	3.3	$450	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1320	[Bounty] [Bounty: $450] Custom Humanoid NPC Texture Scrambled / Left Arm & Leg Mirrored I
+3	github	3.3	$600	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1321	[Bounty] [Bounty: $600] Write Node.js Script to Programmatically Generate Ruby Toolset Te
+3	github	3.3	$700	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1319	[Bounty] [Bounty: $700] JSON UI: Dynamic Container Inventory Text Slicing Overflow in hud
+3	github	3.3	$350	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1318	[Bounty] [Bounty: $350] CI Build Pipeline Fails: Missing Block Families after Cleaning _t
+2	sn/bitcoin	12.3	-	OPEN_NEED	https://stacker.news/items/1566339	Is L-BTC a shitcoin?
+2	sn/bitcoin	18.7	-	OPEN_NEED	https://stacker.news/items/1565990	Albyhub Update ASAP!!!
+2	github	35.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Sub-Rosa-Issue/sub-rosa-issue/issues/310	test(web): cover shared display formatter boundaries
+2	github	40.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Novatip/novatip-web/issues/48	The custom amount field accepts more decimal places than USDC supports
+2	github	46.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/NovaFest-Labs/NovaEvents-app/issues/37	bug: formatUsdc renders literal 'NaN USDC' for malformed input
+2	github	46.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/NovaFest-Labs/NovaEvents-api/issues/44	chore: USDC_CONTRACT_ID is defined but never used
+2	github	57.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Arbellar/Arbellar-SmartContract/issues/4	feat(test-utils): Implement Shared Test Utilities for the Arbellar Test Suite
+2	github	58.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Arbellar/Arbellar-SmartContract/issues/3	feat(vault): Implement Core Vault Contract Operations with Unit Tests
+2	github	65.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hazyshades/Sendly-Test-Repo/issues/425	[Bug] Duplicate type declarations mapUploadError.d.ts and mapUploadError.d.cts
+2	github	1.4	-	OPEN_ISSUE	https://github.com/Senthemodder/aquarium-of-gullibles/issues/5	[Bounty: $700] Deep Recursive Generic Type Solver Fails Invariant Fuzzing in src/types/state.ts
+2	github	1.4	-	OPEN_ISSUE	https://github.com/Senthemodder/aquarium-of-gullibles/issues/4	[Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegistrationError on Bedrock 1.21.70
+2	github	1.4	-	OPEN_ISSUE	https://github.com/Senthemodder/aquarium-of-gullibles/issues/2	[Bounty: $850] Bedrock Physics: 1-Tick Kinematic Ghost Teleportation and Swept AABB Dropout
+2	github	1.4	-	OPEN_ISSUE	https://github.com/Senthemodder/aquarium-of-gullibles/issues/3	[Bounty: $650] JSON UI: Dynamic Container Inventory Text Slicing Overflow in hud_screen.json
+0	github	65.9	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/430	[Bug] FileUpload aria-describedby drops the other live region when both error and message exist
+0	github	65.9	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/428	[Bug] useFileUpload imports/re-exports isNetworkError but never uses it
+0	github	65.9	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/427	[Bug] fix.py has dead code and inconsistent exit handling after validation
+0	github	65.9	-	OPEN_ISSUE	https://github.com/Hazyshades/Sendly-Test-Repo/issues/418	[Bug] CI runs the Python suite twice — npm test already includes test:py
