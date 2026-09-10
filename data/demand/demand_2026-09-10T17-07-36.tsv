@@ -1,0 +1,26 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	12.0	$872	OPEN_NEED,LOW_COMP	https://stacker.news/items/1567073	Is this really the scaling path?
+4	sn/tech	5.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1567200	How to H-1B American
+4	github	2.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/alinaschanz/lendrates/issues/3	a --history view from the daily file
+3	sn/bitcoin	4.2	$9	OPEN_NEED	https://stacker.news/items/1567252	Slowly Exiting the Fiat World with Bitcoin e-SIM
+2	github	48.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Sub-Rosa-Issue/sub-rosa-issue/issues/310	test(web): cover shared display formatter boundaries
+2	github	53.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Novatip/novatip-web/issues/48	The custom amount field accepts more decimal places than USDC supports
+2	github	58.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/NovaFest-Labs/NovaEvents-app/issues/37	bug: formatUsdc renders literal 'NaN USDC' for malformed input
+2	github	59.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/NovaFest-Labs/NovaEvents-api/issues/44	chore: USDC_CONTRACT_ID is defined but never used
+2	github	70.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Arbellar/Arbellar-SmartContract/issues/4	feat(test-utils): Implement Shared Test Utilities for the Arbellar Test Suite
+2	github	70.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Arbellar/Arbellar-SmartContract/issues/3	feat(vault): Implement Core Vault Contract Operations with Unit Tests
+2	github	2.8	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/837	[radar] SN open bounty 2026-09-10T14:19
+1	github	11.1	$1	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1336	[Bounty] [Bounty: $1,250] Optimize Subgraph Isomorphism to Strict O(N) Deterministic Spac
+1	github	11.1	$650	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1335	[Bounty] [Bounty: $650] JSON UI: Dynamic Container Inventory Text Slicing Overflow in hud
+1	github	11.1	$850	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1334	[Bounty] [Bounty: $850] Bedrock Physics: 1-Tick Kinematic Ghost Teleportation and Swept A
+1	github	11.1	$500	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1333	[Bounty] [Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegistrationE
+1	github	11.1	$700	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1332	[Bounty] [Bounty: $700] Deep Recursive Generic Type Solver Fails Invariant Fuzzing in src
+1	github	14.0	250 USDC	OPEN_ISSUE	https://github.com/Senthemodder/aquarium-of-gullibles/issues/1	[Bounty: $1,250] Optimize Subgraph Isomorphism to Strict O(N) Deterministic Space-Time Complexity
+1	github	15.9	$500	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1326	[Bounty] [Bounty: $500] Custom Block Definition Fails Schema Validation in Bedrock 1.26.3
+0	github	6.0	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/835	[radar] SN open bounty 2026-09-10T11:09
+0	github	7.5	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/832	[radar] SN open bounty 2026-09-10T09:36
+0	github	12.5	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/830	[radar] SN open bounty 2026-09-10T04:35
+0	github	14.0	-	OPEN_ISSUE	https://github.com/Senthemodder/aquarium-of-gullibles/issues/5	[Bounty: $700] Deep Recursive Generic Type Solver Fails Invariant Fuzzing in src/types/state.ts
+0	github	14.0	-	OPEN_ISSUE	https://github.com/Senthemodder/aquarium-of-gullibles/issues/4	[Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegistrationError on Bedrock 1.21.70
+0	github	14.0	-	OPEN_ISSUE	https://github.com/Senthemodder/aquarium-of-gullibles/issues/2	[Bounty: $850] Bedrock Physics: 1-Tick Kinematic Ghost Teleportation and Swept AABB Dropout
+0	github	14.0	-	OPEN_ISSUE	https://github.com/Senthemodder/aquarium-of-gullibles/issues/3	[Bounty: $650] JSON UI: Dynamic Container Inventory Text Slicing Overflow in hud_screen.json
