@@ -1,0 +1,22 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	3.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1568295	Turns out, starting a new hard fork in 2026 comes with unintended consequences
+4	sn/bitcoin	13.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1568016	A 100,000 year bear market for money?
+4	sn/bitcoin	7.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1568190	Is this the most democratic shitcoin out there?
+4	sn/bitcoin	11.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1568110	The era of lattice SNARKs – with a faster, post-quantum Jolt - a16z crypto
+2	github	23.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/alinaschanz/lendrates/issues/3	a --history view from the daily file
+2	github	69.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Sub-Rosa-Issue/sub-rosa-issue/issues/310	test(web): cover shared display formatter boundaries
+2	github	3.1	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/905	[radar] SN open bounty 2026-09-11T11:10
+1	github	32.2	$1	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1336	[Bounty] [Bounty: $1,250] Optimize Subgraph Isomorphism to Strict O(N) Deterministic Spac
+1	github	32.2	$850	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1334	[Bounty] [Bounty: $850] Bedrock Physics: 1-Tick Kinematic Ghost Teleportation and Swept A
+1	github	32.2	$650	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1335	[Bounty] [Bounty: $650] JSON UI: Dynamic Container Inventory Text Slicing Overflow in hud
+1	github	32.2	$500	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1333	[Bounty] [Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegistrationE
+1	github	32.2	$700	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1332	[Bounty] [Bounty: $700] Deep Recursive Generic Type Solver Fails Invariant Fuzzing in src
+0	github	4.8	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/903	[radar] SN open bounty 2026-09-11T09:33
+0	github	9.8	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/895	[radar] SN open bounty 2026-09-11T04:28
+0	github	14.3	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/894	[radar] SN open bounty 2026-09-11T00:02
+0	github	16.7	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/893	[radar] SN open bounty 2026-09-10T21:34
+0	github	20.0	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/841	[radar] SN open bounty 2026-09-10T18:20
+0	github	24.0	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/837	[radar] SN open bounty 2026-09-10T14:19
+0	github	27.2	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/835	[radar] SN open bounty 2026-09-10T11:09
+0	github	28.7	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/832	[radar] SN open bounty 2026-09-10T09:36
+0	github	33.7	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/830	[radar] SN open bounty 2026-09-10T04:35
