@@ -1,0 +1,24 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	19.4	$872	OPEN_NEED,LOW_COMP	https://stacker.news/items/1567073	Is this really the scaling path?
+4	sn/tech	13.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1567200	How to H-1B American
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/894	[radar] SN open bounty 2026-09-11T00:02
+4	github	2.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/893	[radar] SN open bounty 2026-09-10T21:34
+3	sn/bitcoin	11.6	$9	OPEN_NEED	https://stacker.news/items/1567252	Slowly Exiting the Fiat World with Bitcoin e-SIM
+2	github	9.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/alinaschanz/lendrates/issues/3	a --history view from the daily file
+2	github	55.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Sub-Rosa-Issue/sub-rosa-issue/issues/310	test(web): cover shared display formatter boundaries
+2	github	60.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Novatip/novatip-web/issues/48	The custom amount field accepts more decimal places than USDC supports
+2	github	66.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/NovaFest-Labs/NovaEvents-app/issues/37	bug: formatUsdc renders literal 'NaN USDC' for malformed input
+2	github	66.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/NovaFest-Labs/NovaEvents-api/issues/44	chore: USDC_CONTRACT_ID is defined but never used
+1	github	18.4	$1	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1336	[Bounty] [Bounty: $1,250] Optimize Subgraph Isomorphism to Strict O(N) Deterministic Spac
+1	github	18.4	$650	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1335	[Bounty] [Bounty: $650] JSON UI: Dynamic Container Inventory Text Slicing Overflow in hud
+1	github	18.4	$850	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1334	[Bounty] [Bounty: $850] Bedrock Physics: 1-Tick Kinematic Ghost Teleportation and Swept A
+1	github	18.4	$500	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1333	[Bounty] [Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegistrationE
+1	github	18.4	$700	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1332	[Bounty] [Bounty: $700] Deep Recursive Generic Type Solver Fails Invariant Fuzzing in src
+0	github	6.1	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/841	[radar] SN open bounty 2026-09-10T18:20
+0	github	10.2	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/837	[radar] SN open bounty 2026-09-10T14:19
+0	github	13.3	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/835	[radar] SN open bounty 2026-09-10T11:09
+0	github	14.9	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/832	[radar] SN open bounty 2026-09-10T09:36
+0	github	19.9	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/830	[radar] SN open bounty 2026-09-10T04:35
+0	github	21.4	-	OPEN_ISSUE	https://github.com/Senthemodder/aquarium-of-gullibles/issues/5	[Bounty: $700] Deep Recursive Generic Type Solver Fails Invariant Fuzzing in src/types/state.ts
+0	github	21.4	-	OPEN_ISSUE	https://github.com/Senthemodder/aquarium-of-gullibles/issues/4	[Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegistrationError on Bedrock 1.21.70
+0	github	21.4	-	OPEN_ISSUE	https://github.com/Senthemodder/aquarium-of-gullibles/issues/3	[Bounty: $650] JSON UI: Dynamic Container Inventory Text Slicing Overflow in hud_screen.json
