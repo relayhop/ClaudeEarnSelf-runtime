@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+7	sn/bitcoin	0.1	$10	OPEN_NEED,LOW_COMP	https://stacker.news/items/1569672	Using Bitcoin in Real Life
+5	github	0.4	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1063	[radar] SN open bounty 2026-09-12T17:00
+5	github	3.4	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1061	[radar] SN open bounty 2026-09-12T14:01
+4	sn/bitcoin	2.3	-	OPEN_NEED	https://stacker.news/items/1569548	Do you consider Quantum, a threat OR an opportunity, OR both?
+4	github	2.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Tellus-Cooperative/stellar-paylink/issues/3	Multiple explicitly configured credit assets
+4	github	2.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1640	[Bounty] 让 workflow 的 shell 步骤能在本地跑起来：scripts/check_workflow_scripts.py
+3	sn/bitcoin	23.1	$10	OPEN_NEED	https://stacker.news/items/1568707	What's the Next Big Bitcoin Controversy After BIP110?
+3	github	3.7	$50	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1518	[Bounty] [Bounty: $50] slugify() leaves double and trailing hyphens
+3	github	6.8	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1058	[radar] SN open bounty 2026-09-12T10:38
+3	github	6.8	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1057	[radar] SN open bounty 2026-09-12T10:38
+2	sn/bitcoin	22.5	-	OPEN_NEED	https://stacker.news/items/1568758	Do you tend to support Blockstream or the Liquid hax0rz?
+2	github	18.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/manankharwar/fusioncore/issues/115	gnss.min_satellites above 4 rejects every NavSatFix fix forever, because the count is synthesised
+2	github	25.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/utilityjnr1/lumena/issues/17	[DX] Interactive Playground Example App (examples/playground)
+2	github	25.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/utilityjnr1/lumena/issues/3	[Feature] Asset-Specific Spend Limits in PolicyEngine
+2	github	50.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/alinaschanz/lendrates/issues/3	a --history view from the daily file
+1	github	11.8	000 Sat	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1054	[radar] SN open bounty 2026-09-12T05:39
+1	github	17.2	000 Sat	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1053	[radar] SN open bounty 2026-09-12T00:10
+1	github	19.7	000 Sat	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1052	[radar] SN open bounty 2026-09-11T21:40
+1	github	20.2	$500	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1509	[Bounty] [Bounty $500] ttnn.quantize/requantize uint8 lower-bound saturation
+1	github	23.0	$7500	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1472	[Bounty] [Bounty $7500] Remove legacy sqrt/rsqrt/reciprocal compatibility paths
+0	github	6.0	-	OPEN_ISSUE	https://github.com/maaltarifi97-maker/aioa-playground/issues/1	[Bounty: $50] slugify() leaves double and trailing hyphens
+0	github	22.7	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/56290	[Bounty $500] ttnn.quantize/requantize uint8 lower-bound saturation
+0	github	23.0	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/922	[radar] SN open bounty 2026-09-11T18:24
+0	github	24.0	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/56277	[Bounty $7500] Remove legacy sqrt/rsqrt/reciprocal compatibility paths
