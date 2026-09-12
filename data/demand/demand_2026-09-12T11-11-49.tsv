@@ -1,0 +1,24 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	21.2	$99	OPEN_NEED,LOW_COMP	https://stacker.news/items/1568454	Nym21 Made BTC's On-Chain Metrics Free, and the Pros Who Sell Them Came Running
+5	github	0.6	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1058	[radar] SN open bounty 2026-09-12T10:38
+5	github	0.6	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1057	[radar] SN open bounty 2026-09-12T10:38
+4	sn/bitcoin	23.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1568327	Bitcoin Isn’t Money, Says the Fiat-Issuing Riksbank (BTCHEL, JB)
+3	sn/bitcoin	16.9	$10	OPEN_NEED	https://stacker.news/items/1568707	What's the Next Big Bitcoin Controversy After BIP110?
+2	sn/bitcoin	16.3	-	OPEN_NEED	https://stacker.news/items/1568758	Do you tend to support Blockstream or the Liquid hax0rz?
+2	github	12.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/manankharwar/fusioncore/issues/115	gnss.min_satellites above 4 rejects every NavSatFix fix forever, because the count is synthesised
+2	github	18.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/utilityjnr1/lumena/issues/17	[DX] Interactive Playground Example App (examples/playground)
+2	github	18.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/utilityjnr1/lumena/issues/3	[Feature] Asset-Specific Spend Limits in PolicyEngine
+2	github	44.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/alinaschanz/lendrates/issues/3	a --history view from the daily file
+1	github	5.5	000 Sat	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1054	[radar] SN open bounty 2026-09-12T05:39
+1	github	11.0	000 Sat	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1053	[radar] SN open bounty 2026-09-12T00:10
+1	github	13.5	000 Sat	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1052	[radar] SN open bounty 2026-09-11T21:40
+1	github	14.0	$500	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1509	[Bounty] [Bounty $500] ttnn.quantize/requantize uint8 lower-bound saturation
+1	github	16.8	$7500	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1472	[Bounty] [Bounty $7500] Remove legacy sqrt/rsqrt/reciprocal compatibility paths
+0	github	4.9	-	OPEN_ISSUE	https://github.com/lilei0311/yangong/issues/3	[bounty ¥200 · 仅支付宝] SandboxRunner 适配器：吃 SandboxSpec，吐 SandboxRun + TestCaseResult[]
+0	github	16.4	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/56290	[Bounty $500] ttnn.quantize/requantize uint8 lower-bound saturation
+0	github	16.8	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/922	[radar] SN open bounty 2026-09-11T18:24
+0	github	17.8	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/56277	[Bounty $7500] Remove legacy sqrt/rsqrt/reciprocal compatibility paths
+0	github	20.9	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/909	[radar] SN open bounty 2026-09-11T14:20
+0	github	24.0	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/905	[radar] SN open bounty 2026-09-11T11:10
+0	github	25.6	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/903	[radar] SN open bounty 2026-09-11T09:33
+0	github	30.7	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/895	[radar] SN open bounty 2026-09-11T04:28
