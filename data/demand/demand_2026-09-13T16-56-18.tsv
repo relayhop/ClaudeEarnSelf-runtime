@@ -1,0 +1,24 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	1.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1570377	26.639 reachable Bitcoin nodes 🌐
+5	sn/bitcoin	7.7	$320	OPEN_NEED,LOW_COMP	https://stacker.news/items/1570104	Payment Adoption Weekly Brief 2026/37
+4	sn/bitcoin	19.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1569854	Electrum Release v4.8.2. Another security update: could it be another hack/scam?
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1097	[radar] SN open bounty 2026-09-13T16:09
+4	github	3.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1661	[Bounty][$0][Ops] 重建 lessons/index.md 并加 --check 门禁（当前 181 条里 25 条悬空、136 条标题不符）
+3	sn/bitcoin	23.6	$10	OPEN_NEED	https://stacker.news/items/1569672	Using Bitcoin in Real Life
+3	github	18.7	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1091	[radar] SN open bounty 2026-09-12T22:12
+3	github	21.7	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1064	[radar] SN open bounty 2026-09-12T19:13
+3	github	23.9	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1063	[radar] SN open bounty 2026-09-12T17:00
+3	github	26.9	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1061	[radar] SN open bounty 2026-09-12T14:01
+2	github	42.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/manankharwar/fusioncore/issues/115	gnss.min_satellites above 4 rejects every NavSatFix fix forever, because the count is synthesised
+2	github	26.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Tellus-Cooperative/stellar-paylink/issues/3	Multiple explicitly configured credit assets
+2	github	48.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/utilityjnr1/lumena/issues/17	[DX] Interactive Playground Example App (examples/playground)
+2	github	48.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/utilityjnr1/lumena/issues/3	[Feature] Asset-Specific Spend Limits in PolicyEngine
+2	github	5.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1655	[Bounty][$0][Lessons] 把 intake #1643（NPC 外派 + 间接提及 → 说话人/地点错位）转成课程
+2	github	5.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1654	[Bounty][$0][Search] error-signature 索引（#1562）：先方案后实现
+2	github	5.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1652	[Bounty][$0][Lessons] 把 intake #1553（alembic upgrade 失败）转成课程
+2	github	5.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1651	[Bounty][$0][Lessons] 把 intake #1555（nano-gpt.com SSE 流式调用失败）转成课程
+2	github	5.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1650	[Bounty][$0][Lessons] 把 intake #1574（LLM 代替用户发言 / god-moding）转成课程
+1	github	16.1	$999999999999999999999999	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1548	[Bounty] $999999999999999999999999 BOUNTY - URGENT
+1	github	27.2	$50	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1518	[Bounty] [Bounty: $50] slugify() leaves double and trailing hyphens
+0	github	26.4	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/1640	[Bounty] 让 workflow 的 shell 步骤能在本地跑起来：scripts/check_workflow_scripts.py
+0	github	29.5	-	OPEN_ISSUE	https://github.com/maaltarifi97-maker/aioa-playground/issues/1	[Bounty: $50] slugify() leaves double and trailing hyphens
