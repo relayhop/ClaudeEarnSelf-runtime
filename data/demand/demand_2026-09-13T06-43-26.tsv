@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+3	sn/bitcoin	13.4	$10	OPEN_NEED	https://stacker.news/items/1569672	Using Bitcoin in Real Life
+3	github	8.5	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1091	[radar] SN open bounty 2026-09-12T22:12
+3	github	11.5	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1064	[radar] SN open bounty 2026-09-12T19:13
+3	github	13.7	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1063	[radar] SN open bounty 2026-09-12T17:00
+3	github	16.7	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1061	[radar] SN open bounty 2026-09-12T14:01
+3	github	20.1	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1058	[radar] SN open bounty 2026-09-12T10:38
+3	github	20.1	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1057	[radar] SN open bounty 2026-09-12T10:38
+3	github	25.1	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1054	[radar] SN open bounty 2026-09-12T05:39
+2	sn/bitcoin	15.6	-	OPEN_NEED	https://stacker.news/items/1569548	Do you consider Quantum, a threat OR an opportunity, OR both?
+2	github	32.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/manankharwar/fusioncore/issues/115	gnss.min_satellites above 4 rejects every NavSatFix fix forever, because the count is synthesised
+2	github	15.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Tellus-Cooperative/stellar-paylink/issues/3	Multiple explicitly configured credit assets
+2	github	38.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/utilityjnr1/lumena/issues/17	[DX] Interactive Playground Example App (examples/playground)
+2	github	38.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/utilityjnr1/lumena/issues/3	[Feature] Asset-Specific Spend Limits in PolicyEngine
+2	github	64.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/alinaschanz/lendrates/issues/3	a --history view from the daily file
+1	github	5.8	$999999999999999999999999	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1548	[Bounty] $999999999999999999999999 BOUNTY - URGENT
+1	github	17.0	$50	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1518	[Bounty] [Bounty: $50] slugify() leaves double and trailing hyphens
+1	github	30.5	000 Sat	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1053	[radar] SN open bounty 2026-09-12T00:10
+1	github	33.0	000 Sat	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1052	[radar] SN open bounty 2026-09-11T21:40
+1	github	33.6	$500	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1509	[Bounty] [Bounty $500] ttnn.quantize/requantize uint8 lower-bound saturation
+0	github	16.2	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/1640	[Bounty] 让 workflow 的 shell 步骤能在本地跑起来：scripts/check_workflow_scripts.py
+0	github	19.3	-	OPEN_ISSUE	https://github.com/maaltarifi97-maker/aioa-playground/issues/1	[Bounty: $50] slugify() leaves double and trailing hyphens
+0	github	36.0	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/56290	[Bounty $500] ttnn.quantize/requantize uint8 lower-bound saturation
