@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	0.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1570575	Sunday Survey: What are you doing with the BIP110 coins?
+6	sn/bitcoin	3.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1570377	26.639 reachable Bitcoin nodes 🌐
+5	sn/bitcoin	10.1	$320	OPEN_NEED,LOW_COMP	https://stacker.news/items/1570104	Payment Adoption Weekly Brief 2026/37
+4	sn/bitcoin	5.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1570275	Why Does Losing Your Bitcoin Sound Terrifying Until You Realize What It Means?
+4	sn/bitcoin	21.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1569854	Electrum Release v4.8.2. Another security update: could it be another hack/scam?
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1666	[Bounty][$0][Lessons] 把 intake #1618 + #1619（写成功但数据静默丢失）转成课程
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1665	[Bounty][$0][Lessons] 把 intake #1472 + #1473（Vertex/Gemini 模型 ID 命名）转成课程
+4	github	3.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1097	[radar] SN open bounty 2026-09-13T16:09
+3	github	21.1	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1091	[radar] SN open bounty 2026-09-12T22:12
+3	github	24.1	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1064	[radar] SN open bounty 2026-09-12T19:13
+3	github	26.3	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1063	[radar] SN open bounty 2026-09-12T17:00
+3	github	29.3	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1061	[radar] SN open bounty 2026-09-12T14:01
+2	github	44.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/manankharwar/fusioncore/issues/115	gnss.min_satellites above 4 rejects every NavSatFix fix forever, because the count is synthesised
+2	github	28.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Tellus-Cooperative/stellar-paylink/issues/3	Multiple explicitly configured credit assets
+2	github	51.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/utilityjnr1/lumena/issues/17	[DX] Interactive Playground Example App (examples/playground)
+2	github	51.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/utilityjnr1/lumena/issues/3	[Feature] Asset-Specific Spend Limits in PolicyEngine
+2	github	5.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1661	[Bounty][$0][Ops] 重建 lessons/index.md 并加 --check 门禁（当前 181 条里 25 条悬空、136 条标题不符）
+2	github	7.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1655	[Bounty][$0][Lessons] 把 intake #1643（NPC 外派 + 间接提及 → 说话人/地点错位）转成课程
+2	github	7.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1654	[Bounty][$0][Search] error-signature 索引（#1562）：先方案后实现
+2	github	7.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1652	[Bounty][$0][Lessons] 把 intake #1553（alembic upgrade 失败）转成课程
+2	github	7.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1651	[Bounty][$0][Lessons] 把 intake #1555（nano-gpt.com SSE 流式调用失败）转成课程
+2	github	7.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1650	[Bounty][$0][Lessons] 把 intake #1574（LLM 代替用户发言 / god-moding）转成课程
+1	github	18.5	$999999999999999999999999	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1548	[Bounty] $999999999999999999999999 BOUNTY - URGENT
+0	github	28.8	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/1640	[Bounty] 让 workflow 的 shell 步骤能在本地跑起来：scripts/check_workflow_scripts.py
