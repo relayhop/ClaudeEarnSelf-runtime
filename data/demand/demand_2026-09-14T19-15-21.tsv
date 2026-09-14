@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/tech	5.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1571280	Bluetooth Headphone Audio Lag
+4	github	2.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/lumenflow-protocol/lumenflow-frontend/issues/6	fix: resolve native XLM Stellar Asset Contract address in CreateStreamForm
+3	github	10.4	1 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/sauravs296/PayGate/issues/10	[FEAT] Frontend: Add real-time price conversion (USDC to USD/EUR) on the Playground
+3	github	12.0	1 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/NovaFest-Labs/NovaEvents/issues/93	docs: TierInput's name and supply_cap fields have no doc comments
+2	sn/bitcoin	5.5	-	OPEN_NEED	https://stacker.news/items/1571289	Looking for advice - upcoming Austin, TX trip
+2	sn/bitcoin	5.8	-	OPEN_NEED	https://stacker.news/items/1571269	Would it be better if Bitcoin was "completely confidential"?
+2	sn/bitcoin	15.6	-	OPEN_NEED	https://stacker.news/items/1571012	Do you think we’ve already seen the bottom for BTC?
+2	sn/bitcoin	20.3	-	OPEN_NEED	https://stacker.news/items/1570816	How are you washing your corn?
+2	github	68.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/manankharwar/fusioncore/issues/115	gnss.min_satellites above 4 rejects every NavSatFix fix forever, because the count is synthesised
+2	github	6.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/voxxtrade/voxtrade-app/issues/3	docs(sdk): add comprehensive JSDoc and type annotations to AgentTreasury bindings
+2	github	6.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Michealshodipo56/fundkeep-app/issues/10	feat(app): Add USDC trustline setup prompt for new Freighter users
+2	github	11.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/NovaFest-Labs/NovaEvents/issues/100	chore: add a SECURITY.md
+2	github	52.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Tellus-Cooperative/stellar-paylink/issues/3	Multiple explicitly configured credit assets
+2	github	5.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1115	[radar] SN open bounty 2026-09-14T13:54
+2	github	6.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1113	[radar] SN open bounty 2026-09-14T12:34
+2	github	13.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1105	[radar] SN open bounty 2026-09-14T06:07
+2	github	18.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1103	[radar] SN open bounty 2026-09-14T00:58
+2	github	20.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1672	[Bounty][$0][Lessons] 把 intake #1635（LLM 成本遥测少计：模型归因错 + 重试未记账）转成课程
+2	github	20.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1101	[radar] SN open bounty 2026-09-13T22:21
+2	github	23.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1099	[radar] SN open bounty 2026-09-13T19:22
+2	github	26.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1666	[Bounty][$0][Lessons] 把 intake #1618 + #1619（写成功但数据静默丢失）转成课程
+2	github	26.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1665	[Bounty][$0][Lessons] 把 intake #1472 + #1473（Vertex/Gemini 模型 ID 命名）转成课程
+2	github	29.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1661	[Bounty][$0][Ops] 重建 lessons/index.md 并加 --check 门禁（当前 181 条里 25 条悬空、136 条标题不符）
+2	github	31.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1655	[Bounty][$0][Lessons] 把 intake #1643（NPC 外派 + 间接提及 → 说话人/地点错位）转成课程
+2	github	31.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1654	[Bounty][$0][Search] error-signature 索引（#1562）：先方案后实现
+0	github	20.5	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/1673	[Bounty][$0][Search] 分诊辅助：把 intake 标题规范化为检索 query 并判定覆盖率
+0	github	27.1	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1097	[radar] SN open bounty 2026-09-13T16:09
+0	github	31.3	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/1652	[Bounty][$0][Lessons] 把 intake #1553（alembic upgrade 失败）转成课程
