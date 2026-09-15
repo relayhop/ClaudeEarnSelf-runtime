@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	0.9	50 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/nazasnow/sentinel-bounty-lab/issues/1	Fix: Memory Leak and Expired Timestamps in RateLimiter (Bounty 50 USDC)
+5	github	1.0	4000 SATS	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1120	[radar] SN open bounty 2026-09-15T11:37
+4	sn/tech	23.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1571280	Bluetooth Headphone Audio Lag
+3	github	27.7	1 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/sauravs296/PayGate/issues/10	[FEAT] Frontend: Add real-time price conversion (USDC to USD/EUR) on the Playground
+3	github	29.3	1 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/NovaFest-Labs/NovaEvents/issues/93	docs: TierInput's name and supply_cap fields have no doc comments
+2	sn/bitcoin	15.8	-	OPEN_NEED	https://stacker.news/items/1571693	Is lightning too complicated?
+2	sn/bitcoin	22.9	-	OPEN_NEED	https://stacker.news/items/1571289	Looking for advice - upcoming Austin, TX trip
+2	sn/bitcoin	23.2	-	OPEN_NEED	https://stacker.news/items/1571269	Would it be better if Bitcoin was "completely confidential"?
+2	github	11.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pulsar-agent-org/pulsar-js/issues/10	Troubleshooting guide: trustline, expired nonce, underpayment
+2	github	20.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/lumenflow-protocol/lumenflow-frontend/issues/6	fix: resolve native XLM Stellar Asset Contract address in CreateStreamForm
+2	github	23.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/voxxtrade/voxtrade-app/issues/3	docs(sdk): add comprehensive JSDoc and type annotations to AgentTreasury bindings
+2	github	24.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Michealshodipo56/fundkeep-app/issues/10	feat(app): Add USDC trustline setup prompt for new Freighter users
+2	github	28.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/NovaFest-Labs/NovaEvents/issues/100	chore: add a SECURITY.md
+2	github	69.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Tellus-Cooperative/stellar-paylink/issues/3	Multiple explicitly configured credit assets
+2	github	30.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1105	[radar] SN open bounty 2026-09-14T06:07
+2	github	35.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1103	[radar] SN open bounty 2026-09-14T00:58
+2	github	37.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1672	[Bounty][$0][Lessons] 把 intake #1635（LLM 成本遥测少计：模型归因错 + 重试未记账）转成课程
+2	github	38.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1101	[radar] SN open bounty 2026-09-13T22:21
+2	github	41.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1099	[radar] SN open bounty 2026-09-13T19:22
+2	github	43.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1666	[Bounty][$0][Lessons] 把 intake #1618 + #1619（写成功但数据静默丢失）转成课程
+2	github	43.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1665	[Bounty][$0][Lessons] 把 intake #1472 + #1473（Vertex/Gemini 模型 ID 命名）转成课程
+2	github	48.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/1655	[Bounty][$0][Lessons] 把 intake #1643（NPC 外派 + 间接提及 → 说话人/地点错位）转成课程
+0	github	17.3	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1116	[radar] SN open bounty 2026-09-14T19:16
+0	github	22.7	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1115	[radar] SN open bounty 2026-09-14T13:54
+0	github	24.0	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1113	[radar] SN open bounty 2026-09-14T12:34
+0	github	37.9	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/1673	[Bounty][$0][Search] 分诊辅助：把 intake 标题规范化为检索 query 并判定覆盖率
+0	github	44.5	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1097	[radar] SN open bounty 2026-09-13T16:09
+0	github	47.1	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/1661	[Bounty][$0][Ops] 重建 lessons/index.md 并加 --check 门禁（当前 181 条里 25 条悬空、136 条标题不符）
