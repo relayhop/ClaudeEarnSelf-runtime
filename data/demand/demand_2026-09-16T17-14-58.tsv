@@ -1,0 +1,42 @@
+# score	source	age_h	payout_hint	tags	url	title
+7	sn/bitcoin	0.2	$7.8	OPEN_NEED,LOW_COMP	https://stacker.news/items/1574038	What She Couldn't Freeze: The Money the State Couldn't Reach
+6	sn/bitcoin	3.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1573826	Did You Know This About The CLARITY Act?
+6	sn/tech	3.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1573832	We don't need AI regulation — leave safety to us, Nvidia's Jensen Huang says
+5	sn/bitcoin	5.0	$76	OPEN_NEED,LOW_COMP	https://stacker.news/items/1573687	Warsh vs. The Bond Market: What’s your play for today's Fed meeting?
+5	github	1.7	$100	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1573	[Bounty] Bounty
+4	sn/bitcoin	3.4	-	OPEN_NEED	https://stacker.news/items/1573808	stacker.FAILS - 40% of poll respondants claimed to know fictional people
+4	sn/bitcoin	7.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1573557	What Made You Take Bitcoin Seriously?
+4	sn/bitcoin	4.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1573737	What's the life expectancy of a shitcoin?
+4	sn/bitcoin	6.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1573596	The UFO Capital of America Has a Bitcoin Wallet 🛸 Did Aliens Buy BTC?
+4	sn/bitcoin	14.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1573300	Help doesn't ask where you're from
+4	sn/tech	22.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1572630	My old phone is the best dash cam I own and it uploads the clips when I get home
+4	github	3.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/cyfer-codes/stellarlens/issues/8	Add an `asset` filter to `GET /contracts/:id/transfers`
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/NilaVinti095284/chi/issues/1	🎯 Bug: Middleware from nested route group leaks into sibling routes
+3	github	24.2	$240	OPEN_ISSUE,LOW_COMP	https://github.com/Steller-Flow/stellflow-frontend/issues/56	Landing page shows fabricated metrics ($240M+ processed, 150k invoices, 45 countries) for a prototype that has never sub
+3	github	24.2	00 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Steller-Flow/stellflow-frontend/issues/51	Dashboard overview cards are hardcoded to zero and the empty-state CTA button does nothing
+3	github	56.4	1 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/sauravs296/PayGate/issues/10	[FEAT] Frontend: Add real-time price conversion (USDC to USD/EUR) on the Playground
+3	github	58.0	1 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/NovaFest-Labs/NovaEvents/issues/93	docs: TierInput's name and supply_cap fields have no doc comments
+3	github	0.9	$999999999999999999	OPEN_ISSUE	https://github.com/OmniBlocks/bountyfarmer/issues/15	$999999999999999999 BOUNTY FOR IMPLEMENTING THE UNIVERSE INTO OMNIBLOCKS
+3	github	5.5	99999999 btc	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1570	[Bounty] bitcoin bounty
+3	github	15.9	$9828150	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1562	[Bounty] $9828150 BOUNTY FOR IMPLEMENTING A SASS MODE INTO OMNIBLOCKS
+3	github	15.9	$9740486	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1561	[Bounty] $9740486 BOUNTY FOR IMPLEMENTING A LINUX EMULATOR INTO OMNIBLOCKS
+3	github	15.9	$100	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1560	[Bounty] $100 DOLLAR BOUNTY FOR IMPLEMENTING A HELLO WORLD INTO THIS REPO
+3	github	18.3	$500	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1558	[Bounty] Reverse bounty
+2	sn/bitcoin	21.1	-	OPEN_NEED	https://stacker.news/items/1572805	Is starting another coin the best way to fix Bitcoin?
+2	sn/bitcoin	18.2	-	OPEN_NEED	https://stacker.news/items/1573065	Is it possible to fake your own death?
+2	github	7.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/voxxtrade/voxtrade-app/issues/20	feat(dashboard): implement live currency converter for USDC to local fiat estimates
+2	github	21.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/lumenflow-protocol/lumenflow-backend/issues/5	fix: separate volume analytics by token in global analytics and address stats
+2	github	24.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Steller-Flow/stellflow-frontend/issues/57	Invoice detail: Pay Now shows a success toast without doing anything; XLM amounts are formatted as US dollars
+2	github	25.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Steller-Flow/stellflow-smartcontract/issues/43	Docs refer to "SPL tokens" — that's Solana; use Stellar Asset Contract / Soroban token
+2	github	39.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pulsar-agent-org/pulsar-js/issues/10	Troubleshooting guide: trustline, expired nonce, underpayment
+2	github	48.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/lumenflow-protocol/lumenflow-frontend/issues/6	fix: resolve native XLM Stellar Asset Contract address in CreateStreamForm
+2	github	52.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/voxxtrade/voxtrade-app/issues/3	docs(sdk): add comprehensive JSDoc and type annotations to AgentTreasury bindings
+2	github	52.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/fundkeep-web/fundkeep-app/issues/10	feat(app): Add USDC trustline setup prompt for new Freighter users
+2	github	57.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/NovaFest-Labs/NovaEvents/issues/100	chore: add a SECURITY.md
+2	github	17.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OmniBlocks/bountyfarmer/issues/1	$9828150 BOUNTY FOR IMPLEMENTING A SASS MODE INTO OMNIBLOCKS
+1	github	4.3	$100	OPEN_ISSUE	https://github.com/OmniBlocks/Boxy-gh/issues/143	Bounty
+1	github	10.4	99999999 btc	OPEN_ISSUE	https://github.com/OmniBlocks/bountyfarmer/issues/6	bitcoin bounty
+1	github	16.9	$100	OPEN_ISSUE	https://github.com/OmniBlocks/bountyfarmer/issues/5	$100 DOLLAR BOUNTY FOR IMPLEMENTING A HELLO WORLD INTO THIS REPO
+1	github	17.6	$9740486	OPEN_ISSUE	https://github.com/OmniBlocks/bountyfarmer/issues/4	$9740486 BOUNTY FOR IMPLEMENTING A LINUX EMULATOR INTO OMNIBLOCKS
+1	github	18.3	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1559	[Bounty] $100 BOUNTY FOR IMPLEMENTING A FOREVER IF BLOCK INTO OMNIBLOCKS
+0	github	8.2	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/1753	[Bounty][$0][Setup] 在**你的**机器上跑一遍 npx setup，回报机器可校验的证据（5 个助手 / 三个断言）
