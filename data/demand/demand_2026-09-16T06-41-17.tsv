@@ -1,0 +1,34 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	3.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1573300	Help doesn't ask where you're from
+4	sn/bitcoin	12.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1572577	Testing 4 BitKey Disaster Scenarios: How Did It Hold Up?
+4	sn/tech	11.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1572630	My old phone is the best dash cam I own and it uploads the clips when I get home
+3	sn/bitcoin	12.6	$270	OPEN_NEED	https://stacker.news/items/1572561	Splitting off blake2b coins via locktime
+3	github	13.6	$240	OPEN_ISSUE,LOW_COMP	https://github.com/Steller-Flow/stellflow-frontend/issues/56	Landing page shows fabricated metrics ($240M+ processed, 150k invoices, 45 countries) for a prototype that has never sub
+3	github	13.6	00 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Steller-Flow/stellflow-frontend/issues/51	Dashboard overview cards are hardcoded to zero and the empty-state CTA button does nothing
+3	github	45.8	1 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/sauravs296/PayGate/issues/10	[FEAT] Frontend: Add real-time price conversion (USDC to USD/EUR) on the Playground
+3	github	47.4	1 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/NovaFest-Labs/NovaEvents/issues/93	docs: TierInput's name and supply_cap fields have no doc comments
+3	github	5.4	$9828150	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1562	[Bounty] $9828150 BOUNTY FOR IMPLEMENTING A SASS MODE INTO OMNIBLOCKS
+3	github	5.4	$9740486	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1561	[Bounty] $9740486 BOUNTY FOR IMPLEMENTING A LINUX EMULATOR INTO OMNIBLOCKS
+3	github	5.4	$100	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1560	[Bounty] $100 DOLLAR BOUNTY FOR IMPLEMENTING A HELLO WORLD INTO THIS REPO
+3	github	7.7	$100	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1559	[Bounty] $100 BOUNTY FOR IMPLEMENTING A FOREVER IF BLOCK INTO OMNIBLOCKS
+3	github	7.7	$500	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1558	[Bounty] Reverse bounty
+3	github	13.6	$10000000000000000000000000000000000000000000000000000000000000000000000000000000000	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1556	[Bounty] bounty
+2	sn/bitcoin	10.6	-	OPEN_NEED	https://stacker.news/items/1572805	Is starting another coin the best way to fix Bitcoin?
+2	sn/bitcoin	7.6	-	OPEN_NEED	https://stacker.news/items/1573065	Is it possible to fake your own death?
+2	github	11.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/lumenflow-protocol/lumenflow-backend/issues/5	fix: separate volume analytics by token in global analytics and address stats
+2	github	13.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Steller-Flow/stellflow-frontend/issues/57	Invoice detail: Pay Now shows a success toast without doing anything; XLM amounts are formatted as US dollars
+2	github	15.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Steller-Flow/stellflow-smartcontract/issues/43	Docs refer to "SPL tokens" — that's Solana; use Stellar Asset Contract / Soroban token
+2	github	29.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pulsar-agent-org/pulsar-js/issues/10	Troubleshooting guide: trustline, expired nonce, underpayment
+2	github	38.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/lumenflow-protocol/lumenflow-frontend/issues/6	fix: resolve native XLM Stellar Asset Contract address in CreateStreamForm
+2	github	41.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/voxxtrade/voxtrade-app/issues/3	docs(sdk): add comprehensive JSDoc and type annotations to AgentTreasury bindings
+2	github	42.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Michealshodipo56/fundkeep-app/issues/10	feat(app): Add USDC trustline setup prompt for new Freighter users
+2	github	46.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/NovaFest-Labs/NovaEvents/issues/100	chore: add a SECURITY.md
+2	github	7.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/OmniBlocks/bountyfarmer/issues/1	$9828150 BOUNTY FOR IMPLEMENTING A SASS MODE INTO OMNIBLOCKS
+1	github	6.4	$100	OPEN_ISSUE	https://github.com/OmniBlocks/bountyfarmer/issues/5	$100 DOLLAR BOUNTY FOR IMPLEMENTING A HELLO WORLD INTO THIS REPO
+1	github	7.1	$9740486	OPEN_ISSUE	https://github.com/OmniBlocks/bountyfarmer/issues/4	$9740486 BOUNTY FOR IMPLEMENTING A LINUX EMULATOR INTO OMNIBLOCKS
+1	github	8.5	$500	OPEN_ISSUE	https://github.com/OmniBlocks/monorepo/issues/795	Reverse bounty
+1	github	14.7	$10000000000000000000000000000000000000000000000000000000000000000000000000000000000	OPEN_ISSUE	https://github.com/OmniBlocks/Boxy-gh/issues/140	bounty
+1	github	19.1	4000 SATS	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1120	[radar] SN open bounty 2026-09-15T11:37
+0	github	35.4	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1116	[radar] SN open bounty 2026-09-14T19:16
+0	github	40.8	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1115	[radar] SN open bounty 2026-09-14T13:54
+0	github	42.1	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1113	[radar] SN open bounty 2026-09-14T12:34
