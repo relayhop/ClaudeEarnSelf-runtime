@@ -1,0 +1,35 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	20.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1574314	Latest Strikes #36 & #37 - Augst 31st - September 13th 2026
+4	sn/bitcoin	14.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1574551	Did You Know This About The Clarity Act?
+4	sn/tech	20.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1574328	I turned my old Android phone into a Home Assistant server and it actually works
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/zonelessdev/zoneless/issues/150	Automatically sync wallet balance on dashboard
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/OmniBlocks/Boxy-gh/issues/147	Bounty:give boxy its own bitcoin wallet
+3	github	48.5	$240	OPEN_ISSUE,LOW_COMP	https://github.com/Steller-Flow/stellflow-frontend/issues/56	Landing page shows fabricated metrics ($240M+ processed, 150k invoices, 45 countries) for a prototype that has never sub
+3	github	48.5	00 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Steller-Flow/stellflow-frontend/issues/51	Dashboard overview cards are hardcoded to zero and the empty-state CTA button does nothing
+3	github	7.4	$1	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1584	[Bounty] [BOUNTY: $1,500] BOUNTY FOR IMPLEMENTING A DJANGO HELLO WORLD INTO THIS REPO
+3	github	22.5	$999999999999999999	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1575	[Bounty] $999999999999999999 BOUNTY FOR IMPLEMENTING THE UNIVERSE INTO OMNIBLOCKS
+3	github	26.0	$100	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1573	[Bounty] Bounty
+2	sn/bitcoin	18.1	-	OPEN_NEED	https://stacker.news/items/1574395	What do lightning node operators use to automatically adjust fees & liquidity?
+2	sn/bitcoin	20.8	-	OPEN_NEED	https://stacker.news/items/1574297	Which is the most valuable invention AI, Bitcoin, or Nuclear power?
+2	github	5.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/crowdpass-live/frontend-v2/issues/44	Payout history and beneficiary earnings
+2	github	6.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/AGWAM001/stream-bounty-flow/issues/11	Extend streams to support multiple Soroban-compatible assets in a single call.
+2	github	6.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pick-MANILLA/kimana_blockchain/issues/13	Script: treasury float report
+2	github	7.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pick-MANILLA/kimana_blockchain/issues/4	Add admin rescueToken for non-USDC tokens sent by mistake
+2	github	19.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/fundkeep-web/fundkeep-app/issues/8	feat(app): Add USDC trustline setup prompt for new Freighter users
+2	github	28.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/cyfer-codes/stellarlens/issues/8	Add an `asset` filter to `GET /contracts/:id/transfers`
+2	github	32.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/voxxtrade/voxtrade-app/issues/20	feat(dashboard): implement live currency converter for USDC to local fiat estimates
+2	github	45.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/lumenflow-protocol/lumenflow-backend/issues/5	fix: separate volume analytics by token in global analytics and address stats
+2	github	48.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Steller-Flow/stellflow-frontend/issues/57	Invoice detail: Pay Now shows a success toast without doing anything; XLM amounts are formatted as US dollars
+2	github	50.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Steller-Flow/stellflow-smartcontract/issues/43	Docs refer to "SPL tokens" — that's Solana; use Stellar Asset Contract / Soroban token
+2	github	64.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pulsar-agent-org/pulsar-js/issues/10	Troubleshooting guide: trustline, expired nonce, underpayment
+2	github	8.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/sharmiaalono/go-github/issues/1	🎯 Fix pagination inconsistency when ListOptions.PerPage is zero
+1	github	7.1	$1.05	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/432	Frantic bounty #135: Run an Ausca Agent Inbox end to end and report the process
+1	github	7.1	$1.05	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/431	Frantic bounty #134: Run an Ausca Browser Session end to end and report the process
+1	github	7.1	$2.30	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/430	Frantic bounty #133: Run Ausca Media Transcription end to end and report the process
+1	github	7.1	$1.75	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/429	Frantic bounty #132: Run Ausca Document Analysis end to end and report the process
+1	github	7.1	$1.25	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/428	Frantic bounty #131: Run Ausca Document OCR end to end and report the process
+1	github	25.2	$999999999999999999	OPEN_ISSUE	https://github.com/OmniBlocks/bountyfarmer/issues/15	$999999999999999999 BOUNTY FOR IMPLEMENTING THE UNIVERSE INTO OMNIBLOCKS
+0	github	8.9	-	OPEN_ISSUE	https://github.com/Zimb/zimb/issues/6	Debug bounty from VS Code (Zimb/zimb)
+0	github	12.2	-	OPEN_ISSUE	https://github.com/OmniBlocks/bountyfarmer/issues/18	[BOUNTY: $1,500] BOUNTY FOR IMPLEMENTING A DJANGO HELLO WORLD INTO THIS REPO
+0	github	12.5	-	OPEN_ISSUE	https://github.com/Zimb/zimb/issues/1	test issue
+0	github	27.1	-	OPEN_ISSUE	https://github.com/NilaVinti095284/chi/issues/1	🎯 Bug: Middleware from nested route group leaks into sibling routes
