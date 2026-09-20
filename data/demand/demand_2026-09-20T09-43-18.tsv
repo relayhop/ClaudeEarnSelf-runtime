@@ -1,0 +1,24 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/tech	19.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1576860	Agent Chaperone: Screen AI agent tool calls and results with Jev
+3	github	28.5	1 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Arbiter-xyz/arbiter-app/issues/25	Stake amount input's step="0.01" silently blocks valid 7-decimal-place stake amounts the contract accepts
+3	github	16.1	$10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000	OPEN_ISSUE,LOW_COMP	https://github.com/OmniBlocks/bountyfarmer/issues/46	BIGGEST bounty EVERRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+3	github	44.0	$1	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1596	[Bounty] [Bounty $1,500] SFPLOADMACRO produces wrong results under coverage instrumentati
+3	github	50.0	$239398281948585883	OPEN_ISSUE,LOW_COMP	https://github.com/OmniBlocks/bountyfarmer/issues/31	$239398281948585883* bounty
+2	sn/bitcoin	21.3	-	OPEN_NEED	https://stacker.news/items/1576791	The easiest orangepilling of my life: a waiter, some churros, and one question
+2	github	64.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/zonelessdev/zoneless/issues/150	Automatically sync wallet balance on dashboard
+2	github	69.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/crowdpass-live/frontend-v2/issues/44	Payout history and beneficiary earnings
+2	github	70.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/AGWAM001/stream-bounty-flow/issues/11	Extend streams to support multiple Soroban-compatible assets in a single call.
+2	github	71.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pick-MANILLA/kimana_blockchain/issues/13	Script: treasury float report
+2	github	71.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pick-MANILLA/kimana_blockchain/issues/4	Add admin rescueToken for non-USDC tokens sent by mistake
+2	github	66.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/OmniBlocks/Boxy-gh/issues/147	Bounty:give boxy its own bitcoin wallet
+1	github	35.8	$10000000000000000000000000099987898000000	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1602	[Bounty] EKEODKDE9DKE9DO BOUNTY
+1	github	41.3	$0	OPEN_ISSUE	https://github.com/OmniBlocks/bountyfarmer/issues/36	$∞ BOUNTY
+1	github	48.3	$239398281948585883	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1593	[Bounty] $239398281948585883* bounty
+1	github	59.6	$3000	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1589	[Bounty] [Bounty $3000] Fix distributed LayerNorm/RMSNorm 2D-core-grid row-stride corrupt
+0	github	22.9	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1122	[radar] SN open bounty 2026-09-19T10:50
+0	github	44.3	-	OPEN_ISSUE	https://github.com/OmniBlocks/bountyfarmer/issues/35	CLAIM YOUR REWARD HERE
+0	github	50.6	-	OPEN_ISSUE	https://github.com/OmniBlocks/bountyfarmer/issues/30	Bounty:give boxy its own bitcoin wallet
+0	github	52.5	-	OPEN_ISSUE	https://github.com/sharmiaalono/go-github/issues/5	🎯 Fix pagination inconsistency and parameter handling when `ListOptions.PerPage` is 0
+0	github	57.6	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/16984	Claim: May Flowers Star Pack — Blackcode-cmd
+0	github	62.3	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/56908	[Bounty $3000] Fix distributed LayerNorm/RMSNorm 2D-core-grid row-stride corruption
+0	github	63.0	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/1819	[bounty] 真机对照测量：装了 MisakaNet 的 agent 是否真的更少重复犯错（要原始日志）
