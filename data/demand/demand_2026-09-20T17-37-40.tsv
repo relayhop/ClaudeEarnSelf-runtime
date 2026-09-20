@@ -1,0 +1,19 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	3.2	-	OPEN_NEED	https://stacker.news/items/1577589	Sunday Survey: Do you mine?
+4	github	3.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/ditto-assistant/ditto-subnet/issues/2054	Epic: 5% maintenance treasury and miner bounty operations
+4	github	3.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/ditto-assistant/ditto-subnet/issues/2047	Publish a GitHub-backed SN118 bounty board and contributor guide
+4	github	3.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/ditto-assistant/ditto-subnet/issues/2045	Design hotkey-signed bounty claiming, reservation, and contributor identity
+4	github	3.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/ditto-assistant/ditto-subnet/issues/2044	Specify the 5% SN118 maintenance treasury and governance contract
+3	github	36.4	1 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Arbiter-xyz/arbiter-app/issues/25	Stake amount input's step="0.01" silently blocks valid 7-decimal-place stake amounts the contract accepts
+3	github	24.0	$10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000	OPEN_ISSUE,LOW_COMP	https://github.com/OmniBlocks/bountyfarmer/issues/46	BIGGEST bounty EVERRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+3	github	51.9	$1	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1596	[Bounty] [Bounty $1,500] SFPLOADMACRO produces wrong results under coverage instrumentati
+2	sn/bitcoin	9.7	-	OPEN_NEED	https://stacker.news/items/1577452	Recover Multi sig without a coordinator software???
+2	github	1.7	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1127	[radar] SN open bounty 2026-09-20T15:58
+2	github	3.1	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/1942	[Compat][Gemini CLI] 官方支持远端 MCP（`httpUrl`），写配方并给证据
+2	github	3.1	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/1941	[Compat][Copilot] 三套配置形状（VS Code / Copilot CLI / coding agent）的配方与证据
+2	github	3.1	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/1940	[Compat][Cursor] 写远端 MCP 配方并给出可复跑证据，把 Cursor 从 🔵 升到 ✅
+2	github	3.2	-	OPEN_ISSUE	https://github.com/ditto-assistant/ditto-subnet/issues/2046	Implement bounty acceptance, payout proof, disputes, and public accounting
+2	github	6.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1124	[radar] SN open bounty 2026-09-20T11:15
+1	github	43.7	$10000000000000000000000000099987898000000	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1602	[Bounty] EKEODKDE9DKE9DO BOUNTY
+1	github	49.2	$0	OPEN_ISSUE	https://github.com/OmniBlocks/bountyfarmer/issues/36	$∞ BOUNTY
+0	github	30.8	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1122	[radar] SN open bounty 2026-09-19T10:50
