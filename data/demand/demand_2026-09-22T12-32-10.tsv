@@ -1,0 +1,33 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	1.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1579214	Best boltz alternative with good liquidity?
+5	github	1.1	000 SATS	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1165	[radar] SN open bounty 2026-09-22T11:27
+5	github	1.3	000 SATS	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1162	[radar] SN open bounty 2026-09-22T11:14
+5	github	2.7	000 SATS	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1157	[radar] SN open bounty 2026-09-22T09:51
+3	github	12.3	$0.01	OPEN_ISSUE,LOW_COMP	https://github.com/winsznx/routedock/issues/407	ModeRouter fails open on a malformed budget_per_request and pays the cheapest mode at any price
+3	github	19.6	0000009 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/winsznx/routedock/issues/343	Dashboard 500s when a closed session is under 0.000001 USDC: String(number) yields '5e-7'
+3	github	6.6	000 SATS	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1153	[radar] SN open bounty 2026-09-22T05:56
+3	github	7.8	000 SATS	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1150	[radar] SN open bounty 2026-09-22T04:43
+3	github	11.6	000 SATS	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1148	[radar] SN open bounty 2026-09-22T00:53
+3	github	13.3	000 SATS	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1146	[radar] SN open bounty 2026-09-21T23:12
+2	sn/bitcoin	21.9	-	OPEN_NEED	https://stacker.news/items/1578385	Daniela Brozzoni Turned Down a Google Internship to Work on Bitcoin
+2	github	12.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/winsznx/routedock/issues/405	agent-vault: initialize, set_daily_cap and add_to_allowlist accept negative caps with no validation
+2	github	12.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/winsznx/routedock/issues/402	openSession() skips the trustline preflight that pay() and preflight() run
+2	github	19.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/winsznx/routedock/issues/372	MCP setup docs omit required ROUTEDOCK_DAILY_CAP, so the configured server exits at startup
+2	github	19.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/winsznx/routedock/issues/369	Provider docs mount RouteDock on /price, so /.well-known/routedock.json returns 404
+2	github	19.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/winsznx/routedock/issues/366	nulth-sdk tests run in no CI job, and pnpm verify has drifted from ci.yml
+2	github	19.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/winsznx/routedock/issues/362	Weekly E2E run goes green without paying: skip job exits 0 when AGENT_SECRET is missing
+2	github	19.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/winsznx/routedock/issues/360	NulthClient policy check fails open on negative amounts and NaN or fractional ledgers
+2	github	19.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/winsznx/routedock/issues/359	NulthVault still inlines an unvalidated usdcToStroops that accepts negatives and truncates
+2	github	19.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/winsznx/routedock/issues/341	docs: DEPLOY_CLOUDFLARE.md secret bulk steps fail from repo root, drop stale railway.json files
+2	github	19.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/winsznx/routedock/issues/340	provider-b cron discards ReconciliationStats, so failed channel recoveries are never logged
+2	github	19.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/winsznx/routedock/issues/336	agent-vault: negative lifetime_cap means unlimited, and set_lifetime_cap's ratchet doc is wrong
+2	github	19.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/winsznx/routedock/issues/325	pay() counts free x402 200 responses against the local spend cap (regression of #139)
+2	github	19.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/winsznx/routedock/issues/318	React docs load the agent's Stellar secret from NEXT_PUBLIC_AGENT_SECRET, shipping it to browsers
+2	github	41.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1128	[radar] SN open bounty 2026-09-20T18:42
+0	github	30.3	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1135	[radar] SN open bounty 2026-09-21T06:11
+0	github	30.8	-	OPEN_ISSUE	https://github.com/Eaprime1/custos/issues/325	XDA concept entity — multi-stream with sub-streams
+0	github	36.4	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1130	[radar] SN open bounty 2026-09-21T00:09
+0	github	39.1	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1129	[radar] SN open bounty 2026-09-20T21:28
+0	github	41.7	-	OPEN_ISSUE	https://github.com/Mantitup-Org/vista/issues/62	Bug: vista deploy still breaks static hosts and platform adapters
+0	github	41.7	-	OPEN_ISSUE	https://github.com/Mantitup-Org/vista/issues/61	Bounty: hunt bugs across the entire Vista framework
+0	github	44.6	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1127	[radar] SN open bounty 2026-09-20T15:58
