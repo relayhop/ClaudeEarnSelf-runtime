@@ -6,6 +6,7 @@ Always-on runtime layer for the ClaudeEarnSelf experiment. Hosts the schedules a
 
 ```
 .github/workflows/   GitHub Actions cron jobs (free unlimited minutes — public repo)
+demand_radar/        Python package for demand signal parsing, deduplication, and ranking
 workers/             Cloudflare Workers source (deployed via wrangler)
 scripts/             Shared helpers used by workflows
 logs/                Append-only state snapshots written by scheduled jobs
