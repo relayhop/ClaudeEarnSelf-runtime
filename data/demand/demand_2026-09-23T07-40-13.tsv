@@ -1,0 +1,36 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	0.1	10 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-MicroPay/issues/1111	docs: document Turrets DCA and stop-loss configuration with example JSON
+5	github	1.8	000 SATS	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1184	[radar] SN open bounty 2026-09-23T05:52
+5	github	2.4	000 SATS	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1183	[radar] SN open bounty 2026-09-23T05:13
+4	sn/bitcoin	13.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1579514	Six banks want AI agents to identify themselves when paying
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-MicroPay/issues/1042	feat: add color-coded asset badges throughout TransactionList
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Galaxy-KJ/Galaxy-DevKit/issues/443	[REFACTOR] Move example and demo scripts out of `src/` so they aren't compiled into published packages
+3	sn/bitcoin	8.7	$20	OPEN_NEED	https://stacker.news/items/1579809	Bitcoin Merchant Options Comparison: BTCPay vs Bitcart vs BareBits
+3	github	31.4	$0.01	OPEN_ISSUE,LOW_COMP	https://github.com/winsznx/routedock/issues/407	ModeRouter fails open on a malformed budget_per_request and pays the cheapest mode at any price
+3	github	38.8	0000009 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/winsznx/routedock/issues/343	Dashboard 500s when a closed session is under 0.000001 USDC: String(number) yields '5e-7'
+3	github	7.1	000 SATS	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1181	[radar] SN open bounty 2026-09-23T00:35
+3	github	7.3	000 SATS	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1179	[radar] SN open bounty 2026-09-23T00:22
+3	github	9.5	000 SATS	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1178	[radar] SN open bounty 2026-09-22T22:11
+3	github	9.7	000 SATS	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1177	[radar] SN open bounty 2026-09-22T21:59
+3	github	12.6	000 SATS	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1175	[radar] SN open bounty 2026-09-22T19:03
+3	github	12.9	000 SATS	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1174	[radar] SN open bounty 2026-09-22T18:47
+3	github	16.1	000 SATS	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1172	[radar] SN open bounty 2026-09-22T15:31
+3	github	17.0	000 SATS	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1169	[radar] SN open bounty 2026-09-22T14:43
+3	github	20.2	000 SATS	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1165	[radar] SN open bounty 2026-09-22T11:27
+3	github	20.4	000 SATS	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1162	[radar] SN open bounty 2026-09-22T11:14
+3	github	21.8	000 SATS	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1157	[radar] SN open bounty 2026-09-22T09:51
+3	github	25.7	000 SATS	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1153	[radar] SN open bounty 2026-09-22T05:56
+3	github	26.9	000 SATS	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1150	[radar] SN open bounty 2026-09-22T04:43
+2	sn/bitcoin	16.7	-	OPEN_NEED	https://stacker.news/items/1579358	Swing and a miss: Paying with Bitcoin on a Square Terminal
+2	sn/bitcoin	13.9	-	OPEN_NEED	https://stacker.news/items/1579511	Default threshold for re-org risk
+2	sn/bitcoin	20.6	-	OPEN_NEED	https://stacker.news/items/1579214	Best boltz alternative with good liquidity?
+2	github	15.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Nodal-stellar/Nodal-AI/issues/580	`OfferBookTool.resolveAsset()` silently assumes the agent's own asset issuer for ambiguous input
+2	github	31.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/winsznx/routedock/issues/405	agent-vault: initialize, set_daily_cap and add_to_allowlist accept negative caps with no validation
+2	github	31.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/winsznx/routedock/issues/402	openSession() skips the trustline preflight that pay() and preflight() run
+2	github	38.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/winsznx/routedock/issues/372	MCP setup docs omit required ROUTEDOCK_DAILY_CAP, so the configured server exits at startup
+2	github	38.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/winsznx/routedock/issues/369	Provider docs mount RouteDock on /price, so /.well-known/routedock.json returns 404
+2	github	38.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/winsznx/routedock/issues/366	nulth-sdk tests run in no CI job, and pnpm verify has drifted from ci.yml
+2	github	38.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/winsznx/routedock/issues/362	Weekly E2E run goes green without paying: skip job exits 0 when AGENT_SECRET is missing
+2	github	38.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/winsznx/routedock/issues/360	NulthClient policy check fails open on negative amounts and NaN or fractional ledgers
+2	github	38.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/winsznx/routedock/issues/359	NulthVault still inlines an unvalidated usdcToStroops that accepts negatives and truncates
+2	github	38.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/winsznx/routedock/issues/341	docs: DEPLOY_CLOUDFLARE.md secret bulk steps fail from repo root, drop stale railway.json files
