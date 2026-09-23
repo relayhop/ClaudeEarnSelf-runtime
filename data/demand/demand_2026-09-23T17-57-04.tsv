@@ -1,0 +1,34 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	2.3	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Frontend-/issues/715	bug: dashboard volume chart adds XLM and USDC amounts together
+4	sn/bitcoin	13.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1579966	Will there be a block announcement from Orbit?
+4	sn/bitcoin	8.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1580088	Are Investors Choosing Bitcoin Over Altcoins Again?
+4	github	1.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Abakos-ABA/abakos/issues/5	Discord bot: unit test for chunked eth_getLogs scanning
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Frontend-/issues/687	bug: USDC amounts are truncated to 2 decimals on the bridge form
+4	github	3.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/760	feature(pool): add SEP-41 mint/burn/transfer events alongside existing lp_deposited/lp_withdrawn
+4	github	3.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/827	feat(cli): add check-pool-balance command
+4	github	3.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/SendaLabs/Senda.App/issues/3	docs: Redactar documentación técnica y de arquitectura para los flujos de On-Ramp, Off-Ramp y Rendimientos
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/826	Add scoped pause controls so one feature can be halted without freezing all payments
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/825	Recommend transaction fees from Horizon fee statistics instead of a static value
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/824	Look up asset metadata so custom assets display their ticker and issuer name
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/823	Add Postgres full-text search for payments and audit entries
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/821	Add a SEP-24 style anchor deposit and withdrawal flow for fiat on-ramp
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/820	Expose RPC failover state as a health and metrics signal
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/819	Use Horizon streaming for payment status instead of polling reconciliation
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/817	Add an automation-platform integration guide with generated payload examples
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/816	Ship Slack and Discord notification templates for payment events
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/815	Add OpenTelemetry tracing so a payment can be followed across contract, API and database
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/814	Harden the price feed with caching, rate-limit handling and a staleness policy
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/812	Add SEP-7 URI handoff so mobile wallets can complete a payment
+3	sn/bitcoin	19.0	$20	OPEN_NEED	https://stacker.news/items/1579809	Bitcoin Merchant Options Comparison: BTCPay vs Bitcart vs BareBits
+3	github	10.4	10 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-MicroPay/issues/1111	docs: document Turrets DCA and stop-loss configuration with example JSON
+3	github	41.7	$0.01	OPEN_ISSUE,LOW_COMP	https://github.com/winsznx/routedock/issues/407	ModeRouter fails open on a malformed budget_per_request and pays the cheapest mode at any price
+2	github	1.9	-	OPEN_ISSUE	https://github.com/Sazwanismail/codespaces-react/pull/36	Update print statement from 'Hello' to 'Goodbye'
+2	github	4.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarEdu/StellarEduPay/issues/1589	Reminder emails show bare numbers for amounts — no asset code, currency, or fiat equivalent
+2	github	10.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Emmy123222/Stellar-MicroPay/issues/1042	feat: add color-coded asset badges throughout TransactionList
+2	github	10.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Galaxy-KJ/Galaxy-DevKit/issues/443	[REFACTOR] Move example and demo scripts out of `src/` so they aren't compiled into published packages
+2	github	25.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Nodal-stellar/Nodal-AI/issues/580	`OfferBookTool.resolveAsset()` silently assumes the agent's own asset issuer for ambiguous input
+2	github	41.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/winsznx/routedock/issues/405	agent-vault: initialize, set_daily_cap and add_to_allowlist accept negative caps with no validation
+2	github	0.8	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/822	Publish a CLI or GitHub Action so CI pipelines can create payments
+2	github	0.8	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/818	Add a Go reference verifier for webhook signatures
+2	github	0.8	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/813	Publish a SEP-1 stellar.toml so wallets can discover the deployment
+0	github	41.7	-	OPEN_ISSUE	https://github.com/winsznx/routedock/issues/402	openSession() skips the trustline preflight that pay() and preflight() run
