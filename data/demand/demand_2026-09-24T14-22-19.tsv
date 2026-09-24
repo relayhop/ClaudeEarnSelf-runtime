@@ -1,0 +1,34 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	16.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1580564	A Review of SHRINCs - Project Eleven
+4	sn/bitcoin	20.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1580451	A Small Update on My First Lightning Channel Goal
+4	github	0.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Facil-Pay/facilpay-sdk/issues/19	Settlements, rates, currencies and merchant fee resources
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Facil-Pay/facilpay-frontend/issues/16	Generate SEP-7 Payment QR Codes
+2	sn/bitcoin	18.1	-	OPEN_NEED	https://stacker.news/items/1580515	SignerOS 1.3.0: Turn a regular PC into an offline Bitcoin signing device
+2	github	4.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Disburs/disburs/issues/40	Metadata title and README are out of date with the current landing
+2	github	4.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Disburs/disburs/issues/33	Remove unused image assets from public/
+2	github	6.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/sonoflawal-1/Stellar-agent/issues/594	[Feature] Add unit test suite for validateManifest in agents/registry/server.ts
+2	github	6.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/sonoflawal-1/Stellar-agent/issues/589	[Feature] Add price range query filters to registry /agents endpoint
+2	github	6.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/sonoflawal-1/Stellar-agent/issues/533	[Feature] Implement parseAmount reverse helper in sdk/src/format.ts
+2	github	14.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Octo-Protocol-org/Octo-frontend/issues/312	Wallet overview stat cards show duplicate and placeholder values
+2	github	16.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Agora-Events/agora/issues/1440	[CONTRACT] Emit an event when pro_subscription payment token is updated
+2	github	16.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Agora-Events/agora/issues/1423	[MOBILE] Add accessibility labels to the auth screen
+2	github	16.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Agora-Events/agora/issues/1422	[MOBILE] Add accessibility labels to the staking screen
+2	github	16.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Agora-Events/agora/issues/1421	[MOBILE] Add accessibility labels to the QR scanner screen
+2	github	16.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Agora-Events/agora/issues/1420	[MOBILE] Add accessibility labels to the ticket details screen
+2	github	13.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1231	[BOUNTY] Suggestion #1231
+2	github	21.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/821	Add a SEP-24 style anchor deposit and withdrawal flow for fiat on-ramp
+2	github	21.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/820	Expose RPC failover state as a health and metrics signal
+2	github	21.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/816	Ship Slack and Discord notification templates for payment events
+2	github	21.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/815	Add OpenTelemetry tracing so a payment can be followed across contract, API and database
+2	github	21.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/814	Harden the price feed with caching, rate-limit handling and a staleness policy
+0	github	6.1	-	OPEN_ISSUE	https://github.com/sonoflawal-1/Stellar-agent/issues/622	[Docs] Create FAQ section covering common testnet errors in docs/LOCAL_DEVELOPMENT.md
+0	github	6.1	-	OPEN_ISSUE	https://github.com/sonoflawal-1/Stellar-agent/issues/620	[Docs] Create interactive beginner quickstart guide docs/TUTORIAL.md
+0	github	21.2	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/826	Add scoped pause controls so one feature can be halted without freezing all payments
+0	github	21.2	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/825	Recommend transaction fees from Horizon fee statistics instead of a static value
+0	github	21.3	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/824	Look up asset metadata so custom assets display their ticker and issuer name
+0	github	21.3	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/823	Add Postgres full-text search for payments and audit entries
+0	github	21.3	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/822	Publish a CLI or GitHub Action so CI pipelines can create payments
+0	github	21.3	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/819	Use Horizon streaming for payment status instead of polling reconciliation
+0	github	21.3	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/818	Add a Go reference verifier for webhook signatures
+0	github	21.3	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/817	Add an automation-platform integration guide with generated payload examples
+0	github	21.3	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/813	Publish a SEP-1 stellar.toml so wallets can discover the deployment
