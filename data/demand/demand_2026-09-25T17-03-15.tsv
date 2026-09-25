@@ -1,0 +1,32 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	10.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1581505	Is there a place for stables on BTC?
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/EF-CHAIN/SendAm/issues/557	Add asset balance breakdown chart visualization in apps/admin/src/pages/Dashboard.jsx
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/EF-CHAIN/SendAm/issues/537	Document frontend asset display precision and SEP-38 / SEP-24 anchor flows in docs/STELLAR.md
+3	github	2.0	$0.002031	OPEN_ISSUE	https://github.com/Grainlify/grainlify-bounty-agent/issues/1	Record the real network fee in the ledger, not only the capped estimate
+3	github	4.1	1 USD	OPEN_ISSUE,LOW_COMP	https://github.com/EF-CHAIN/SendAm/issues/508	Add live rate ticker badge and smooth scroll anchor behavior in Hero.jsx
+3	github	2.0	$0.002031	OPEN_ISSUE	https://github.com/Grainlify/grainlify-bounty-agent/issues/1	Record the real network fee in the ledger, not only the capped estimate
+2	github	2.0	-	OPEN_ISSUE	https://github.com/Grainlify/grainlify-bounty-agent/issues/2	Expose inference cost metrics on the public ledger endpoint
+2	github	24.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/ezedike-evan/corridor-in-a-box/issues/297	reference-corridor CI fails nightly with op_underfunded: top up the signer before the run
+2	github	24.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/ezedike-evan/corridor-in-a-box/issues/231	Expose SEP-31 receive assets as structured data on ProbeResult
+2	github	25.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/determined-001/Quay/issues/278	8.13 - Refuse to boot with DEFAULT_SELLER_SECRET on the public network
+2	github	27.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Facil-Pay/facilpay-sdk/issues/19	Settlements, rates, currencies and merchant fee resources
+2	github	27.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Facil-Pay/facilpay-frontend/issues/16	Generate SEP-7 Payment QR Codes
+2	github	31.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Disburs/disburs/issues/40	Metadata title and README are out of date with the current landing
+2	github	31.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Disburs/disburs/issues/33	Remove unused image assets from public/
+2	github	2.0	-	OPEN_ISSUE	https://github.com/Grainlify/grainlify-bounty-agent/issues/3	Generate a human-readable x402 error reference from the recorded fixture
+2	github	2.0	-	OPEN_ISSUE	https://github.com/Grainlify/grainlify-bounty-agent/issues/2	Expose inference cost metrics on the public ledger endpoint
+1	github	15.7	750 USDC	OPEN_ISSUE	https://github.com/Neurowealth/NeuroWealth-Frontend/issues/940	Fix rebalance transactions being displayed with a misleading "+" prefix
+1	github	20.6	$1000	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1647	[Bounty] $1000 DOOLAR BOUNTY IF YOU CAN ADD STATUS METER TO README!!!!1111
+0	github	24.4	-	OPEN_ISSUE	https://github.com/ezedike-evan/corridor-in-a-box/issues/114	README live-anchor section: fix nightly and "settle verified against mocks only" claims
+0	github	32.7	-	OPEN_ISSUE	https://github.com/sonoflawal-1/Stellar-agent/issues/622	[Docs] Create FAQ section covering common testnet errors in docs/LOCAL_DEVELOPMENT.md
+0	github	22.8	-	OPEN_ISSUE	https://github.com/OmniBlocks/bountyfarmer/issues/56	$1000 DOOLAR BOUNTY IF YOU CAN ADD STATUS METER TO README!!!!1111
+0	github	40.2	-	OPEN_ISSUE	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1231	[BOUNTY] Suggestion #1231
+0	github	47.9	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/826	Add scoped pause controls so one feature can be halted without freezing all payments
+0	github	47.9	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/825	Recommend transaction fees from Horizon fee statistics instead of a static value
+0	github	47.9	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/824	Look up asset metadata so custom assets display their ticker and issuer name
+0	github	47.9	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/823	Add Postgres full-text search for payments and audit entries
+0	github	47.9	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/822	Publish a CLI or GitHub Action so CI pipelines can create payments
+0	github	47.9	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/821	Add a SEP-24 style anchor deposit and withdrawal flow for fiat on-ramp
+0	github	47.9	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/820	Expose RPC failover state as a health and metrics signal
+0	github	47.9	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/819	Use Horizon streaming for payment status instead of polling reconciliation
+0	github	47.9	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/818	Add a Go reference verifier for webhook signatures
