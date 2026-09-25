@@ -1,0 +1,31 @@
+# score	source	age_h	payout_hint	tags	url	title
+3	github	9.6	$1000	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1647	[Bounty] $1000 DOOLAR BOUNTY IF YOU CAN ADD STATUS METER TO README!!!!1111
+2	github	13.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/ezedike-evan/corridor-in-a-box/issues/297	reference-corridor CI fails nightly with op_underfunded: top up the signer before the run
+2	github	13.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/ezedike-evan/corridor-in-a-box/issues/231	Expose SEP-31 receive assets as structured data on ProbeResult
+2	github	14.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/determined-001/Quay/issues/278	8.13 - Refuse to boot with DEFAULT_SELLER_SECRET on the public network
+2	github	16.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Facil-Pay/facilpay-sdk/issues/19	Settlements, rates, currencies and merchant fee resources
+2	github	16.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Facil-Pay/facilpay-frontend/issues/16	Generate SEP-7 Payment QR Codes
+2	github	20.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Disburs/disburs/issues/40	Metadata title and README are out of date with the current landing
+2	github	20.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Disburs/disburs/issues/33	Remove unused image assets from public/
+2	github	21.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/sonoflawal-1/Stellar-agent/issues/533	[Feature] Implement parseAmount reverse helper in sdk/src/format.ts
+2	github	29.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Octo-Protocol-org/Octo-frontend/issues/312	Wallet overview stat cards show duplicate and placeholder values
+2	github	29.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1231	[BOUNTY] Suggestion #1231
+2	github	37.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/820	Expose RPC failover state as a health and metrics signal
+2	github	37.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/815	Add OpenTelemetry tracing so a payment can be followed across contract, API and database
+1	github	4.7	750 USDC	OPEN_ISSUE	https://github.com/Neurowealth/NeuroWealth-Frontend/issues/940	Fix rebalance transactions being displayed with a misleading "+" prefix
+0	github	13.4	-	OPEN_ISSUE	https://github.com/ezedike-evan/corridor-in-a-box/issues/114	README live-anchor section: fix nightly and "settle verified against mocks only" claims
+0	github	21.8	-	OPEN_ISSUE	https://github.com/sonoflawal-1/Stellar-agent/issues/622	[Docs] Create FAQ section covering common testnet errors in docs/LOCAL_DEVELOPMENT.md
+0	github	21.8	-	OPEN_ISSUE	https://github.com/sonoflawal-1/Stellar-agent/issues/620	[Docs] Create interactive beginner quickstart guide docs/TUTORIAL.md
+0	github	21.8	-	OPEN_ISSUE	https://github.com/sonoflawal-1/Stellar-agent/issues/594	[Feature] Add unit test suite for validateManifest in agents/registry/server.ts
+0	github	21.8	-	OPEN_ISSUE	https://github.com/sonoflawal-1/Stellar-agent/issues/589	[Feature] Add price range query filters to registry /agents endpoint
+0	github	11.8	-	OPEN_ISSUE	https://github.com/OmniBlocks/bountyfarmer/issues/56	$1000 DOOLAR BOUNTY IF YOU CAN ADD STATUS METER TO README!!!!1111
+0	github	37.0	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/826	Add scoped pause controls so one feature can be halted without freezing all payments
+0	github	37.0	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/825	Recommend transaction fees from Horizon fee statistics instead of a static value
+0	github	37.0	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/824	Look up asset metadata so custom assets display their ticker and issuer name
+0	github	37.0	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/823	Add Postgres full-text search for payments and audit entries
+0	github	37.0	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/822	Publish a CLI or GitHub Action so CI pipelines can create payments
+0	github	37.0	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/821	Add a SEP-24 style anchor deposit and withdrawal flow for fiat on-ramp
+0	github	37.0	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/819	Use Horizon streaming for payment status instead of polling reconciliation
+0	github	37.0	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/818	Add a Go reference verifier for webhook signatures
+0	github	37.0	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/817	Add an automation-platform integration guide with generated payload examples
+0	github	37.0	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/816	Ship Slack and Discord notification templates for payment events
