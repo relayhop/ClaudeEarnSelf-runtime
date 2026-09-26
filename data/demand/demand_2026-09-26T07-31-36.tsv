@@ -1,0 +1,34 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	3.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1582210	Bitcoin's Bull Case: 1 Billion Daily Users By 2051
+4	sn/bitcoin	6.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1582137	Shhark: A Self-Hosted Ark Wallet, Tor only, P2P Payjoin, and Hybrid PQ Messaging
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/2283	[Bounty] Answer 2 linked question(s) as a lesson
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/2282	[Bounty] Answer 2 linked question(s) as a lesson
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/2281	[Bounty] Answer 2 linked question(s) as a lesson
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/2280	[Bounty] Answer 3 linked question(s) as a lesson
+3	github	18.6	1 USD	OPEN_ISSUE,LOW_COMP	https://github.com/EF-CHAIN/SendAm/issues/508	Add live rate ticker badge and smooth scroll anchor behavior in Hero.jsx
+3	github	6.1	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1195	[radar] SN open bounty 2026-09-26T01:27
+3	github	14.1	$0.002031	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1660	[Bounty] Record the real network fee in the ledger, not only the capped estimate
+2	sn/bitcoin	14.3	-	OPEN_NEED	https://stacker.news/items/1581854	Where to get inbound channel ?
+2	github	11.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MetroLogic/fluxapay_contract/issues/819	bug: proptests.rs proptest for payment amount uses i128::MAX as upper bound causing i128 overflow in fee calc
+2	github	11.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MetroLogic/fluxapay_contract/issues/788	security: stream.top_up_deposit allows any address to increase another user's stream deposit without consent
+2	github	11.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/utilityjnr1/lumena/issues/165	[Feature] Add parseAsset and formatAsset utility helpers to @lumen/core
+2	github	12.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Heliobond/contracts/issues/632	docs: publish per-network contract addresses and a machine-readable deployment manifest
+2	github	18.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/EF-CHAIN/SendAm/issues/557	Add asset balance breakdown chart visualization in apps/admin/src/pages/Dashboard.jsx
+2	github	18.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/EF-CHAIN/SendAm/issues/537	Document frontend asset display precision and SEP-38 / SEP-24 anchor flows in docs/STELLAR.md
+2	github	38.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/ezedike-evan/corridor-in-a-box/issues/297	reference-corridor CI fails nightly with op_underfunded: top up the signer before the run
+2	github	38.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/ezedike-evan/corridor-in-a-box/issues/231	Expose SEP-31 receive assets as structured data on ProbeResult
+2	github	39.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/determined-001/Quay/issues/278	8.13 - Refuse to boot with DEFAULT_SELLER_SECRET on the public network
+2	github	41.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Facil-Pay/facilpay-sdk/issues/19	Settlements, rates, currencies and merchant fee resources
+1	github	16.5	$0.002031	OPEN_ISSUE	https://github.com/Grainlify/grainlify-bounty-agent/issues/1	Record the real network fee in the ledger, not only the capped estimate
+1	github	30.2	750 USDC	OPEN_ISSUE	https://github.com/Neurowealth/NeuroWealth-Frontend/issues/940	Fix rebalance transactions being displayed with a misleading "+" prefix
+1	github	16.5	$0.002031	OPEN_ISSUE	https://github.com/Grainlify/grainlify-bounty-agent/issues/1	Record the real network fee in the ledger, not only the capped estimate
+1	github	35.1	$1000	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1647	[Bounty] $1000 DOOLAR BOUNTY IF YOU CAN ADD STATUS METER TO README!!!!1111
+0	github	16.5	-	OPEN_ISSUE	https://github.com/Grainlify/grainlify-bounty-agent/issues/2	Expose inference cost metrics on the public ledger endpoint
+0	github	38.9	-	OPEN_ISSUE	https://github.com/ezedike-evan/corridor-in-a-box/issues/114	README live-anchor section: fix nightly and "settle verified against mocks only" claims
+0	github	16.5	-	OPEN_ISSUE	https://github.com/Grainlify/grainlify-bounty-agent/issues/3	Generate a human-readable x402 error reference from the recorded fixture
+0	github	16.5	-	OPEN_ISSUE	https://github.com/Grainlify/grainlify-bounty-agent/issues/2	Expose inference cost metrics on the public ledger endpoint
+0	github	37.3	-	OPEN_ISSUE	https://github.com/OmniBlocks/bountyfarmer/issues/56	$1000 DOOLAR BOUNTY IF YOU CAN ADD STATUS METER TO README!!!!1111
+0	github	54.7	-	OPEN_ISSUE	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1231	[BOUNTY] Suggestion #1231
+0	github	62.4	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/825	Recommend transaction fees from Horizon fee statistics instead of a static value
+0	github	62.4	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/824	Look up asset metadata so custom assets display their ticker and issuer name
+0	github	62.4	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/823	Add Postgres full-text search for payments and audit entries
