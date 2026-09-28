@@ -1,0 +1,34 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	9.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1583147	Sunday Survey: Do you put any stock in price models?
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1253	[BOUNTY] Suggestion #1244
+3	github	27.9	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1206	[radar] SN open bounty 2026-09-27T01:20
+3	github	30.5	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1205	[radar] SN open bounty 2026-09-26T22:41
+3	github	33.4	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1204	[radar] SN open bounty 2026-09-26T19:47
+3	github	36.1	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1203	[radar] SN open bounty 2026-09-26T17:05
+3	github	40.2	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1200	[radar] SN open bounty 2026-09-26T12:59
+3	github	45.7	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1196	[radar] SN open bounty 2026-09-26T07:33
+2	github	54.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/btclib-org/btclib/issues/2292	`valid_btc_amount` lets `decimal.FloatOperation` escape for a float `dust`
+2	github	54.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/btclib-org/btclib/issues/2291	`valid_sats_amount` refuses `"10"` though its comment admits strings
+2	github	4.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/OpenLedger-Foundation/Kora-Frontend/issues/885	Type safety: ChartTooltip props typed as any
+2	github	14.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Kitewell-lab/Kitewell/issues/124	frontend: test resolvePaymentAsset trims and uppercases
+2	github	41.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/muthu2201/Vapor-chain/issues/1	web: show an app's bond, base quota and pending unbondings on the app page
+2	github	44.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/sonoflawal-1/Stellar-agent/issues/668	docs: write 30-minute beginner tutorial from zero to AI agent marketplace on Stellar
+2	github	57.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/utilityjnr1/lumena/issues/165	[Feature] Add parseAsset and formatAsset utility helpers to @lumen/core
+2	github	4.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1211	[radar] SN open bounty 2026-09-28T00:35
+2	github	7.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1210	[radar] SN open bounty 2026-09-27T22:01
+2	github	9.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1251	[BOUNTY] Suggestion #1241
+2	github	10.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1209	[radar] SN open bounty 2026-09-27T18:17
+2	github	15.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1208	[radar] SN open bounty 2026-09-27T13:52
+2	github	16.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/2345	[Test] Round 3 — version/documentation drift hunt: report what the gates cannot see (intake or fix, both earn credit)
+2	github	17.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1207	[radar] SN open bounty 2026-09-27T11:55
+2	github	41.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1199	[radar] SN open bounty 2026-09-26T11:16
+1	github	19.6	10 USDC	OPEN_ISSUE	https://github.com/CemAyyildiz/Quittance/issues/692	Lock the full USDC trustline sentence
+0	github	14.5	-	OPEN_ISSUE	https://github.com/Kitewell-lab/Kitewell/issues/99	frontend: test Horizon history keeps a credit asset code
+0	github	14.5	-	OPEN_ISSUE	https://github.com/Kitewell-lab/Kitewell/issues/87	frontend: test parsePathAssets rejects a bad issuer
+0	github	14.5	-	OPEN_ISSUE	https://github.com/Kitewell-lab/Kitewell/issues/81	frontend: test buildAsset trims and uppercases the code
+0	github	20.7	-	OPEN_ISSUE	https://github.com/CemAyyildiz/Quittance/issues/651	ASSETS: name the testnet USDC issuer the app already uses
+0	github	20.7	-	OPEN_ISSUE	https://github.com/CemAyyildiz/Quittance/issues/645	AssetLogo tests: lock the full logo alt text
+0	github	34.6	-	OPEN_ISSUE	https://github.com/mergepay/mergepay-web/issues/493	Add unit test coverage for shared utility functions and currency formatting helpers
+0	github	56.8	-	OPEN_ISSUE	https://github.com/MetroLogic/fluxapay_contract/issues/819	bug: proptests.rs proptest for payment amount uses i128::MAX as upper bound causing i128 overflow in fee calc
+0	github	56.9	-	OPEN_ISSUE	https://github.com/MetroLogic/fluxapay_contract/issues/788	security: stream.top_up_deposit allows any address to increase another user's stream deposit without consent
+0	github	58.6	-	OPEN_ISSUE	https://github.com/Heliobond/contracts/issues/632	docs: publish per-network contract addresses and a machine-readable deployment manifest
