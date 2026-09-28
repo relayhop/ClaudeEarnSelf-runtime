@@ -1,0 +1,33 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	9.6	215 sats	OPEN_NEED,LOW_COMP	https://stacker.news/items/1583584	What The Heck Are Wumbo Channels?
+4	sn/tech	9.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1583606	The FPGA Chronicles: Exploring The Tang Nano 20K
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1218	[radar] SN open bounty 2026-09-28T21:51
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/UniversalAviator420/bounty-sandbox/issues/3	Bug: greet() crashes with AttributeError when name is None
+4	github	2.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/tenstorrent/tt-metal/issues/58229	[Bounty $3k] Fix u32-to-fp32 double rounding in typecast
+4	github	2.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/tenstorrent/tt-metal/issues/58228	[Bounty $1.5k] Improve div_no_nan accuracy to 1 ULP
+3	github	15.1	000 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/905	docs(protocol): liquidity-pool.md worked example has impossible arithmetic (1,000 USDC deposit funds a 4,900 USDC invoic
+2	github	5.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/871	security(pool): treasury address is not validated, so a fee sent to the pool itself is silently retained
+2	github	5.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/867	enhancement(escrow): initialize emits no event, unlike every other contract
+2	github	5.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/973	docs(repo): mainnet-setup.md gives a 55-character USDC issuer, which is not a valid Stellar public key, in seven places
+2	github	5.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/969	chore(indexer): STELLAR_NETWORK, HORIZON_URL, USDC_ISSUER and USDC_ASSET_CODE are required at boot but never read, and A
+2	github	13.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Zephyr-ramp/zephyr-backend/issues/4	chore: add npm run doctor to check .env before starting
+2	github	14.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/mericcintosun/alvinmunk/issues/153	29 Soroban test snapshots are still tracked despite `.gitignore`, one for a deleted test
+2	github	14.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/mericcintosun/alvinmunk/issues/152	`frozen_account_cannot_tip` passes even with the freeze check deleted
+2	github	14.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/mericcintosun/alvinmunk/issues/132	`remove_attester` is never tested; nothing proves a removed attester loses `award_xp`
+2	github	2.5	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/58227	[Bounty $1.5k] Improve BF16 reciprocal rounding on Wormhole
+2	github	8.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1217	[radar] SN open bounty 2026-09-28T15:19
+2	github	10.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1216	[radar] SN open bounty 2026-09-28T13:43
+2	github	17.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1212	[radar] SN open bounty 2026-09-28T06:42
+2	github	18.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1253	[BOUNTY] Suggestion #1244
+2	github	23.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1211	[radar] SN open bounty 2026-09-28T00:35
+2	github	25.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1210	[radar] SN open bounty 2026-09-27T22:01
+2	github	27.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1251	[BOUNTY] Suggestion #1241
+2	github	29.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1209	[radar] SN open bounty 2026-09-27T18:17
+2	github	34.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1208	[radar] SN open bounty 2026-09-27T13:52
+2	github	34.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/2345	[Test] Round 3 — version/documentation drift hunt: report what the gates cannot see (intake or fix, both earn credit)
+0	github	14.9	-	OPEN_ISSUE	https://github.com/TrusTrove/TrusTrove-contract/issues/852	bug(scripts): deploy.sh passes --invoice_contract to escrow initialize, which does not accept it
+0	github	14.9	-	OPEN_ISSUE	https://github.com/TrusTrove/TrusTrove-contract/issues/838	feature(pool): add preview_withdraw view returning the USDC a share redemption would pay
+0	github	14.9	-	OPEN_ISSUE	https://github.com/TrusTrove/TrusTrove-contract/issues/837	feature(pool): add preview_deposit view returning the shares a deposit would mint
+0	github	15.1	-	OPEN_ISSUE	https://github.com/TrusTrove/TrusTrove-app/issues/906	docs(introduction): how-it-works.md says anyone can trigger default, lists four items but shows three, and omits the att
+0	github	23.2	-	OPEN_ISSUE	https://github.com/OpenLedger-Foundation/Kora-Frontend/issues/885	Type safety: ChartTooltip props typed as any
+0	github	33.2	-	OPEN_ISSUE	https://github.com/Kitewell-lab/Kitewell/issues/124	frontend: test resolvePaymentAsset trims and uppercases
