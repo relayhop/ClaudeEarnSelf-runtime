@@ -1,0 +1,34 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	3.1	000 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/905	docs(protocol): liquidity-pool.md worked example has impossible arithmetic (1,000 USDC deposit funds a 4,900 USDC invoic
+4	sn/bitcoin	15.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1583147	Sunday Survey: Do you put any stock in price models?
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Zephyr-ramp/zephyr-backend/issues/4	chore: add npm run doctor to check .env before starting
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/mericcintosun/alvinmunk/issues/153	29 Soroban test snapshots are still tracked despite `.gitignore`, one for a deleted test
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/mericcintosun/alvinmunk/issues/152	`frozen_account_cannot_tip` passes even with the freeze check deleted
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/mericcintosun/alvinmunk/issues/132	`remove_attester` is never tested; nothing proves a removed attester loses `award_xp`
+4	github	3.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/852	bug(scripts): deploy.sh passes --invoice_contract to escrow initialize, which does not accept it
+4	github	3.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/838	feature(pool): add preview_withdraw view returning the USDC a share redemption would pay
+4	github	3.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/837	feature(pool): add preview_deposit view returning the shares a deposit would mint
+4	github	3.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/906	docs(introduction): how-it-works.md says anyone can trigger default, lists four items but shows three, and omits the att
+3	github	34.6	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1206	[radar] SN open bounty 2026-09-27T01:20
+3	github	37.3	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1205	[radar] SN open bounty 2026-09-26T22:41
+3	github	40.2	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1204	[radar] SN open bounty 2026-09-26T19:47
+3	github	42.9	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1203	[radar] SN open bounty 2026-09-26T17:05
+3	github	46.9	000 Sat	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1200	[radar] SN open bounty 2026-09-26T12:59
+2	github	61.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/btclib-org/btclib/issues/2292	`valid_btc_amount` lets `decimal.FloatOperation` escape for a float `dust`
+2	github	61.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/btclib-org/btclib/issues/2291	`valid_sats_amount` refuses `"10"` though its comment admits strings
+2	github	5.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1212	[radar] SN open bounty 2026-09-28T06:42
+2	github	7.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1253	[BOUNTY] Suggestion #1244
+2	github	11.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1211	[radar] SN open bounty 2026-09-28T00:35
+2	github	13.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1210	[radar] SN open bounty 2026-09-27T22:01
+2	github	15.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1251	[BOUNTY] Suggestion #1241
+2	github	17.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1209	[radar] SN open bounty 2026-09-27T18:17
+2	github	22.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1208	[radar] SN open bounty 2026-09-27T13:52
+2	github	22.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/2345	[Test] Round 3 — version/documentation drift hunt: report what the gates cannot see (intake or fix, both earn credit)
+2	github	24.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1207	[radar] SN open bounty 2026-09-27T11:55
+2	github	48.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1199	[radar] SN open bounty 2026-09-26T11:16
+1	github	26.4	10 USDC	OPEN_ISSUE	https://github.com/CemAyyildiz/Quittance/issues/692	Lock the full USDC trustline sentence
+0	github	11.2	-	OPEN_ISSUE	https://github.com/OpenLedger-Foundation/Kora-Frontend/issues/885	Type safety: ChartTooltip props typed as any
+0	github	21.2	-	OPEN_ISSUE	https://github.com/Kitewell-lab/Kitewell/issues/124	frontend: test resolvePaymentAsset trims and uppercases
+0	github	21.2	-	OPEN_ISSUE	https://github.com/Kitewell-lab/Kitewell/issues/99	frontend: test Horizon history keeps a credit asset code
+0	github	21.2	-	OPEN_ISSUE	https://github.com/Kitewell-lab/Kitewell/issues/87	frontend: test parsePathAssets rejects a bad issuer
+0	github	21.2	-	OPEN_ISSUE	https://github.com/Kitewell-lab/Kitewell/issues/81	frontend: test buildAsset trims and uppercases the code
