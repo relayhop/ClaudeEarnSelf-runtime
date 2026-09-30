@@ -1,0 +1,34 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	13.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1584442	PRAWNS - localhost research
+4	sn/bitcoin	14.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1584327	Can we live without worrying?
+4	sn/tech	6.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1584729	Livenerf: Has Opus 5.5 been nerfed yet?
+3	github	10.6	001 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-searchss/issues/63	No empty state when a search returns zero results
+3	github	29.3	49 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Orbit-xyz/Orbit/issues/9	widget: show an error state instead of a fake plan
+3	github	8.0	$750	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1703	[Bounty] [Bounty $750] Fix fused scale-mask softmax tile-padding leakage at non-32 widths
+3	github	30.0	$1.5	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1698	[Bounty] [Bounty $1.5k] Improve BF16 reciprocal rounding on Wormhole
+3	github	30.0	$1.5	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1697	[Bounty] [Bounty $1.5k] Improve div_no_nan accuracy to 1 ULP
+2	github	10.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-searchss/issues/44	Add settlement success rate to the health stats
+2	github	10.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-searchss/issues/5	`/search` hardcodes 0.001 when incrementing totalUsdcSettled instead of using AMOUNT_USDC
+2	github	36.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/867	enhancement(escrow): initialize emits no event, unlike every other contract
+2	github	36.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-app/issues/973	docs(repo): mainnet-setup.md gives a 55-character USDC issuer, which is not a valid Stellar public key, in seven places
+2	github	13.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1261	[BOUNTY] Suggestion #1247
+2	github	29.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/UniversalAviator420/bounty-sandbox/issues/5	Bug: add() subtracts instead of adding
+2	github	32.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1218	[radar] SN open bounty 2026-09-28T21:51
+2	github	32.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/UniversalAviator420/bounty-sandbox/issues/3	Bug: greet() crashes with AttributeError when name is None
+2	github	33.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/tenstorrent/tt-metal/issues/58228	[Bounty $1.5k] Improve div_no_nan accuracy to 1 ULP
+2	github	39.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1217	[radar] SN open bounty 2026-09-28T15:19
+2	github	40.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1216	[radar] SN open bounty 2026-09-28T13:43
+2	github	47.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1212	[radar] SN open bounty 2026-09-28T06:42
+2	github	49.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1253	[BOUNTY] Suggestion #1244
+1	github	10.6	001 USDC	OPEN_ISSUE	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-searchss/issues/108	MCP tool descriptions overstate what the tools do
+0	github	10.6	-	OPEN_ISSUE	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-searchss/issues/135	Add test fixtures for Stellar and x402 payloads
+0	github	10.6	-	OPEN_ISSUE	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-searchss/issues/122	No tests for network-dependent constant selection
+0	github	10.6	-	OPEN_ISSUE	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-searchss/issues/106	check_balance does not handle unfunded accounts
+0	github	10.6	-	OPEN_ISSUE	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-searchss/issues/94	No guidance for getting testnet USDC
+0	github	10.6	-	OPEN_ISSUE	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-searchss/issues/92	The UI never shows which USDC issuer or contract it is using
+0	github	10.6	-	OPEN_ISSUE	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-searchss/issues/85	Balances are not refreshed after a successful payment
+0	github	24.0	-	OPEN_ISSUE	https://github.com/Kitewell-lab/Kitewell/issues/207	frontend: test validateAssetCode trims before validating
+0	github	36.4	-	OPEN_ISSUE	https://github.com/TrusTrove/TrusTrove-contract/issues/871	security(pool): treasury address is not validated, so a fee sent to the pool itself is silently retained
+0	github	10.2	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/58495	[Bounty $750] Fix fused scale-mask softmax tile-padding leakage at non-32 widths
+0	github	28.0	-	OPEN_ISSUE	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1258	[BOUNTY] Suggestion #1232
+0	github	33.1	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/58227	[Bounty $1.5k] Improve BF16 reciprocal rounding on Wormhole
