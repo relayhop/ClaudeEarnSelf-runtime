@@ -1,0 +1,17 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH_LOW_COMP	github	4.9	0	0	https://github.com/AstralDeep/LETS/issues/73	Replace client deadline performance assertions with deterministic contract tests
+FRESH_LOW_COMP	github	4.9	0	0	https://github.com/AstralDeep/LETS/issues/71	Provide a thin, tested MCP integration profile for protected tool execution
+FRESH_LOW_COMP	github	4.9	0	0	https://github.com/AstralDeep/LETS/issues/70	Validate successful SDK response envelopes before returning typed mappings
+FRESH_LOW_COMP	github	4.9	0	0	https://github.com/AstralDeep/LETS/issues/69	Reject timezone-naive datetime values in canonical signing input
+FRESH_LOW_COMP	github	4.9	0	0	https://github.com/AstralDeep/LETS/issues/68	Include serialized-client admission wait in the advertised total deadline
+FRESH_LOW_COMP	github	4.9	0	0	https://github.com/AstralDeep/LETS/issues/67	Preserve ownership of injected HTTP clients when total deadlines expire
+FRESH_LOW_COMP	github	4.9	0	0	https://github.com/AstralDeep/LETS/issues/66	Validate finite, correctly typed SDK deadline and retry limits
+FRESH_LOW_COMP	github	4.9	0	0	https://github.com/AstralDeep/AstralPrimitives/issues/14	Qualify source-distribution installs as independent consumer artifacts
+FRESH_LOW_COMP	github	4.9	0	0	https://github.com/AstralDeep/AstralPrimitives/issues/13	Make the exported ChartDataset helper directly usable by chart constructors
+FRESH_LOW_COMP	github	4.9	0	0	https://github.com/AstralDeep/AstralPrimitives/issues/12	Run a complete public-vocabulary serialization and round-trip contract matrix
+FRESH_LOW_COMP	github	4.9	0	0	https://github.com/AstralDeep/AstralPrimitives/issues/11	Expose a useful machine-readable schema for serialized primitive artifacts
+FRESH_LOW_COMP	github	4.9	0	0	https://github.com/AstralDeep/AstralPrimitives/issues/10	Fail fast when custom primitives collide with an existing wire type
+FRESH_LOW_COMP	github	4.9	0	0	https://github.com/AstralDeep/AstralPrimitives/issues/9	Define and enforce JSON-native values in arbitrary primitive payloads
+FRESH	github	1.6	0	1	https://github.com/Ikalus1988/MisakaNet/issues/2593	[Bounty] Test the 2.40.0 browser half in your own DSH host (6 seats, screenshot + probe evidence)
+FRESH	sn/bitcoin	4.9	0	3	https://stacker.news/items/1585777	List of potentially malicious nodes.
+FRESH	github	4.9	0	1	https://github.com/AstralDeep/LETS/issues/72	Provide an A2A task/delegation profile with replay and cancellation conformance
