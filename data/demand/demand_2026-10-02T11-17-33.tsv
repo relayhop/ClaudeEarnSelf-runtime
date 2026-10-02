@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	14.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1586422	New 'Bitcoin Ecology' series from Dhruv Bansal: Bitcoin Is All You Need
+4	sn/bitcoin	20.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1586158	Book Review: Broken Money and the Way Out, PART 3: IN PRACTICE(the Invity Team)
+4	github	1.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1230	[radar] SN open bounty 2026-10-02T09:38
+4	github	2.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1228	[radar] SN open bounty 2026-10-02T08:38
+3	github	63.3	001 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-searchss/issues/63	No empty state when a search returns zero results
+2	github	63.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-searchss/issues/44	Add settlement success rate to the health stats
+2	github	63.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-searchss/issues/5	`/search` hardcodes 0.001 when incrementing totalUsdcSettled instead of using AMOUNT_USDC
+2	github	9.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1226	[radar] SN open bounty 2026-10-02T02:17
+2	github	9.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1225	[radar] SN open bounty 2026-10-02T02:11
+2	github	12.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1224	[radar] SN open bounty 2026-10-01T23:13
+2	github	12.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1223	[radar] SN open bounty 2026-10-01T23:06
+2	github	16.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1222	[radar] SN open bounty 2026-10-01T19:03
+2	github	16.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1221	[radar] SN open bounty 2026-10-01T18:48
+2	github	19.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1270	[BOUNTY] Suggestion #1250
+2	github	21.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1220	[radar] SN open bounty 2026-10-01T13:46
+2	github	30.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/LETS/issues/73	Replace client deadline performance assertions with deterministic contract tests
+2	github	30.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/LETS/issues/70	Validate successful SDK response envelopes before returning typed mappings
+1	github	48.7	1 USDC	OPEN_ISSUE	https://github.com/Heliobond/frontend/issues/700	fix: UI promises "from one dollar" and "Min 1 USDC", but the vault rejects deposits under 100 USDC
+1	github	63.3	001 USDC	OPEN_ISSUE	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-searchss/issues/108	MCP tool descriptions overstate what the tools do
+1	github	27.1	$0	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/2593	[Bounty] Test the 2.40.0 browser half in your own DSH host (6 seats, screenshot + probe evidence)
+0	github	63.3	-	OPEN_ISSUE	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-searchss/issues/135	Add test fixtures for Stellar and x402 payloads
+0	github	63.3	-	OPEN_ISSUE	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-searchss/issues/122	No tests for network-dependent constant selection
+0	github	63.3	-	OPEN_ISSUE	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-searchss/issues/106	check_balance does not handle unfunded accounts
+0	github	63.3	-	OPEN_ISSUE	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-searchss/issues/94	No guidance for getting testnet USDC
+0	github	63.3	-	OPEN_ISSUE	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-searchss/issues/92	The UI never shows which USDC issuer or contract it is using
+0	github	63.3	-	OPEN_ISSUE	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-searchss/issues/85	Balances are not refreshed after a successful payment
+0	github	19.3	-	OPEN_ISSUE	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1271	[BOUNTY] Suggestion #1248
+0	github	30.4	-	OPEN_ISSUE	https://github.com/AstralDeep/LETS/issues/71	Provide a thin, tested MCP integration profile for protected tool execution
