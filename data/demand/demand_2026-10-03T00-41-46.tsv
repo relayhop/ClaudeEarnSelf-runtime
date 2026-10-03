@@ -1,0 +1,19 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	11.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1586957	Is the pre-finality double-spend race intrinsic to single-owner coins?
+4	github	1.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1240	[radar] SN open bounty 2026-10-02T23:37
+4	github	3.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1238	[radar] SN open bounty 2026-10-02T21:16
+3	github	6.4	$1	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1728	[Bounty] [Bounty $1,000] FP32 ttnn.cumsum returns NaN after infinity or overflow
+2	github	9.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/MultiAgency/near-agencies/issues/61	README's "Joining the roster" describes the old way to add a member
+2	github	4.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1237	[radar] SN open bounty 2026-10-02T19:52
+2	github	8.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1235	[radar] SN open bounty 2026-10-02T16:13
+2	github	9.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1233	[radar] SN open bounty 2026-10-02T15:02
+2	github	10.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/tenstorrent/tt-metal/issues/58986	[Bounty $1,000] FP32 ttnn.cumsum returns NaN after infinity or overflow
+2	github	12.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1231	[radar] SN open bounty 2026-10-02T12:23
+2	github	15.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1230	[radar] SN open bounty 2026-10-02T09:38
+2	github	16.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1228	[radar] SN open bounty 2026-10-02T08:38
+2	github	22.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1226	[radar] SN open bounty 2026-10-02T02:17
+2	github	22.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1225	[radar] SN open bounty 2026-10-02T02:11
+2	github	25.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1224	[radar] SN open bounty 2026-10-01T23:13
+2	github	25.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1223	[radar] SN open bounty 2026-10-01T23:06
+2	github	29.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1222	[radar] SN open bounty 2026-10-01T19:03
+1	github	62.1	1 USDC	OPEN_ISSUE	https://github.com/Heliobond/frontend/issues/700	fix: UI promises "from one dollar" and "Min 1 USDC", but the vault rejects deposits under 100 USDC
