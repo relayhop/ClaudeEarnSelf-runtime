@@ -1,0 +1,21 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	1.7	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/BitPolito/paycue-bounty-demo/issues/14	Link the live bounty board from the README
+5	github	2.9	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/BitPolito/paycue-bounty-demo/issues/7	Document the Payout: override line in CONTRIBUTING.md
+5	github	2.9	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/BitPolito/paycue-bounty-demo/issues/6	Add a glossary of payout states
+4	sn/bitcoin	22.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1586957	Is the pre-finality double-spend race intrinsic to single-owner coins?
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1241	[radar] SN open bounty 2026-10-03T11:33
+3	github	17.6	$1	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1728	[Bounty] [Bounty $1,000] FP32 ttnn.cumsum returns NaN after infinity or overflow
+2	github	20.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MultiAgency/near-agencies/issues/61	README's "Joining the roster" describes the old way to add a member
+2	github	8.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/ysyhlly/basedagents-issue-workflow/issues/1	Dry-run verification: automate JSON export
+2	github	12.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1240	[radar] SN open bounty 2026-10-02T23:37
+2	github	14.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1238	[radar] SN open bounty 2026-10-02T21:16
+2	github	16.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1237	[radar] SN open bounty 2026-10-02T19:52
+2	github	19.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1235	[radar] SN open bounty 2026-10-02T16:13
+2	github	20.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1233	[radar] SN open bounty 2026-10-02T15:02
+2	github	23.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1231	[radar] SN open bounty 2026-10-02T12:23
+2	github	26.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1230	[radar] SN open bounty 2026-10-02T09:38
+2	github	27.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1228	[radar] SN open bounty 2026-10-02T08:38
+2	github	33.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1226	[radar] SN open bounty 2026-10-02T02:17
+2	github	33.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1225	[radar] SN open bounty 2026-10-02T02:11
+2	github	36.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1224	[radar] SN open bounty 2026-10-01T23:13
+0	github	21.4	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/58986	[Bounty $1,000] FP32 ttnn.cumsum returns NaN after infinity or overflow
