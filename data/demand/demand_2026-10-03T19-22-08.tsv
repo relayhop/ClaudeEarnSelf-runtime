@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+7	sn/bitcoin	1.5	3BTC	OPEN_NEED,LOW_COMP	https://stacker.news/items/1587777	The September 19 Attack — facts, full story, and a bounty (up to 3.3BTC)
+7	sn/bitcoin	2.0	$10	OPEN_NEED,LOW_COMP	https://stacker.news/items/1587747	Bitcoiners should embrace the AI wave
+6	sn/bitcoin	2.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1587750	Bark Dice - Satoshi dice on Ark
+3	github	9.1	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/BitPolito/paycue-bounty-demo/issues/14	Link the live bounty board from the README
+3	github	10.3	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/BitPolito/paycue-bounty-demo/issues/7	Document the Payout: override line in CONTRIBUTING.md
+3	github	10.3	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/BitPolito/paycue-bounty-demo/issues/6	Add a glossary of payout states
+3	github	25.0	$1	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1728	[Bounty] [Bounty $1,000] FP32 ttnn.cumsum returns NaN after infinity or overflow
+2	github	28.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/MultiAgency/near-agencies/issues/61	README's "Joining the roster" describes the old way to add a member
+2	github	2.1	-	OPEN_ISSUE	https://github.com/drexthealpha/Knos/issues/42	Site: the lookup by GitHub login also shows what the first deployment holds
+2	github	3.1	-	OPEN_ISSUE	https://github.com/drexthealpha/Knos/issues/39	docs/INSTALL.md: a GitLab CI example for knos check, checked by a test
+2	github	3.1	-	OPEN_ISSUE	https://github.com/drexthealpha/Knos/issues/37	knos status --json: the same checks as one JSON document
+2	github	7.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/2757	[Bounty] Answer 4 linked question(s) as a lesson
+2	github	7.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1241	[radar] SN open bounty 2026-10-03T11:33
+2	github	16.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/ysyhlly/basedagents-issue-workflow/issues/1	Dry-run verification: automate JSON export
+2	github	19.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1240	[radar] SN open bounty 2026-10-02T23:37
+2	github	22.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1238	[radar] SN open bounty 2026-10-02T21:16
+2	github	23.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1237	[radar] SN open bounty 2026-10-02T19:52
+2	github	27.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1235	[radar] SN open bounty 2026-10-02T16:13
+2	github	28.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1233	[radar] SN open bounty 2026-10-02T15:02
+2	github	31.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1231	[radar] SN open bounty 2026-10-02T12:23
+2	github	33.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1230	[radar] SN open bounty 2026-10-02T09:38
+0	github	28.8	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/58986	[Bounty $1,000] FP32 ttnn.cumsum returns NaN after infinity or overflow
