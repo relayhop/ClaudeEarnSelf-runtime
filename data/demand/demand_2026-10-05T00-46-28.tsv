@@ -1,0 +1,28 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	20.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1588033	Does this OFAC license allow certain Cubans to receive BTC from a U.S. partner?
+4	sn/bitcoin	11.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1588200	Sunday Survey: Is CLARITY good for Bitcoin?
+4	sn/bitcoin	12.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1588143	My First Bitcoin Is Looking for Three New Board Members - My First Bitcoin
+4	sn/tech	4.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1588451	TryHackMe's HH 2026 Event - Day 09 - Cryptocabana [Writeup]
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/gideononiru/txlens/issues/20	Add a sample for a fee-bump and a clawback
+4	github	3.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1252	[radar] SN open bounty 2026-10-04T21:17
+3	github	38.5	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/BitPolito/paycue-bounty-demo/issues/14	Link the live bounty board from the README
+3	github	39.7	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/BitPolito/paycue-bounty-demo/issues/7	Document the Payout: override line in CONTRIBUTING.md
+3	github	39.7	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/BitPolito/paycue-bounty-demo/issues/6	Add a glossary of payout states
+2	github	14.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/yosriady/openrampkit/issues/5	Withdraw: optional server-side balance check for user wallets
+2	github	14.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/yosriady/openrampkit/issues/2	Wallet adapter: Privy
+2	github	14.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/yosriady/openrampkit/issues/1	Adapter: LI.FI for bridge and swap legs
+2	github	57.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/MultiAgency/near-agencies/issues/61	README's "Joining the roster" describes the old way to add a member
+2	github	5.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/sheepishgoat/GS13-Blubberstation/issues/616	Inflation Sprites and SFX
+2	github	6.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1251	[radar] SN open bounty 2026-10-04T18:05
+2	github	11.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1250	[radar] SN open bounty 2026-10-04T13:08
+2	github	11.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/2838	[Bounty] Answer 2 linked question(s) as a lesson
+2	github	11.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/2837	[Bounty] Answer 3 linked question(s) as a lesson
+2	github	12.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1249	[radar] SN open bounty 2026-10-04T12:14
+2	github	45.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/ysyhlly/basedagents-issue-workflow/issues/1	Dry-run verification: automate JSON export
+0	github	11.9	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/2840	[Bounty] Answer 2 linked question(s) as a lesson
+0	github	11.9	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/2839	[Bounty] Answer 2 linked question(s) as a lesson
+0	github	11.9	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/2836	[Bounty] Answer 3 linked question(s) as a lesson
+0	github	11.9	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/2835	[Bounty] Answer 5 linked question(s) as a lesson
+0	github	36.8	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/2757	[Bounty] Answer 4 linked question(s) as a lesson
+0	github	37.2	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1241	[radar] SN open bounty 2026-10-03T11:33
+0	github	49.1	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1240	[radar] SN open bounty 2026-10-02T23:37
