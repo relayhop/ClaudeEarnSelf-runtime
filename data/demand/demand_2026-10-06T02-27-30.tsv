@@ -1,0 +1,33 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	14.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1588777	How to get paid in bitcoin as a freelancer
+3	sn/bitcoin	14.3	$200	OPEN_NEED	https://stacker.news/items/1588755	Bitcoin Stablecoins and the Freedom to Choose
+3	github	64.2	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/BitPolito/paycue-bounty-demo/issues/14	Link the live bounty board from the README
+3	github	65.4	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/BitPolito/paycue-bounty-demo/issues/7	Document the Payout: override line in CONTRIBUTING.md
+3	github	65.4	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/BitPolito/paycue-bounty-demo/issues/6	Add a glossary of payout states
+2	sn/bitcoin	5.8	-	OPEN_NEED	https://stacker.news/items/1589214	What can you actually buy with Bitcoin in the UK?
+2	sn/bitcoin	17.2	-	OPEN_NEED	https://stacker.news/items/1588648	anyone sold BIP-110 / BLAKE2b fork coins, or leave the UTXOs alone?
+2	sn/bitcoin	16.7	-	OPEN_NEED	https://stacker.news/items/1588675	Seriously, What’s the difference betwn custodial lightning & centralized chains?
+2	github	4.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/VelaPayments/vela-payments/issues/58	Add a unit test for returns zero USDC when the account has no USDC line
+2	github	4.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/VelaPayments/vela-payments/issues/32	Add a unit test for rejects a USDC amount with a trailing decimal point
+2	github	4.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/VelaPayments/vela-payments/issues/31	Add a unit test for rejects a USDC amount with a leading decimal point
+2	github	4.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/VelaPayments/vela-payments/issues/30	Add a unit test for accepts a USDC amount with one decimal place
+2	github	10.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Kaycee276/Chesster/issues/406	[DOCS] docs(soroban): Author Comprehensive Soroban Smart Contract Architecture and Event Ingestion Guide
+2	github	28.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/gideononiru/txlens/issues/20	Add a sample for a fee-bump and a clawback
+2	github	40.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/yosriady/openrampkit/issues/5	Withdraw: optional server-side balance check for user wallets
+2	github	40.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/yosriady/openrampkit/issues/2	Wallet adapter: Privy
+2	github	40.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/yosriady/openrampkit/issues/1	Adapter: LI.FI for bridge and swap legs
+2	github	3.9	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1257	[radar] SN open bounty 2026-10-05T22:33
+2	github	11.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/293	Bootstrap a valid production deployment safely
+2	github	11.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/292	Add a read-only installation and readiness doctor
+2	github	11.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/291	Propagate emergency stop and fence mesh peers on reconnect
+2	github	11.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/290	Expose emergency stop and explicit resume in shared UI and CLI
+2	github	11.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/289	Enforce a persistent owner-scoped local emergency stop
+2	github	11.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralPlane/issues/70	Persist emergency-stop epochs and bounded peer acknowledgments
+2	github	11.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/288	Add shared selective A2A publication controls
+2	github	11.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/287	Enforce owner-managed A2A publication and withdrawal
+0	github	5.5	-	OPEN_ISSUE	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1282	[BOUNTY] Suggestion #1264
+0	github	10.6	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1256	[radar] SN open bounty 2026-10-05T15:54
+0	github	11.2	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/2875	[Bounty] Answer 2 linked question(s) as a lesson
+0	github	11.2	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/2874	[Bounty] Answer 3 linked question(s) as a lesson
+0	github	11.7	-	OPEN_ISSUE	https://github.com/AstralDeep/AstralDeep/issues/295	Guide first client connection and configured-service verification
+0	github	11.7	-	OPEN_ISSUE	https://github.com/AstralDeep/AstralDeep/issues/294	Support interrupted installation, upgrade and safe removal
