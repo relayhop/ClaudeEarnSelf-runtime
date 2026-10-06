@@ -1,0 +1,30 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	0.2	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/mazebench-temp/GreekIndexBounty/issues/75	[100,000 sats] Odyssey Book 24: complete translation, lexicon, and exhaustive research index
+5	github	0.2	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/mazebench-temp/GreekIndexBounty/issues/74	[100,000 sats] Odyssey Book 23: complete translation, lexicon, and exhaustive research index
+5	github	0.2	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/mazebench-temp/GreekIndexBounty/issues/73	[100,000 sats] Odyssey Book 22: complete translation, lexicon, and exhaustive research index
+5	github	0.2	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/mazebench-temp/GreekIndexBounty/issues/72	[100,000 sats] Odyssey Book 21: complete translation, lexicon, and exhaustive research index
+5	github	0.2	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/mazebench-temp/GreekIndexBounty/issues/71	[100,000 sats] Odyssey Book 20: complete translation, lexicon, and exhaustive research index
+5	github	0.2	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/mazebench-temp/GreekIndexBounty/issues/70	[100,000 sats] Odyssey Book 19: complete translation, lexicon, and exhaustive research index
+5	github	0.2	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/mazebench-temp/GreekIndexBounty/issues/69	[100,000 sats] Odyssey Book 18: complete translation, lexicon, and exhaustive research index
+5	github	0.2	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/mazebench-temp/GreekIndexBounty/issues/68	[100,000 sats] Odyssey Book 17: complete translation, lexicon, and exhaustive research index
+5	github	0.2	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/mazebench-temp/GreekIndexBounty/issues/67	[100,000 sats] Odyssey Book 16: complete translation, lexicon, and exhaustive research index
+5	github	0.2	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/mazebench-temp/GreekIndexBounty/issues/66	[100,000 sats] Odyssey Book 15: complete translation, lexicon, and exhaustive research index
+5	github	0.2	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/mazebench-temp/GreekIndexBounty/issues/65	[100,000 sats] Odyssey Book 14: complete translation, lexicon, and exhaustive research index
+5	github	0.2	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/mazebench-temp/GreekIndexBounty/issues/64	[100,000 sats] Odyssey Book 13: complete translation, lexicon, and exhaustive research index
+5	github	0.2	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/mazebench-temp/GreekIndexBounty/issues/63	[100,000 sats] Odyssey Book 12: complete translation, lexicon, and exhaustive research index
+5	github	0.2	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/mazebench-temp/GreekIndexBounty/issues/62	[100,000 sats] Odyssey Book 11: complete translation, lexicon, and exhaustive research index
+5	github	0.2	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/mazebench-temp/GreekIndexBounty/issues/61	[100,000 sats] Odyssey Book 10: complete translation, lexicon, and exhaustive research index
+4	sn/bitcoin	20.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1588777	How to get paid in bitcoin as a freelancer
+3	sn/bitcoin	21.2	$200	OPEN_NEED	https://stacker.news/items/1588755	Bitcoin Stablecoins and the Freedom to Choose
+3	github	71.0	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/BitPolito/paycue-bounty-demo/issues/14	Link the live bounty board from the README
+2	sn/bitcoin	12.6	-	OPEN_NEED	https://stacker.news/items/1589214	What can you actually buy with Bitcoin in the UK?
+2	sn/bitcoin	23.6	-	OPEN_NEED	https://stacker.news/items/1588675	Seriously, What’s the difference betwn custodial lightning & centralized chains?
+2	github	11.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/VelaPayments/vela-payments/issues/58	Add a unit test for returns zero USDC when the account has no USDC line
+2	github	11.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/VelaPayments/vela-payments/issues/32	Add a unit test for rejects a USDC amount with a trailing decimal point
+2	github	11.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/VelaPayments/vela-payments/issues/31	Add a unit test for rejects a USDC amount with a leading decimal point
+2	github	11.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/VelaPayments/vela-payments/issues/30	Add a unit test for accepts a USDC amount with one decimal place
+2	github	17.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Kaycee276/Chesster/issues/406	[DOCS] docs(soroban): Author Comprehensive Soroban Smart Contract Architecture and Event Ingestion Guide
+2	github	34.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/gideononiru/txlens/issues/20	Add a sample for a fee-bump and a clawback
+2	github	47.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/yosriady/openrampkit/issues/5	Withdraw: optional server-side balance check for user wallets
+2	github	47.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/yosriady/openrampkit/issues/2	Wallet adapter: Privy
+2	github	47.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/yosriady/openrampkit/issues/1	Adapter: LI.FI for bridge and swap legs
