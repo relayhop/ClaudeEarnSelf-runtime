@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+2	github	20.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/MostroP2P/app/issues/712	Invoice and trade screens overflow at 320 dp with 2× text in German
+2	github	5.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/DeepFirstHQ/deepfirstsearch/issues/7	Read-only vault dashboard
+2	github	10.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellaGate/stellagate/issues/13	Replace the check page's "Missing trustline" preset with a mainnet example
+2	github	27.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/VelaPayments/vela-payments/issues/48	Cover absent wallet balances and nonfinite display inputs
+2	github	27.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/VelaPayments/vela-payments/issues/32	Add a unit test for rejects a USDC amount with a trailing decimal point
+2	github	27.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/VelaPayments/vela-payments/issues/31	Add a unit test for rejects a USDC amount with a leading decimal point
+2	github	27.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/VelaPayments/vela-payments/issues/30	Add a unit test for accepts a USDC amount with one decimal place
+2	github	27.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/VelaPayments/vela-payments/issues/27	Cover receive amount precision and request construction boundaries
+2	github	33.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Kaycee276/Chesster/issues/406	[DOCS] docs(soroban): Author Comprehensive Soroban Smart Contract Architecture and Event Ingestion Guide
+2	github	50.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/gideononiru/txlens/issues/20	Add a sample for a fee-bump and a clawback
+2	github	63.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/yosriady/openrampkit/issues/5	Withdraw: optional server-side balance check for user wallets
+2	github	63.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/yosriady/openrampkit/issues/2	Wallet adapter: Privy
+2	github	63.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/yosriady/openrampkit/issues/1	Adapter: LI.FI for bridge and swap legs
+2	github	20.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/311	Show why a card button failed when the client is idle
+2	github	20.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/310	Let a resumed live stream end at its deadline with its closing card
+2	github	20.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/309	Keep a NUL character in feedback text from failing knowledge proposal generation
+2	github	34.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/293	Bootstrap a valid production deployment safely
+0	github	11.8	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1260	[radar] SN open bounty 2026-10-06T13:13
+0	github	14.9	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1259	[radar] SN open bounty 2026-10-06T10:06
+0	github	22.0	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/2895	[请帮测] docs/benchmarks/ 瘦身：省下 5.56 MB，但不会让已有 clone 变小 —— 三种验证方法
+0	github	22.1	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1258	[radar] SN open bounty 2026-10-06T02:53
+0	github	26.4	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1257	[radar] SN open bounty 2026-10-05T22:33
+0	github	28.1	-	OPEN_ISSUE	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1282	[BOUNTY] Suggestion #1264
+0	github	33.1	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1256	[radar] SN open bounty 2026-10-05T15:54
+0	github	33.8	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/2875	[Bounty] Answer 2 linked question(s) as a lesson
+0	github	33.8	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/2874	[Bounty] Answer 3 linked question(s) as a lesson
+0	github	34.3	-	OPEN_ISSUE	https://github.com/AstralDeep/AstralDeep/issues/295	Guide first client connection and configured-service verification
+0	github	34.3	-	OPEN_ISSUE	https://github.com/AstralDeep/AstralDeep/issues/294	Support interrupted installation, upgrade and safe removal
