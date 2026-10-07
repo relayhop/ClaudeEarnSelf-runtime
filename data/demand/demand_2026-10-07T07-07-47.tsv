@@ -1,0 +1,31 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	1.7	$10	OPEN_ISSUE,LOW_COMP	https://github.com/quantumchain-core/velodag-core/issues/2	💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev
+5	github	1.7	$10	OPEN_ISSUE,LOW_COMP	https://github.com/quantumchain-core/velodag-core/issues/2	💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev
+4	github	3.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/349	Add a bounded offline prompt-optimization pilot with held-out evaluation
+4	github	3.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/348	Qualify owner-scoped semantic memory retrieval and reranking
+4	github	3.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/347	Preserve Gemini tool-continuation metadata through streamed responses
+4	github	3.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/346	Preserve layout and source locations when parsing owned PDF/DOCX attachments
+2	sn/bitcoin	5.2	-	OPEN_NEED	https://stacker.news/items/1590321	Fungibility
+2	github	26.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/MostroP2P/app/issues/712	Invoice and trade screens overflow at 320 dp with 2× text in German
+2	github	11.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/DeepFirstHQ/deepfirstsearch/issues/7	Read-only vault dashboard
+2	github	16.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellaGate/stellagate/issues/13	Replace the check page's "Missing trustline" preset with a mainnet example
+2	github	33.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/VelaPayments/vela-payments/issues/48	Cover absent wallet balances and nonfinite display inputs
+2	github	33.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/VelaPayments/vela-payments/issues/32	Add a unit test for rejects a USDC amount with a trailing decimal point
+2	github	33.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/VelaPayments/vela-payments/issues/31	Add a unit test for rejects a USDC amount with a leading decimal point
+2	github	33.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/VelaPayments/vela-payments/issues/30	Add a unit test for accepts a USDC amount with one decimal place
+2	github	33.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/VelaPayments/vela-payments/issues/27	Cover receive amount precision and request construction boundaries
+2	github	39.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Kaycee276/Chesster/issues/406	[DOCS] docs(soroban): Author Comprehensive Soroban Smart Contract Architecture and Event Ingestion Guide
+2	github	56.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/gideononiru/txlens/issues/20	Add a sample for a fee-bump and a clawback
+2	github	69.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/yosriady/openrampkit/issues/5	Withdraw: optional server-side balance check for user wallets
+2	github	69.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/yosriady/openrampkit/issues/2	Wallet adapter: Privy
+2	github	69.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/yosriady/openrampkit/issues/1	Adapter: LI.FI for bridge and swap legs
+2	github	4.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/338	Replay bounded multi-turn escalation and recovery through real dispatch gates
+2	github	4.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/337	Qualify a fail-closed Linux subprocess profile using sandbox-runtime
+2	github	4.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/336	Pilot source-span validated extraction from clinical notes
+2	github	4.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/335	Load full authorized skill revisions on demand without digest truncation
+2	github	4.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/334	Import instructions-only Agent Skills into the governed owner catalog
+2	github	4.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/333	Qualify opt-in caching of approved non-PHI Claude prompt prefixes
+2	github	4.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/331	Qualify a native Claude Messages adapter through existing provider routing
+2	github	4.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/325	Add an isolated report-only Codex Security review workflow
+2	github	4.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/326	Qualify an OpenAI-only Responses adapter through existing provider routing
+2	github	4.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/324	Evaluate contextual secret patterns without importing the Guardrails runtime
