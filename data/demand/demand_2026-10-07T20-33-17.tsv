@@ -1,0 +1,35 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	1.6	-	OPEN_NEED	https://stacker.news/items/1590827	Do you think ECDSA will get broken by math AI advances?
+4	sn/bitcoin	4.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1590672	Turning trash into sats: paying organic waste collectors with Lightning
+3	github	15.1	$10	OPEN_ISSUE,LOW_COMP	https://github.com/quantumchain-core/velodag-core/issues/2	💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev
+3	github	11.7	$10	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1828	[Bounty] 💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev
+3	github	15.1	$10	OPEN_ISSUE,LOW_COMP	https://github.com/quantumchain-core/velodag-core/issues/2	💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev
+2	sn/bitcoin	18.7	-	OPEN_NEED	https://stacker.news/items/1590321	Fungibility
+2	github	40.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/MostroP2P/app/issues/712	Invoice and trade screens overflow at 320 dp with 2× text in German
+2	github	5.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/DeepFirstHQ/deepfirstsearch/issues/17	Read the 402 from X-PAYMENT-REQUIRED as well (Ordiscan)
+2	github	7.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Local-Settle/local-settle-backend/issues/2	Add unit tests for direct USDC send preparation
+2	github	25.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/DeepFirstHQ/deepfirstsearch/issues/7	Read-only vault dashboard
+2	github	29.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellaGate/stellagate/issues/13	Replace the check page's "Missing trustline" preset with a mainnet example
+2	github	46.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/VelaPayments/vela-payments/issues/48	Cover absent wallet balances and nonfinite display inputs
+2	github	46.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/VelaPayments/vela-payments/issues/32	Add a unit test for rejects a USDC amount with a trailing decimal point
+2	github	2.5	-	OPEN_ISSUE	https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/3	[Priority] Open call: digital-thread and critical-items register schema for rocket turbopump supply chains
+2	github	5.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1286	[BOUNTY] Suggestion #1255
+2	github	5.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1285	[BOUNTY] Suggestion #1258
+2	github	6.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/2988	[Bounty] Answer 2 linked question(s) as a lesson
+2	github	17.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/349	Add a bounded offline prompt-optimization pilot with held-out evaluation
+2	github	17.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/348	Qualify owner-scoped semantic memory retrieval and reranking
+2	github	17.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/347	Preserve Gemini tool-continuation metadata through streamed responses
+2	github	17.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/346	Preserve layout and source locations when parsing owned PDF/DOCX attachments
+2	github	17.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/337	Qualify a fail-closed Linux subprocess profile using sandbox-runtime
+2	github	17.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/338	Replay bounded multi-turn escalation and recovery through real dispatch gates
+2	github	17.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/335	Load full authorized skill revisions on demand without digest truncation
+2	github	17.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/336	Pilot source-span validated extraction from clinical notes
+2	github	17.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/334	Import instructions-only Agent Skills into the governed owner catalog
+0	github	7.1	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/13	Merge overlapping intervals
+0	github	7.2	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/12	Name the day of the week of a date
+0	github	7.2	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/11	Add two binary numbers
+0	github	7.2	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/10	Say whether the brackets of a line are balanced
+0	github	7.2	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/9	Name the most frequent word of a line
+0	github	7.3	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/8	Shift the letters of a line
+0	github	7.3	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/7	Run-length encode a line
+0	github	7.3	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/6	Write a whole number as a Roman numeral
