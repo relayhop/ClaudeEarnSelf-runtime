@@ -1,0 +1,37 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	13.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1591017	Free eSIM data for Plan B Forum visitors — Torisim
+4	sn/bitcoin	22.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1590672	Turning trash into sats: paying organic waste collectors with Lightning
+4	github	3.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarHyperion/stellarhyperion-frontend/issues/7	a11y: add aria-live announcements for route planner recalculations and winning rail changes
+4	github	3.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarHyperion/stellarhyperion-contracts/issues/14	test(soroban-core): add proptest coverage for multi-precision decimal scaling between Stellar and EVM
+3	github	29.1	$10	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1828	[Bounty] 💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev
+2	sn/bitcoin	13.2	-	OPEN_NEED	https://stacker.news/items/1591011	Requesting testnet4 coins for a project test
+2	sn/bitcoin	19.0	-	OPEN_NEED	https://stacker.news/items/1590827	Do you think ECDSA will get broken by math AI advances?
+2	sn/tech	12.2	-	OPEN_NEED	https://stacker.news/items/1591038	Free eSIM data for Plan B Forum visitors — Torisim
+2	github	57.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/MostroP2P/app/issues/712	Invoice and trade screens overflow at 320 dp with 2× text in German
+2	github	22.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/DeepFirstHQ/deepfirstsearch/issues/17	Read the 402 from X-PAYMENT-REQUIRED as well (Ordiscan)
+2	github	23.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1286	[BOUNTY] Suggestion #1255
+2	github	23.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1285	[BOUNTY] Suggestion #1258
+2	github	24.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/2988	[Bounty] Answer 2 linked question(s) as a lesson
+2	github	34.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/349	Add a bounded offline prompt-optimization pilot with held-out evaluation
+2	github	34.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/348	Qualify owner-scoped semantic memory retrieval and reranking
+2	github	34.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/347	Preserve Gemini tool-continuation metadata through streamed responses
+2	github	34.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/346	Preserve layout and source locations when parsing owned PDF/DOCX attachments
+2	github	35.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/337	Qualify a fail-closed Linux subprocess profile using sandbox-runtime
+2	github	35.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/338	Replay bounded multi-turn escalation and recovery through real dispatch gates
+2	github	35.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/335	Load full authorized skill revisions on demand without digest truncation
+2	github	35.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/336	Pilot source-span validated extraction from clinical notes
+1	github	12.9	$3	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1836	[Bounty] [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision random th
+0	github	12.7	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/21	Check a number with the Luhn rule
+0	github	12.7	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/20	Turn a camelCase name into snake_case
+0	github	12.7	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/19	Print the median of a list of numbers
+0	github	12.7	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/18	Host a judge
+0	github	12.8	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/17	Install the check in a repository you own
+0	github	12.8	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/16	Fund a test task yourself, from the faucet
+0	github	12.8	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/15	Count one invoice against GitHub's record, in a repository you own
+0	github	12.8	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/14	Reproduce what Knos says, in your own fork
+0	github	24.6	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/13	Merge overlapping intervals
+0	github	24.6	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/12	Name the day of the week of a date
+0	github	24.6	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/11	Add two binary numbers
+0	github	24.6	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/10	Say whether the brackets of a line are balanced
+0	github	16.4	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/59732	[Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision random threshold
+0	github	19.9	-	OPEN_ISSUE	https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/3	[Priority] Open call: digital-thread and critical-items register schema for rocket turbopump supply chains
