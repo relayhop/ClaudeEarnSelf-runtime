@@ -1,0 +1,21 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	5.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1591298	How Agentic Coding Drives Bitcoin Adoption by Roy Sheinfeld
+4	sn/bitcoin	18.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1591017	Free eSIM data for Plan B Forum visitors — Torisim
+4	sn/tech	8.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1591234	Gravity Defying Future of Manufacturing
+2	sn/bitcoin	19.1	-	OPEN_NEED	https://stacker.news/items/1591011	Requesting testnet4 coins for a project test
+2	sn/tech	18.1	-	OPEN_NEED	https://stacker.news/items/1591038	Free eSIM data for Plan B Forum visitors — Torisim
+2	github	9.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarHyperion/stellarhyperion-frontend/issues/7	a11y: add aria-live announcements for route planner recalculations and winning rail changes
+2	github	9.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarHyperion/stellarhyperion-contracts/issues/14	test(soroban-core): add proptest coverage for multi-precision decimal scaling between Stellar and EVM
+2	github	28.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/DeepFirstHQ/deepfirstsearch/issues/17	Read the 402 from X-PAYMENT-REQUIRED as well (Ordiscan)
+0	github	18.6	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/21	Check a number with the Luhn rule
+0	github	18.6	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/20	Turn a camelCase name into snake_case
+0	github	18.6	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/19	Print the median of a list of numbers
+0	github	18.6	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/18	Host a judge
+0	github	18.6	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/17	Install the check in a repository you own
+0	github	18.7	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/16	Fund a test task yourself, from the faucet
+0	github	18.7	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/15	Count one invoice against GitHub's record, in a repository you own
+0	github	18.7	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/14	Reproduce what Knos says, in your own fork
+0	github	30.4	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/13	Merge overlapping intervals
+0	github	30.4	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/12	Name the day of the week of a date
+0	github	30.5	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/11	Add two binary numbers
+0	github	30.5	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/10	Say whether the brackets of a line are balanced
