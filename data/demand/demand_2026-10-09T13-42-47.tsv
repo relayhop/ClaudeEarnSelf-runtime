@@ -1,0 +1,34 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	23.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1591298	How Agentic Coding Drives Bitcoin Adoption by Roy Sheinfeld
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pactlane/monorepo/issues/180	docs: testnet faucet + USDC guide
+4	github	0.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pactlane/monorepo/issues/3	stellar: USDC SAC contract id derivation helper
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ibk-Bless/FarmPay/issues/20	Show the buyer's USDC balance on Create Order
+4	github	2.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ibk-Bless/FarmPay/issues/6	Add GET /accounts/:address/balance for the escrow token
+4	github	2.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/inowo-labs/inowo-app/issues/34	test: unit tests for amount parsing, formatting, and error messages
+2	sn/bitcoin	14.7	-	OPEN_NEED	https://stacker.news/items/1591653	Bitpost P2P
+2	sn/bitcoin	13.5	-	OPEN_NEED	https://stacker.news/items/1591681	A video tour of Coinos Version 3
+2	github	12.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/bluebridgehq/Kepter/issues/7	docs: guide for shop owners who are new to crypto
+2	github	12.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/bluebridgehq/Kepter/issues/6	feat: download sales as CSV from the shop dashboard
+2	github	40.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/tenstorrent/tt-metal/issues/59732	[Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision random threshold
+2	github	46.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1286	[BOUNTY] Suggestion #1255
+2	github	46.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1285	[BOUNTY] Suggestion #1258
+2	github	58.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/349	Add a bounded offline prompt-optimization pilot with held-out evaluation
+2	github	58.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/348	Qualify owner-scoped semantic memory retrieval and reranking
+2	github	58.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/347	Preserve Gemini tool-continuation metadata through streamed responses
+2	github	58.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/346	Preserve layout and source locations when parsing owned PDF/DOCX attachments
+2	github	58.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/337	Qualify a fail-closed Linux subprocess profile using sandbox-runtime
+2	github	58.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/338	Replay bounded multi-turn escalation and recovery through real dispatch gates
+2	github	58.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/335	Load full authorized skill revisions on demand without digest truncation
+2	github	58.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/AstralDeep/AstralDeep/issues/336	Pilot source-span validated extraction from clinical notes
+1	github	36.6	$3	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1836	[Bounty] [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision random th
+1	github	52.8	$10	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1828	[Bounty] 💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev
+0	github	6.9	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/29	Fund a test task yourself, from the faucet
+0	github	7.0	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/28	Count one invoice against GitHub's record, in a repository you own
+0	github	7.0	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/27	Reproduce what Knos says, in your own fork
+0	github	7.0	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/26	Witness one transaction from start to end
+0	github	7.0	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/25	Fool the judge on a task
+0	github	7.0	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/24	Offer to hold one key of the upgrade multisig
+0	github	7.1	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/23	Put a program of yours behind the upgrade gate
+0	github	7.1	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/22	Read the verifier from a program of your own
+0	github	43.6	-	OPEN_ISSUE	https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/3	[Priority] Open call: digital-thread and critical-items register schema for rocket turbopump supply chains
+0	github	47.9	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/2988	[Bounty] Answer 2 linked question(s) as a lesson
