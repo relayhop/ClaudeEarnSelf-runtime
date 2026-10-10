@@ -1,0 +1,24 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	github	0.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/accensa/x402-facilitator-stellar/issues/524	docs: docs name two npm scripts that do not exist
+2	sn/tech	12.3	-	OPEN_NEED	https://stacker.news/items/1592502	Deno team is joining Cloudflare (and will stop maintaining Deno)
+2	github	5.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Sara-Managed-Projects/space-radar/issues/585	Build simulator: Escape Velocity Ladder
+2	github	12.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/SynapsVault/backend/issues/22	Replace floating-point USDC <-> stroops conversions with an exact BigInt helper
+2	github	13.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/SynapsVault/contracts/issues/30	Docs: add lifecycle diagrams for leases and subscriptions
+2	github	30.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pactlane/monorepo/issues/180	docs: testnet faucet + USDC guide
+2	github	31.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pactlane/monorepo/issues/3	stellar: USDC SAC contract id derivation helper
+2	github	32.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ibk-Bless/FarmPay/issues/20	Show the buyer's USDC balance on Create Order
+2	github	32.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ibk-Bless/FarmPay/issues/6	Add GET /accounts/:address/balance for the escrow token
+2	github	32.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/inowo-labs/inowo-app/issues/34	test: unit tests for amount parsing, formatting, and error messages
+2	github	4.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/NSPG13/agent-bounties/issues/1632	[Bounty] Bring a real backlog: get an established open-source project to fund its first Agent Bounties bounty
+2	github	7.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1269	[radar] SN open bounty 2026-10-10T12:22
+1	github	66.9	$3	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1836	[Bounty] [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision random th
+0	github	37.2	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/29	Fund a test task yourself, from the faucet
+0	github	37.2	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/28	Count one invoice against GitHub's record, in a repository you own
+0	github	37.3	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/27	Reproduce what Knos says, in your own fork
+0	github	37.3	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/26	Witness one transaction from start to end
+0	github	37.3	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/25	Fool the judge on a task
+0	github	37.3	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/24	Offer to hold one key of the upgrade multisig
+0	github	37.3	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/23	Put a program of yours behind the upgrade gate
+0	github	29.9	-	OPEN_ISSUE	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1292	[BOUNTY] Suggestion #1259
+0	github	29.9	-	OPEN_ISSUE	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1291	[BOUNTY] Suggestion #1268
+0	github	70.4	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/59732	[Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision random threshold
