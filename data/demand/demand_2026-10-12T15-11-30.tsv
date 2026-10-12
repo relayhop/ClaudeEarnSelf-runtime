@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	0.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1594013	Could money scale through local blockchains?
+5	github	2.1	$50	OPEN_ISSUE,LOW_COMP	https://github.com/sybil-solutions/local-ai-registry/issues/223	Bounty $50: recipe for Ryzen AI 890M (Radeon 890M iGPU)
+5	github	2.1	$50	OPEN_ISSUE,LOW_COMP	https://github.com/sybil-solutions/local-ai-registry/issues/222	Bounty $50: recipe for RTX 5060 Ti 16 GB
+5	github	2.1	$50	OPEN_ISSUE,LOW_COMP	https://github.com/sybil-solutions/local-ai-registry/issues/221	Bounty $50: recipe for RTX 4060 Ti 16 GB
+5	github	2.1	$50	OPEN_ISSUE,LOW_COMP	https://github.com/sybil-solutions/local-ai-registry/issues/220	Bounty $50: recipe for a 27B model on a 16 GB AMD card
+5	github	2.1	$50	OPEN_ISSUE,LOW_COMP	https://github.com/sybil-solutions/local-ai-registry/issues/219	Bounty $50: recipe for RX 7900 XTX 24 GB
+5	github	2.1	$50	OPEN_ISSUE,LOW_COMP	https://github.com/sybil-solutions/local-ai-registry/issues/217	Bounty $50: recipe for RTX 2080 Ti 11 GB
+5	github	2.1	$50	OPEN_ISSUE,LOW_COMP	https://github.com/sybil-solutions/local-ai-registry/issues/216	Bounty $50: recipe for Intel Arc B580 12 GB
+4	sn/bitcoin	2.7	-	OPEN_NEED	https://stacker.news/items/1593942	What’s the dumbest thing you did with Bitcoin when you were new?
+4	sn/bitcoin	19.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1593618	Sunday Survey: Are you going to any Bitcoin conferences this year?
+4	sn/tech	3.4	-	OPEN_NEED	https://stacker.news/items/1593906	I need a new Graphene friendly phone
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/FuRongJun-1999/dsh-bounty/issues/71	[悬赏] 灵枢生态宣传：材料 + 渠道 + 触达读数（可核验，不写「效果好」）
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/FuRongJun-1999/dsh-bounty/issues/70	[悬赏] 角色扮演游戏制作：可运行 + 可测（记忆/角色一致性为核）
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/FuRongJun-1999/dsh-bounty/issues/68	[悬赏] 灵枢大脑仓库迭代：缺陷修复 / 能力增强（PR 到 dsh-memory）
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/FuRongJun-1999/dsh-bounty/issues/67	[悬赏] 横向测评：各家角色扮演 / 记忆系统 / 智能体工作流方案（≥3 家 · 可复跑）
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/FuRongJun-1999/dsh-bounty/issues/66	[悬赏] 悬赏与项目管理方案完善：三方对账校验件 + 方案 v0.2
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/FuRongJun-1999/dsh-bounty/issues/65	[悬赏] 插件测评站：完整搭建（生成器 + 数据 schema + 站点四页）
+3	github	2.1	$50	OPEN_ISSUE	https://github.com/sybil-solutions/local-ai-registry/issues/218	Bounty $50: recipe for GTX 1080 Ti 11 GB
+2	sn/bitcoin	8.6	-	OPEN_NEED	https://stacker.news/items/1593830	What's the Safest Way to Secure Your Keys?
+2	github	48.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Sara-Managed-Projects/space-radar/issues/585	Build simulator: Escape Velocity Ladder
+2	github	11.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/yosriady/openrampkit/issues/18	Exchange picker: verified network names and withdraw steps per exchange
+2	github	42.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/accensa/x402-facilitator-stellar/issues/549	docs: add the Trustlines heading two pages link to in SELLER.md
+2	github	42.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/accensa/x402-facilitator-stellar/issues/548	docs: document SERVER_STELLAR_PRIVATE_KEY the USDC preparer requires
+2	github	42.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/accensa/x402-facilitator-stellar/issues/544	docs: document FRIENDBOT_URL and FRIENDBOT_ATTEMPTS the funder reads
+2	github	43.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/accensa/x402-facilitator-stellar/issues/524	docs: docs name two npm scripts that do not exist
+2	github	55.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/SynapsVault/backend/issues/22	Replace floating-point USDC <-> stroops conversions with an exact BigInt helper
+2	github	56.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/SynapsVault/contracts/issues/30	Docs: add lifecycle diagrams for leases and subscriptions
+2	github	7.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1281	[radar] SN open bounty 2026-10-12T07:16
