@@ -1,0 +1,35 @@
+# score	source	age_h	payout_hint	tags	url	title
+7	sn/bitcoin	0.7	700 sats	OPEN_NEED,LOW_COMP	https://stacker.news/items/1593821	Peer-to-Peer Electronic Cash: SoV -> transactional UoA -> MoE -> Global UoA
+7	sn/bitcoin	2.6	000 sats	OPEN_NEED,LOW_COMP	https://stacker.news/items/1593777	⚡ Can you really use Bitcoin when you only have 1,000 sats?
+5	sn/bitcoin	15.6	$23	OPEN_NEED,LOW_COMP	https://stacker.news/items/1593271	I LOST $23,050 THROUGH  SafePal  TODAY.
+4	sn/bitcoin	9.5	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1593618	Sunday Survey: Are you going to any Bitcoin conferences this year?
+4	github	1.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/yosriady/openrampkit/issues/18	Exchange picker: verified network names and withdraw steps per exchange
+4	github	2.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/VARUN3WARE/textkit-bounty/issues/5	truncate() output is longer than the limit
+4	github	2.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/VARUN3WARE/textkit-bounty/issues/3	parse_duration() ignores seconds
+4	github	2.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/VARUN3WARE/textkit-bounty/issues/4	word_count() miscounts extra whitespace
+4	github	2.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/VARUN3WARE/textkit-bounty/issues/2	slugify() leaves repeated and trailing dashes
+4	github	2.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/VARUN3WARE/textkit-bounty/issues/1	chunk() drops the last partial chunk
+2	github	38.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Sara-Managed-Projects/space-radar/issues/585	Build simulator: Escape Velocity Ladder
+2	github	32.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/accensa/x402-facilitator-stellar/issues/549	docs: add the Trustlines heading two pages link to in SELLER.md
+2	github	32.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/accensa/x402-facilitator-stellar/issues/548	docs: document SERVER_STELLAR_PRIVATE_KEY the USDC preparer requires
+2	github	32.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/accensa/x402-facilitator-stellar/issues/544	docs: document FRIENDBOT_URL and FRIENDBOT_ATTEMPTS the funder reads
+2	github	33.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/accensa/x402-facilitator-stellar/issues/524	docs: docs name two npm scripts that do not exist
+2	github	45.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/SynapsVault/backend/issues/22	Replace floating-point USDC <-> stroops conversions with an exact BigInt helper
+2	github	47.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/SynapsVault/contracts/issues/30	Docs: add lifecycle diagrams for leases and subscriptions
+2	github	64.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pactlane/monorepo/issues/180	docs: testnet faucet + USDC guide
+2	github	64.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pactlane/monorepo/issues/3	stellar: USDC SAC contract id derivation helper
+2	github	66.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ibk-Bless/FarmPay/issues/20	Show the buyer's USDC balance on Create Order
+2	github	66.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ibk-Bless/FarmPay/issues/6	Add GET /accounts/:address/balance for the escrow token
+2	github	66.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/inowo-labs/inowo-app/issues/34	test: unit tests for amount parsing, formatting, and error messages
+2	github	5.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1279	[radar] SN open bounty 2026-10-12T00:27
+2	github	9.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1277	[radar] SN open bounty 2026-10-11T20:11
+2	github	13.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1305	[BOUNTY] Suggestion #1278
+2	github	14.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1275	[radar] SN open bounty 2026-10-11T15:34
+2	github	38.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/NSPG13/agent-bounties/issues/1632	[Bounty] Bring a real backlog: get an established open-source project to fund its first Agent Bounties bounty
+2	github	41.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1269	[radar] SN open bounty 2026-10-10T12:22
+0	github	71.0	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/29	Fund a test task yourself, from the faucet
+0	github	71.0	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/28	Count one invoice against GitHub's record, in a repository you own
+0	github	71.0	-	OPEN_ISSUE	https://github.com/drexthealpha/knos-playground/issues/27	Reproduce what Knos says, in your own fork
+0	github	13.4	-	OPEN_ISSUE	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1306	[BOUNTY] Suggestion #1277
+0	github	63.6	-	OPEN_ISSUE	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1292	[BOUNTY] Suggestion #1259
+0	github	63.6	-	OPEN_ISSUE	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1291	[BOUNTY] Suggestion #1268
