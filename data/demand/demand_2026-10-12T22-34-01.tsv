@@ -1,0 +1,37 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	1.3	000 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Godgift-care/sci-healthcare-contracts/issues/32	fix(registry): reject service prices above a sanity ceiling
+4	sn/bitcoin	3.2	-	OPEN_NEED	https://stacker.news/items/1594217	Looking for Podcasts without Sponsors
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/StrobeLabs/perpcity-zig-sdk/issues/42	README: replace stale PERP_MANAGER_ADDRESS env setup and verify Quick Start against current API
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/StrobeLabs/perpcity-sdk/issues/72	Replace leftover Base chain references with Arbitrum (rpc error message + wagmi example)
+4	github	1.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Godgift-care/sci-healthcare-frontend/issues/21	feat(web): check the USDC balance before asking to sign
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Dfunder/stellarAid-api/issues/882	DX: Improve error messages for missing Stellar asset issuer configuration
+4	github	2.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/SaboStudios/Tycoon-Monorepo/issues/1989	backend: tycoon-reward-system set_backend_minter/clear_backend_minter admin gate is untested and get_backend_minter has 
+3	github	4.3	$50	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1884	[Bounty] Bounty $50: recipe for Intel Arc B580 12 GB
+3	github	4.3	$50	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1883	[Bounty] Bounty $50: recipe for RTX 2080 Ti 11 GB
+3	github	4.3	$50	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1881	[Bounty] Bounty $50: recipe for RX 7900 XTX 24 GB
+3	github	4.3	$50	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1882	[Bounty] Bounty $50: recipe for GTX 1080 Ti 11 GB
+3	github	4.3	$50	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1880	[Bounty] Bounty $50: recipe for a 27B model on a 16 GB AMD card
+3	github	4.3	$50	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1879	[Bounty] Bounty $50: recipe for RTX 4060 Ti 16 GB
+3	github	4.3	$50	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1878	[Bounty] Bounty $50: recipe for RTX 5060 Ti 16 GB
+3	github	4.3	$50	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1877	[Bounty] Bounty $50: recipe for Ryzen AI 890M (Radeon 890M iGPU)
+3	github	9.4	$50	OPEN_ISSUE,LOW_COMP	https://github.com/sybil-solutions/local-ai-registry/issues/223	Bounty $50: recipe for Ryzen AI 890M (Radeon 890M iGPU)
+2	sn/bitcoin	8.2	-	OPEN_NEED	https://stacker.news/items/1594013	Could money scale through local blockchains?
+2	sn/bitcoin	15.9	-	OPEN_NEED	https://stacker.news/items/1593830	What's the Safest Way to Secure Your Keys?
+2	sn/bitcoin	10.0	-	OPEN_NEED	https://stacker.news/items/1593942	What’s the dumbest thing you did with Bitcoin when you were new?
+2	sn/tech	10.8	-	OPEN_NEED	https://stacker.news/items/1593906	I need a new Graphene friendly phone
+2	github	55.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Sara-Managed-Projects/space-radar/issues/585	Build simulator: Escape Velocity Ladder
+2	github	5.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyFanss/MyFans/issues/2019	Dashboard plans: validate() accepts zero and non-numeric amounts and never validates intervalDays
+2	github	6.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/SaboStudios/Tycoon-Monorepo/issues/1956	contract: tycoon-main-game pause() duration_ledgers boundary and double-pause guard are untested
+2	github	6.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/SaboStudios/Tycoon-Monorepo/issues/1955	contract: tycoon-collectibles stock_shop perk/strength validation matrix is only partially covered
+2	github	6.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/SaboStudios/Tycoon-Monorepo/issues/1943	contract: integration-tests fixture.rs has no test asserting the deployed contract addresses and pre-funded balances
+2	github	6.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/SaboStudios/Tycoon-Monorepo/issues/1917	contract: tycoon-game initialize() has no test asserting the reward_system address is persisted and readable
+2	github	6.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/SaboStudios/Tycoon-Monorepo/issues/1915	contract: tycoon-game set_collectible_info / set_cash_tier_value have no test for the non-owner auth rejection
+2	github	18.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/yosriady/openrampkit/issues/18	Exchange picker: verified network names and withdraw steps per exchange
+2	github	49.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/accensa/x402-facilitator-stellar/issues/549	docs: add the Trustlines heading two pages link to in SELLER.md
+2	github	49.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/accensa/x402-facilitator-stellar/issues/548	docs: document SERVER_STELLAR_PRIVATE_KEY the USDC preparer requires
+2	github	4.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1284	[radar] SN open bounty 2026-10-12T17:46
+2	github	7.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1283	[radar] SN open bounty 2026-10-12T15:12
+0	github	7.8	-	OPEN_ISSUE	https://github.com/FuRongJun-1999/dsh-bounty/issues/71	[悬赏] 灵枢生态宣传：材料 + 渠道 + 触达读数（可核验，不写「效果好」）
+0	github	7.8	-	OPEN_ISSUE	https://github.com/FuRongJun-1999/dsh-bounty/issues/70	[悬赏] 角色扮演游戏制作：可运行 + 可测（记忆/角色一致性为核）
+0	github	7.8	-	OPEN_ISSUE	https://github.com/FuRongJun-1999/dsh-bounty/issues/68	[悬赏] 灵枢大脑仓库迭代：缺陷修复 / 能力增强（PR 到 dsh-memory）
+0	github	7.8	-	OPEN_ISSUE	https://github.com/FuRongJun-1999/dsh-bounty/issues/67	[悬赏] 横向测评：各家角色扮演 / 记忆系统 / 智能体工作流方案（≥3 家 · 可复跑）
