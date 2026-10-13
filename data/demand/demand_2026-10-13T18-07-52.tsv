@@ -1,0 +1,33 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	3.8	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/MergeFi/frontend/issues/690	README's example user journey describes features the app doesn't have
+4	sn/bitcoin	16.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1594408	How to Live on Bitcoin in Costa Rica, the Real Bitcoin Country
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Heliobond/contracts/issues/666	[Regression on closed #331] dead storage/logic helpers still exist and make `cargo clippy -D warnings` fail
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/mimir-stellar/mimir-markets/issues/344	fix(agents): skip paid oracle opinions when traders run in dry-run mode
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ranjeet2063/aetherguard/issues/11	feat(soroban): Implement Multi-Token Spend Ceiling Invariant for Soroban Wallets
+4	github	3.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1312	[BOUNTY] Suggestion #1285
+3	github	4.9	000 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/MergeFi/backend/issues/575	budgetLocked counts the full amount of partially-paid milestone escrows
+2	sn/bitcoin	22.8	-	OPEN_NEED	https://stacker.news/items/1594217	Looking for Podcasts without Sponsors
+2	github	6.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Orbit-xyz/orbit-docs/issues/16	api-reference: usdc_amount must be an integer in raw token units
+2	github	20.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/StrobeLabs/perpcity-zig-sdk/issues/42	README: replace stale PERP_MANAGER_ADDRESS env setup and verify Quick Start against current API
+2	github	20.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/StrobeLabs/perpcity-sdk/issues/72	Replace leftover Base chain references with Arbitrum (rpc error message + wagmi example)
+2	github	20.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Godgift-care/sci-healthcare-frontend/issues/21	feat(web): check the USDC balance before asking to sign
+2	github	20.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Godgift-care/sci-healthcare-contracts/issues/32	fix(registry): reject service prices above a sanity ceiling
+2	github	20.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Dfunder/stellarAid-api/issues/882	DX: Improve error messages for missing Stellar asset issuer configuration
+2	github	22.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/SaboStudios/Tycoon-Monorepo/issues/1989	backend: tycoon-reward-system set_backend_minter/clear_backend_minter admin gate is untested and get_backend_minter has 
+2	github	24.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyFanss/MyFans/issues/2019	Dashboard plans: validate() accepts zero and non-numeric amounts and never validates intervalDays
+2	github	25.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/SaboStudios/Tycoon-Monorepo/issues/1956	contract: tycoon-main-game pause() duration_ledgers boundary and double-pause guard are untested
+2	github	25.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/SaboStudios/Tycoon-Monorepo/issues/1955	contract: tycoon-collectibles stock_shop perk/strength validation matrix is only partially covered
+2	github	3.6	-	OPEN_ISSUE	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1313	[BOUNTY] Suggestion #1286
+2	github	10.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1287	[radar] SN open bounty 2026-10-13T07:38
+0	github	10.9	-	OPEN_ISSUE	https://github.com/mscrnt/lockpick/issues/34	[B113] Try to pick something up with a full inventory
+0	github	10.9	-	OPEN_ISSUE	https://github.com/mscrnt/lockpick/issues/32	[B111] Pick up each key item (keys, crests, MO disk, emblems...)
+0	github	10.9	-	OPEN_ISSUE	https://github.com/mscrnt/lockpick/issues/31	[B110] Combine items
+0	github	10.9	-	OPEN_ISSUE	https://github.com/mscrnt/lockpick/issues/30	[B109] Get poisoned and cure it (blue herb or serum)
+0	github	10.9	-	OPEN_ISSUE	https://github.com/mscrnt/lockpick/issues/29	[B108] Use each healing item (green, red+green, blue, mixed herbs, first aid spray)
+0	github	10.9	-	OPEN_ISSUE	https://github.com/mscrnt/lockpick/issues/28	[B107] Use the rocket launcher (ending)
+0	github	10.9	-	OPEN_ISSUE	https://github.com/mscrnt/lockpick/issues/27	[B106] Use the flamethrower (Chris)
+0	github	10.9	-	OPEN_ISSUE	https://github.com/mscrnt/lockpick/issues/26	[B105] Use the bazooka with each round type (explosive, acid, flame)
+0	github	10.9	-	OPEN_ISSUE	https://github.com/mscrnt/lockpick/issues/25	[B104] Fire and reload the Colt Python / magnum
+0	github	10.9	-	OPEN_ISSUE	https://github.com/mscrnt/lockpick/issues/24	[B103] Fire and reload the shotgun
+0	github	10.9	-	OPEN_ISSUE	https://github.com/mscrnt/lockpick/issues/22	[B007] Play the Rebecca section (Chris scenario)
+0	github	10.9	-	OPEN_ISSUE	https://github.com/mscrnt/lockpick/issues/7	Capture bounties: help Lockpick learn the game
