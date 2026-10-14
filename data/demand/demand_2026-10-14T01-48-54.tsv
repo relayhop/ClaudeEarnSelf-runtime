@@ -1,0 +1,32 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	7.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1594773	Compact Shielded CSV: Post-Quantum, Private, Lightweight Client-Side Validation
+3	github	11.4	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/MergeFi/frontend/issues/690	README's example user journey describes features the app doesn't have
+3	github	12.6	000 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/MergeFi/backend/issues/575	budgetLocked counts the full amount of partially-paid milestone escrows
+3	github	1.9	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1891	[Bounty] 📋 2 open bounties right now
+3	github	4.1	$150	OPEN_ISSUE,LOW_COMP	https://github.com/habibdxb01/bounty-watcher/issues/5	📋 2 open bounties right now
+2	github	7.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Heliobond/contracts/issues/783	README tells users to set USDC_SAC_ADDRESS to a G... address — a Stellar Asset Contract id starts with C
+2	github	7.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Heliobond/contracts/issues/666	[Regression on closed #331] dead storage/logic helpers still exist and make `cargo clippy -D warnings` fail
+2	github	8.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/mimir-stellar/mimir-markets/issues/344	fix(agents): skip paid oracle opinions when traders run in dry-run mode
+2	github	8.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ranjeet2063/aetherguard/issues/11	feat(soroban): Implement Multi-Token Spend Ceiling Invariant for Soroban Wallets
+2	github	14.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Orbit-xyz/orbit-docs/issues/16	api-reference: usdc_amount must be an integer in raw token units
+2	github	27.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/StrobeLabs/perpcity-zig-sdk/issues/42	README: replace stale PERP_MANAGER_ADDRESS env setup and verify Quick Start against current API
+2	github	27.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/StrobeLabs/perpcity-sdk/issues/72	Replace leftover Base chain references with Arbitrum (rpc error message + wagmi example)
+2	github	28.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Godgift-care/sci-healthcare-frontend/issues/21	feat(web): check the USDC balance before asking to sign
+2	github	28.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Godgift-care/sci-healthcare-contracts/issues/32	fix(registry): reject service prices above a sanity ceiling
+2	github	28.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Dfunder/stellarAid-api/issues/882	DX: Improve error messages for missing Stellar asset issuer configuration
+2	github	29.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/SaboStudios/Tycoon-Monorepo/issues/1989	backend: tycoon-reward-system set_backend_minter/clear_backend_minter admin gate is untested and get_backend_minter has 
+2	github	32.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyFanss/MyFans/issues/2019	Dashboard plans: validate() accepts zero and non-numeric amounts and never validates intervalDays
+2	github	33.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/SaboStudios/Tycoon-Monorepo/issues/1956	contract: tycoon-main-game pause() duration_ledgers boundary and double-pause guard are untested
+2	github	7.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/ditto-assistant/ditto-subnet/issues/2872	Miner CLI: sign the contributor licence agreement (CLA) with the miner hotkey
+2	github	7.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/ditto-assistant/ditto-subnet/issues/2871	Miner CLI: attest a GitHub account and link it to the miner hotkey
+2	github	11.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1312	[BOUNTY] Suggestion #1285
+2	github	18.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1287	[radar] SN open bounty 2026-10-13T07:38
+0	github	11.3	-	OPEN_ISSUE	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1313	[BOUNTY] Suggestion #1286
+0	github	18.6	-	OPEN_ISSUE	https://github.com/mscrnt/lockpick/issues/34	[B113] Try to pick something up with a full inventory
+0	github	18.6	-	OPEN_ISSUE	https://github.com/mscrnt/lockpick/issues/32	[B111] Pick up each key item (keys, crests, MO disk, emblems...)
+0	github	18.6	-	OPEN_ISSUE	https://github.com/mscrnt/lockpick/issues/31	[B110] Combine items
+0	github	18.6	-	OPEN_ISSUE	https://github.com/mscrnt/lockpick/issues/30	[B109] Get poisoned and cure it (blue herb or serum)
+0	github	18.6	-	OPEN_ISSUE	https://github.com/mscrnt/lockpick/issues/29	[B108] Use each healing item (green, red+green, blue, mixed herbs, first aid spray)
+0	github	18.6	-	OPEN_ISSUE	https://github.com/mscrnt/lockpick/issues/28	[B107] Use the rocket launcher (ending)
+0	github	18.6	-	OPEN_ISSUE	https://github.com/mscrnt/lockpick/issues/27	[B106] Use the flamethrower (Chris)
+0	github	18.6	-	OPEN_ISSUE	https://github.com/mscrnt/lockpick/issues/26	[B105] Use the bazooka with each round type (explosive, acid, flame)
