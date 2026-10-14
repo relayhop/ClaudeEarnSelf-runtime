@@ -1,0 +1,33 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	13.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1594996	Working Together on Bitcoin’s Post-Quantum Readiness
+4	sn/bitcoin	23.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1594773	Compact Shielded CSV: Post-Quantum, Private, Lightweight Client-Side Validation
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Konfirm-xyz/konfirm-backend/issues/69	Amount regexes have no upper bound, can crash transaction building
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Konfirm-xyz/konfirm-frontend/issues/46	Currency-toggle buttons convey selection only by color — no aria-pressed
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Konfirm-xyz/konfirm-frontend/issues/37	Overview volume chart has no accessible equivalent for its data
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Konfirm-xyz/konfirm-contracts/issues/31	README's deploy walkthrough omits treasury's Vec<Address> CLI syntax and token sourcing
+3	github	27.6	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/MergeFi/frontend/issues/690	README's example user journey describes features the app doesn't have
+3	github	28.7	000 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/MergeFi/backend/issues/575	budgetLocked counts the full amount of partially-paid milestone escrows
+3	github	20.3	$150	OPEN_ISSUE,LOW_COMP	https://github.com/habibdxb01/bounty-watcher/issues/5	📋 2 open bounties right now
+2	github	4.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/DeepFirstHQ/deepfirstsearch/issues/47	`agent-pay check`: accept an MCP config file as the registry
+2	github	6.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Konfirm-xyz/konfirm-backend/issues/46	admin-exchange-rate.service.ts's live-rate fetch has no timeout
+2	github	6.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Haroldwonder/SwiftRemit/issues/1687	create_remittance_with_corridor reads the USDC token twice
+2	github	6.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Haroldwonder/SwiftRemit/issues/1637	create_remittance panics via unwrap() when USDC token is not set
+2	github	8.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/ADWilkinson/rampridge/issues/4	Keyboard route to the bankers: open the Bank or Exchange without a mouse
+2	github	23.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Heliobond/contracts/issues/783	README tells users to set USDC_SAC_ADDRESS to a G... address — a Stellar Asset Contract id starts with C
+2	github	24.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Heliobond/contracts/issues/666	[Regression on closed #331] dead storage/logic helpers still exist and make `cargo clippy -D warnings` fail
+2	github	24.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/mimir-stellar/mimir-markets/issues/344	fix(agents): skip paid oracle opinions when traders run in dry-run mode
+2	github	24.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ranjeet2063/aetherguard/issues/11	feat(soroban): Implement Multi-Token Spend Ceiling Invariant for Soroban Wallets
+2	github	27.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1312	[BOUNTY] Suggestion #1285
+2	github	34.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1287	[radar] SN open bounty 2026-10-13T07:38
+1	github	18.0	$150	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1891	[Bounty] 📋 2 open bounties right now
+0	github	23.6	-	OPEN_ISSUE	https://github.com/ditto-assistant/ditto-subnet/issues/2872	Miner CLI: sign the contributor licence agreement (CLA) with the miner hotkey
+0	github	23.6	-	OPEN_ISSUE	https://github.com/ditto-assistant/ditto-subnet/issues/2871	Miner CLI: attest a GitHub account and link it to the miner hotkey
+0	github	27.4	-	OPEN_ISSUE	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1313	[BOUNTY] Suggestion #1286
+0	github	34.7	-	OPEN_ISSUE	https://github.com/mscrnt/lockpick/issues/34	[B113] Try to pick something up with a full inventory
+0	github	34.7	-	OPEN_ISSUE	https://github.com/mscrnt/lockpick/issues/32	[B111] Pick up each key item (keys, crests, MO disk, emblems...)
+0	github	34.7	-	OPEN_ISSUE	https://github.com/mscrnt/lockpick/issues/31	[B110] Combine items
+0	github	34.7	-	OPEN_ISSUE	https://github.com/mscrnt/lockpick/issues/30	[B109] Get poisoned and cure it (blue herb or serum)
+0	github	34.7	-	OPEN_ISSUE	https://github.com/mscrnt/lockpick/issues/29	[B108] Use each healing item (green, red+green, blue, mixed herbs, first aid spray)
+0	github	34.7	-	OPEN_ISSUE	https://github.com/mscrnt/lockpick/issues/28	[B107] Use the rocket launcher (ending)
+0	github	34.7	-	OPEN_ISSUE	https://github.com/mscrnt/lockpick/issues/27	[B106] Use the flamethrower (Chris)
+0	github	34.7	-	OPEN_ISSUE	https://github.com/mscrnt/lockpick/issues/26	[B105] Use the bazooka with each round type (explosive, acid, flame)
