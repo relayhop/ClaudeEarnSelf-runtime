@@ -1,0 +1,40 @@
+# score	source	age_h	payout_hint	tags	url	title
+7	sn/bitcoin	0.5	$4	OPEN_NEED,LOW_COMP	https://stacker.news/items/1596037	Live from TabConf 8 | SNL #246
+4	github	1.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/aizuanjeme/satquest/issues/5	i18n: Add French (fr) translation
+4	github	1.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/aizuanjeme/satquest/issues/4	i18n: Add Nigerian Pidgin / Naijá (pcm) translation
+4	github	1.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/aizuanjeme/satquest/issues/3	i18n: Add Igbo (ig) translation
+4	github	1.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/aizuanjeme/satquest/issues/2	i18n: Add Hausa (ha) translation
+4	github	1.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/aizuanjeme/satquest/issues/1	i18n: Review Yorùbá (yo) translation
+4	github	0.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/ssupportme/support-me/issues/280	Backend: Add a Prisma seed script for testnet demo data
+4	github	0.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/ssupportme/support-me/issues/243	Frontend: Accept USDT toggle in Settings is styled as a text input
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Novatip/novatip-contracts/issues/156	make deploy and the scripts fail unless .env is sourced by hand
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Konfirm-xyz/konfirm-frontend/issues/119	Treasury USDC balance renders 7 decimal places as a dollar amount
+4	github	2.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/ceejaylaboratory/AnchorPoint/issues/1534	fix(dashboard): re-fetch price chart data on asset switch
+4	github	2.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/ceejaylaboratory/AnchorPoint/issues/1454	fix(dashboard): re-fetch price chart data on asset switch
+4	github	3.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hamplard-Hub/Hamplard-backend/issues/318	Bring `.env.example` in sync with the variables the code reads
+4	github	3.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-searchss/issues/372	Rewrite TROUBLESHOOTING.md into a real troubleshooting guide
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/ditto-assistant/ditto-subnet/issues/2944	Evaluate one scoped build-bounty pilot against an internal build
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/ditto-assistant/ditto-subnet/issues/2943	Add bounty operator controls and gate funded activation
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/ditto-assistant/ditto-subnet/issues/2942	Implement paid bounty slots, alpha fee confirmation, and submission deadlines
+3	github	13.4	$30	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1892	[Bounty] [BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid
+2	sn/bitcoin	20.4	-	OPEN_NEED	https://stacker.news/items/1595458	Latest Strikes 38 to 41 - September 14th - October 11th - We're so back
+2	github	18.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/virtualtradrs/global-btc-nodes/issues/9	Write docs/data-dictionary.md: every dataset field, unit and enforced range
+2	github	18.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/virtualtradrs/global-btc-nodes/issues/6	Write docs/data-dictionary.md: every dataset field, unit and enforced range
+2	github	3.7	-	OPEN_ISSUE	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-searchss/issues/456	Add a table of contents to the README
+2	github	3.9	-	OPEN_ISSUE	https://github.com/Octo-Protocol-org/Octo-frontend/issues/446	Make `pnpm lint` fail on warnings and clear the existing ones
+2	github	4.0	-	OPEN_ISSUE	https://github.com/Neurowealth/NeuroWealth-Smartcontract/issues/1009	test(contract): withdrawal-queue tests never assert token balances
+2	github	4.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Frontend-/issues/883	bug: bridge still caps USDC at 2 decimal places, and Max fills a 7-decimal value that is then truncated
+2	github	4.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Konfirm-xyz/konfirm-frontend/issues/107	Anchor popup window handle never captured or closed, left orphaned after back-navigation
+2	github	4.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Konfirm-xyz/konfirm-frontend/issues/94	Suspected: get-test-usdc amount field accepts NaN-producing input past validation
+2	github	3.7	-	OPEN_ISSUE	https://github.com/uvsmtid/protoprimer/issues/143	Add `ShellDriverSh`: use `/bin/sh` when `SHELL` is not set
+0	github	4.1	-	OPEN_ISSUE	https://github.com/Neurowealth/NeuroWealth-Smartcontract/issues/983	enhancement(contract): batch_deposit should make one token transfer instead of one per entry
+0	github	16.8	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/1416	Add interactive OpenAPI Swagger / Scalar documentation route at /docs/api
+0	github	17.0	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/1405	Add end-to-end test suite for escrow dispute and resolution flow
+0	github	17.2	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/1389	Add session re-authentication check on critical administrative actions
+0	github	17.3	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/1386	Implement timing-safe HMAC signature verification in webhook handler
+0	github	17.3	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/1384	Add custom asset trustline creation quick-action modal in wallet selector
+0	github	17.4	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/1378	Add drag-and-drop CSV batch upload zone with visual upload progress feedback
+0	github	17.4	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/1377	Add interactive vesting timeline and claim simulator for payment streams UI
+0	github	17.4	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/1375	Add QR code payment request generator with configurable amounts and assets
+0	github	17.4	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/1373	Add live network transaction fee estimator widget to payment submission form
+0	github	17.5	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/1368	Validate Stellar transaction memo encoding and character set on payment routes
