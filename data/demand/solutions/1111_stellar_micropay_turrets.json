@@ -1,0 +1,70 @@
+{
+  "target": {
+    "repository": "Emmy123222/Stellar-MicroPay",
+    "issue_id": 1111,
+    "url": "https://github.com/Emmy123222/Stellar-MicroPay/issues/1111",
+    "title": "docs: document Turrets DCA and stop-loss configuration with example JSON",
+    "reward_hint": "10 USDC",
+    "reward_currency": "USDC",
+    "reward_amount": 10.0
+  },
+  "configurations": {
+    "dca": {
+      "strategy": "dollar_cost_averaging",
+      "version": "1.0.0",
+      "network": "testnet",
+      "networkPassphrase": "Test SDF Network ; September 2015",
+      "turretEndpoint": "https://turret-01.stellar-micropay.testnet.internal/tx/create",
+      "sourceAccount": "GBBD47IF6LWK7P7MDEVSCWR7DPUWV3NY3DTQEVFL4NAT4AQH3ZLLFLA5",
+      "parameters": {
+        "intervalMinutes": 60,
+        "amountQuote": "10.0000000",
+        "quoteAsset": {
+          "code": "USDC",
+          "issuer": "GBBD47IF6LWK7P7MDEVSCWR7DPUWV3NY3DTQEVFL4NAT4AQH3ZLLFLA5"
+        },
+        "baseAsset": {
+          "code": "XLM",
+          "issuer": null
+        },
+        "maxSlippageBps": 100,
+        "executionPath": ["USDC", "XLM"]
+      },
+      "schedule": {
+        "cron": "0 * * * *",
+        "active": true
+      }
+    },
+    "stop_loss": {
+      "strategy": "stop_loss_liquidation",
+      "version": "1.0.0",
+      "network": "testnet",
+      "networkPassphrase": "Test SDF Network ; September 2015",
+      "turretEndpoint": "https://turret-01.stellar-micropay.testnet.internal/tx/create",
+      "sourceAccount": "GBBD47IF6LWK7P7MDEVSCWR7DPUWV3NY3DTQEVFL4NAT4AQH3ZLLFLA5",
+      "parameters": {
+        "baseAsset": {
+          "code": "XLM",
+          "issuer": null
+        },
+        "quoteAsset": {
+          "code": "USDC",
+          "issuer": "GBBD47IF6LWK7P7MDEVSCWR7DPUWV3NY3DTQEVFL4NAT4AQH3ZLLFLA5"
+        },
+        "stopLossPrice": "0.0900000",
+        "liquidationMode": "full_balance",
+        "oracleContract": "CDLZFC3SYJYDZT7K67VZ75HPJVIEUVNIXF47ZG2FB2RMQQVU2HHGCYSC",
+        "oracleTolerableDelaySeconds": 180
+      },
+      "monitoring": {
+        "pollIntervalSeconds": 30,
+        "active": true
+      }
+    }
+  },
+  "known_limitations": [
+    "Testnet Only: Turrets automation runtime operates exclusively against the Stellar Testnet (Test SDF Network ; September 2015).",
+    "Manual Top-Up Required: Turret smart contract fee reserves require manual XLM top-up to cover base reserve operations and signing fees.",
+    "Oracle Latency: Price triggers evaluate on 30-second poll cycles subject to oracle freshness thresholds."
+  ]
+}

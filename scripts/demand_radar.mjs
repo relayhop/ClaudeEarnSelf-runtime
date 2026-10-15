@@ -19,7 +19,7 @@ const OUT_DIR = path.resolve(process.env.OUT_DIR || 'logs/demand');
 fs.mkdirSync(OUT_DIR, { recursive: true });
 
 const NEED_PATTERNS = /\b(need|looking for|will pay|dm if|help with|hire|paying|bounty for|wtb)\b/i;
-const PAYOUT_HINT = /\$([0-9]+(?:\.[0-9]+)?)|(\d+)\s*(?:sats|sat|usdc|usd|eth|btc)\b/i;
+const PAYOUT_HINT = /(?:[\$€£]\s*(?:\d{1,3}(?:,\d{3})*|\d+)(?:\.\d+)?|\b(?:\d{1,3}(?:,\d{3})*|\d+)(?:\.\d+)?\s*(?:sats?|usdc|usdt|usd|eth|btc)\b)/i;
 const QUESTION_HINT = /\?\s*$|^\s*how (do|can|to)|^\s*can someone/i;
 
 // ---------- 1. Stacker News GraphQL ----------
@@ -88,8 +88,8 @@ async function fetchGitHub() {
       for (const it of (j.items || [])) {
         const ageH = (Date.now() - new Date(it.created_at).getTime()) / 3600000;
         if (ageH > 72) continue;
-        const body = (it.body || '').slice(0, 500);
-        const payout = body.match(PAYOUT_HINT)?.[0] || '';
+        const text = `${it.title || ''} ${(it.body || '').slice(0, 1000)}`;
+        const payout = text.match(PAYOUT_HINT)?.[0] || '';
         out.push({
           source: 'github',
           id: String(it.number),
