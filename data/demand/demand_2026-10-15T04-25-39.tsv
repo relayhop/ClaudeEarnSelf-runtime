@@ -1,0 +1,34 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	3.4	0125 ETH	OPEN_ISSUE,LOW_COMP	https://github.com/verdikta/verdikta-applications/issues/76	[BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid on Poidh, Base)
+4	sn/bitcoin	6.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1595458	Latest Strikes 38 to 41 - September 14th - October 11th - We're so back
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/virtualtradrs/global-btc-nodes/issues/9	Write docs/data-dictionary.md: every dataset field, unit and enforced range
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/virtualtradrs/global-btc-nodes/issues/6	Write docs/data-dictionary.md: every dataset field, unit and enforced range
+4	github	3.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/1357	Add stream cancellation pro-rata refund verification for partial elapsed periods
+4	github	3.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/1353	Validate dispute timeout window in resolve_dispute to prevent premature resolution
+3	github	38.1	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/MergeFi/frontend/issues/690	README's example user journey describes features the app doesn't have
+2	github	4.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/use-assay/Assay/issues/364	Asset code case sensitivity: table tests for `usdc` versus `USDC`
+2	github	10.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Konfirm-xyz/konfirm-backend/issues/69	Amount regexes have no upper bound, can crash transaction building
+2	github	10.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Konfirm-xyz/konfirm-frontend/issues/46	Currency-toggle buttons convey selection only by color — no aria-pressed
+2	github	10.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Konfirm-xyz/konfirm-frontend/issues/37	Overview volume chart has no accessible equivalent for its data
+2	github	11.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Konfirm-xyz/konfirm-contracts/issues/31	README's deploy walkthrough omits treasury's Vec<Address> CLI syntax and token sourcing
+2	github	15.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/DeepFirstHQ/deepfirstsearch/issues/47	`agent-pay check`: accept an MCP config file as the registry
+2	github	16.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Konfirm-xyz/konfirm-backend/issues/46	admin-exchange-rate.service.ts's live-rate fetch has no timeout
+2	github	17.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Haroldwonder/SwiftRemit/issues/1687	create_remittance_with_corridor reads the USDC token twice
+2	github	17.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Haroldwonder/SwiftRemit/issues/1637	create_remittance panics via unwrap() when USDC token is not set
+2	github	19.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/ADWilkinson/rampridge/issues/4	Keyboard route to the bankers: open the Bank or Exchange without a mouse
+2	github	34.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Heliobond/contracts/issues/783	README tells users to set USDC_SAC_ADDRESS to a G... address — a Stellar Asset Contract id starts with C
+2	github	34.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Heliobond/contracts/issues/666	[Regression on closed #331] dead storage/logic helpers still exist and make `cargo clippy -D warnings` fail
+2	github	34.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/mimir-stellar/mimir-markets/issues/344	fix(agents): skip paid oracle opinions when traders run in dry-run mode
+2	github	34.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ranjeet2063/aetherguard/issues/11	feat(soroban): Implement Multi-Token Spend Ceiling Invariant for Soroban Wallets
+2	github	2.7	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/1416	Add interactive OpenAPI Swagger / Scalar documentation route at /docs/api
+2	github	2.9	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/1405	Add end-to-end test suite for escrow dispute and resolution flow
+2	github	3.1	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/1389	Add session re-authentication check on critical administrative actions
+2	github	3.1	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/1386	Implement timing-safe HMAC signature verification in webhook handler
+2	github	3.1	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/1384	Add custom asset trustline creation quick-action modal in wallet selector
+2	github	3.2	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/1378	Add drag-and-drop CSV batch upload zone with visual upload progress feedback
+2	github	3.2	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/1377	Add interactive vesting timeline and claim simulator for payment streams UI
+2	github	3.3	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/1375	Add QR code payment request generator with configurable amounts and assets
+2	github	3.3	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/1373	Add live network transaction fee estimator widget to payment submission form
+2	github	3.3	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/1368	Validate Stellar transaction memo encoding and character set on payment routes
+2	github	3.4	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/1364	Add RFC 7807 problem details error formatting across all /api/payments routes
+2	github	3.4	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/1361	Add cursor-based pagination and sorting to /api/audit-log route
