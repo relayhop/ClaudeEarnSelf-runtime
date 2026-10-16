@@ -1,0 +1,17 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	6.2	$4	OPEN_NEED,LOW_COMP	https://stacker.news/items/1596037	Live from TabConf 8 | SNL #246
+4	github	3.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/DeepFirstHQ/deepfirstsearch/issues/56	sdk: a shared regression for 402-declared decimals across every entry point
+2	github	3.8	-	OPEN_ISSUE	https://github.com/Kaycee276/Chesster/issues/460	[CONTRACTS] fix(escrow): enforce minimum wager threshold check per whitelisted token
+2	github	5.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/SO4-Markets/interface/issues/841	Token icons hot-linked from an unpinned third-party GitHub branch
+2	github	5.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/SO4-Markets/interface/issues/840	Add tests for the full oracle price fallback chain
+2	github	5.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/ssupportme/support-me/issues/298	Docs: Add a testnet troubleshooting/FAQ page mapping each in-app error to its cause and fix
+2	github	5.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/ssupportme/support-me/issues/296	Docs: Add a testnet quickstart (Freighter on Testnet, Friendbot funding, USDC trustline, first tip)
+2	github	5.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/ssupportme/support-me/issues/280	Backend: Add a Prisma seed script for testnet demo data
+2	github	5.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/ssupportme/support-me/issues/243	Frontend: Accept USDT toggle in Settings is styled as a text input
+2	github	7.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Konfirm-xyz/konfirm-frontend/issues/119	Treasury USDC balance renders 7 decimal places as a dollar amount
+2	github	8.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/ceejaylaboratory/AnchorPoint/issues/1534	fix(dashboard): re-fetch price chart data on asset switch
+2	github	8.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/ceejaylaboratory/AnchorPoint/issues/1454	fix(dashboard): re-fetch price chart data on asset switch
+2	github	9.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Hamplard-Hub/Hamplard-backend/issues/318	Bring `.env.example` in sync with the variables the code reads
+2	github	9.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-searchss/issues/372	Rewrite TROUBLESHOOTING.md into a real troubleshooting guide
+0	github	6.5	-	OPEN_ISSUE	https://github.com/Novatip/novatip-contracts/issues/156	make deploy and the scripts fail unless .env is sourced by hand
+0	github	9.4	-	OPEN_ISSUE	https://github.com/StellarAgent-AI-Agent-Payment-Rails/Stellar-searchss/issues/456	Add a table of contents to the README
