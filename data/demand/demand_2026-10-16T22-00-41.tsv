@@ -1,0 +1,42 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	16.9	$3.02	OPEN_NEED,LOW_COMP	https://stacker.news/items/1596311	2026 North America Crypto Adoption: $3.02T, Agentic Rails
+4	sn/bitcoin	10.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1596404	**Lightning in a Jar: where it stands, and looking for LND operators**
+3	sn/bitcoin	6.3	$3.50	OPEN_NEED	https://stacker.news/items/1596515	Sword < Pen < Home Mining < High Hashrate Home Mining
+3	github	4.4	0 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/836	ExitDesk exit can pay zero USDC, and a 100 percent spread is accepted
+3	github	4.6	000 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/729	Unit-test formatDecimalString and formatScaledBigintString
+3	github	24.1	$105	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1912	[Bounty] [Bounty: $105] checkStellarRecipientReady must not report RPC outages as missing
+3	github	24.1	$90	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1909	[Bounty] [Bounty: $90] Make estimateFee agree with transfer() on maxFee and maxWait fallb
+2	sn/tech	10.5	-	OPEN_NEED	https://stacker.news/items/1596388	Another day, another project 🌅
+2	github	29.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/aizuanjeme/satquest/issues/5	i18n: Add French (fr) translation
+2	github	29.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/aizuanjeme/satquest/issues/4	i18n: Add Nigerian Pidgin / Naijá (pcm) translation
+2	github	29.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/aizuanjeme/satquest/issues/3	i18n: Add Igbo (ig) translation
+2	github	29.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/aizuanjeme/satquest/issues/2	i18n: Add Hausa (ha) translation
+2	github	29.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/aizuanjeme/satquest/issues/1	i18n: Review Yorùbá (yo) translation
+2	github	45.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/virtualtradrs/global-btc-nodes/issues/9	Write docs/data-dictionary.md: every dataset field, unit and enforced range
+2	github	45.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/virtualtradrs/global-btc-nodes/issues/6	Write docs/data-dictionary.md: every dataset field, unit and enforced range
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/973	Explain the hardcoded USDC currency on repo margin calls in repoMargin.ts
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/937	payout-hop: make the payout asset code configurable instead of hard-coded USDC
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/936	payout-hop: fix the stale ASSUMPTION comments in hop.ts
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/933	payout-hop: PAYOUT_HOP_MAX_AMOUNT accepts negatives, throws raw SyntaxError on decimals
+2	github	4.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/842	RepoDvp allows a lender to propose a repo with themselves as the cash borrower
+2	github	4.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/831	Add the unit count, price and recipient to the ExitDesk exit event
+2	github	4.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/817	docs: add rustdoc to the undocumented public API of credit-line and pledge-vault
+2	github	4.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/667	Extend CODEOWNERS to payout-hop, issuer-gateway, deploy tooling and the Dockerfile
+2	github	4.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/633	README: document the lender flow including liquidation closing and withdrawals
+2	github	4.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/milepost-labs/milepost/issues/483	Landing money path: announce each step
+2	github	4.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/632	README: document the exit flow (quote lifetime, slippage floor, statuses)
+2	github	4.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/milepost-labs/milepost/issues/441	Programme detail: show the programme's asset
+2	github	10.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/3332	[Bounty] Answer 2 linked question(s) as a lesson
+2	github	11.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Uuriko/project-room/issues/3781	Paid public-work: the work receipt (pwr_) and the payout receipt (lot_) never cross-reference each other
+2	github	18.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Uuriko/project-room/issues/3709	[launch-readiness] The neglect ladder pays junk at 35.6 cr/h under a passive operator; only reviewer diligence bounds it
+2	github	18.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Uuriko/project-room/issues/3708	[launch-readiness] Rotation caps exist nowhere in code, and even perfectly enforced they leak: collusion ring extracted 
+2	github	18.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Uuriko/project-room/issues/3704	[launch-readiness] Fresh lanes are STANDARD band, not probation: the rail does not make FS-14 established-lane-only as t
+2	github	18.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Uuriko/project-room/issues/3703	[launch-readiness] The challenge window cannot protect the sponsor on the rail: post-window disputes freeze payouts, and
+2	github	18.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Uuriko/project-room/issues/3702	[launch-readiness] Rail disputes are undecidable and default to paying the claimant: a confederate dispute freezes the v
+1	github	24.1	$105	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1915	[Bounty] [Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hits transi
+1	github	24.1	$105	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1913	[Bounty] [Bounty: $105] Tolerate transient Iris failures in getAttestation and resolveBur
+1	github	24.1	$105	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1914	[Bounty] [Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no
+1	github	24.1	$125	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1911	[Bounty] [Bounty: $125] Add AbortSignal support across transfer, completeMint, and attest
+1	github	24.1	$125	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1910	[Bounty] [Bounty: $125] Add structured progress callbacks to transfer()
+0	github	4.8	-	OPEN_ISSUE	https://github.com/godwinishaku506-hub/stellar-CrowdPay--Blockchain/issues/278	backend/.env.example and root .env.example drift from env.js REQUIRED lists
+0	github	18.9	-	OPEN_ISSUE	https://github.com/Uuriko/project-room/issues/3707	[launch-readiness] Claim squatting is free and unbounded: one lane held the whole tranche-1 shelf for 72h at zero cost, 
