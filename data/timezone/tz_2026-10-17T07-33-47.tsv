@@ -1,0 +1,4 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH_LOW_COMP	github	3.7	0	0	https://github.com/odiseo159-beep/mergit/issues/2	Attack the reentrancy guard, do not just trust it
+FRESH_LOW_COMP	github	3.7	0	0	https://github.com/odiseo159-beep/mergit/issues/1	Prove the race between challenging and refunding
+FRESH	sn/bitcoin	3.9	0	0	https://stacker.news/items/1596870	Zero stroke - Wikipedia (1920s mental illness connected to hyperinflation)
