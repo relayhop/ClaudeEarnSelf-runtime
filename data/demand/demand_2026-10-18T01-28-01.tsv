@@ -1,0 +1,38 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/MicahHeneveld/bros-analysis/issues/3	Bounty: ultrank_11_20 — 250 frames (label from scratch) [3/6]
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/MicahHeneveld/bros-analysis/issues/2	Bounty: ultrank_11_20 — 250 frames (label from scratch) [2/6]
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/MicahHeneveld/bros-analysis/issues/1	Bounty: ultrank_11_20 — 250 frames (label from scratch) [1/6]
+3	github	9.9	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/devdavidejesus/btc-toolkit/issues/63	Cookbook: --json recipes with jq
+3	github	31.9	0 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/836	ExitDesk exit can pay zero USDC, and a 100 percent spread is accepted
+3	github	32.1	000 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/729	Unit-test formatDecimalString and formatScaledBigintString
+3	github	14.9	100 sats	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1300	[radar] SN open bounty 2026-10-17T10:32
+2	github	15.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Isonimus/esp32-dragon-radar/issues/2	A setting to hide the radar's HUD text
+2	github	56.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/aizuanjeme/satquest/issues/5	i18n: Add French (fr) translation
+2	github	56.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/aizuanjeme/satquest/issues/4	i18n: Add Nigerian Pidgin / Naijá (pcm) translation
+2	github	56.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/aizuanjeme/satquest/issues/3	i18n: Add Igbo (ig) translation
+2	github	56.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/aizuanjeme/satquest/issues/2	i18n: Add Hausa (ha) translation
+2	github	56.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/aizuanjeme/satquest/issues/1	i18n: Review Yorùbá (yo) translation
+2	github	31.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/973	Explain the hardcoded USDC currency on repo margin calls in repoMargin.ts
+2	github	31.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/937	payout-hop: make the payout asset code configurable instead of hard-coded USDC
+2	github	31.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/936	payout-hop: fix the stale ASSUMPTION comments in hop.ts
+2	github	31.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/933	payout-hop: PAYOUT_HOP_MAX_AMOUNT accepts negatives, throws raw SyntaxError on decimals
+2	github	31.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/842	RepoDvp allows a lender to propose a repo with themselves as the cash borrower
+2	github	31.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/831	Add the unit count, price and recipient to the ExitDesk exit event
+2	github	31.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/817	docs: add rustdoc to the undocumented public API of credit-line and pledge-vault
+2	github	32.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/667	Extend CODEOWNERS to payout-hop, issuer-gateway, deploy tooling and the Dockerfile
+2	github	32.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/633	README: document the lender flow including liquidation closing and withdrawals
+2	github	32.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/milepost-labs/milepost/issues/483	Landing money path: announce each step
+2	github	32.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/632	README: document the exit flow (quote lifetime, slippage floor, statuses)
+2	github	32.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/milepost-labs/milepost/issues/441	Programme detail: show the programme's asset
+2	github	0.3	-	OPEN_ISSUE	https://github.com/MicahHeneveld/bros-analysis/issues/6	Bounty: ultrank_11_20 — 250 frames (label from scratch) [6/6]
+2	github	0.4	-	OPEN_ISSUE	https://github.com/MicahHeneveld/bros-analysis/issues/5	Bounty: ultrank_11_20 — 250 frames (label from scratch) [5/6]
+2	github	0.4	-	OPEN_ISSUE	https://github.com/MicahHeneveld/bros-analysis/issues/4	Bounty: ultrank_11_20 — 250 frames (label from scratch) [4/6]
+2	github	14.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/3431	[Bounty] Answer the 2 linked question(s)
+2	github	14.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/3430	[Bounty] Answer the 3 linked question(s)
+2	github	21.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/odiseo159-beep/mergit/issues/2	Attack the reentrancy guard, do not just trust it
+2	github	21.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/odiseo159-beep/mergit/issues/1	Prove the race between challenging and refunding
+2	github	37.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/3332	[Bounty] Answer 2 linked question(s) as a lesson
+0	github	32.3	-	OPEN_ISSUE	https://github.com/godwinishaku506-hub/stellar-CrowdPay--Blockchain/issues/278	backend/.env.example and root .env.example drift from env.js REQUIRED lists
+0	github	46.4	-	OPEN_ISSUE	https://github.com/Uuriko/project-room/issues/3709	[launch-readiness] The neglect ladder pays junk at 35.6 cr/h under a passive operator; only reviewer diligence bounds it
+0	github	46.4	-	OPEN_ISSUE	https://github.com/Uuriko/project-room/issues/3708	[launch-readiness] Rotation caps exist nowhere in code, and even perfectly enforced they leak: collusion ring extracted 
+0	github	46.4	-	OPEN_ISSUE	https://github.com/Uuriko/project-room/issues/3704	[launch-readiness] Fresh lanes are STANDARD band, not probation: the rail does not make FS-14 established-lane-only as t
