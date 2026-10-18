@@ -1,0 +1,40 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Konfirm-xyz/konfirm-frontend/issues/162	Disable spellcheck on Stellar address and paging-token inputs
+4	github	1.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/LORDSINE/bounty-bot-e2e/issues/1	Fix calc.py: average() wrong for normal lists and clamp() returns low for out-of-range high
+4	github	2.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/mozzimorzam-sudo/project100-mcp/issues/7	Add rate limiting to /api/v1/artifacts endpoint
+3	github	9.2	129 sats	OPEN_ISSUE,LOW_COMP	https://github.com/Djbrl/bitbounty-demo/issues/4	README: show a payout in sats and FCFA, step by step
+3	github	9.2	345678 sats	OPEN_ISSUE,LOW_COMP	https://github.com/Djbrl/bitbounty-demo/issues/1	formatXof shows "1 500000 FCFA" for amounts of a million or more
+3	github	20.0	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/devdavidejesus/btc-toolkit/issues/63	Cookbook: --json recipes with jq
+3	github	42.0	0 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/836	ExitDesk exit can pay zero USDC, and a 100 percent spread is accepted
+3	github	42.2	000 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/729	Unit-test formatDecimalString and formatScaledBigintString
+2	github	25.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Isonimus/esp32-dragon-radar/issues/2	A setting to hide the radar's HUD text
+2	github	66.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/aizuanjeme/satquest/issues/5	i18n: Add French (fr) translation
+2	github	66.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/aizuanjeme/satquest/issues/4	i18n: Add Nigerian Pidgin / Naijá (pcm) translation
+2	github	66.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/aizuanjeme/satquest/issues/3	i18n: Add Igbo (ig) translation
+2	github	66.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/aizuanjeme/satquest/issues/2	i18n: Add Hausa (ha) translation
+2	github	67.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/aizuanjeme/satquest/issues/1	i18n: Review Yorùbá (yo) translation
+2	github	5.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/LabsCrypt/remitlend/issues/2019	[Bug][Backend] loanController.requestLoan compares human-readable token amount against poolBalance in stroops (10^7 unit
+2	github	41.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/973	Explain the hardcoded USDC currency on repo margin calls in repoMargin.ts
+2	github	41.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/937	payout-hop: make the payout asset code configurable instead of hard-coded USDC
+2	github	41.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/936	payout-hop: fix the stale ASSUMPTION comments in hop.ts
+2	github	41.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/933	payout-hop: PAYOUT_HOP_MAX_AMOUNT accepts negatives, throws raw SyntaxError on decimals
+2	github	42.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/842	RepoDvp allows a lender to propose a repo with themselves as the cash borrower
+2	github	42.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/831	Add the unit count, price and recipient to the ExitDesk exit event
+2	github	42.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/817	docs: add rustdoc to the undocumented public API of credit-line and pledge-vault
+2	github	42.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/667	Extend CODEOWNERS to payout-hop, issuer-gateway, deploy tooling and the Dockerfile
+2	github	42.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/633	README: document the lender flow including liquidation closing and withdrawals
+2	github	42.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/milepost-labs/milepost/issues/483	Landing money path: announce each step
+2	github	10.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/MicahHeneveld/bros-analysis/issues/6	Bounty: ultrank_11_20 — 250 frames (label from scratch) [6/6]
+2	github	10.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/MicahHeneveld/bros-analysis/issues/5	Bounty: ultrank_11_20 — 250 frames (label from scratch) [5/6]
+2	github	10.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/MicahHeneveld/bros-analysis/issues/4	Bounty: ultrank_11_20 — 250 frames (label from scratch) [4/6]
+2	github	10.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/MicahHeneveld/bros-analysis/issues/3	Bounty: ultrank_11_20 — 250 frames (label from scratch) [3/6]
+2	github	10.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/MicahHeneveld/bros-analysis/issues/2	Bounty: ultrank_11_20 — 250 frames (label from scratch) [2/6]
+2	github	10.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/MicahHeneveld/bros-analysis/issues/1	Bounty: ultrank_11_20 — 250 frames (label from scratch) [1/6]
+1	github	25.1	100 sats	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1300	[radar] SN open bounty 2026-10-17T10:32
+0	github	42.4	-	OPEN_ISSUE	https://github.com/godwinishaku506-hub/stellar-CrowdPay--Blockchain/issues/278	backend/.env.example and root .env.example drift from env.js REQUIRED lists
+0	github	24.5	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/3431	[Bounty] Answer the 2 linked question(s)
+0	github	24.5	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/3430	[Bounty] Answer the 3 linked question(s)
+0	github	31.8	-	OPEN_ISSUE	https://github.com/odiseo159-beep/mergit/issues/2	Attack the reentrancy guard, do not just trust it
+0	github	31.8	-	OPEN_ISSUE	https://github.com/odiseo159-beep/mergit/issues/1	Prove the race between challenging and refunding
+0	github	47.8	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/3332	[Bounty] Answer 2 linked question(s) as a lesson
+0	github	56.5	-	OPEN_ISSUE	https://github.com/Uuriko/project-room/issues/3709	[launch-readiness] The neglect ladder pays junk at 35.6 cr/h under a passive operator; only reviewer diligence bounds it
