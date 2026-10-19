@@ -1,0 +1,33 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	3.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1598097	Your sats aren't sitting in an escrow wallet. So how does Mostro actually work?
+5	sn/bitcoin	6.0	000 sats	OPEN_NEED,LOW_COMP	https://stacker.news/items/1597990	21 Million Mosaic | Explore 2,100 Tiles | CryptoCloaks
+4	github	1.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/1023	docs(repo): define canonical asset decimals and amount conversion rules
+4	github	1.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/FernandoPazCavalcante/lazyswap/issues/10	Add Base to the chain config
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/lizTheDeveloper/privacy-the-game/issues/419	[opt-out check] RocketReach: find a no-account opt-out route
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/lizTheDeveloper/privacy-the-game/issues/418	[opt-out check] PrivateEye: which brokers are behind its search results?
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/lizTheDeveloper/privacy-the-game/issues/417	[opt-out check] American Express: marketing opt-out page says "currently not available"
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/lizTheDeveloper/privacy-the-game/issues/416	[opt-out check] FastPeopleSearch: test the removal flow end to end
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/lizTheDeveloper/privacy-the-game/issues/415	[opt-out check] TruePeopleSearch: test the removal flow end to end
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/lizTheDeveloper/privacy-the-game/issues/414	[find opt-out] Xactus, LLC: find the official opt-out route
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/lizTheDeveloper/privacy-the-game/issues/413	[find opt-out] Vintel AI: find the official opt-out route
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/lizTheDeveloper/privacy-the-game/issues/412	[find opt-out] United One Resources, Inc.: find the official opt-out route
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/lizTheDeveloper/privacy-the-game/issues/411	[find opt-out] Statara Solutuions LLC: find the official opt-out route
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/lizTheDeveloper/privacy-the-game/issues/410	[find opt-out] SalesTech, LLC: find the official opt-out route
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/lizTheDeveloper/privacy-the-game/issues/409	[find opt-out] SageStream LLC: find the official opt-out route
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/lizTheDeveloper/privacy-the-game/issues/408	[find opt-out] Safety Holdings Inc.: find the official opt-out route
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/lizTheDeveloper/privacy-the-game/issues/407	[find opt-out] S&P GLOBAL MARKET INTELLIGENCE: find the official opt-out route
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/lizTheDeveloper/privacy-the-game/issues/406	[find opt-out] RP On-Site LLC: find the official opt-out route
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/lizTheDeveloper/privacy-the-game/issues/405	[find opt-out] Roq.ad GmbH: find the official opt-out route
+3	github	40.8	345678 sats	OPEN_ISSUE,LOW_COMP	https://github.com/Djbrl/bitbounty-demo/issues/1	formatXof shows "1 500000 FCFA" for amounts of a million or more
+3	github	51.6	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/devdavidejesus/btc-toolkit/issues/63	Cookbook: --json recipes with jq
+2	sn/bitcoin	18.0	-	OPEN_NEED	https://stacker.news/items/1597768	Bitcoin is Worth It
+2	github	57.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Isonimus/esp32-dragon-radar/issues/2	A setting to hide the radar's HUD text
+2	github	8.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Konfirm-xyz/konfirm-backend/issues/205	assertNetworkReady only checks env vars are non-empty, never that they're valid Stellar strkeys
+2	github	30.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Konfirm-xyz/konfirm-frontend/issues/198	get-test-usdc Send-USDC handler has no synchronous in-flight guard — same bug class as #175, confirmed on an untested pa
+2	github	31.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/adebayomoses/paycryt/issues/19	Sandbox: add ETH and more currency pairs to the seed prices
+1	github	40.8	129 sats	OPEN_ISSUE	https://github.com/Djbrl/bitbounty-demo/issues/4	README: show a payout in sats and FCFA, step by step
+1	github	30.4	$1	OPEN_ISSUE	https://github.com/Konfirm-xyz/konfirm-frontend/issues/195	Amount field rejects pasted real-world price text ($1,234.56 / EU format) with the same generic error as empty input
+0	github	30.0	-	OPEN_ISSUE	https://github.com/Konfirm-xyz/konfirm-frontend/issues/202	Treasury page renders literal "$null" when usdc_balance is null but reachable is true
+0	github	31.2	-	OPEN_ISSUE	https://github.com/Konfirm-xyz/konfirm-frontend/issues/182	Primary buttons and currency-toggle active state become invisible under forced-colors (Windows High Contrast)
+0	github	32.4	-	OPEN_ISSUE	https://github.com/Konfirm-xyz/konfirm-frontend/issues/162	Disable spellcheck on Stellar address and paging-token inputs
+0	github	37.0	-	OPEN_ISSUE	https://github.com/LabsCrypt/remitlend/issues/2019	[Bug][Backend] loanController.requestLoan compares human-readable token amount against poolBalance in stroops (10^7 unit
