@@ -1,0 +1,14 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH_LOW_COMP	github	2.4	0	0	https://github.com/relayhop/sn-monetization-runtime/issues/1310	[radar] SN open bounty 2026-10-19T06:08
+FRESH	github	1.8	0	3	https://github.com/Neziahtech/streampay/issues/318	[Security] contracts/streampay: missing admin/recipient/registrant authorization in set_governance_caps, add_agent/remov
+FRESH	github	1.8	0	2	https://github.com/Neziahtech/streampay/issues/317	[Security] oracle::resolve_stream_time upper-median index (n / 2) lets 1 rogue publisher in 2-of-3 quorum fast-forward s
+FRESH	github	2.0	0	2	https://github.com/Neziahtech/streampay/issues/313	[Security] stream-nft: withdraw and withdraw_max fail to route stream payouts to the current NFT owner after transfer an
+FRESH	github	2.0	0	2	https://github.com/Neziahtech/streampay/issues/314	[Security] streaming-payments: Out-of-order start_id in migrate_storage permanently skips unmigrated streams while locki
+FRESH	github	2.3	0	1	https://github.com/Neziahtech/streampay/issues/312	[Security]: Front-runnable unauthenticated policy_init allows arbitrary caller to hijack PolicyDataKey::Admin, set zero 
+FRESH	github	3.4	0	3	https://github.com/Neziahtech/streampay/issues/302	[Security]: RpcManager fails to record network errors (breaking failover & 3 unit tests) + streampay-state rejects Pause
+FRESH	github	3.5	0	3	https://github.com/Neziahtech/streampay/issues/300	[Security]: PasskeySigner unscoped UsedChallenge nonce griefing, top-level JSON key spoofing in cbor.rs, and COSE/DER pa
+FRESH	github	4.3	0	3	https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/4	[BOUNTY #3] High-Throughput MoE KV-Cache Compression Benchmark
+FRESH	github	4.3	0	3	https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/3	[BOUNTY #2] Automated CVE & Threat Surface Detection on Windows Kernel Drivers
+FRESH	github	4.9	0	2	https://github.com/Neziahtech/streampay/issues/295	[Security]: Unscoped NftDataKey::Allowance(spender) persists across StreamNft::transfer, enabling prior spender to seize
+FRESH	github	5.0	0	2	https://github.com/Neziahtech/streampay/issues/294	[Security]: Signed i128 underflow in cancel_amounts_at and unguarded past timestamp in submit_oracle_time over-refunds c
+FRESH	github	5.6	0	1	https://github.com/patrickkellyyoung-ai/swarm-agora-mcp/issues/1	[BOUNTY #1] MoE Routing Gate Normalization across High-Dimensional Token Projections
