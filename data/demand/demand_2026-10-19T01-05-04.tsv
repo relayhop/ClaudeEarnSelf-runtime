@@ -1,0 +1,36 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1308	[radar] SN open bounty 2026-10-18T23:01
+3	github	22.6	345678 sats	OPEN_ISSUE,LOW_COMP	https://github.com/Djbrl/bitbounty-demo/issues/1	formatXof shows "1 500000 FCFA" for amounts of a million or more
+3	github	33.5	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/devdavidejesus/btc-toolkit/issues/63	Cookbook: --json recipes with jq
+3	github	12.2	$1	OPEN_ISSUE,LOW_COMP	https://github.com/Konfirm-xyz/konfirm-frontend/issues/195	Amount field rejects pasted real-world price text ($1,234.56 / EU format) with the same generic error as empty input
+3	github	55.5	0 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/836	ExitDesk exit can pay zero USDC, and a 100 percent spread is accepted
+2	sn/bitcoin	11.1	-	OPEN_NEED	https://stacker.news/items/1597437	I finally visited Pubkey in Washington DC
+2	github	39.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Isonimus/esp32-dragon-radar/issues/2	A setting to hide the radar's HUD text
+2	github	11.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Konfirm-xyz/konfirm-frontend/issues/202	Treasury page renders literal "$null" when usdc_balance is null but reachable is true
+2	github	12.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Konfirm-xyz/konfirm-frontend/issues/198	get-test-usdc Send-USDC handler has no synchronous in-flight guard — same bug class as #175, confirmed on an untested pa
+2	github	12.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/adebayomoses/paycryt/issues/19	Sandbox: add ETH and more currency pairs to the seed prices
+2	github	13.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Konfirm-xyz/konfirm-frontend/issues/182	Primary buttons and currency-toggle active state become invisible under forced-colors (Windows High Contrast)
+2	github	14.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Konfirm-xyz/konfirm-frontend/issues/162	Disable spellcheck on Stellar address and paging-token inputs
+2	github	18.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/LabsCrypt/remitlend/issues/2019	[Bug][Backend] loanController.requestLoan compares human-readable token amount against poolBalance in stroops (10^7 unit
+2	github	55.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/973	Explain the hardcoded USDC currency on repo margin calls in repoMargin.ts
+2	github	55.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/937	payout-hop: make the payout asset code configurable instead of hard-coded USDC
+2	github	55.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/936	payout-hop: fix the stale ASSUMPTION comments in hop.ts
+2	github	55.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/933	payout-hop: PAYOUT_HOP_MAX_AMOUNT accepts negatives, throws raw SyntaxError on decimals
+2	github	55.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/842	RepoDvp allows a lender to propose a repo with themselves as the cash borrower
+2	github	55.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/831	Add the unit count, price and recipient to the ExitDesk exit event
+2	github	55.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/DevTobis/ballast/issues/817	docs: add rustdoc to the undocumented public API of credit-line and pledge-vault
+2	github	4.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1306	[radar] SN open bounty 2026-10-18T20:33
+2	github	7.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1302	[radar] SN open bounty 2026-10-18T18:00
+2	github	9.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Neziahtech/streampay/issues/249	[Security]: Policy/allowlist bypass via scheduled lane: schedule_stream / execute_scheduled skip check_asset_allowed and
+2	github	24.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/MicahHeneveld/bros-analysis/issues/6	Bounty: ultrank_11_20 — 250 frames (label from scratch) [6/6]
+2	github	24.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/MicahHeneveld/bros-analysis/issues/5	Bounty: ultrank_11_20 — 250 frames (label from scratch) [5/6]
+2	github	24.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/MicahHeneveld/bros-analysis/issues/4	Bounty: ultrank_11_20 — 250 frames (label from scratch) [4/6]
+2	github	24.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/MicahHeneveld/bros-analysis/issues/3	Bounty: ultrank_11_20 — 250 frames (label from scratch) [3/6]
+2	github	24.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/MicahHeneveld/bros-analysis/issues/2	Bounty: ultrank_11_20 — 250 frames (label from scratch) [2/6]
+1	github	22.6	129 sats	OPEN_ISSUE	https://github.com/Djbrl/bitbounty-demo/issues/4	README: show a payout in sats and FCFA, step by step
+1	github	38.5	100 sats	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1300	[radar] SN open bounty 2026-10-17T10:32
+0	github	9.7	-	OPEN_ISSUE	https://github.com/Neziahtech/streampay/issues/255	[Security]: freeze-logic trigger
+0	github	10.6	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1301	[radar] SN open bounty 2026-10-18T14:30
+0	github	15.9	-	OPEN_ISSUE	https://github.com/mozzimorzam-sudo/project100-mcp/issues/7	Add rate limiting to /api/v1/artifacts endpoint
+0	github	38.0	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/3431	[Bounty] Answer the 2 linked question(s)
+0	github	38.0	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/3430	[Bounty] Answer the 3 linked question(s)
