@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	0.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1598862	Is Bitcoin already freedom money?
+5	sn/bitcoin	9.0	$5	OPEN_NEED,LOW_COMP	https://stacker.news/items/1598530	Bank of America Missed $5B. But Bitcoin Is the Problem?
+4	sn/bitcoin	14.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1598464	How has Bitcoin changed you?
+4	sn/tech	23.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1598191	Microsoft's cloud chief: Energy problem is people, not power
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/starky2000/base-flash-arb-lab/issues/5	Add --json output to arbcheck sweep
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/starky2000/base-flash-arb-lab/issues/4	Give arbcheck sweep a real summary table
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/starky2000/base-flash-arb-lab/issues/3	Add a SushiSwap V2 adapter as a reference contribution
+4	github	2.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/starky2000/base-flash-arb-lab/issues/2	Add an Aerodrome adapter
+3	github	63.5	345678 sats	OPEN_ISSUE,LOW_COMP	https://github.com/Djbrl/bitbounty-demo/issues/1	formatXof shows "1 500000 FCFA" for amounts of a million or more
+2	sn/bitcoin	20.2	-	OPEN_NEED	https://stacker.news/items/1598294	Would you trust an entirely AI-written bitcoin node implementation?
+2	github	9.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergepay/mergepay-web/issues/607	Add form validation and Zod schema for expense creation and currency selection
+2	github	23.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/1023	docs(repo): define canonical asset decimals and amount conversion rules
+2	github	24.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/FernandoPazCavalcante/lazyswap/issues/10	Add Base to the chain config
+2	github	31.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Konfirm-xyz/konfirm-backend/issues/205	assertNetworkReady only checks env vars are non-empty, never that they're valid Stellar strkeys
+2	github	52.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Konfirm-xyz/konfirm-frontend/issues/198	get-test-usdc Send-USDC handler has no synchronous in-flight guard — same bug class as #175, confirmed on an untested pa
+2	github	53.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/adebayomoses/paycryt/issues/19	Sandbox: add ETH and more currency pairs to the seed prices
+1	github	63.5	129 sats	OPEN_ISSUE	https://github.com/Djbrl/bitbounty-demo/issues/4	README: show a payout in sats and FCFA, step by step
+1	github	16.6	100 USDC	OPEN_ISSUE	https://github.com/Godgift-care/sci-healthcare-contracts/issues/114	docs: fee and settlement worked examples
+1	github	16.6	10 USDC	OPEN_ISSUE	https://github.com/Godgift-care/sci-healthcare-contracts/issues/96	feat(voucher): minimum voucher amount
+1	github	53.1	$1	OPEN_ISSUE	https://github.com/Konfirm-xyz/konfirm-frontend/issues/195	Amount field rejects pasted real-world price text ($1,234.56 / EU format) with the same generic error as empty input
+0	github	52.7	-	OPEN_ISSUE	https://github.com/Konfirm-xyz/konfirm-frontend/issues/202	Treasury page renders literal "$null" when usdc_balance is null but reachable is true
+0	github	53.8	-	OPEN_ISSUE	https://github.com/Konfirm-xyz/konfirm-frontend/issues/182	Primary buttons and currency-toggle active state become invisible under forced-colors (Windows High Contrast)
