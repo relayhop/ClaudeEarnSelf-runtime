@@ -1,0 +1,6 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH_LOW_COMP	github	2.3	0	0	https://github.com/relayhop/sn-monetization-runtime/issues/1315	[radar] SN open bounty 2026-10-20T05:55
+FRESH	github	4.0	0	41	https://github.com/auscaster/frantic-board/issues/541	Frantic bounty #143: Write and validate your own MAP description with the mailschema package
+FRESH	github	4.0	0	2	https://github.com/auscaster/frantic-board/issues/540	Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP server and send one email
+FRESH	github	4.0	0	4	https://github.com/auscaster/frantic-board/issues/539	Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and report how it went
+FRESH	github	4.0	0	13	https://github.com/auscaster/frantic-board/issues/538	Frantic bounty #139: Send your first email with the Nitrosend CLI and report how it went
