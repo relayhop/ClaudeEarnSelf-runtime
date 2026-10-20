@@ -1,0 +1,36 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	23.7	000 sats	OPEN_NEED,LOW_COMP	https://stacker.news/items/1597990	21 Million Mosaic | Explore 2,100 Tiles | CryptoCloaks
+4	sn/bitcoin	20.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1598097	Your sats aren't sitting in an escrow wallet. So how does Mostro actually work?
+4	sn/tech	18.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1598191	Microsoft's cloud chief: Energy problem is people, not power
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1327	[BOUNTY] Suggestion #1291
+4	github	1.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1316	[radar] SN open bounty 2026-10-20T11:24
+3	github	58.5	345678 sats	OPEN_ISSUE,LOW_COMP	https://github.com/Djbrl/bitbounty-demo/issues/1	formatXof shows "1 500000 FCFA" for amounts of a million or more
+3	github	69.3	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/devdavidejesus/btc-toolkit/issues/63	Cookbook: --json recipes with jq
+3	github	11.6	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Godgift-care/sci-healthcare-contracts/issues/114	docs: fee and settlement worked examples
+3	github	11.6	10 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Godgift-care/sci-healthcare-contracts/issues/96	feat(voucher): minimum voucher amount
+3	github	8.7	$1	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/540	Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP server and send one email
+2	sn/bitcoin	15.2	-	OPEN_NEED	https://stacker.news/items/1598294	Would you trust an entirely AI-written bitcoin node implementation?
+2	github	4.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergepay/mergepay-web/issues/607	Add form validation and Zod schema for expense creation and currency selection
+2	github	18.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrusTrove/TrusTrove-contract/issues/1023	docs(repo): define canonical asset decimals and amount conversion rules
+2	github	19.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/FernandoPazCavalcante/lazyswap/issues/10	Add Base to the chain config
+2	github	26.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Konfirm-xyz/konfirm-backend/issues/205	assertNetworkReady only checks env vars are non-empty, never that they're valid Stellar strkeys
+2	github	47.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Konfirm-xyz/konfirm-frontend/issues/198	get-test-usdc Send-USDC handler has no synchronous in-flight guard — same bug class as #175, confirmed on an untested pa
+2	github	48.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/adebayomoses/paycryt/issues/19	Sandbox: add ETH and more currency pairs to the seed prices
+2	github	7.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1315	[radar] SN open bounty 2026-10-20T05:55
+2	github	12.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1314	[radar] SN open bounty 2026-10-20T00:14
+2	github	16.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1313	[radar] SN open bounty 2026-10-19T20:31
+2	github	19.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/lizTheDeveloper/privacy-the-game/issues/419	[opt-out check] RocketReach: find a no-account opt-out route
+2	github	19.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/lizTheDeveloper/privacy-the-game/issues/418	[opt-out check] PrivateEye: which brokers are behind its search results?
+2	github	19.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/lizTheDeveloper/privacy-the-game/issues/416	[opt-out check] FastPeopleSearch: test the removal flow end to end
+2	github	19.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/lizTheDeveloper/privacy-the-game/issues/415	[opt-out check] TruePeopleSearch: test the removal flow end to end
+2	github	19.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/lizTheDeveloper/privacy-the-game/issues/414	[find opt-out] Xactus, LLC: find the official opt-out route
+1	github	58.5	129 sats	OPEN_ISSUE	https://github.com/Djbrl/bitbounty-demo/issues/4	README: show a payout in sats and FCFA, step by step
+1	github	48.1	$1	OPEN_ISSUE	https://github.com/Konfirm-xyz/konfirm-frontend/issues/195	Amount field rejects pasted real-world price text ($1,234.56 / EU format) with the same generic error as empty input
+1	github	8.7	$2	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/541	Frantic bounty #143: Write and validate your own MAP description with the mailschema package
+1	github	8.7	$1	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/539	Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and report how it went
+1	github	8.7	$1	OPEN_ISSUE	https://github.com/auscaster/frantic-board/issues/538	Frantic bounty #139: Send your first email with the Nitrosend CLI and report how it went
+0	github	47.7	-	OPEN_ISSUE	https://github.com/Konfirm-xyz/konfirm-frontend/issues/202	Treasury page renders literal "$null" when usdc_balance is null but reachable is true
+0	github	48.8	-	OPEN_ISSUE	https://github.com/Konfirm-xyz/konfirm-frontend/issues/182	Primary buttons and currency-toggle active state become invisible under forced-colors (Windows High Contrast)
+0	github	50.1	-	OPEN_ISSUE	https://github.com/Konfirm-xyz/konfirm-frontend/issues/162	Disable spellcheck on Stellar address and paging-token inputs
+0	github	54.6	-	OPEN_ISSUE	https://github.com/LabsCrypt/remitlend/issues/2019	[Bug][Backend] loanController.requestLoan compares human-readable token amount against poolBalance in stroops (10^7 unit
+0	github	19.8	-	OPEN_ISSUE	https://github.com/lizTheDeveloper/privacy-the-game/issues/417	[opt-out check] American Express: marketing opt-out page says "currently not available"
