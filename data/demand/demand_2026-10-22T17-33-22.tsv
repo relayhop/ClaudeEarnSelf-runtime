@@ -1,0 +1,32 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	2.5	$150	OPEN_ISSUE,LOW_COMP	https://github.com/habibdxb01/bounty-watcher/issues/8	📋 2 open bounties right now
+4	sn/bitcoin	1.9	-	OPEN_NEED	https://stacker.news/items/1600205	Hashrate Hearth: How many home miners does it take to screw in a freedom-bulb?
+2	sn/bitcoin	21.3	-	OPEN_NEED	https://stacker.news/items/1599743	A Home for Bitcoin Builders - PlebLab Guadalajara
+2	sn/bitcoin	21.3	-	OPEN_NEED	https://stacker.news/items/1599739	Are there any FROST-capable wallets that I can run on old phones?
+2	github	21.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/iSystem32/f6cf99e99abc809ac73278f74bc7e9acc66f5314/issues/1	help___version
+2	github	42.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/eddyflores100-lang/marketnow/issues/24	good first issue: negative conformance examples — invalid signature, untrusted issuer, expired card, revoked key
+2	github	42.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/alicelabs-llc/universal-trust-adapter/issues/57	good first issue: conformance vectors for scope-binding amount_usd (micro-USD, fixed 6-decimal string)
+2	github	49.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/starky2000/base-flash-arb-lab/issues/5	Add --json output to arbcheck sweep
+2	github	49.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/starky2000/base-flash-arb-lab/issues/4	Give arbcheck sweep a real summary table
+2	github	49.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/starky2000/base-flash-arb-lab/issues/3	Add a SushiSwap V2 adapter as a reference contribution
+2	github	49.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/starky2000/base-flash-arb-lab/issues/2	Add an Aerodrome adapter
+2	github	71.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/FernandoPazCavalcante/lazyswap/issues/10	Add Base to the chain config
+2	github	3.8	-	OPEN_ISSUE	https://github.com/doomsday-network/bounty-guard/issues/1	[BOUNTY] 🛡️ 500 DOOM ($wDOOM on Base) — Report a Fake GitHub Bounty Repo or Run the 3-Second DOOM Quickstart
+2	github	3.8	-	OPEN_ISSUE	https://github.com/doomsday-network/doomsday/issues/4	[BOUNTY] ⚡ 500–1,000 DOOM ($wDOOM on Base) — Run the 3-Second Terminal Quickstart or GPU Miner & Post Output
+2	github	5.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/3729	[Bounty] Answer the 2 linked question(s)
+2	github	5.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/3728	[Bounty] Answer the 2 linked question(s)
+2	github	5.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/3727	[Bounty] Answer the 2 linked question(s)
+2	github	5.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/3726	[Bounty] Answer the 3 linked question(s)
+2	github	25.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/amiller/bounty-arcade/issues/9	[puzzle] Shareable replay links
+2	github	25.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/amiller/bounty-arcade/issues/8	[puzzle] Persist progress and best scores per level
+2	github	25.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/amiller/bounty-arcade/issues/7	[puzzle] Deadlock detection for boxes stuck in corners
+2	github	25.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/amiller/bounty-arcade/issues/6	[flight] Seeded wind
+1	github	64.2	100 USDC	OPEN_ISSUE	https://github.com/Godgift-care/sci-healthcare-contracts/issues/114	docs: fee and settlement worked examples
+1	github	64.2	10 USDC	OPEN_ISSUE	https://github.com/Godgift-care/sci-healthcare-contracts/issues/96	feat(voucher): minimum voucher amount
+0	github	4.9	-	OPEN_ISSUE	https://github.com/mergepay/mergepay-web/issues/701	Add input validation and Zod schema for expense creation forms
+0	github	56.8	-	OPEN_ISSUE	https://github.com/mergepay/mergepay-web/issues/607	Add form validation and Zod schema for expense creation and currency selection
+0	github	71.3	-	OPEN_ISSUE	https://github.com/TrusTrove/TrusTrove-contract/issues/1023	docs(repo): define canonical asset decimals and amount conversion rules
+0	github	5.2	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/3730	[Bounty] Answer the 2 linked question(s)
+0	github	25.5	-	OPEN_ISSUE	https://github.com/amiller/bounty-arcade/issues/12	[routes] Time, moving time and speed
+0	github	25.5	-	OPEN_ISSUE	https://github.com/amiller/bounty-arcade/issues/11	[routes] Gain/loss threshold
+0	github	25.5	-	OPEN_ISSUE	https://github.com/amiller/bounty-arcade/issues/10	[routes] Segments and gaps
