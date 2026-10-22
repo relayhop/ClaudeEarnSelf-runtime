@@ -1,0 +1,32 @@
+# score	source	age_h	payout_hint	tags	url	title
+2	sn/bitcoin	10.3	-	OPEN_NEED	https://stacker.news/items/1599743	A Home for Bitcoin Builders - PlebLab Guadalajara
+2	sn/bitcoin	13.6	-	OPEN_NEED	https://stacker.news/items/1599600	Here come the "blockchain not Bitcoin" guys again
+2	sn/bitcoin	10.3	-	OPEN_NEED	https://stacker.news/items/1599739	Are there any FROST-capable wallets that I can run on old phones?
+2	github	10.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/iSystem32/f6cf99e99abc809ac73278f74bc7e9acc66f5314/issues/1	help___version
+2	github	31.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/eddyflores100-lang/marketnow/issues/24	good first issue: negative conformance examples — invalid signature, untrusted issuer, expired card, revoked key
+2	github	31.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/alicelabs-llc/universal-trust-adapter/issues/57	good first issue: conformance vectors for scope-binding amount_usd (micro-USD, fixed 6-decimal string)
+2	github	38.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/starky2000/base-flash-arb-lab/issues/5	Add --json output to arbcheck sweep
+2	github	38.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/starky2000/base-flash-arb-lab/issues/4	Give arbcheck sweep a real summary table
+2	github	38.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/starky2000/base-flash-arb-lab/issues/3	Add a SushiSwap V2 adapter as a reference contribution
+2	github	38.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/starky2000/base-flash-arb-lab/issues/2	Add an Aerodrome adapter
+2	github	60.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/FernandoPazCavalcante/lazyswap/issues/10	Add Base to the chain config
+2	github	68.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Konfirm-xyz/konfirm-backend/issues/205	assertNetworkReady only checks env vars are non-empty, never that they're valid Stellar strkeys
+2	github	14.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/amiller/bounty-arcade/issues/12	[routes] Time, moving time and speed
+2	github	14.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/amiller/bounty-arcade/issues/11	[routes] Gain/loss threshold
+2	github	14.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/amiller/bounty-arcade/issues/10	[routes] Segments and gaps
+2	github	14.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/amiller/bounty-arcade/issues/9	[puzzle] Shareable replay links
+2	github	14.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/amiller/bounty-arcade/issues/8	[puzzle] Persist progress and best scores per level
+2	github	14.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/amiller/bounty-arcade/issues/7	[puzzle] Deadlock detection for boxes stuck in corners
+2	github	14.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/amiller/bounty-arcade/issues/6	[flight] Seeded wind
+2	github	14.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/amiller/bounty-arcade/issues/5	[flight] Run recording and replay
+2	github	14.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/amiller/bounty-arcade/issues/4	[flight] Fuel
+2	github	14.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/amiller/bounty-arcade/issues/3	[board] Work-in-progress limit on Doing
+2	github	14.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/amiller/bounty-arcade/issues/2	[board] Undo and redo
+2	github	18.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/3622	[Bounty] Answer the 2 linked question(s)
+1	github	53.2	100 USDC	OPEN_ISSUE	https://github.com/Godgift-care/sci-healthcare-contracts/issues/114	docs: fee and settlement worked examples
+1	github	53.2	10 USDC	OPEN_ISSUE	https://github.com/Godgift-care/sci-healthcare-contracts/issues/96	feat(voucher): minimum voucher amount
+0	github	45.7	-	OPEN_ISSUE	https://github.com/mergepay/mergepay-web/issues/607	Add form validation and Zod schema for expense creation and currency selection
+0	github	60.3	-	OPEN_ISSUE	https://github.com/TrusTrove/TrusTrove-contract/issues/1023	docs(repo): define canonical asset decimals and amount conversion rules
+0	github	14.5	-	OPEN_ISSUE	https://github.com/amiller/bounty-arcade/issues/1	[board] Search cards
+0	github	18.2	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/3624	[Bounty] Answer the 2 linked question(s)
+0	github	18.2	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/3623	[Bounty] Answer the 2 linked question(s)
