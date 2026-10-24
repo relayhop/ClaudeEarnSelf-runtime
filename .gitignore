@@ -23,3 +23,9 @@ logs/runs/
 *.key
 *_secret*
 credentials.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
