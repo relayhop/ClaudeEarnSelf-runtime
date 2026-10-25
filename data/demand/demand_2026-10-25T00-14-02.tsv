@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	8.1	000 sats	OPEN_NEED,LOW_COMP	https://stacker.news/items/1601507	I built Zapboard: one message board, paid in sats. Outbid me by 10% to take it.
+5	github	0.7	$10	OPEN_ISSUE,LOW_COMP	https://github.com/doomsday-network/doom-pay/issues/4	[STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital Gift Card! (10 / 10 Available — $100 USD Vault)
+5	github	0.7	$10	OPEN_ISSUE,LOW_COMP	https://github.com/doomsday-network/doomsday/issues/39	[STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital Gift Card! (10 / 10 Available — $100 USD Vault)
+5	github	2.7	$10	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/558	Frantic bounty #138: Find a live HTTP 402 endpoint that prices in Nano (XNO)
+5	github	2.7	$10	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/557	Frantic bounty #137: Protocol conformance audit: izanami-916.github.io/protocol.html vs the live ask rail
+4	sn/bitcoin	20.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1601283	LABitconf - who is coming?
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/alfrexo95/bounty-bot/issues/30	💰 Bounty Seguro (Ver enlace): [ESCROW BOUNTY] 🔌 2,000 DOOM ($wDOOM on Base) — In
+3	sn/bitcoin	12.4	$60	OPEN_NEED	https://stacker.news/items/1601368	BTC vote: $60K or $100K? Which Comes First?
+3	sn/bitcoin	11.1	1 sat	OPEN_NEED	https://stacker.news/items/1601397	I built a bitcoin cashback app for the US. Looking for 20 Lightning users
+3	github	11.0	$100	OPEN_ISSUE,LOW_COMP	https://github.com/alfrexo95/bounty-bot/issues/28	💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro 
+3	github	13.4	100 sats	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1327	[radar] SN open bounty 2026-10-24T10:49
+3	github	16.2	$100	OPEN_ISSUE,LOW_COMP	https://github.com/alfrexo95/bounty-bot/issues/27	💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro ($$100): [Bounty] USDC-qu
+2	sn/bitcoin	6.1	-	OPEN_NEED	https://stacker.news/items/1601572	Plenty of success with square bitcoin payments.
+2	github	26.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Remitpulse/backend/issues/23	Replace placeholder corridor asset issuers in prisma/seed.ts before connecting to a real anchor
+2	github	4.0	-	OPEN_ISSUE	https://github.com/doomsday-network/doom-pay/issues/1	[ESCROW BOUNTY] ⚡ 1,000 wDOOM (Base Mainnet) — Test DoomPay 3-Line Checkout Session & Benchmark a Mining Share
+1	github	9.4	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4110	[Bounty] 💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro 
+0	github	59.6	-	OPEN_ISSUE	https://github.com/mergepay/mergepay-web/issues/701	Add input validation and Zod schema for expense creation forms
+0	github	7.5	-	OPEN_ISSUE	https://github.com/doomsday-network/web3-agent-skills/issues/1	[ESCROW BOUNTY] ⚡ 1,000 DOOM ($wDOOM on Base) — Star All 5 Doomsday Repos, Test Remote MCP & Mine 1 Pool Share!
+0	github	8.6	-	OPEN_ISSUE	https://github.com/doomsday-network/bounty-guard/issues/7	[ESCROW BOUNTY] 🔌 2,000 DOOM ($wDOOM on Base) — Integrate BountyGuard Into Your Public Agent Repo or GitHub Action Work
+0	github	8.6	-	OPEN_ISSUE	https://github.com/doomsday-network/github-bounty-scanner/issues/1	[ESCROW BOUNTY] 🛡️ 1,000 DOOM ($wDOOM on Base) — Star All 4 Doomsday Repos, Run scan_bounties.py & Mine 1 Pool Share!
+0	github	8.6	-	OPEN_ISSUE	https://github.com/doomsday-network/cuda-gpu-miner/issues/1	[BOUNTY] ⚡ 1,000–2,500 DOOM ($wDOOM on Base) — Connect Your GPU or CPU Worker to the Live Mining Pool & Mine 1+ Share!
+0	github	8.6	-	OPEN_ISSUE	https://github.com/doomsday-network/doomsday/issues/30	[ESCROW BOUNTY] ⭐ 750 DOOM ($wDOOM on Base) — Star All 4 Doomsday Network Repos & Mine 1+ Live Pool Share via mine_pool.
