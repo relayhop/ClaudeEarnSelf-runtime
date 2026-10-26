@@ -1,0 +1,22 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	20.1	$1	OPEN_NEED,LOW_COMP	https://stacker.news/items/1602251	A fun little project to orange-pill friends and family on Bitcoin as a MoE
+4	sn/bitcoin	3.0	-	OPEN_NEED	https://stacker.news/items/1602740	Would Spark be better if the Spark operator couldn't see your transactions?
+4	sn/bitcoin	23.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1602184	Sunday Survey: where is the best Bitcoin city?
+4	github	0.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1340	[radar] SN open bounty 2026-10-26T19:11
+2	sn/bitcoin	17.7	-	OPEN_NEED	https://stacker.news/items/1602274	Why is there so little good Bitcoin fiction?
+2	github	33.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/AtharvDhiman/rubric-protocol/issues/3	Try the app with a real Solflare wallet on devnet and document the result
+2	github	70.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Remitpulse/backend/issues/23	Replace placeholder corridor asset issuers in prisma/seed.ts before connecting to a real anchor
+2	github	7.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1339	[radar] SN open bounty 2026-10-26T12:48
+2	github	7.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1338	[radar] SN open bounty 2026-10-26T12:48
+2	github	7.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/alfrexo95/bounty-bot/issues/46	💰 Bounty Seguro (Ver enlace): feat(mobile): add offline storage and queue sync f
+2	github	13.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1337	[radar] SN open bounty 2026-10-26T06:01
+2	github	15.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/alfrexo95/bounty-bot/issues/45	💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver
+2	github	19.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1335	[radar] SN open bounty 2026-10-26T00:09
+2	github	20.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/alfrexo95/bounty-bot/issues/44	💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver
+2	github	22.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1333	[radar] SN open bounty 2026-10-25T21:40
+2	github	23.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/alfrexo95/bounty-bot/issues/43	💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver
+2	github	24.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1331	[radar] SN open bounty 2026-10-25T18:56
+0	github	4.1	-	OPEN_ISSUE	https://github.com/alfrexo95/bounty-bot/issues/47	🪙 [Web3] feat(mobile): add offline storage and queue sync f
+0	github	4.2	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/3901	[Good first issue · Oct 26 – Nov 26] Bring one real failure — we'll help turn it into a lesson
+0	github	8.4	-	OPEN_ISSUE	https://github.com/riteshbonthalakoti/HELPDESK.AI/issues/4092	feat(mobile): add offline storage and queue sync for ticket drafts using AsyncStorage
+0	github	8.8	-	OPEN_ISSUE	https://github.com/riteshbonthalakoti/HELPDESK.AI/issues/4077	[BOUNTY] [level:intermediate] Backend: Implement Real-Time SLA Breach Auto-Escalation & Notification Worker
