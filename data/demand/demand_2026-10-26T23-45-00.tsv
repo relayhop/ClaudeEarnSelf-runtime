@@ -1,0 +1,21 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/tech	4.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1602859	I made a fairly complete YouTube desktop client called Cathode
+5	sn/bitcoin	24.0	$1	OPEN_NEED,LOW_COMP	https://stacker.news/items/1602251	A fun little project to orange-pill friends and family on Bitcoin as a MoE
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzo-js/sdk/issues/1	Add the LICENSE file the README links to
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzo-go/lz4/issues/1	Point the README install steps and badges at hanzo.ai/lz4/v4
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/ui/issues/257	List only the hooks @hanzo/react exports; delete 9 empty hook files
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/agents/issues/10	Return 500, not 404, when node details fail for another reason
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/agents/issues/9	Honor the lines argument in MCPManager.Logs
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/agents/issues/8	Make the agent counts in README.md match the files
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/agents/issues/7	Fix 9 broken relative links in the examples and Go SDK READMEs
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/agents/issues/6	Fix 103 broken relative links in the README
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/mcp/issues/14	Make skipFor ci/headless work and count skipped tests in test-suite
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/cli/issues/12	Rewrite CONTRIBUTING.md for the Rust CLI; it describes a Python app
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/cli/issues/11	Fix README commands that match no hanzo subcommand
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/ci/issues/13	Add bin/ignoretracked_test.sh and register it in hanzo.yml
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/ci/issues/12	Add bin/modsize_test.sh and register it in hanzo.yml
+4	github	0.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/orm/issues/8	Add tests for db.Model: SoftDelete, GetByID, SetKeyFromString
+2	sn/bitcoin	6.8	-	OPEN_NEED	https://stacker.news/items/1602740	Would Spark be better if the Spark operator couldn't see your transactions?
+2	sn/bitcoin	21.6	-	OPEN_NEED	https://stacker.news/items/1602274	Why is there so little good Bitcoin fiction?
+2	github	37.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/AtharvDhiman/rubric-protocol/issues/3	Try the app with a real Solflare wallet on devnet and document the result
+2	github	0.5	-	OPEN_ISSUE	https://github.com/hanzoai/ui/issues/258	Make @hanzo/react VERSION follow package.json (1.0.1 vs 1.0.3)
