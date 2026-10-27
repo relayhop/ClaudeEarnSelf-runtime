@@ -1,0 +1,20 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	8.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1602995	Austin trip day one: Bitcoin all around
+4	sn/tech	14.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1602859	I made a fairly complete YouTube desktop client called Cathode
+2	sn/bitcoin	17.5	-	OPEN_NEED	https://stacker.news/items/1602740	Would Spark be better if the Spark operator couldn't see your transactions?
+2	github	48.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/AtharvDhiman/rubric-protocol/issues/3	Try the app with a real Solflare wallet on devnet and document the result
+2	github	1.6	-	OPEN_ISSUE	https://github.com/alfrexo95/bounty-bot/issues/50	💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver
+2	github	10.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/alfrexo95/bounty-bot/issues/49	💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 🪙 [Web3] feat(mobile
+2	github	11.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzo-js/sdk/issues/1	Add the LICENSE file the README links to
+2	github	11.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzo-go/lz4/issues/1	Point the README install steps and badges at hanzo.ai/lz4/v4
+2	github	11.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/agents/issues/10	Return 500, not 404, when node details fail for another reason
+2	github	11.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/agents/issues/9	Honor the lines argument in MCPManager.Logs
+2	github	11.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/agents/issues/6	Fix 103 broken relative links in the README
+0	github	5.5	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1342	[radar] SN open bounty 2026-10-27T04:52
+0	github	10.6	-	OPEN_ISSUE	https://github.com/relayhop/sn-monetization-runtime/issues/1341	[radar] SN open bounty 2026-10-26T23:46
+0	github	11.1	-	OPEN_ISSUE	https://github.com/hanzoai/ui/issues/257	List only the hooks @hanzo/react exports; delete 9 empty hook files
+0	github	11.1	-	OPEN_ISSUE	https://github.com/hanzoai/agents/issues/8	Make the agent counts in README.md match the files
+0	github	11.1	-	OPEN_ISSUE	https://github.com/hanzoai/agents/issues/7	Fix 9 broken relative links in the examples and Go SDK READMEs
+0	github	11.1	-	OPEN_ISSUE	https://github.com/hanzoai/mcp/issues/14	Make skipFor ci/headless work and count skipped tests in test-suite
+0	github	11.1	-	OPEN_ISSUE	https://github.com/hanzoai/cli/issues/12	Rewrite CONTRIBUTING.md for the Rust CLI; it describes a Python app
+0	github	11.1	-	OPEN_ISSUE	https://github.com/hanzoai/cli/issues/11	Fix README commands that match no hanzo subcommand
