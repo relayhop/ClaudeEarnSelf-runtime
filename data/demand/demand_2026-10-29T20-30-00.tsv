@@ -1,0 +1,26 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/tech	0.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1604909	Stack Overflow is under 1,000 new questions a month. Where do you ask now?
+5	sn/bitcoin	3.5	1 BTC	OPEN_NEED	https://stacker.news/items/1604757	Nearly 1 BTC of retro and antiques. Sell for sats, where and how?
+4	sn/bitcoin	5.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1604658	Add output script index and corresponding script history RPC by andrewtoth
+4	sn/bitcoin	17.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1604397	Is Bitcoin dying in El Salvador?
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/alfrexo95/bounty-bot/issues/64	💰 Bounty Seguro (Ver enlace): 🪙 [Web3] bounty: [level:critical] Agentic Self-Hea
+4	github	2.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/alfrexo95/bounty-bot/issues/63	🪙 [Web3] bounty: [level:critical] Agentic Self-Healing Acti
+4	github	2.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/alfrexo95/bounty-bot/issues/62	🪙 [Web3] bounty: [level:critical] Predictive SLA Breach For
+3	sn/bitcoin	19.8	$9	OPEN_NEED	https://stacker.news/items/1604324	Austin trip day three: Robotaxi day. Coffee, tacos, and haircuts paid in sats.
+3	sn/bitcoin	14.4	000 sats	OPEN_NEED	https://stacker.news/items/1604434	BTC vote: Which party do you prefer to control the U.S. Congress?
+3	sn/bitcoin	20.6	1 sat	OPEN_NEED	https://stacker.news/items/1604294	Lolli alternative - Looking for beta testers 📱
+3	github	10.8	$250	OPEN_ISSUE,LOW_COMP	https://github.com/alfrexo95/bounty-bot/issues/60	💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bount
+3	github	19.8	$250	OPEN_ISSUE,LOW_COMP	https://github.com/alfrexo95/bounty-bot/issues/58	💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro 
+3	github	32.0	$250	OPEN_ISSUE,LOW_COMP	https://github.com/alfrexo95/bounty-bot/issues/54	💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserv
+3	github	39.4	$250	OPEN_ISSUE,LOW_COMP	https://github.com/alfrexo95/bounty-bot/issues/53	💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author
+2	sn/bitcoin	5.2	-	OPEN_NEED	https://stacker.news/items/1604649	Is trust the best way to scale bitcoin?
+2	github	5.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Sapi-Finance/Sapi-Frontend/issues/1	docs: add comprehensive local setup guide and Freighter testnet walkthrough to README.md
+2	github	6.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/vegaforge/octroi/issues/42	Crawler SDK: refuse offers for assets or networks the crawler did not configure
+1	github	17.7	$250	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4171	[Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro 
+1	github	21.0	$250	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4168	[Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro 
+1	github	24.3	$250	OPEN_ISSUE	https://github.com/alfrexo95/bounty-bot/issues/56	💰 Bounty Seguro ($$250): 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro 
+1	github	37.2	$250	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4152	[Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author
+0	github	8.3	-	OPEN_ISSUE	https://github.com/riteshbonthalakoti/HELPDESK.AI/issues/4116	bounty: [level:critical] Predictive SLA Breach Forecasting & Dynamic Capacity Balancing Engine
+0	github	8.3	-	OPEN_ISSUE	https://github.com/riteshbonthalakoti/HELPDESK.AI/issues/4115	bounty: [level:critical] Agentic Self-Healing Actions Engine: Sandboxed Playbook Execution for Automated Deflection
+0	github	28.0	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/4013	[Bounty] Run a real crash through fatal-guard and post the tombstone + the draft it produced
+0	github	46.3	-	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4142	[Bounty] Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts 
