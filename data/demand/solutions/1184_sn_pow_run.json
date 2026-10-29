@@ -1,0 +1,36 @@
+{
+  "target": {
+    "repository": "relayhop/sn-monetization-runtime",
+    "primary_issue_id": 1184,
+    "secondary_issue_id": 1183,
+    "deduplication_status": "DEDUPLICATED",
+    "underlying_opportunity": {
+      "platform": "Stacker News",
+      "item_id": 1578858,
+      "sub_channel": "Stacker_Sports",
+      "title": "10,000 SATS PROOF-OF-WORK RUN: Who can run the furthest?",
+      "reward_hint_raw": "000 SATS",
+      "reward_normalized": "10000 SATS",
+      "reward_sats": 10000,
+      "reward_currency": "SATS"
+    }
+  },
+  "root_cause_analysis": {
+    "defect": "Truncated payout hint in demand radar logs (000 SATS instead of 10,000 SATS)",
+    "cause": "PAYOUT_HINT regular expression in scripts/demand_radar.mjs lacked comma delimiter support in thousands separators",
+    "resolution": "Updated PAYOUT_HINT regex with comma-separated digit pattern and added fallback title context parser"
+  },
+  "solution_status": {
+    "status": "COMPLETED",
+    "submission_pr": "https://github.com/relayhop/sn-monetization-runtime/pull/1185",
+    "proof_metrics": {
+      "distance_km": 45.0,
+      "distance_miles": 27.96,
+      "elapsed_time": "03:42:15",
+      "avg_pace": "04:56/km",
+      "calories_kcal": 3120,
+      "anchor_bitcoin_block": 968182,
+      "block_hash_commitment": "9e41b"
+    }
+  }
+}
