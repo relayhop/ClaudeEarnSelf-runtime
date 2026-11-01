@@ -1,0 +1,6 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/tech	7.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1606127	Is this the first clear evidence of AI’s impact on the labour market?
+3	github	31.5	$172	OPEN_ISSUE,LOW_COMP	https://github.com/Abstract36/StakeChain/issues/1	Add Moonwell to the yields shelf (read the protocol, not an aggregator)
+2	github	43.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/ailn-ai/ailn/issues/7	task-0007: Independently verify the three published EIP-712 domain separators
+2	github	58.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Sapi-Finance/Sapi-Frontend/issues/1	docs: add comprehensive local setup guide and Freighter testnet walkthrough to README.md
+2	github	59.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/vegaforge/octroi/issues/42	Crawler SDK: refuse offers for assets or networks the crawler did not configure
