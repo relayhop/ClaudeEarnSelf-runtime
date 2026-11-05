@@ -1,0 +1,19 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	13.4	$41.76	OPEN_NEED,LOW_COMP	https://stacker.news/items/1608838	How Really Safe Is Your Money?
+3	github	5.2	$450	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4208	[Bounty] [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure
+3	github	5.2	$600	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4207	[Bounty] [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked 
+3	github	5.2	$450	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4205	[Bounty] [Escrowed $450 USDC] 20-Vector Conformance Suite: Streaming MCP SSE Chunk Bounda
+3	github	5.2	$600	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4206	[Bounty] [Escrowed $600 USDC] 20-Vector Conformance Suite: PagedAttention KV-Cache Block 
+3	github	10.5	$450	OPEN_ISSUE,LOW_COMP	https://github.com/WholeTroutMedia/agent-conformance-quarantine/issues/1	[Escrowed $450 USDC] 20-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff
+3	github	10.5	$600	OPEN_ISSUE,LOW_COMP	https://github.com/WholeTroutMedia/agent-conformance-quarantine/issues/2	[Escrowed $600 USDC] 20-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemptio
+3	github	10.5	$450	OPEN_ISSUE,LOW_COMP	https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/1	[Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff (drain_slot_ef8f)
+3	github	10.5	$600	OPEN_ISSUE,LOW_COMP	https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/2	[Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption (coalesce_stride_ring_423)
+3	github	12.6	5 USD	OPEN_ISSUE,LOW_COMP	https://github.com/dsfwmmy/jarvis-delivery-selftest/issues/1	Add mul(a, b) to calc.py
+3	github	62.3	$2	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/574	Frantic bounty #145: Install NitroMTA and send one real email to proof@nitromta.com
+2	sn/tech	4.3	-	OPEN_NEED	https://stacker.news/items/1609126	First Graphene Friendly Motorola?
+2	github	53.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pactwright/Pactwright-contracts/issues/96	feat(scripts): `inspect-pact.sh` prints a pact's on-chain state
+2	github	12.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/4494	[Bounty] Answer the 2 linked question(s)
+2	github	17.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/4487	[Bounty] Answer the 2 linked question(s)
+2	github	65.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1354	[radar] SN open bounty 2026-11-03T06:35
+0	github	17.0	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/4488	[Bounty] Answer the 2 linked question(s)
+0	github	17.0	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/4486	[Bounty] Answer the 2 linked question(s)
