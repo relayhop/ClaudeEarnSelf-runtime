@@ -1,0 +1,17 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	7.8	$41.76	OPEN_NEED,LOW_COMP	https://stacker.news/items/1608838	How Really Safe Is Your Money?
+3	github	4.9	$450	OPEN_ISSUE,LOW_COMP	https://github.com/WholeTroutMedia/agent-conformance-quarantine/issues/1	[Escrowed $450 USDC] 20-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff
+3	github	4.9	$600	OPEN_ISSUE,LOW_COMP	https://github.com/WholeTroutMedia/agent-conformance-quarantine/issues/2	[Escrowed $600 USDC] 20-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemptio
+3	github	4.9	$600	OPEN_ISSUE,LOW_COMP	https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/2	[Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption (drain_horizon_table_f52)
+3	github	4.9	$450	OPEN_ISSUE,LOW_COMP	https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/1	[Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff (partition_cursor_6d79)
+3	github	7.0	5 USD	OPEN_ISSUE,LOW_COMP	https://github.com/dsfwmmy/jarvis-delivery-selftest/issues/1	Add mul(a, b) to calc.py
+3	github	56.7	$2	OPEN_ISSUE,LOW_COMP	https://github.com/auscaster/frantic-board/issues/574	Frantic bounty #145: Install NitroMTA and send one real email to proof@nitromta.com
+3	github	70.5	$750	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4201	[Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro 
+2	sn/bitcoin	19.9	-	OPEN_NEED	https://stacker.news/items/1608631	Why isn't bitcoin used for more gray market things?
+2	github	48.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pactwright/Pactwright-contracts/issues/96	feat(scripts): `inspect-pact.sh` prints a pact's on-chain state
+2	github	7.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/4494	[Bounty] Answer the 2 linked question(s)
+2	github	11.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/4487	[Bounty] Answer the 2 linked question(s)
+2	github	59.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1354	[radar] SN open bounty 2026-11-03T06:35
+2	github	66.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1353	[radar] SN open bounty 2026-11-02T23:25
+0	github	11.4	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/4488	[Bounty] Answer the 2 linked question(s)
+0	github	11.4	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/4486	[Bounty] Answer the 2 linked question(s)
