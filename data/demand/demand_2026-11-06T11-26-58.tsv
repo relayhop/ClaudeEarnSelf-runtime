@@ -1,0 +1,32 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	1.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1609388	I do not want these community leaders to miss this opportunity
+6	sn/bitcoin	0.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1609411	Where to hold BTC long-term? Privacy vs. Fees in the L2 era
+5	github	3.7	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+5	github	3.7	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+5	github	3.7	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+5	github	3.7	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+4	github	0.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/legend-esc/carbonchain/issues/1312	feat(api): Multi-currency exchange rate caching service (XLM, USDC, EUR, USD)
+3	github	8.2	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+3	github	8.2	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+3	github	8.2	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+3	github	8.2	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+3	github	7.7	$750	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4225	[Bounty] [Bounty $750] Fix sharded softmax on offset core grids
+3	github	7.7	$600	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4223	[Bounty] 💎 [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunke
+3	github	7.7	$450	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4224	[Bounty] 💎 [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressu
+3	github	7.7	$600	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4221	[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc
+3	github	7.7	$450	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4222	[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun
+3	github	7.7	$450	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4220	[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun
+3	github	7.7	$600	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4219	[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc
+3	github	7.7	$600	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4218	[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc
+3	github	7.7	$450	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4217	[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun
+3	github	7.7	$450	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4216	[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun
+3	github	7.7	$600	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4215	[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc
+2	sn/bitcoin	8.7	-	OPEN_NEED	https://stacker.news/items/1609310	What do you think of Bitcoin Core's AI contribution policy?
+2	sn/tech	16.2	-	OPEN_NEED	https://stacker.news/items/1609126	First Graphene Friendly Motorola?
+2	github	4.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/altradits/ohala/issues/21	CSV export of receipts
+2	github	4.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/altradits/ohala/issues/10	Locale-aware sats formatting
+2	github	65.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Pactwright/Pactwright-contracts/issues/96	feat(scripts): `inspect-pact.sh` prints a pact's on-chain state
+2	github	5.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/odiseo159-beep/mergit/issues/17	Test the rules that decide which bounty a pull request claims
+2	github	5.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/odiseo159-beep/mergit/issues/16	Give the verifier a fair chance after a challenge
+1	github	8.3	$600	OPEN_ISSUE	https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+1	github	8.3	$450	OPEN_ISSUE	https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
