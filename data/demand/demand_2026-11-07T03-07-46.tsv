@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	github	0.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Scottcjn/rustchain-bounties/issues/17187	[BOUNTY: 30 RTC] Vintage miner port: MIPS — SGI IRIX (R4000–R16000) or DECstation Ultrix on the original hardware, with 
+4	github	0.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Scottcjn/rustchain-bounties/issues/17186	[BOUNTY: 35 RTC] Vintage miner port: Motorola 68K — Amiga, Atari ST/TT/Falcon or classic 68K Mac on its native OS, with 
+4	github	0.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Scottcjn/rustchain-bounties/issues/17185	[BOUNTY: 35 RTC] Vintage miner port: SPARC — SPARCstation / UltraSPARC on SunOS, Solaris or NetBSD, with real-hardware p
+4	github	0.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Scottcjn/rustchain-bounties/issues/17184	[BOUNTY: 20 RTC] Catalog provider agent: list real work on the node /catalog, fulfil 2 paid orders from other agents end
+4	github	0.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Scottcjn/rustchain-bounties/issues/17183	[BOUNTY: 20 RTC] Spend RTC from the SDK: `rustchain services list|buy|use` against BoTTube /api/rtc/* (with one real 3-R
+4	github	0.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Scottcjn/rustchain-bounties/issues/17182	[BOUNTY: 5 RTC] docs: reconcile the two miner config paths (/opt/rustchain-miner vs ~/.rustchain) across WALLET_SETUP.md
+4	github	0.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Scottcjn/rustchain-bounties/issues/17181	[BOUNTY: 15 RTC] Python SDK CLI has zero tests — add a Click CliRunner suite for every command (wallet/node/epoch/miners
+4	github	0.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Scottcjn/rustchain-bounties/issues/17180	[BOUNTY: 25 RTC] Node liveness checks must validate the /health BODY, not just HTTP 200 — one shared probe for all five 
+3	github	23.8	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+3	github	23.9	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+3	github	23.9	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+3	github	24.0	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+3	github	8.7	$750	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4243	[Bounty] [Bounty $750] Fix remaining sharded scale_mask_softmax mask handling issues
+2	sn/bitcoin	17.4	-	OPEN_NEED	https://stacker.news/items/1609388	I do not want these community leaders to miss this opportunity
+2	github	20.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/altradits/ohala/issues/21	CSV export of receipts
+2	github	20.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/altradits/ohala/issues/10	Locale-aware sats formatting
+2	github	15.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/legend-esc/carbonchain/issues/1357	feat(frontend): Seller dashboard with active listings, pending escrow, and sales revenue analytics
+2	github	16.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/legend-esc/carbonchain/issues/1312	feat(api): Multi-currency exchange rate caching service (XLM, USDC, EUR, USD)
+2	github	12.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Gain-Station-13/GS13-Blubberstation/pull/642	[Bounty] Inflation mechanics
+1	github	19.3	$600	OPEN_ISSUE	https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+1	github	19.3	$450	OPEN_ISSUE	https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+1	github	23.8	$450	OPEN_ISSUE	https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+1	github	24.0	$450	OPEN_ISSUE	https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+1	github	15.5	$600	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4237	[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc
+1	github	15.5	$450	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4236	[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun
+1	github	19.3	$600	OPEN_ISSUE	https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+1	github	19.3	$450	OPEN_ISSUE	https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+0	github	12.2	-	OPEN_ISSUE	https://github.com/tenstorrent/tt-metal/issues/64647	[Bounty $750] Fix remaining sharded scale_mask_softmax mask handling issues
