@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	0.4	$750	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4244	[Bounty] [Bounty $750] feat(validator): support custom step_size in verify_sequence_gap
+5	github	3.9	100 sats	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1357	[radar] SN open bounty 2026-11-07T12:51
+4	github	3.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/4572	[Bounty] Answer the 2 linked question(s)
+4	github	3.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/4571	[Bounty] Answer the 2 linked question(s)
+4	github	3.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/20	[Bounty $750] feat(validator): support custom step_size in verify_sequence_gap
+4	github	3.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/19	security(validator): prevent negative overflow in checkpoint frame arithmetic
+4	github	3.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/18	perf(validator): optimize sequence header iteration overhead in verify_sequence_gap
+4	github	3.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/15	fix(validator): handle empty batch in validate_merkle_anchor_v2 within src/ledger_validator.py
+4	github	3.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/14	feat(validator): add strict genesis_floor=0 check in compute_checkpoint_boundary
+3	sn/bitcoin	8.6	2024 BTC	OPEN_NEED	https://stacker.news/items/1609956	There's 0.2024 BTC hidden inside Pierre Noizat's book (French edition)
+3	github	37.5	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+3	github	37.6	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+3	github	37.6	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+3	github	37.6	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+2	github	34.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/altradits/ohala/issues/21	CSV export of receipts
+2	github	34.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/altradits/ohala/issues/10	Locale-aware sats formatting
+2	github	29.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/legend-esc/carbonchain/issues/1357	feat(frontend): Seller dashboard with active listings, pending escrow, and sales revenue analytics
+2	github	29.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/legend-esc/carbonchain/issues/1312	feat(api): Multi-currency exchange rate caching service (XLM, USDC, EUR, USD)
+2	github	1.0	-	OPEN_ISSUE	https://github.com/tari-project/universe/issues/3518	L2 menu opens PIN setup while L1 wallet is loading, even when a PIN is already set
+2	github	5.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/10	test(validator): add unit tests for non-monotonic sequence numbers in verify_sequence_gap
+2	github	14.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Scottcjn/rustchain-bounties/issues/17186	[BOUNTY: 35 RTC] Vintage miner port: Motorola 68K — Amiga, Atari ST/TT/Falcon or classic 68K Mac on its native OS, with 
+2	github	14.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Scottcjn/rustchain-bounties/issues/17185	[BOUNTY: 35 RTC] Vintage miner port: SPARC — SPARCstation / UltraSPARC on SunOS, Solaris or NetBSD, with real-hardware p
+1	github	33.0	$450	OPEN_ISSUE	https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+1	github	33.0	$600	OPEN_ISSUE	https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+1	github	37.5	$450	OPEN_ISSUE	https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+1	github	37.6	$450	OPEN_ISSUE	https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+0	github	14.4	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/17187	[BOUNTY: 30 RTC] Vintage miner port: MIPS — SGI IRIX (R4000–R16000) or DECstation Ultrix on the original hardware, with 
+0	github	14.4	-	OPEN_ISSUE	https://github.com/Scottcjn/rustchain-bounties/issues/17184	[BOUNTY: 20 RTC] Catalog provider agent: list real work on the node /catalog, fulfil 2 paid orders from other agents end
