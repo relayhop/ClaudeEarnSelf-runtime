@@ -1,0 +1,34 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	3.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1610803	My Experience at Lugano Plan B Forum 2026 - Every Bitcoiner Should Attend Once!
+5	github	0.5	$450	OPEN_ISSUE,LOW_COMP	https://github.com/andrewsiah/agentswarm-data-tasks/issues/4	Parse bounty reward strings for the feed importer
+4	github	3.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1361	[radar] SN open bounty 2026-11-08T19:31
+3	github	11.9	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/mlir-tensor-tiling-pass/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+3	github	11.9	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/mlir-tensor-tiling-pass/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+3	github	11.9	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+3	github	11.9	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+3	github	11.9	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+3	github	11.9	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+3	github	11.9	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/Furnace/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+3	github	11.9	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/Furnace/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+3	github	67.5	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+3	github	6.0	$450	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4277	[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun
+3	github	6.0	$600	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4276	[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc
+3	github	6.0	$600	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4274	[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc
+3	github	6.0	$450	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4275	[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun
+3	github	11.9	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/mlir-tensor-tiling-pass/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+3	github	11.9	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/mlir-tensor-tiling-pass/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+3	github	11.9	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+3	github	11.9	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+3	github	11.9	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+3	github	11.9	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+3	github	11.9	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/Furnace/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+3	github	11.9	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/Furnace/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+2	github	64.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/altradits/ohala/issues/21	CSV export of receipts
+2	github	64.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/altradits/ohala/issues/10	Locale-aware sats formatting
+2	github	59.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/legend-esc/carbonchain/issues/1357	feat(frontend): Seller dashboard with active listings, pending escrow, and sales revenue analytics
+2	github	59.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/legend-esc/carbonchain/issues/1312	feat(api): Multi-currency exchange rate caching service (XLM, USDC, EUR, USD)
+2	github	7.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1360	[radar] SN open bounty 2026-11-08T15:01
+2	github	9.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1359	[radar] SN open bounty 2026-11-08T13:13
+1	github	63.0	$600	OPEN_ISSUE	https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+1	github	63.0	$450	OPEN_ISSUE	https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+1	github	67.5	$450	OPEN_ISSUE	https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
