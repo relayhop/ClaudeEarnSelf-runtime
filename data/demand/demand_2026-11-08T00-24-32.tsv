@@ -1,0 +1,29 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	4.0	$450	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4258	[Bounty] [Bounty $450] refactor(validator): extract checkpoint divisor constant in src/le
+5	github	4.0	$350	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4259	[Bounty] [Bounty $350] perf(validator): add empty-slice fast path to verify_sequence_gap 
+5	github	4.0	$600	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4257	[Bounty] [Bounty $600] feat(validator): implement verify_checkpoint_batch in src/ledger_v
+5	github	4.0	$400	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4256	[Bounty] [Bounty $400] fix(validator): handle missing seq key in verify_sequence_gap head
+5	github	4.0	$500	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4254	[Bounty] [Bounty $500] perf(ledger): optimize 64-frame checkpoint boundary arithmetic in 
+5	github	4.0	$550	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4255	[Bounty] [Bounty $550] feat(cli): add JSON sequence gap serializer in src/cli/format_repo
+5	github	4.0	$350	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4253	[Bounty] [Bounty $350] docs(validator): add docstring usage examples for verify_sequence_
+5	github	4.0	$650	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4252	[Bounty] [Bounty $650] test(validator): verify path normalization for \ancestors\archive\
+5	github	4.0	$850	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4251	[Bounty] [Bounty $850] ci(workflow): synchronize contributor check job IDs across GitHub 
+5	github	4.0	$950	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4249	[Bounty] [Bounty $950] feat(validator): enforce CANONICAL_GAP_CONTRACT in verify_sequence
+5	github	4.0	$900	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4250	[Bounty] [Bounty $900] perf(validator): replace floor division with bitwise mask in compu
+5	github	4.0	$1	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4248	[Bounty] [Bounty $1,000] fix(validator): correct checkpoint boundary calculation for seq=
+5	github	4.0	$800	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4247	[Bounty] [Bounty $800] refactor(validator): handle legacy sequence key alias in verify_se
+5	github	4.0	$1	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4246	[Bounty] [Bounty $1,200] security(validator): reject float and bool sequence inputs in co
+5	github	4.0	$1	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4245	[Bounty] [Bounty $1,100] test(validator): add boundary regression test for seq=63 and seq
+3	sn/bitcoin	16.2	2024 BTC	OPEN_NEED	https://stacker.news/items/1609956	There's 0.2024 BTC hidden inside Pierre Noizat's book (French edition)
+3	github	45.1	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+3	github	45.2	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+3	github	45.2	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+3	github	45.3	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+2	github	41.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/altradits/ohala/issues/21	CSV export of receipts
+2	github	41.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/altradits/ohala/issues/10	Locale-aware sats formatting
+2	github	36.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/legend-esc/carbonchain/issues/1357	feat(frontend): Seller dashboard with active listings, pending escrow, and sales revenue analytics
+2	github	37.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/legend-esc/carbonchain/issues/1312	feat(api): Multi-currency exchange rate caching service (XLM, USDC, EUR, USD)
+1	github	40.6	$600	OPEN_ISSUE	https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+1	github	40.6	$450	OPEN_ISSUE	https://github.com/IES-BoilerRoom/asyncpg-savepoint-harness/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+1	github	45.1	$450	OPEN_ISSUE	https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+1	github	45.3	$450	OPEN_ISSUE	https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
