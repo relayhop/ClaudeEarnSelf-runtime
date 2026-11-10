@@ -1,0 +1,34 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	2.8	$450	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4280	[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun
+5	github	2.8	$600	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4281	[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc
+4	sn/tech	20.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1611048	🚀 Imani - Looking for beta testers!
+4	github	3.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1366	[radar] SN open bounty 2026-11-10T00:12
+3	github	9.6	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/davotoula/brollyzapper/issues/110	Show amounts as whole sats, with the msat remainder only when it is non-zero
+3	github	6.2	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/cuda-warp-allreduce-verifier/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+3	github	6.2	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/cuda-warp-allreduce-verifier/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+3	github	40.5	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/mlir-tensor-tiling-pass/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+3	github	40.5	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/mlir-tensor-tiling-pass/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+3	github	40.5	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+3	github	40.5	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+3	github	40.5	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+3	github	40.5	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+3	github	40.5	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/Furnace/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+3	github	40.5	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/Furnace/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+3	github	6.2	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/cuda-warp-allreduce-verifier/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+3	github	6.2	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/cuda-warp-allreduce-verifier/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+2	sn/bitcoin	12.2	-	OPEN_NEED	https://stacker.news/items/1611231	What the heck are quantum landmines?
+2	sn/tech	12.0	-	OPEN_NEED	https://stacker.news/items/1611242	I need a good open source dynamic rotating barcode scanning app
+2	github	7.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/fosay-labs/fosay-app/issues/23	feat(web): export wallet activity as CSV
+2	github	8.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/fosay-labs/fosay-app/issues/12	feat(mcp): add a fosay_budget tool
+2	github	15.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/blackcode-ch/bsuite-format-bounty/issues/1	[Bounty: USD 30] Handle zero and negative limits in a Unicode truncation helper
+2	github	4.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/andrewsiah/agentswarm-examples/issues/14	[$2 site credit] Add a C#/.NET example that lists open tasks
+2	github	6.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/andrewsiah/agentswarm-mcp/issues/8	[$2 site credit] Add a French README for agentswarm-mcp
+2	github	8.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/ai/issues/137	[QA Bounty] [P0] Model Routing & Failover
+2	github	8.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/ai/issues/136	[QA Bounty] [P0] Billing & Token Accuracy
+2	github	8.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/ai/issues/134	[QA Bounty] [P1] Video Generation Reliability
+2	github	8.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/ai/issues/133	[QA Bounty] [P1] Audio Generation & Transcription
+2	github	8.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/ai/issues/132	[QA Bounty] [P1] Text Generation Edge Cases
+2	github	8.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/ai/issues/131	[QA Bounty] [P1] Image Generation Consistency
+1	github	29.2	$450	OPEN_ISSUE	https://github.com/andrewsiah/agentswarm-data-tasks/issues/4	Parse bounty reward strings for the feed importer
+0	github	8.0	-	OPEN_ISSUE	https://github.com/hanzoai/ai/issues/138	[QA Bounty] [P0] Cross-Model API Compatibility
+0	github	8.0	-	OPEN_ISSUE	https://github.com/hanzoai/ai/issues/135	[QA Bounty] [P0] Multimodal Security Testing
