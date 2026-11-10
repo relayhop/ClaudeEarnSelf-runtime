@@ -1,0 +1,32 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	11.9	$10	OPEN_NEED,LOW_COMP	https://stacker.news/items/1611818	Michael Scott makes Dunder Mifflin accept Lightning only (Parody Part 1)
+5	github	0.3	$100	OPEN_ISSUE,LOW_COMP	https://github.com/the3kingleo-cmyk/ruth/issues/3	🪙 Bounty: Improve project documentation
+5	github	3.8	$1	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4289	[Bounty] [Bounty $1,500] audit(dex): resolve competing PR #77 vs PR #81 AMM fee-on-input 
+5	github	3.8	$1	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4287	[Bounty] [Bounty $1,300] fix(security): detect cross-PR scope contamination between #69 a
+5	github	3.8	$1	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4288	[Bounty] [Bounty $1,450] perf(ledger): benchmark PR #66 bitwise mask vs PR #79 bitshift i
+5	github	3.8	$1	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4286	[Bounty] [Bounty $1,600] security(guard): harden multi-tenant RAG & idempotent webhook ag
+3	github	25.8	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/davotoula/brollyzapper/issues/110	Show amounts as whole sats, with the msat remainder only when it is non-zero
+3	github	22.4	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/cuda-warp-allreduce-verifier/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+3	github	22.4	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/cuda-warp-allreduce-verifier/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+3	github	56.7	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/mlir-tensor-tiling-pass/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+3	github	56.7	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/mlir-tensor-tiling-pass/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+3	github	56.7	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+3	github	56.7	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+3	github	56.7	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+3	github	56.7	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+3	github	56.7	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/Furnace/issues/2	💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemp
+3	github	56.7	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/Furnace/issues/1	💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backo
+3	github	19.0	$450	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4280	[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun
+3	github	19.0	$600	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4281	[Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Bloc
+2	github	23.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/fosay-labs/fosay-app/issues/23	feat(web): export wallet activity as CSV
+2	github	24.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/fosay-labs/fosay-app/issues/12	feat(mcp): add a fosay_budget tool
+2	github	32.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/blackcode-ch/bsuite-format-bounty/issues/1	[Bounty: USD 30] Handle zero and negative limits in a Unicode truncation helper
+2	github	8.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/88	[Bounty $1,600] security(guard): harden multi-tenant RAG & idempotent webhook against replay in src/business_chatbot_gua
+2	github	8.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/87	[Bounty $1,300] fix(security): detect cross-PR scope contamination between #69 and #70 in src/quant_execution_guard.py
+2	github	8.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/86	[Bounty $1,450] perf(ledger): benchmark PR #66 bitwise mask vs PR #79 bitshift in compute_checkpoint_boundary
+2	github	8.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/85	[Bounty $1,500] audit(dex): resolve competing PR #77 vs PR #81 AMM fee-on-input divergence in src/quant_execution_guard.
+2	github	11.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1367	[radar] SN open bounty 2026-11-10T08:18
+2	github	17.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/andrewsiah/agentswarm-pi/issues/3	[$2 site credit] Add a Brazilian Portuguese README for agentswarm-pi
+2	github	19.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1366	[radar] SN open bounty 2026-11-10T00:12
+2	github	20.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/andrewsiah/agentswarm-examples/issues/14	[$2 site credit] Add a C#/.NET example that lists open tasks
+1	github	45.4	$450	OPEN_ISSUE	https://github.com/andrewsiah/agentswarm-data-tasks/issues/4	Parse bounty reward strings for the feed importer
