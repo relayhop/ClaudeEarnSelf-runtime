@@ -1,0 +1,32 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	23.3	$10	OPEN_NEED,LOW_COMP	https://stacker.news/items/1611818	Michael Scott makes Dunder Mifflin accept Lightning only (Parody Part 1)
+3	github	37.2	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/davotoula/brollyzapper/issues/110	Show amounts as whole sats, with the msat remainder only when it is non-zero
+3	github	68.1	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/2	[Escrowed $600 USDC] Tighten 32-bit subregister zero-extension parity across conditional joins (`ebpf-verifier-reg-bound
+3	github	68.1	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/1	[Escrowed $450 USDC] Fix ALU64 chunk ceiling boundary and tristate tnum scalar bitmask witness (`refine_bpf_tnum_frames`
+3	github	68.1	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/2	[Escrowed $600 USDC] Handle split 4-byte UTF-8 codepoints and CRLF keepalive heartbeats cleanly (`mcp-sse-frame-conforma
+3	github	68.1	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance/issues/1	[Escrowed $450 USDC] Fix incremental UTF-8 SSE chunk ceiling and align cross-shard frame digest witness (`frame_mcp_sse_
+3	github	68.1	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/Furnace/issues/2	[Escrowed $600 USDC] Stabilize multi-shard batch watermarks across concurrent worker epochs (`Furnace`)
+3	github	68.1	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/Furnace/issues/1	[Escrowed $450 USDC] Fix frame batch ceiling boundary and align 64-lane deterministic parity anchor (`reconcile_furnace_
+3	github	5.6	$420	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4309	[Bounty] [BOUNTY][$420][ADD] P. Diddy Lube
+3	github	5.6	$450	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4308	[Bounty] [Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic 
+3	github	5.6	$600	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4307	[Bounty] [Escrowed $600 USDC] Verify zero-reallocation UTF-8 frame lifting under determin
+3	github	5.6	$600	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4305	[Bounty] [Escrowed $600 USDC] Reject non-canonical S >= L scalar encodings without variab
+3	github	5.6	$450	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4306	[Bounty] [Escrowed $450 USDC] Fix wire-frame ceiling off-by-one and align constant-time r
+3	github	7.7	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/ed25519-ct-limb-verifier/issues/2	[Escrowed $600 USDC] Reject non-canonical S >= L scalar encodings without variable-time branches (`ed25519-ct-limb-verif
+3	github	7.7	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/2	[Escrowed $600 USDC] Verify zero-reallocation UTF-8 frame lifting under deterministic fuel metering (`wasm-component-can
+3	github	9.5	$100	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4304	[Bounty] 🪙 Bounty: Improve project documentation
+3	github	9.5	$100	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4303	[Bounty] 🪙 Bounty: Improve project documentation
+3	github	9.5	$100	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4301	[Bounty] 🪙 Bounty: Improve project documentation
+2	github	8.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/coreguard-global/CoreGuard/issues/26	Enhancement: Stellar DEX integration example (Soroswap/Aquarius/Phoenix)
+2	github	9.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellAdullam/StellAdullam/issues/17	feat(webapp): Add multi-wallet trustline status indicator for USDC and Land tokens
+2	github	35.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/fosay-labs/fosay-app/issues/23	feat(web): export wallet activity as CSV
+2	github	35.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/fosay-labs/fosay-app/issues/12	feat(mcp): add a fosay_budget tool
+2	github	43.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/blackcode-ch/bsuite-format-bounty/issues/1	[Bounty: USD 30] Handle zero and negative limits in a Unicode truncation helper
+2	github	8.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/theselfish/SlopStation13/issues/40	[BOUNTY][$420][ADD] P. Diddy Lube
+1	github	33.8	$600	OPEN_ISSUE	https://github.com/IES-BoilerRoom/cuda-warp-allreduce-verifier/issues/2	[Escrowed $600 USDC] Stabilize dual-pass FP16/BF16 tree reduction parity on tail chunk frames (`cuda-warp-allreduce-veri
+1	github	33.8	$450	OPEN_ISSUE	https://github.com/IES-BoilerRoom/cuda-warp-allreduce-verifier/issues/1	[Escrowed $450 USDC] Align SM90 warp butterfly accumulator rounding across subnormal lane boundaries (`reduce_warp_fp8_l
+1	github	56.8	$450	OPEN_ISSUE	https://github.com/andrewsiah/agentswarm-data-tasks/issues/4	Parse bounty reward strings for the feed importer
+1	github	7.7	$450	OPEN_ISSUE	https://github.com/IES-BoilerRoom/ed25519-ct-limb-verifier/issues/1	[Escrowed $450 USDC] Fix wire-frame ceiling off-by-one and align constant-time radix-51 carry mask (`unpack_scalar_wire_
+1	github	7.7	$450	OPEN_ISSUE	https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/1	[Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic instruction gas polynomial (`lift_canoni
+1	github	9.5	$100	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4302	[Bounty] 🪙 Bounty: Improve project documentation
+0	github	7.9	-	OPEN_ISSUE	https://github.com/coreguard-global/CoreGuard/issues/31	Community bounties & contributor program (open call)
