@@ -1,0 +1,30 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	10.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1612906	New Water Heater Gadget Could Turn Hot Showers Into Bitcoin. But Is It Worth It?
+4	sn/bitcoin	16.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1612722	Square Makes Bitcoin Payments Free. Will Merchants Pay When the Promotion Ends?
+3	github	65.0	000 sats	OPEN_ISSUE,LOW_COMP	https://github.com/davotoula/brollyzapper/issues/110	Show amounts as whole sats, with the msat remainder only when it is non-zero
+3	github	33.4	$420	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4309	[Bounty] [BOUNTY][$420][ADD] P. Diddy Lube
+3	github	33.4	$450	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4308	[Bounty] [Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic 
+3	github	33.4	$600	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4307	[Bounty] [Escrowed $600 USDC] Verify zero-reallocation UTF-8 frame lifting under determin
+3	github	33.4	$450	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4306	[Bounty] [Escrowed $450 USDC] Fix wire-frame ceiling off-by-one and align constant-time r
+3	github	33.4	$600	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4305	[Bounty] [Escrowed $600 USDC] Reject non-canonical S >= L scalar encodings without variab
+3	github	35.6	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/ed25519-ct-limb-verifier/issues/2	[Escrowed $600 USDC] Reject non-canonical S >= L scalar encodings without variable-time branches (`ed25519-ct-limb-verif
+3	github	35.6	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/ed25519-ct-limb-verifier/issues/1	[Escrowed $450 USDC] Fix wire-frame ceiling off-by-one and align constant-time radix-51 carry mask (`unpack_scalar_wire_
+3	github	35.6	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/2	[Escrowed $600 USDC] Verify zero-reallocation UTF-8 frame lifting under deterministic fuel metering (`wasm-component-can
+2	sn/bitcoin	18.4	-	OPEN_NEED	https://stacker.news/items/1612629	Don't try to change the Bitcoin protocol, make it irrelevant
+2	sn/bitcoin	21.2	-	OPEN_NEED	https://stacker.news/items/1612551	Do you tell people to "read the whitepaper"?
+2	github	24.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/gofairway/fairway/issues/22	"How to add a corridor" guide in docs/
+2	github	24.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/gofairway/fairway/issues/20	Expand AssetToCurrency mappings with tests
+2	github	37.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellAdullam/StellAdullam/issues/17	feat(webapp): Add multi-wallet trustline status indicator for USDC and Land tokens
+2	github	62.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/fosay-labs/fosay-app/issues/23	feat(web): export wallet activity as CSV
+2	github	63.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/fosay-labs/fosay-app/issues/12	feat(mcp): add a fosay_budget tool
+2	github	71.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/blackcode-ch/bsuite-format-bounty/issues/1	[Bounty: USD 30] Handle zero and negative limits in a Unicode truncation helper
+2	github	5.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/nomos-spec/spec/issues/33	Call for implementations: independent SPEC-014 resolver (weekend-sized) — take Resolution out of Draft
+2	github	5.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/nomos-spec/spec/issues/32	Call for implementations: independent SPEC-008 Act verifier — be the one that takes it out of Draft
+2	github	16.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/coreguard-global/CoreGuard/issues/55	Smart contracts: on-chain bounty escrow (Soroban) - trustless release on merged-PR evidence (CG-BTY-007)
+2	github	16.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/coreguard-global/CoreGuard/issues/54	Content: execution-receipt deep-dive + demo video + integration guides (CG-BTY-005)
+2	github	20.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/4692	[Bounty] Answer the 2 linked question(s)
+1	github	61.7	$600	OPEN_ISSUE	https://github.com/IES-BoilerRoom/cuda-warp-allreduce-verifier/issues/2	[Escrowed $600 USDC] Stabilize dual-pass FP16/BF16 tree reduction parity on tail chunk frames (`cuda-warp-allreduce-veri
+1	github	61.7	$450	OPEN_ISSUE	https://github.com/IES-BoilerRoom/cuda-warp-allreduce-verifier/issues/1	[Escrowed $450 USDC] Align SM90 warp butterfly accumulator rounding across subnormal lane boundaries (`reduce_warp_fp8_l
+1	github	35.6	$450	OPEN_ISSUE	https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/1	[Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic instruction gas polynomial (`lift_canoni
+0	github	36.2	-	OPEN_ISSUE	https://github.com/coreguard-global/CoreGuard/issues/26	Enhancement: Stellar DEX integration example (Soroswap/Aquarius/Phoenix)
+0	github	35.7	-	OPEN_ISSUE	https://github.com/coreguard-global/CoreGuard/issues/31	Community bounties & contributor program (open call)
