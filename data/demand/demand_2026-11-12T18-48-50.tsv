@@ -1,0 +1,28 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	3.4	21000sats	BOUNTY	https://stacker.news/items/1613251	Bounty: record a full tap-through of our TestFlight app on a physical iPhone
+5	github	1.4	01 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/toon-protocol/toon-plugins/issues/36	social: a reference for NIP-99 classified listings (an agent posts what it offers)
+4	sn/bitcoin	18.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1612906	New Water Heater Gadget Could Turn Hot Showers Into Bitcoin. But Is It Worth It?
+4	sn/tech	11.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1613033	octomon: is it Wi-Fi, your ISP or the Internet?
+4	github	0.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1372	[radar] SN open bounty 2026-11-12T18:10
+4	github	2.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1371	[radar] SN open bounty 2026-11-12T16:18
+3	github	4.9	$0	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/4751	[Bounty][$0][i18n] 多语言 README：新增 한국어 / Español / Français / Deutsch / Português(BR) / Русский（一门语言一个 PR）
+3	github	41.3	$420	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4309	[Bounty] [BOUNTY][$420][ADD] P. Diddy Lube
+3	github	41.3	$600	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4307	[Bounty] [Escrowed $600 USDC] Verify zero-reallocation UTF-8 frame lifting under determin
+3	github	41.3	$450	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4308	[Bounty] [Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic 
+3	github	41.3	$450	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4306	[Bounty] [Escrowed $450 USDC] Fix wire-frame ceiling off-by-one and align constant-time r
+3	github	41.3	$600	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4305	[Bounty] [Escrowed $600 USDC] Reject non-canonical S >= L scalar encodings without variab
+2	github	32.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/gofairway/fairway/issues/22	"How to add a corridor" guide in docs/
+2	github	32.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/gofairway/fairway/issues/20	Expand AssetToCurrency mappings with tests
+2	github	45.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellAdullam/StellAdullam/issues/17	feat(webapp): Add multi-wallet trustline status indicator for USDC and Land tokens
+2	github	70.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/fosay-labs/fosay-app/issues/23	feat(web): export wallet activity as CSV
+2	github	71.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/fosay-labs/fosay-app/issues/12	feat(mcp): add a fosay_budget tool
+2	github	4.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/andrewsiah/agentswarm-examples/issues/46	[$2 site credit] Add a Dart example that lists open bounties
+2	github	5.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/andrewsiah/agentswarm-examples/issues/45	[$2 site credit] Add a PHP example that lists open bounties
+2	github	13.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/nomos-spec/spec/issues/33	Call for implementations: independent SPEC-014 resolver (weekend-sized) — take Resolution out of Draft
+2	github	13.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/nomos-spec/spec/issues/32	Call for implementations: independent SPEC-008 Act verifier — be the one that takes it out of Draft
+2	github	24.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/coreguard-global/CoreGuard/issues/55	Smart contracts: on-chain bounty escrow (Soroban) - trustless release on merged-PR evidence (CG-BTY-007)
+2	github	24.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/coreguard-global/CoreGuard/issues/54	Content: execution-receipt deep-dive + demo video + integration guides (CG-BTY-005)
+2	github	28.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/4692	[Bounty] Answer the 2 linked question(s)
+1	github	69.6	$600	OPEN_ISSUE	https://github.com/IES-BoilerRoom/cuda-warp-allreduce-verifier/issues/2	[Escrowed $600 USDC] Stabilize dual-pass FP16/BF16 tree reduction parity on tail chunk frames (`cuda-warp-allreduce-veri
+1	github	69.6	$450	OPEN_ISSUE	https://github.com/IES-BoilerRoom/cuda-warp-allreduce-verifier/issues/1	[Escrowed $450 USDC] Align SM90 warp butterfly accumulator rounding across subnormal lane boundaries (`reduce_warp_fp8_l
+0	github	44.1	-	OPEN_ISSUE	https://github.com/coreguard-global/CoreGuard/issues/26	Enhancement: Stellar DEX integration example (Soroswap/Aquarius/Phoenix)
