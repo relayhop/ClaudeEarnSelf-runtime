@@ -1,0 +1,7 @@
+# score	source	age_h	payout_hint	tags	url	title
+3	github	13.8	01 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/toon-protocol/toon-plugins/issues/36	social: a reference for NIP-99 classified listings (an agent posts what it offers)
+2	github	9.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Heliobond/contracts/issues/885	`MIN_WITHDRAW`'s doc says "100 shares" while the constant is 1 000 000 000
+2	github	44.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/gofairway/fairway/issues/22	"How to add a corridor" guide in docs/
+2	github	44.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/gofairway/fairway/issues/20	Expand AssetToCurrency mappings with tests
+2	github	57.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellAdullam/StellAdullam/issues/17	feat(webapp): Add multi-wallet trustline status indicator for USDC and Land tokens
+0	github	56.4	-	OPEN_ISSUE	https://github.com/coreguard-global/CoreGuard/issues/26	Enhancement: Stellar DEX integration example (Soroswap/Aquarius/Phoenix)
