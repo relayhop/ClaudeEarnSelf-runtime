@@ -1,0 +1,5 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH_LOW_COMP	sn/bitcoin	0.2	0	1	https://stacker.news/items/1613701	Is Bitcoin Cheap Again? (Substack, James Check)
+FRESH_LOW_COMP	github	2.4	0	0	https://github.com/crit-labs/crit/issues/52	[Bounty] Faster decode GEMVs for IQ1_S, IQ1_M and IQ2_*, bit for bit
+FRESH	github	2.4	0	1	https://github.com/crit-labs/crit/issues/53	[Bounty] gguf-rows reads the ternary TQ1_0 and TQ2_0 formats
+FRESH	github	2.4	0	1	https://github.com/crit-labs/crit/issues/47	[Bounty] paged-kv-attention derives keys from cached values on read
