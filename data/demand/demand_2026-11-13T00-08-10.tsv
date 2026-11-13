@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	4.0	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/rfc9421-http-signature-gateway/issues/2	[Escrowed $600 USDC] Reconcile structured-field dictionary serialization across proxy hops (`rfc9421-http-signature-gate
+5	github	4.0	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/bgp-med-oscillation-verifier/issues/2	[Escrowed $600 USDC] Eliminate persistent route-reflector MED cycle across confederation peers (`bgp-med-oscillation-ver
+5	github	4.0	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/rfc9421-http-signature-gateway/issues/1	[Escrowed $450 USDC] Fix signature-base line wrapping ceiling and align `@signature-params` witness (`canonicalize_http_
+5	github	4.0	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/bgp-med-oscillation-verifier/issues/1	[Escrowed $450 USDC] Fix BGP attribute chunk boundary and resolve 4-AS preference matrix trace invariant (`normalize_bgp
+4	sn/bitcoin	8.7	21000sats	BOUNTY	https://stacker.news/items/1613251	Bounty: record a full tap-through of our TestFlight app on a physical iPhone
+4	sn/bitcoin	23.3	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1612906	New Water Heater Gadget Could Turn Hot Showers Into Bitcoin. But Is It Worth It?
+4	sn/tech	17.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1613033	octomon: is it Wi-Fi, your ISP or the Internet?
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Heliobond/contracts/issues/885	`MIN_WITHDRAW`'s doc says "100 shares" while the constant is 1 000 000 000
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/tenstorrent/tt-metal/issues/65437	[Bounty $2,000] Restore OpenVLA execution and action correctness
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1373	[radar] SN open bounty 2026-11-12T22:24
+3	github	6.7	01 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/toon-protocol/toon-plugins/issues/36	social: a reference for NIP-99 classified listings (an agent posts what it offers)
+3	github	10.2	$0	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/4751	[Bounty][$0][i18n] 多语言 README：新增 한국어 / Español / Français / Deutsch / Português(BR) / Русский（一门语言一个 PR）
+2	github	37.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/gofairway/fairway/issues/22	"How to add a corridor" guide in docs/
+2	github	37.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/gofairway/fairway/issues/20	Expand AssetToCurrency mappings with tests
+2	github	50.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellAdullam/StellAdullam/issues/17	feat(webapp): Add multi-wallet trustline status indicator for USDC and Land tokens
+2	github	6.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1372	[radar] SN open bounty 2026-11-12T18:10
+2	github	7.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1371	[radar] SN open bounty 2026-11-12T16:18
+2	github	10.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/andrewsiah/agentswarm-examples/issues/46	[$2 site credit] Add a Dart example that lists open bounties
+2	github	10.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/andrewsiah/agentswarm-examples/issues/45	[$2 site credit] Add a PHP example that lists open bounties
+2	github	18.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/nomos-spec/spec/issues/33	Call for implementations: independent SPEC-014 resolver (weekend-sized) — take Resolution out of Draft
+2	github	18.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/nomos-spec/spec/issues/32	Call for implementations: independent SPEC-008 Act verifier — be the one that takes it out of Draft
+2	github	29.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/coreguard-global/CoreGuard/issues/55	Smart contracts: on-chain bounty escrow (Soroban) - trustless release on merged-PR evidence (CG-BTY-007)
+2	github	29.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/coreguard-global/CoreGuard/issues/54	Content: execution-receipt deep-dive + demo video + integration guides (CG-BTY-005)
+0	github	49.4	-	OPEN_ISSUE	https://github.com/coreguard-global/CoreGuard/issues/26	Enhancement: Stellar DEX integration example (Soroswap/Aquarius/Phoenix)
