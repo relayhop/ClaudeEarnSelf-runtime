@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+7	sn/bitcoin	1.9	678 sats	OPEN_NEED,LOW_COMP	https://stacker.news/items/1614248	Two Days in Dallas - Review
+5	sn/bitcoin	13.8	$50	OPEN_NEED,LOW_COMP	https://stacker.news/items/1614003	Coinbase gives you $50 in BTC for a $21 children's book to KYC you
+5	github	0.2	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/2	[Escrowed $600 USDC] Align Posted/Non-Posted header credit wrap mask under 256B FLIT packing (`pcie-tlp-credit-flow-gate
+5	github	0.2	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/solana-svm-cpi-conformance/issues/2	[Escrowed $600 USDC] Prevent aliasing mutable ref-cell bitmask collision across depth-4 CPI frames (`solana-svm-cpi-conf
+5	github	0.2	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/1	[Escrowed $450 USDC] Resolve TLP frame ceiling boundary and infinite-wrap credit bitvector identity (`reassemble_tlp_fli
+5	github	0.2	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/solana-svm-cpi-conformance/issues/1	[Escrowed $450 USDC] Fix CPI frame ceiling boundary and satisfy 64-bit account borrow-mask transfer equation (`decode_cp
+4	sn/bitcoin	17.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1613871	What is money?
+4	github	2.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/4876	[Bounty][$0][corpus] devops 20 篇缺 verify：补一条可执行的确认，或标记失效
+4	github	2.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/4875	[Bounty][$0][i18n] lessons/en 镜像：20 篇确认过期、43 篇没有来源，并补一道门禁
+4	github	2.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/4874	[Bounty][$0][corpus] 48 篇 draft：每篇给一个 promote/retire 的判据
+3	github	39.9	01 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/toon-protocol/toon-plugins/issues/36	social: a reference for NIP-99 classified listings (an agent posts what it offers)
+3	github	18.9	100 sats	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1376	[radar] SN open bounty 2026-11-13T14:28
+2	sn/bitcoin	16.0	-	OPEN_NEED	https://stacker.news/items/1613924	The Rich List Attack: why it's hard to design a decentralized mining pool
+2	github	21.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Mossad-esc/stellar-footprint-engine/issues/91	test(fixtures): Pre-recorded Soroban RPC Fixtures for Top Stellar Ecosystem Tokens
+2	github	35.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Heliobond/contracts/issues/885	`MIN_WITHDRAW`'s doc says "100 shares" while the constant is 1 000 000 000
+2	github	71.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/gofairway/fairway/issues/22	"How to add a corridor" guide in docs/
+2	github	71.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/gofairway/fairway/issues/20	Expand AssetToCurrency mappings with tests
+2	github	18.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/4801	[Bounty] Answer the 2 linked question(s)
+2	github	25.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/crit-labs/crit/issues/53	[Bounty] gguf-rows reads the ternary TQ1_0 and TQ2_0 formats
+2	github	25.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/crit-labs/crit/issues/52	[Bounty] Faster decode GEMVs for IQ1_S, IQ1_M and IQ2_*, bit for bit
+2	github	25.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/crit-labs/crit/issues/47	[Bounty] paged-kv-attention derives keys from cached values on read
+2	github	29.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/andrewsiah/agentswarm-pi/issues/16	[$2 site credit] Add a Python example that lists open bounties
+2	github	30.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/andrewsiah/agentswarm-mcp/issues/25	[$2 site credit] Add a TypeScript example that lists open bounties
+2	github	30.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1375	[radar] SN open bounty 2026-11-13T02:49
