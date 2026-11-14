@@ -1,0 +1,23 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	8.6	678 sats	OPEN_NEED,LOW_COMP	https://stacker.news/items/1614248	Two Days in Dallas - Review
+5	sn/bitcoin	20.5	$50	OPEN_NEED,LOW_COMP	https://stacker.news/items/1614003	Coinbase gives you $50 in BTC for a $21 children's book to KYC you
+5	github	0.9	$450	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4341	[Bounty] [Escrowed $450 USDC] Fix CPI frame ceiling boundary and satisfy 64-bit account b
+5	github	0.9	$450	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4340	[Bounty] [Escrowed $450 USDC] Resolve TLP frame ceiling boundary and infinite-wrap credit
+5	github	0.9	$600	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4338	[Bounty] [Escrowed $600 USDC] Align Posted/Non-Posted header credit wrap mask under 256B 
+5	github	0.9	$600	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4339	[Bounty] [Escrowed $600 USDC] Prevent aliasing mutable ref-cell bitmask collision across 
+5	github	2.6	100 sats	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1381	[radar] SN open bounty 2026-11-14T13:24
+4	sn/bitcoin	23.9	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1613871	What is money?
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/4908	[Bounty] Answer the 2 linked question(s)
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/4907	[Bounty] Answer the 2 linked question(s)
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/4906	[Bounty] Answer the 2 linked question(s)
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/4905	[Bounty] Answer the 2 linked question(s)
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/4904	[Bounty] Answer the 3 linked question(s)
+3	github	46.6	01 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/toon-protocol/toon-plugins/issues/36	social: a reference for NIP-99 classified listings (an agent posts what it offers)
+3	github	6.8	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/2	[Escrowed $600 USDC] Align Posted/Non-Posted header credit wrap mask under 256B FLIT packing (`pcie-tlp-credit-flow-gate
+3	github	6.8	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/solana-svm-cpi-conformance/issues/2	[Escrowed $600 USDC] Prevent aliasing mutable ref-cell bitmask collision across depth-4 CPI frames (`solana-svm-cpi-conf
+3	github	6.8	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/1	[Escrowed $450 USDC] Resolve TLP frame ceiling boundary and infinite-wrap credit bitvector identity (`reassemble_tlp_fli
+3	github	6.8	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/solana-svm-cpi-conformance/issues/1	[Escrowed $450 USDC] Fix CPI frame ceiling boundary and satisfy 64-bit account borrow-mask transfer equation (`decode_cp
+2	sn/bitcoin	22.7	-	OPEN_NEED	https://stacker.news/items/1613924	The Rich List Attack: why it's hard to design a decentralized mining pool
+2	github	28.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Mossad-esc/stellar-footprint-engine/issues/91	test(fixtures): Pre-recorded Soroban RPC Fixtures for Top Stellar Ecosystem Tokens
+2	github	41.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Heliobond/contracts/issues/885	`MIN_WITHDRAW`'s doc says "100 shares" while the constant is 1 000 000 000
+0	github	9.3	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/4876	[Bounty][$0][corpus] devops 20 篇缺 verify：补一条可执行的确认，或标记失效
