@@ -1,0 +1,9 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH_LOW_COMP	github	0.7	0	0	https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/2	[Escrowed $600 USDC] Align Posted/Non-Posted header credit wrap mask under 256B FLIT packing (`pcie-tlp-credit-flow-gate
+FRESH_LOW_COMP	github	0.7	0	0	https://github.com/IES-BoilerRoom/solana-svm-cpi-conformance/issues/2	[Escrowed $600 USDC] Prevent aliasing mutable ref-cell bitmask collision across depth-4 CPI frames (`solana-svm-cpi-conf
+FRESH_LOW_COMP	github	0.7	0	0	https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/1	[Escrowed $450 USDC] Resolve TLP frame ceiling boundary and infinite-wrap credit bitvector identity (`reassemble_tlp_fli
+FRESH_LOW_COMP	github	0.7	0	0	https://github.com/IES-BoilerRoom/solana-svm-cpi-conformance/issues/1	[Escrowed $450 USDC] Fix CPI frame ceiling boundary and satisfy 64-bit account borrow-mask transfer equation (`decode_cp
+FRESH	sn/bitcoin	2.4	0	0	https://stacker.news/items/1614248	Two Days in Dallas - Review
+FRESH	github	3.2	0	5	https://github.com/Ikalus1988/MisakaNet/issues/4876	[Bounty][$0][corpus] devops 20 篇缺 verify：补一条可执行的确认，或标记失效
+FRESH	github	3.2	0	3	https://github.com/Ikalus1988/MisakaNet/issues/4875	[Bounty][$0][i18n] lessons/en 镜像：20 篇确认过期、43 篇没有来源，并补一道门禁
+FRESH	github	3.2	0	3	https://github.com/Ikalus1988/MisakaNet/issues/4874	[Bounty][$0][corpus] 48 篇 draft：每篇给一个 promote/retire 的判据
