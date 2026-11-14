@@ -1,0 +1,24 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	6.7	$50	OPEN_NEED,LOW_COMP	https://stacker.news/items/1614003	Coinbase gives you $50 in BTC for a $21 children's book to KYC you
+4	sn/bitcoin	10.1	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1613871	What is money?
+3	github	32.8	01 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/toon-protocol/toon-plugins/issues/36	social: a reference for NIP-99 classified listings (an agent posts what it offers)
+3	github	11.8	100 sats	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1376	[radar] SN open bounty 2026-11-13T14:28
+3	github	25.6	$450	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4317	[Bounty] [Escrowed $450 USDC] Fix BGP attribute chunk boundary and resolve 4-AS preferenc
+3	github	25.6	$450	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4316	[Bounty] [Escrowed $450 USDC] Fix signature-base line wrapping ceiling and align `@signat
+3	github	25.6	$600	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4315	[Bounty] [Escrowed $600 USDC] Eliminate persistent route-reflector MED cycle across confe
+3	github	25.6	$600	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4314	[Bounty] [Escrowed $600 USDC] Reconcile structured-field dictionary serialization across 
+3	github	25.6	$2	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4313	[Bounty] [Bounty $2,000] Restore OpenVLA execution and action correctness
+2	sn/bitcoin	9.0	-	OPEN_NEED	https://stacker.news/items/1613924	The Rich List Attack: why it's hard to design a decentralized mining pool
+2	github	14.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Mossad-esc/stellar-footprint-engine/issues/91	test(fixtures): Pre-recorded Soroban RPC Fixtures for Top Stellar Ecosystem Tokens
+2	github	28.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Heliobond/contracts/issues/885	`MIN_WITHDRAW`'s doc says "100 shares" while the constant is 1 000 000 000
+2	github	64.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/gofairway/fairway/issues/22	"How to add a corridor" guide in docs/
+2	github	64.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/gofairway/fairway/issues/20	Expand AssetToCurrency mappings with tests
+2	github	11.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/4801	[Bounty] Answer the 2 linked question(s)
+2	github	18.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/crit-labs/crit/issues/53	[Bounty] gguf-rows reads the ternary TQ1_0 and TQ2_0 formats
+2	github	18.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/crit-labs/crit/issues/52	[Bounty] Faster decode GEMVs for IQ1_S, IQ1_M and IQ2_*, bit for bit
+2	github	18.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/crit-labs/crit/issues/47	[Bounty] paged-kv-attention derives keys from cached values on read
+2	github	22.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/andrewsiah/agentswarm-pi/issues/16	[$2 site credit] Add a Python example that lists open bounties
+2	github	23.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/andrewsiah/agentswarm-mcp/issues/25	[$2 site credit] Add a TypeScript example that lists open bounties
+2	github	23.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1375	[radar] SN open bounty 2026-11-13T02:49
+2	github	25.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/andrewsiah/agentswarm-cli/issues/14	[$2 site credit] Add a TypeScript example that lists open bounties
+2	github	25.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/andrewsiah/agentswarm-cli/issues/13	[$2 site credit] Add a Python example that lists open bounties
