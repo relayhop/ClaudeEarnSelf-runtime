@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	1.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1615108	Sunday Survey: Is the current price drop related to Binance?
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/mcp/issues/38	AST-aware edits, semantic diffs and incremental test selection
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/mcp/issues/37	Graph tools for repository reasoning and change-impact analysis (RepoGraph)
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/mcp/issues/36	Dynamic repository map ranked by the symbol graph (RepoMap)
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/mcp/issues/35	Trigram code search for exact, regex and symbol queries (Zoekt)
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/mcp/issues/34	Compiler-aware code knowledge graph: Tree-sitter plus SCIP
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/agents/issues/66	Learned memory policy: when to add, update, delete, forget or abstain (Memory-R1)
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/agents/issues/65	Self-organising associative memory with bounded consolidation (A-MEM)
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/agents/issues/64	Reflection with belief separation and consolidation (retain, recall, reflect)
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/agents/issues/63	Tiered episodic, semantic and procedural memory with one API
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/agents/issues/62	Atomic memory facts with deduplication and selective writes (Mem0-style)
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/graph/issues/5	Native graph storage and a cost-based graph/vector query planner
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/graph/issues/4	Temporal and bitemporal knowledge graph with provenance (Graphiti)
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/graph/issues/3	Community detection and hierarchical summaries for global questions (GraphRAG)
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/graph/issues/2	Associative memory by bounded Personalized PageRank (HippoRAG 2)
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/graph/issues/1	Incremental entity-relationship indexing (LightRAG)
+3	github	13.4	$0.03	OPEN_ISSUE,LOW_COMP	https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/100	[Arena 30pts / $0.03] fix(x402): preserve explicitRetryable override and boundAt in src/x402_payment_guard.ts
+2	github	7.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/plimsoll-protocol/plimsoll-indexer/issues/19	fix(toml): currency code is matched case-insensitively
+2	github	14.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Dfunder/stellarAid-web/issues/1110	Add a supported-assets configuration (XLM, USDC, NGNT) with precision constants
+2	github	17.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/fitzyracing1/marev/issues/10	Base Sepolia config and testnet deploy guide
+2	github	17.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/fitzyracing1/marev/issues/8	Wrong USDC address in dex deploy script and README
+2	github	27.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Nodal-stellar/Nodal-AI/issues/928	`nodalPaywall({ asset })` is accepted but ignored
+2	github	56.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Mossad-esc/stellar-footprint-engine/issues/91	test(fixtures): Pre-recorded Soroban RPC Fixtures for Top Stellar Ecosystem Tokens
+2	github	70.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Heliobond/contracts/issues/885	`MIN_WITHDRAW`'s doc says "100 shares" while the constant is 1 000 000 000
