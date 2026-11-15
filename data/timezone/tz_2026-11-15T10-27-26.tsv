@@ -1,0 +1,16 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH_LOW_COMP	github	0.2	0	0	https://github.com/alfrexo95/bounty-bot/issues/87	🪙 [Web3] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatc
+FRESH_LOW_COMP	github	0.2	0	0	https://github.com/alfrexo95/bounty-bot/issues/85	🪙 [Web3] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatc
+FRESH_LOW_COMP	github	3.3	0	0	https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/103	[Arena 35pts / $0.035] fix(soroban): replace raw fee arithmetic with checked_mul/checked_div in src/soroban_math.rs
+FRESH_LOW_COMP	github	3.3	0	0	https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/102	[Arena 50pts / $0.05] test(ui): verify swap simulator DOM state with >=800x600 Before/After PNGs in src/ui/swap_preview.
+FRESH_LOW_COMP	github	3.3	0	0	https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/101	[Arena 40pts / $0.04] feat(clarity): enforce uint128 multiply-before-divide guard in contracts/sbtc_vault.clar
+FRESH_LOW_COMP	github	3.3	0	0	https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/100	[Arena 30pts / $0.03] fix(x402): preserve explicitRetryable override and boundAt in src/x402_payment_guard.ts
+FRESH_LOW_COMP	github	4.1	0	0	https://github.com/Ikalus1988/MisakaNet/issues/5003	[Bounty] Answer the 2 linked question(s)
+FRESH_LOW_COMP	github	4.1	0	0	https://github.com/Ikalus1988/MisakaNet/issues/5002	[Bounty] Answer the 2 linked question(s)
+FRESH_LOW_COMP	github	4.1	0	0	https://github.com/Ikalus1988/MisakaNet/issues/5001	[Bounty] Answer the 3 linked question(s)
+FRESH_LOW_COMP	github	4.1	0	0	https://github.com/Ikalus1988/MisakaNet/issues/5000	[Bounty] Answer the 3 linked question(s)
+FRESH	github	0.2	0	1	https://github.com/alfrexo95/bounty-bot/issues/86	🪙 [Web3] [$25 USDC Bounty] Chain-Feed Control-Plane Mismatc
+FRESH	github	0.2	0	1	https://github.com/alfrexo95/bounty-bot/issues/84	🪙 [Web3] [$25 USDC Bounty] Live Chain-Feed Drift Catch (53 
+FRESH	github	4.1	0	2	https://github.com/Ikalus1988/MisakaNet/issues/5005	[Bounty] Answer the 2 linked question(s)
+FRESH	github	4.1	0	2	https://github.com/Ikalus1988/MisakaNet/issues/5004	[Bounty] Answer the 2 linked question(s)
+FRESH	github	4.1	0	3	https://github.com/Ikalus1988/MisakaNet/issues/4999	[Bounty] Answer the 4 linked question(s)
