@@ -1,0 +1,30 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	11.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1615108	Sunday Survey: Is the current price drop related to Binance?
+4	github	0.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/armanalabsai/arlcoin.io/issues/200	Python SDK: read an agent's verified outcomes (outcomesOf on evaluator v5)
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/cloud/issues/20	Full sovereignty and network exit test
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/cloud/issues/19	Open protocol governance, treasury and forkability
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/cloud/issues/18	On-chain agent identity, reputation and delegated wallets (ERC-8004)
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/cloud/issues/17	Compute escrow, service guarantees, challenges and rewards
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/cloud/issues/16	Permissionless x402 payments and provider settlement
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/vfs/issues/39	Decentralized data, model checkpoints and agent memory
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/engine/issues/73	Verifiable federated updates and Byzantine-robust training (Hanzo side)
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/engine/issues/72	Permissionless internet-scale model training
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/engine/issues/71	Decentralized edge and mobile inference providers
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/engine/issues/70	Peer-to-peer distributed LLM inference
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/engine/issues/69	Confidential GPU inference and remote attestation client
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/engine/issues/68	zkML and zkVM proofs for small models and decisions
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/engine/issues/67	Optimistic AI execution and fraud-proof games
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/engine/issues/66	Proof of AI: CPU-verifiable GPU matrix products (Hanzo execution side)
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/engine/issues/65	Deterministic AI execution profiles
+3	github	24.0	$0.03	OPEN_ISSUE,LOW_COMP	https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/100	[Arena 30pts / $0.03] fix(x402): preserve explicitRetryable override and boundAt in src/x402_payment_guard.ts
+2	github	10.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/xebra-org/xebra/issues/114	SDK: amount parsers fail in three different ways
+2	github	10.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/xebra-org/xebra/issues/62	Web: Solana on-chain failures show raw JSON like {"InstructionError":[2,{"Custom":1}]}
+2	github	10.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/xebra-org/xebra/issues/41	Web: add error boundaries (app/error.tsx and app/global-error.tsx)
+2	github	10.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/xebra-org/xebra/issues/31	Web: claim pages show a decline as 'cancelled', not a red failure
+2	github	18.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/plimsoll-protocol/plimsoll-indexer/issues/19	fix(toml): currency code is matched case-insensitively
+2	github	25.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Dfunder/stellarAid-web/issues/1110	Add a supported-assets configuration (XLM, USDC, NGNT) with precision constants
+2	github	28.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/fitzyracing1/marev/issues/10	Base Sepolia config and testnet deploy guide
+2	github	28.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/fitzyracing1/marev/issues/8	Wrong USDC address in dex deploy script and README
+2	github	38.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Nodal-stellar/Nodal-AI/issues/928	`nodalPaywall({ asset })` is accepted but ignored
+2	github	67.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Mossad-esc/stellar-footprint-engine/issues/91	test(fixtures): Pre-recorded Soroban RPC Fixtures for Top Stellar Ecosystem Tokens
+0	github	32.7	-	OPEN_ISSUE	https://github.com/thkruz/keeptrack.space/pull/1464	feat(most-tracked): :sparkles: Most Tracked side menu with Top 25 and New & Trending
