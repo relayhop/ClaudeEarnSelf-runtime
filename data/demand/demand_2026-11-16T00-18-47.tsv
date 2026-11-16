@@ -1,0 +1,28 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	4.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1615108	Sunday Survey: Is the current price drop related to Binance?
+4	github	3.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/xebra-org/xebra/issues/114	SDK: amount parsers fail in three different ways
+4	github	3.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/xebra-org/xebra/issues/62	Web: Solana on-chain failures show raw JSON like {"InstructionError":[2,{"Custom":1}]}
+4	github	3.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/xebra-org/xebra/issues/41	Web: add error boundaries (app/error.tsx and app/global-error.tsx)
+4	github	3.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/xebra-org/xebra/issues/31	Web: claim pages show a decline as 'cancelled', not a red failure
+4	github	2.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1387	[radar] SN open bounty 2026-11-15T21:41
+3	github	17.2	$0.03	OPEN_ISSUE,LOW_COMP	https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/100	[Arena 30pts / $0.03] fix(x402): preserve explicitRetryable override and boundAt in src/x402_payment_guard.ts
+2	github	11.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/plimsoll-protocol/plimsoll-indexer/issues/19	fix(toml): currency code is matched case-insensitively
+2	github	18.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Dfunder/stellarAid-web/issues/1110	Add a supported-assets configuration (XLM, USDC, NGNT) with precision constants
+2	github	21.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/fitzyracing1/marev/issues/10	Base Sepolia config and testnet deploy guide
+2	github	21.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/fitzyracing1/marev/issues/8	Wrong USDC address in dex deploy script and README
+2	github	31.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Nodal-stellar/Nodal-AI/issues/928	`nodalPaywall({ asset })` is accepted but ignored
+2	github	60.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Mossad-esc/stellar-footprint-engine/issues/91	test(fixtures): Pre-recorded Soroban RPC Fixtures for Top Stellar Ecosystem Tokens
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/mcp/issues/38	AST-aware edits, semantic diffs and incremental test selection
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/mcp/issues/37	Graph tools for repository reasoning and change-impact analysis (RepoGraph)
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/mcp/issues/36	Dynamic repository map ranked by the symbol graph (RepoMap)
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/mcp/issues/34	Compiler-aware code knowledge graph: Tree-sitter plus SCIP
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/agents/issues/66	Learned memory policy: when to add, update, delete, forget or abstain (Memory-R1)
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/agents/issues/65	Self-organising associative memory with bounded consolidation (A-MEM)
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/agents/issues/64	Reflection with belief separation and consolidation (retain, recall, reflect)
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/agents/issues/63	Tiered episodic, semantic and procedural memory with one API
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/agents/issues/62	Atomic memory facts with deduplication and selective writes (Mem0-style)
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/graph/issues/5	Native graph storage and a cost-based graph/vector query planner
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/graph/issues/4	Temporal and bitemporal knowledge graph with provenance (Graphiti)
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/graph/issues/3	Community detection and hierarchical summaries for global questions (GraphRAG)
+2	github	4.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/graph/issues/2	Associative memory by bounded Personalized PageRank (HippoRAG 2)
+0	github	4.2	-	OPEN_ISSUE	https://github.com/hanzoai/mcp/issues/35	Trigram code search for exact, regex and symbol queries (Zoekt)
