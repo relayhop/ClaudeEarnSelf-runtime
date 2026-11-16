@@ -1,0 +1,17 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH_LOW_COMP	sn/bitcoin	0.8	0	0	https://stacker.news/items/1615363	$20 a month since 2016: $2,620 in, $46,596 out
+FRESH	github	0.2	0	1	https://github.com/alfrexo95/bounty-bot/issues/90	🪙 [Web3] Open reasoning RL / GRPO training pipeline
+FRESH	github	1.2	0	4	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4366	[Bounty] [Escrowed $450 USDC] Fix ACK stream chunk ceiling and BBRv3 ProbeBW_DOWN infligh
+FRESH	github	1.2	0	3	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4365	[Bounty] [Escrowed $450 USDC] Fix module frame ceiling check and align deterministic byte
+FRESH	github	1.2	0	2	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4364	[Bounty] [Escrowed $600 USDC] Stabilize min-RTT filter window across shallow-buffer ECN m
+FRESH	github	1.2	0	2	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4363	[Bounty] [Escrowed $600 USDC] Enforce linear resource drop safety across loop back-edges 
+FRESH	github	1.2	0	1	https://github.com/relayhop/sn-monetization-runtime/issues/1392	[radar] SN open bounty 2026-11-16T09:28
+FRESH	github	2.6	0	2	https://github.com/IES-BoilerRoom/MoveVM-bytecode-ability-checker/issues/2	[Escrowed $600 USDC] Enforce linear resource drop safety across loop back-edges (`MoveVM-bytecode-ability-checker`)
+FRESH	github	2.6	0	2	https://github.com/IES-BoilerRoom/tcp-bbrv3-pacing-verifier/issues/2	[Escrowed $600 USDC] Stabilize min-RTT filter window across shallow-buffer ECN marking bursts (`tcp-bbrv3-pacing-verifie
+FRESH	github	2.6	0	4	https://github.com/IES-BoilerRoom/MoveVM-bytecode-ability-checker/issues/1	[Escrowed $450 USDC] Fix module frame ceiling check and align deterministic bytecode gas residue (`parse_move_module_fra
+FRESH	github	2.6	0	4	https://github.com/IES-BoilerRoom/tcp-bbrv3-pacing-verifier/issues/1	[Escrowed $450 USDC] Fix ACK stream chunk ceiling and BBRv3 ProbeBW_DOWN inflight headroom witness (`segment_bbr_ack_fra
+FRESH	github	5.7	0	1	https://github.com/hanzoai/cloud/issues/20	Full sovereignty and network exit test
+FRESH	github	5.7	0	1	https://github.com/hanzoai/cloud/issues/19	Open protocol governance, treasury and forkability
+FRESH	github	5.7	0	1	https://github.com/hanzoai/cloud/issues/18	On-chain agent identity, reputation and delegated wallets (ERC-8004)
+FRESH	github	5.7	0	1	https://github.com/hanzoai/cloud/issues/17	Compute escrow, service guarantees, challenges and rewards
+FRESH	github	5.7	0	1	https://github.com/hanzoai/cloud/issues/16	Permissionless x402 payments and provider settlement
