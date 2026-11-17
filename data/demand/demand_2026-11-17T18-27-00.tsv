@@ -1,0 +1,35 @@
+# score	source	age_h	payout_hint	tags	url	title
+8	sn/bitcoin	2.1	57000sats	BOUNTY,LOW_COMP	https://stacker.news/items/1616276	Roast our shop, win 57k sats
+6	sn/bitcoin	2.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1616278	MARA Foundation on X: "Why MARA Is Upgrading to Stratum V2"
+5	github	1.3	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2	[Escrowed $600 USDC] Eliminate ABA generation counter skew across heterogeneous ring capacities (`tokio-ringbuffer-seqcs
+5	github	1.3	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1	[Escrowed $450 USDC] Fix slot batch ceiling check and align multi-stride ring wrap-around residue (`drain_mpsc_epoch_fra
+5	github	1.3	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/2	[Escrowed $600 USDC] Align WGSL constant-eval Horner polynomial rounding with runtime pipeline (`wgsl-transcendental-mat
+5	github	1.3	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/1	[Escrowed $450 USDC] Correct packet frame boundary clamp and 0.5-ULP FMA range-reduction tie-break (`fold_wgsl_radiance_
+4	github	0.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1404	[radar] SN open bounty 2026-11-17T17:47
+4	github	1.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5192	[Bounty] Answer the 2 linked question(s)
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5191	[Bounty] Answer the 2 linked question(s)
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5190	[Bounty] Answer the 3 linked question(s)
+4	github	2.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1402	[radar] SN open bounty 2026-11-17T15:53
+3	github	21.7	2 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/flisk-sh/flisk/issues/4484	AIPages Discovery: Boost your tool with AUS micro-payments on Base
+3	github	26.7	$1.00	OPEN_ISSUE,LOW_COMP	https://github.com/Fractal-Neurons/pacta/issues/41	[Wave 2 · Epoch 1: 25 × $1 USDC | 1,000-Slot Program] Continuous Agent & Researcher Control-Plane Mismatch Pool
+3	github	59.3	$0.03	OPEN_ISSUE,LOW_COMP	https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/100	[Arena 30pts / $0.03] fix(x402): preserve explicitRetryable override and boundAt in src/x402_payment_guard.ts
+2	github	7.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/code-orange-dev/curriculum/issues/14	Try the ecash workshop guide and update what's out of date
+2	github	6.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyFanss/MyFans/issues/2176	Add tests for plan asset letter case
+2	github	8.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/1928	test(ui): add test coverage for AssetSelector searching by asset code and issuer
+2	github	9.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/1905	feat(ui): display approximate fiat equivalent tooltip on token balance amounts
+2	github	45.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/xebra-org/xebra/issues/114	SDK: amount parsers fail in three different ways
+2	github	45.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/xebra-org/xebra/issues/62	Web: Solana on-chain failures show raw JSON like {"InstructionError":[2,{"Custom":1}]}
+2	github	45.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/xebra-org/xebra/issues/41	Web: add error boundaries (app/error.tsx and app/global-error.tsx)
+2	github	45.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/xebra-org/xebra/issues/31	Web: claim pages show a decline as 'cancelled', not a red failure
+2	github	53.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/plimsoll-protocol/plimsoll-indexer/issues/19	fix(toml): currency code is matched case-insensitively
+2	github	60.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Dfunder/stellarAid-web/issues/1110	Add a supported-assets configuration (XLM, USDC, NGNT) with precision constants
+2	github	63.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/fitzyracing1/marev/issues/10	Base Sepolia config and testnet deploy guide
+2	github	63.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/fitzyracing1/marev/issues/8	Wrong USDC address in dex deploy script and README
+2	github	5.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1400	[radar] SN open bounty 2026-11-17T13:08
+2	github	5.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/FreezingMoon/AncientBeast/issues/3252	OpenCollective banners eagerly loads redundant avatars on match start for hidden views [bounty: 40 XTR]
+0	github	67.9	-	OPEN_ISSUE	https://github.com/thkruz/keeptrack.space/pull/1464	feat(most-tracked): :sparkles: Most Tracked side menu with Top 25 and New & Trending
+0	github	36.0	-	OPEN_ISSUE	https://github.com/armanalabsai/arlcoin.io/issues/200	Python SDK: read an agent's verified outcomes (outcomesOf on evaluator v5)
+0	github	6.9	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/1997	docs(setup): add step-by-step instructions for running a local Stellar Standalone container
+0	github	7.3	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/1979	ci(typescript): add GitHub Actions step to verify TypeScript types without emitting JS
+0	github	7.6	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/1964	test(contracts): add Rust unit test verifying spending limit enforcement across multiple payments
+0	github	8.1	-	OPEN_ISSUE	https://github.com/OphirPay/OphirPay/issues/1946	feat(api): add Zod schema validation capping batch payment recipients to 100 per request
