@@ -1,0 +1,30 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	9.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1615507	Bitcoin, AI & Gaming -  Gamoid 🎥
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/hips/issues/18	[HIP-1348] Umbrella Research Bounties: Reliable, Economical and Verifiable AI Infrastructure
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/hips/issues/17	[HIP-1347] Umbrella Research Bounties: Event-Driven Agent Reliability
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/hips/issues/16	[HIP-1346] Umbrella Research Bounties: Evidence-Grounded Retrieval and Decision Evaluation
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/hips/issues/15	[HIP-1345] Umbrella Research Bounties: Agent-Aware Model Serving and Cache Reuse
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/hips/issues/14	[HIP-1344] Umbrella Research Bounties: Agent-Optimized Storage and Recovery
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/cloud/issues/40	[Bounty #50] eBPF sandbox runtime enforcement · visor / cloud (Tetragon)
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/cloud/issues/39	[Bounty #49] Verifiable agent-produced artifacts · cloud / Forge (SLSA v1.2 + Cosign)
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/cloud/issues/38	[Bounty #48] Adaptive concurrency admission control · cloud / s3
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/vfs/issues/68	[Bounty #47] Machine-checkable storage specifications · vfs (SYSSPEC)
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/ml/issues/49	[Bounty #46] Training data-pipeline cache allocation · ml (Seneca)
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/ml/issues/48	[Bounty #45] Redundancy-aware training checkpoints · ml (AdaCheck)
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/s3/issues/33	[Bounty #44] Predictive SSD failure detection · s3 (FailureMiner)
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/s3/issues/32	[Bounty #43] Adaptive object compression · s3 (PolarStore)
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/s3/issues/31	[Bounty #42] Discard-versus-compaction economics · s3 (DisCoGC)
+4	github	1.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/s3/issues/30	[Bounty #41] Geo-aware object recovery and placement · s3 (Apple ACOS)
+3	github	9.2	$1.00	OPEN_ISSUE,LOW_COMP	https://github.com/Fractal-Neurons/pacta/issues/41	[Wave 2 · Epoch 1: 25 × $1 USDC | 1,000-Slot Program] Continuous Agent & Researcher Control-Plane Mismatch Pool
+3	github	41.9	$0.03	OPEN_ISSUE,LOW_COMP	https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/100	[Arena 30pts / $0.03] fix(x402): preserve explicitRetryable override and boundAt in src/x402_payment_guard.ts
+2	github	18.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/armanalabsai/arlcoin.io/issues/200	Python SDK: read an agent's verified outcomes (outcomesOf on evaluator v5)
+2	github	28.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/xebra-org/xebra/issues/114	SDK: amount parsers fail in three different ways
+2	github	28.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/xebra-org/xebra/issues/62	Web: Solana on-chain failures show raw JSON like {"InstructionError":[2,{"Custom":1}]}
+2	github	28.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/xebra-org/xebra/issues/41	Web: add error boundaries (app/error.tsx and app/global-error.tsx)
+2	github	28.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/xebra-org/xebra/issues/31	Web: claim pages show a decline as 'cancelled', not a red failure
+2	github	36.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/plimsoll-protocol/plimsoll-indexer/issues/19	fix(toml): currency code is matched case-insensitively
+2	github	43.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Dfunder/stellarAid-web/issues/1110	Add a supported-assets configuration (XLM, USDC, NGNT) with precision constants
+2	github	46.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/fitzyracing1/marev/issues/10	Base Sepolia config and testnet deploy guide
+2	github	46.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/fitzyracing1/marev/issues/8	Wrong USDC address in dex deploy script and README
+2	github	55.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Nodal-stellar/Nodal-AI/issues/928	`nodalPaywall({ asset })` is accepted but ignored
+0	github	50.5	-	OPEN_ISSUE	https://github.com/thkruz/keeptrack.space/pull/1464	feat(most-tracked): :sparkles: Most Tracked side menu with Top 25 and New & Trending
