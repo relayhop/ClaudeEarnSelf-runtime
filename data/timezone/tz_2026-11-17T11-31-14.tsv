@@ -1,0 +1,17 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH_LOW_COMP	github	3.1	0	0	https://github.com/OphirPay/OphirPay/issues/1894	feat(ui): add copy-to-clipboard feedback tooltip on recipient addresses in BatchConfirmDialog
+FRESH	github	0.4	0	3	https://github.com/OphirPay/OphirPay/issues/1979	ci(typescript): add GitHub Actions step to verify TypeScript types without emitting JS
+FRESH	github	0.7	0	2	https://github.com/OphirPay/OphirPay/issues/1964	test(contracts): add Rust unit test verifying spending limit enforcement across multiple payments
+FRESH	github	1.2	0	2	https://github.com/OphirPay/OphirPay/issues/1946	feat(api): add Zod schema validation capping batch payment recipients to 100 per request
+FRESH	github	1.7	0	2	https://github.com/OphirPay/OphirPay/issues/1919	test(format): add unit tests for `formatStellarAmount` boundary values
+FRESH	github	3.1	0	1	https://github.com/OphirPay/OphirPay/issues/1895	feat(ui): add search and memo filter in ScheduledPaymentsList
+FRESH	github	3.1	0	1	https://github.com/OphirPay/OphirPay/issues/1893	feat(a11y): add keyboard navigation and ARIA attributes to AssetSelector modal
+FRESH	sn/bitcoin	4.2	0	5	https://stacker.news/items/1616002	Bitcoin Arena Bounty Season 2: AI emptied season 1, this one is for players
+FRESH	github	5.3	0	1	https://github.com/alfrexo95/bounty-bot/issues/93	🪙 [Web3] [50 JNZ] Arabic translation of the "Wallet and key
+FRESH	github	6.0	0	3	https://github.com/janzeerOrg/janzeer-sdk-ts/issues/7	[50 JNZ] Arabic translation of the "Sending transactions" guide
+FRESH	github	6.0	0	6	https://github.com/janzeerOrg/janzeer-sdk-python/issues/6	[50 JNZ] Arabic translation of the "Wallet and keys" guide
+FRESH	github	6.0	0	4	https://github.com/janzeerOrg/janzeer-sdk-kotlin/issues/8	[20 JNZ] Java example: watch new blocks
+FRESH	github	6.0	0	4	https://github.com/janzeerOrg/janzeer-sdk-dart/issues/8	[20 JNZ] Example: sign a transfer offline, broadcast it later
+FRESH	github	6.0	0	3	https://github.com/janzeerOrg/janzeer-sdk-go/issues/6	[20 JNZ] Example: sign a transfer offline, broadcast it later
+FRESH	github	6.0	0	4	https://github.com/janzeerOrg/janzeer-sdk-python/issues/5	[20 JNZ] Example: accept a payment (watch an address, match the memo, confirm it is final)
+FRESH	github	6.0	0	1	https://github.com/janzeerOrg/janzeer-sdk-ts/issues/6	[20 JNZ] Example: accept a payment (watch an address, match the memo, confirm it is final)
