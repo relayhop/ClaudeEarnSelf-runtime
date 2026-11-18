@@ -1,0 +1,35 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	16.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1616278	MARA Foundation on X: "Why MARA Is Upgrading to Stratum V2"
+4	sn/bitcoin	16.7	57000sats	BOUNTY	https://stacker.news/items/1616276	Roast our shop, win 57k sats
+4	sn/tech	10.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1616478	Java4Shell: pre-auth RCE in OpenJDK's Base64 decoder, patch out today
+4	github	1.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1413	[radar] SN open bounty 2026-11-18T07:06
+3	github	14.2	89 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/StellarSettle/stellarsettle/issues/405	Add USDC amount formatting with locale-aware number display
+3	github	36.3	2 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/flisk-sh/flisk/issues/4484	AIPages Discovery: Boost your tool with AUS micro-payments on Base
+3	github	41.2	$1.00	OPEN_ISSUE,LOW_COMP	https://github.com/Fractal-Neurons/pacta/issues/41	[Wave 2 · Epoch 1: 25 × $1 USDC | 1,000-Slot Program] Continuous Agent & Researcher Control-Plane Mismatch Pool
+3	github	13.1	$450	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4370	[Bounty] [Escrowed $450 USDC] Correct packet frame boundary clamp and 0.5-ULP FMA range-r
+3	github	13.1	$600	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4369	[Bounty] [Escrowed $600 USDC] Align WGSL constant-eval Horner polynomial rounding with ru
+3	github	15.9	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2	[Escrowed $600 USDC] Eliminate ABA generation counter skew across heterogeneous ring capacities (`tokio-ringbuffer-seqcs
+3	github	15.9	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1	[Escrowed $450 USDC] Fix slot batch ceiling check and align multi-stride ring wrap-around residue (`drain_mpsc_epoch_fra
+3	github	15.9	$600	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/2	[Escrowed $600 USDC] Align WGSL constant-eval Horner polynomial rounding with runtime pipeline (`wgsl-transcendental-mat
+3	github	15.9	$450	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/1	[Escrowed $450 USDC] Correct packet frame boundary clamp and 0.5-ULP FMA range-reduction tie-break (`fold_wgsl_radiance_
+2	github	21.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/code-orange-dev/curriculum/issues/14	Try the ecash workshop guide and update what's out of date
+2	github	4.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergepay/mergepay-web/issues/768	Add unit tests for balance calculation logic in src/lib
+2	github	4.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Open-Hub-Tec/yucu-protocol/issues/318	[docs] Frequently asked questions for buyers
+2	github	8.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Open-Hub-Tec/yucu-protocol/issues/269	[uml] Sequence diagram: an artisan gets paid in pesos
+2	github	14.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarSettle/stellarsettle/issues/376	Add a glossary of Stellar/Soroban terms to the README
+2	github	21.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyFanss/MyFans/issues/2176	Add tests for plan asset letter case
+2	github	23.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/1928	test(ui): add test coverage for AssetSelector searching by asset code and issuer
+2	github	24.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/1905	feat(ui): display approximate fiat equivalent tooltip on token balance amounts
+2	github	60.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/xebra-org/xebra/issues/114	SDK: amount parsers fail in three different ways
+2	github	60.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/xebra-org/xebra/issues/62	Web: Solana on-chain failures show raw JSON like {"InstructionError":[2,{"Custom":1}]}
+2	github	60.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/xebra-org/xebra/issues/41	Web: add error boundaries (app/error.tsx and app/global-error.tsx)
+2	github	60.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/xebra-org/xebra/issues/31	Web: claim pages show a decline as 'cancelled', not a red failure
+2	github	4.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1411	[radar] SN open bounty 2026-11-18T04:09
+2	github	9.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1409	[radar] SN open bounty 2026-11-17T23:59
+2	github	10.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1407	[radar] SN open bounty 2026-11-17T22:11
+2	github	15.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1404	[radar] SN open bounty 2026-11-17T17:47
+2	github	16.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5192	[Bounty] Answer the 2 linked question(s)
+2	github	16.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5191	[Bounty] Answer the 2 linked question(s)
+2	github	16.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5190	[Bounty] Answer the 3 linked question(s)
+2	github	17.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1402	[radar] SN open bounty 2026-11-17T15:53
+0	github	50.6	-	OPEN_ISSUE	https://github.com/armanalabsai/arlcoin.io/issues/200	Python SDK: read an agent's verified outcomes (outcomesOf on evaluator v5)
