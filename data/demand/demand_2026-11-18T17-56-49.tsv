@@ -1,0 +1,33 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	4.0	$0.05	OPEN_ISSUE,LOW_COMP	https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/116	[Wave 11] security(bridge): synchronize 128-bit fee rounding invariant across contracts/sbtc_vault.clar and src/soroban_
+5	github	4.0	$0.035	OPEN_ISSUE,LOW_COMP	https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/115	[Wave 11] fix(xdr): reject boolean ledger sequence inputs and align 64-frame checkpoint math in src/ledger_validator.py
+5	github	4.0	$0.05	OPEN_ISSUE,LOW_COMP	https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/114	[Wave 11] feat(ui): add Stellar slippage warning banner and >=800x600 DOM proof for src/ui/swap_preview.html
+5	github	4.0	$0.04	OPEN_ISSUE,LOW_COMP	https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/113	[Wave 11] fix(rpc): enforce BigInt stroops fee floor and SEP-10 challenge window in src/x402_payment_guard.ts
+5	github	4.0	$0.04	OPEN_ISSUE,LOW_COMP	https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/112	[Wave 11] feat(soroban): add ledger-skew replay window check in src/soroban_math.rs
+5	github	4.0	$0.03	OPEN_ISSUE,LOW_COMP	https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/111	[Wave 11] fix(soroban): clamp instance storage TTL extension against max_ttl in contracts/soroban_ttl_guard.rs
+4	sn/tech	19.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1616478	Java4Shell: pre-auth RCE in OpenJDK's Base64 decoder, patch out today
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/SorobanTags/STbackend/issues/55	CouponsService.create validates discount bounds but has no spec for the validation matrix
+4	github	1.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/SorobanTags/STbackend/issues/54	BundlesService.create trusts client-supplied price without validating USDC precision
+4	github	2.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/SorobanTags/STbackend/issues/17	IsUsdcAmount accepts values that overflow when scaled and IsFutureDate rejects string dates
+4	github	3.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/milepost-labs/milepost/issues/628	Directory: show and filter programmes by asset
+4	github	1.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1418	[radar] SN open bounty 2026-11-18T16:28
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5255	[Bounty] Answer the 2 linked question(s)
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5254	[Bounty] Answer the 2 linked question(s)
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5253	[Bounty] Answer the 2 linked question(s)
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5252	[Bounty] Answer the 2 linked question(s)
+4	github	2.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5251	[Bounty] Answer the 3 linked question(s)
+4	github	2.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1416	[radar] SN open bounty 2026-11-18T15:31
+3	github	23.2	89 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/StellarSettle/stellarsettle/issues/405	Add USDC amount formatting with locale-aware number display
+3	github	45.2	2 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/flisk-sh/flisk/issues/4484	AIPages Discovery: Boost your tool with AUS micro-payments on Base
+2	github	30.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/code-orange-dev/curriculum/issues/14	Try the ecash workshop guide and update what's out of date
+2	github	13.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergepay/mergepay-web/issues/768	Add unit tests for balance calculation logic in src/lib
+2	github	13.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Open-Hub-Tec/yucu-protocol/issues/318	[docs] Frequently asked questions for buyers
+2	github	17.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Open-Hub-Tec/yucu-protocol/issues/269	[uml] Sequence diagram: an artisan gets paid in pesos
+2	github	23.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarSettle/stellarsettle/issues/376	Add a glossary of Stellar/Soroban terms to the README
+2	github	30.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyFanss/MyFans/issues/2176	Add tests for plan asset letter case
+2	github	32.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/1928	test(ui): add test coverage for AssetSelector searching by asset code and issuer
+2	github	33.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/1905	feat(ui): display approximate fiat equivalent tooltip on token balance amounts
+2	github	2.0	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/5250	[Bounty] Answer the 3 linked question(s)
+2	github	4.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1414	[radar] SN open bounty 2026-11-18T13:49
+1	github	50.2	$1.00	OPEN_ISSUE	https://github.com/Fractal-Neurons/pacta/issues/41	[Wave 2 · Epoch 1: 25 × $1 USDC | 1,000-Slot Program] Continuous Agent & Researcher Control-Plane Mismatch Pool
+0	github	59.5	-	OPEN_ISSUE	https://github.com/armanalabsai/arlcoin.io/issues/200	Python SDK: read an agent's verified outcomes (outcomesOf on evaluator v5)
