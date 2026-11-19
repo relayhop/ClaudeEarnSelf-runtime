@@ -1,0 +1,33 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	8.9	$3.40	OPEN_NEED,LOW_COMP	https://stacker.news/items/1617182	Tradfi view of Strategy flywheel phenomenon
+5	github	0.7	$250	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/2	[$250] fix(verifier): Tighten 32-bit subregister zero-extension parity across conditional joins (ebpf-verifier-reg-bound
+5	github	0.7	$350	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/1	[350 USDC] Fix ALU64 chunk ceiling boundary and tristate tnum scalar bitmask witness (refine_bpf_tnum_frames)
+5	github	0.7	$175	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/2	ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append descriptors - Reward $175 USDC
+5	github	0.7	$200	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/1	[$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syndrome parity word (unpack_zns_metadata_f
+4	github	3.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1425	[radar] SN open bounty 2026-11-19T04:04
+3	github	37.1	89 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/StellarSettle/stellarsettle/issues/405	Add USDC amount formatting with locale-aware number display
+2	github	44.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/code-orange-dev/curriculum/issues/14	Try the ecash workshop guide and update what's out of date
+2	github	7.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/corridor-in-a-box/corridor-in-a-box/issues/668	Dashboard: filter anchors by SEP, asset and country
+2	github	7.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/corridor-in-a-box/corridor-in-a-box/issues/648	Wallet route type: check the recipient's trustline before sending
+2	github	9.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Octo-Protocol-org/Octo-Protocol/issues/678	chore(ingest): Eliminate the duplicated testnet USDC issuer constant shared by ingest and payment links
+2	github	10.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Novatip/novatip-web/issues/505	Add tests for canReceiveUsdc
+2	github	15.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/SorobanTags/STbackend/issues/55	CouponsService.create validates discount bounds but has no spec for the validation matrix
+2	github	15.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/SorobanTags/STbackend/issues/54	BundlesService.create trusts client-supplied price without validating USDC precision
+2	github	16.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/SorobanTags/STbackend/issues/17	IsUsdcAmount accepts values that overflow when scaled and IsFutureDate rejects string dates
+2	github	17.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/milepost-labs/milepost/issues/628	Directory: show and filter programmes by asset
+2	github	27.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/mergepay/mergepay-web/issues/768	Add unit tests for balance calculation logic in src/lib
+2	github	27.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Open-Hub-Tec/yucu-protocol/issues/318	[docs] Frequently asked questions for buyers
+2	github	31.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Open-Hub-Tec/yucu-protocol/issues/269	[uml] Sequence diagram: an artisan gets paid in pesos
+2	github	37.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/StellarSettle/stellarsettle/issues/376	Add a glossary of Stellar/Soroban terms to the README
+2	github	44.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/MyFanss/MyFans/issues/2176	Add tests for plan asset letter case
+2	github	45.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/OphirPay/OphirPay/issues/1928	test(ui): add test coverage for AssetSelector searching by asset code and issuer
+2	github	4.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1424	[radar] SN open bounty 2026-11-19T03:13
+2	github	8.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1422	[radar] SN open bounty 2026-11-18T23:01
+2	github	10.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1420	[radar] SN open bounty 2026-11-18T21:49
+2	github	15.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1418	[radar] SN open bounty 2026-11-18T16:28
+2	github	15.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5255	[Bounty] Answer the 2 linked question(s)
+2	github	15.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5254	[Bounty] Answer the 2 linked question(s)
+2	github	15.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5253	[Bounty] Answer the 2 linked question(s)
+2	github	15.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5252	[Bounty] Answer the 2 linked question(s)
+2	github	15.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5251	[Bounty] Answer the 3 linked question(s)
+0	github	15.8	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/5250	[Bounty] Answer the 3 linked question(s)
