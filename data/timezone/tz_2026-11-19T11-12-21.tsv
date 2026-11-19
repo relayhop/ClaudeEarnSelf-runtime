@@ -1,0 +1,7 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH_LOW_COMP	github	4.1	0	0	https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/2	[$250] fix(verifier): Tighten 32-bit subregister zero-extension parity across conditional joins (ebpf-verifier-reg-bound
+FRESH_LOW_COMP	github	4.1	0	0	https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/1	[350 USDC] Fix ALU64 chunk ceiling boundary and tristate tnum scalar bitmask witness (refine_bpf_tnum_frames)
+FRESH_LOW_COMP	github	4.1	0	0	https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/2	ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append descriptors - Reward $175 USDC
+FRESH	github	2.5	0	1	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4372	[Bounty] [$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syn
+FRESH	github	2.5	0	1	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4371	[Bounty] ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append desc
+FRESH	github	4.1	0	1	https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/1	[$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syndrome parity word (unpack_zns_metadata_f
