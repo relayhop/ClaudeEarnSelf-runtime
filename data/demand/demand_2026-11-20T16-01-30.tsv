@@ -1,0 +1,33 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	github	2.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/annoris/kineta/issues/1	🚀 [ANNOUNCEMENT & ROADMAP] Welcome to KINETA v1.0 — Vote on Next Features, WebGL Shaders & Solana Pay Perks!
+4	github	3.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract/issues/1128	sdk: getCAddressBalance is documented to accept G-addresses but asserts a C-address
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5463	[Bounty] Answer the 2 linked question(s)
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5462	[Bounty] Answer the 2 linked question(s)
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5461	[Bounty] Answer the 2 linked question(s)
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5460	[Bounty] Answer the 2 linked question(s)
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5459	[Bounty] Answer the 2 linked question(s)
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5458	[Bounty] Answer the 2 linked question(s)
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5457	[Bounty] Answer the 2 linked question(s)
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5456	[Bounty] Answer the 2 linked question(s)
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5455	[Bounty] Answer the 2 linked question(s)
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5454	[Bounty] Answer the 2 linked question(s)
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5453	[Bounty] Answer the 3 linked question(s)
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5452	[Bounty] Answer the 3 linked question(s)
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5451	[Bounty] Answer the 3 linked question(s)
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5450	[Bounty] Answer the 3 linked question(s)
+4	github	0.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5449	[Bounty] Answer the 4 linked question(s)
+2	github	21.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/btclib-org/btclib/issues/3162	valid_sats_amount and valid_btc_amount let a dust threshold subclass's own comparisons accept a negative amount
+2	github	22.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/btclib-org/btclib/issues/3160	valid_sats_amount lets a str subclass's own strip and __int__ decide the amount it returns
+2	github	1.1	-	OPEN_ISSUE	https://github.com/kindfi-org/kindfi/issues/1134	Keep wallet send on Horizon and return Horizon result codes to the user
+2	github	1.2	-	OPEN_ISSUE	https://github.com/kindfi-org/kindfi/issues/1123	Publish a SEP-1 stellar.toml and a short map of the SEPs KindFi actually depends on
+2	github	17.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/shakurJJ/chainsettle-frontend/issues/156	docs: Deployment guide and mainnet checklist
+2	github	18.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrustHire/hiresettle-frontend/issues/112	Write a local development guide for Freighter on testnet
+2	github	18.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrustHire/hiresettle-frontend/issues/97	Show a network badge and a testnet warning banner
+2	github	18.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrustHire/hiresettle-frontend/issues/88	Show a live per-milestone USDC payout breakdown on the create form
+2	github	23.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/determined-001/Quay/issues/554	5.50 - Receipt page: show what the buyer paid with
+2	github	23.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/determined-001/Quay/issues/541	5.45 - Show refund status on payments, the link timeline and the buyer's receipt
+2	github	23.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/determined-001/Quay/issues/530	8.29 - REFUNDS_ENABLED flag: refunds stay off on every deployment until the testnet end-to-end test passes
+2	github	23.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/determined-001/Quay/issues/524	7.36 - Docs: replace the retired testnet API host in PROPOSAL and RUNBOOK, and fix the dead Circle USDC link
+2	github	24.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/johnephraim949-web/cypher-gridpay-contracts/issues/421	ui/ux: Design Wallet Onboarding & First-Time Stellar User Education Micro-Flows (Trustlines, XLM Reserves, Passkeys)
+2	github	24.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Facil-Pay/facilpay-sdk/issues/109	Amount helpers: `toMinorUnits`, `fromMinorUnits`, `formatAmount`
+0	github	24.0	-	OPEN_ISSUE	https://github.com/Orbit-xyz/Orbit/issues/232	backend: implement automated Stellar testnet friendbot funding faucet helper for dev environments
