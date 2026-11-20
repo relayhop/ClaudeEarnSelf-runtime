@@ -1,0 +1,36 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	17.3	$775	OPEN_NEED,LOW_COMP	https://stacker.news/items/1617443	Tether Fun Unbelievable Details - Part VI
+4	sn/bitcoin	2.1	-	OPEN_NEED	https://stacker.news/items/1617921	🚨🚨 This is a five-alarm fire moment for Bitcoin
+3	github	5.0	$20	OPEN_ISSUE,LOW_COMP	https://github.com/alfrexo95/bounty-bot/issues/96	🪙 [Web3] [Wave 3: 2 × $20 USDC | 3-Year Protocol Trajectory
+3	github	7.1	$20	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4374	[Bounty] [Wave 3: 2 × $20 USDC | 3-Year Protocol Trajectory & Integrity Dossiers] Human-R
+2	github	12.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/btclib-org/btclib/issues/3162	valid_sats_amount and valid_btc_amount let a dust threshold subclass's own comparisons accept a negative amount
+2	github	12.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/btclib-org/btclib/issues/3160	valid_sats_amount lets a str subclass's own strip and __int__ decide the amount it returns
+2	github	67.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/code-orange-dev/curriculum/issues/14	Try the ecash workshop guide and update what's out of date
+2	github	8.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/shakurJJ/chainsettle-frontend/issues/156	docs: Deployment guide and mainnet checklist
+2	github	9.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrustHire/hiresettle-frontend/issues/112	Write a local development guide for Freighter on testnet
+2	github	9.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrustHire/hiresettle-frontend/issues/97	Show a network badge and a testnet warning banner
+2	github	9.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrustHire/hiresettle-frontend/issues/88	Show a live per-milestone USDC payout breakdown on the create form
+2	github	14.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/determined-001/Quay/issues/554	5.50 - Receipt page: show what the buyer paid with
+2	github	14.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/determined-001/Quay/issues/541	5.45 - Show refund status on payments, the link timeline and the buyer's receipt
+2	github	14.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/determined-001/Quay/issues/530	8.29 - REFUNDS_ENABLED flag: refunds stay off on every deployment until the testnet end-to-end test passes
+2	github	14.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/determined-001/Quay/issues/524	7.36 - Docs: replace the retired testnet API host in PROPOSAL and RUNBOOK, and fix the dead Circle USDC link
+2	github	14.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/johnephraim949-web/cypher-gridpay-contracts/issues/421	ui/ux: Design Wallet Onboarding & First-Time Stellar User Education Micro-Flows (Trustlines, XLM Reserves, Passkeys)
+2	github	15.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Facil-Pay/facilpay-sdk/issues/109	Amount helpers: `toMinorUnits`, `fromMinorUnits`, `formatAmount`
+2	github	17.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/SorobanTags/STfrontend/issues/109	Guard BundleHero against bundles whose totalValue is zero or below bundlePrice
+2	github	32.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Octo-Protocol-org/Octo-Protocol/issues/678	chore(ingest): Eliminate the duplicated testnet USDC issuer constant shared by ingest and payment links
+2	github	14.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5373	[Bounty] Answer the 2 linked question(s)
+2	github	14.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5372	[Bounty] Answer the 2 linked question(s)
+2	github	14.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5371	[Bounty] Answer the 2 linked question(s)
+2	github	14.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5370	[Bounty] Answer the 2 linked question(s)
+2	github	14.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5369	[Bounty] Answer the 2 linked question(s)
+2	github	14.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5368	[Bounty] Answer the 2 linked question(s)
+2	github	14.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5367	[Bounty] Answer the 2 linked question(s)
+2	github	14.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5366	[Bounty] Answer the 2 linked question(s)
+2	github	14.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5365	[Bounty] Answer the 2 linked question(s)
+2	github	14.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5364	[Bounty] Answer the 2 linked question(s)
+2	github	14.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5363	[Bounty] Answer the 2 linked question(s)
+2	github	14.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5362	[Bounty] Answer the 3 linked question(s)
+1	github	9.4	$20	OPEN_ISSUE	https://github.com/Fractal-Neurons/pacta/issues/118	[Wave 3: 2 × $20 USDC | 3-Year Protocol Trajectory & Integrity Dossiers] Human-Researcher Control-Plane Due-Diligence Po
+0	github	15.0	-	OPEN_ISSUE	https://github.com/Orbit-xyz/Orbit/issues/232	backend: implement automated Stellar testnet friendbot funding faucet helper for dev environments
+0	github	30.2	-	OPEN_ISSUE	https://github.com/corridor-in-a-box/corridor-in-a-box/issues/668	Dashboard: filter anchors by SEP, asset and country
+0	github	30.3	-	OPEN_ISSUE	https://github.com/corridor-in-a-box/corridor-in-a-box/issues/648	Wallet route type: check the recipient's trustline before sending
