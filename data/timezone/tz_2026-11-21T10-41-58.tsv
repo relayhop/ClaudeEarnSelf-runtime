@@ -1,0 +1,16 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH_LOW_COMP	github	4.4	0	0	https://github.com/tradermarketcap/tradermarketcap-open/issues/17	Fix QNT supply (totalSupply is hardcoded)
+FRESH_LOW_COMP	github	4.4	0	0	https://github.com/tradermarketcap/tradermarketcap-open/issues/16	Find OP's non-circulating wallets
+FRESH_LOW_COMP	github	4.4	0	0	https://github.com/tradermarketcap/tradermarketcap-open/issues/15	Find PYTH's locked allocation wallets
+FRESH_LOW_COMP	github	4.4	0	0	https://github.com/tradermarketcap/tradermarketcap-open/issues/14	Find JUP's locked wallets
+FRESH_LOW_COMP	github	4.4	0	0	https://github.com/tradermarketcap/tradermarketcap-open/issues/13	Find FET's non-circulating wallets
+FRESH_LOW_COMP	github	4.4	0	0	https://github.com/tradermarketcap/tradermarketcap-open/issues/12	Find ONDO's locked allocation wallets
+FRESH_LOW_COMP	github	4.4	0	0	https://github.com/tradermarketcap/tradermarketcap-open/issues/11	Find LINK's non-circulating wallets
+FRESH_LOW_COMP	github	4.4	0	0	https://github.com/tradermarketcap/tradermarketcap-open/issues/9	Split AVAX locked stake out of the total
+FRESH_LOW_COMP	github	4.4	0	0	https://github.com/tradermarketcap/tradermarketcap-open/issues/7	Read TON circulating supply
+FRESH_LOW_COMP	github	4.4	0	0	https://github.com/tradermarketcap/tradermarketcap-open/issues/6	Read ALGO circulating supply with Foundation wallets excluded
+FRESH_LOW_COMP	github	4.4	0	0	https://github.com/tradermarketcap/tradermarketcap-open/issues/5	Read APT (Aptos) circulating supply
+FRESH	github	4.4	0	1	https://github.com/tradermarketcap/tradermarketcap-open/issues/20	Add a Bitget exchange reader
+FRESH	github	4.4	0	1	https://github.com/tradermarketcap/tradermarketcap-open/issues/18	Fix AERO's listed Base contract
+FRESH	github	4.4	0	2	https://github.com/tradermarketcap/tradermarketcap-open/issues/10	Add an ENA supply rule with locked wallets excluded
+FRESH	github	4.4	0	1	https://github.com/tradermarketcap/tradermarketcap-open/issues/8	Read RUNE circulating supply from THORChain
