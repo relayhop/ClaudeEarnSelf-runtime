@@ -1,0 +1,39 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/tech	17.9	$20	OPEN_NEED,LOW_COMP	https://stacker.news/items/1618184	PC Necromancing
+4	sn/bitcoin	17.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1618188	How out of date is the Bitcoin network? - @schmidty
+4	sn/bitcoin	22.6	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1618053	LEXIT: use Liquid without relying on swap providers or whitelists to get out
+3	sn/bitcoin	19.1	100 sats	OPEN_NEED	https://stacker.news/items/1618150	How to use your first s9 / Why I bought a trunk-load of broken, out of date, s9s
+2	sn/bitcoin	17.6	-	OPEN_NEED	https://stacker.news/items/1618197	Remember the 2020 covid crash?
+2	github	16.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/btclib-org/btclib/issues/3168	No test checks that valid_sats_amount's refusal of a str amount carries no secret
+2	github	41.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/btclib-org/btclib/issues/3162	valid_sats_amount and valid_btc_amount let a dust threshold subclass's own comparisons accept a negative amount
+2	github	41.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/btclib-org/btclib/issues/3160	valid_sats_amount lets a str subclass's own strip and __int__ decide the amount it returns
+2	github	22.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/annoris/kineta/issues/1	🚀 [ANNOUNCEMENT & ROADMAP] Welcome to KINETA v1.0 — Vote on Next Features, WebGL Shaders & Solana Pay Perks!
+2	github	23.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract/issues/1128	sdk: getCAddressBalance is documented to accept G-addresses but asserts a C-address
+2	github	37.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/shakurJJ/chainsettle-frontend/issues/156	docs: Deployment guide and mainnet checklist
+2	github	38.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrustHire/hiresettle-frontend/issues/112	Write a local development guide for Freighter on testnet
+2	github	38.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrustHire/hiresettle-frontend/issues/97	Show a network badge and a testnet warning banner
+2	github	42.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/determined-001/Quay/issues/554	5.50 - Receipt page: show what the buyer paid with
+2	github	42.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/determined-001/Quay/issues/541	5.45 - Show refund status on payments, the link timeline and the buyer's receipt
+2	github	42.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/determined-001/Quay/issues/530	8.29 - REFUNDS_ENABLED flag: refunds stay off on every deployment until the testnet end-to-end test passes
+2	github	42.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/determined-001/Quay/issues/524	7.36 - Docs: replace the retired testnet API host in PROPOSAL and RUNBOOK, and fix the dead Circle USDC link
+2	github	43.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/johnephraim949-web/cypher-gridpay-contracts/issues/421	ui/ux: Design Wallet Onboarding & First-Time Stellar User Education Micro-Flows (Trustlines, XLM Reserves, Passkeys)
+2	github	5.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/20	Add a Bitget exchange reader
+2	github	5.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/18	Fix AERO's listed Base contract
+2	github	5.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/17	Fix QNT supply (totalSupply is hardcoded)
+2	github	5.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/16	Find OP's non-circulating wallets
+2	github	5.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/15	Find PYTH's locked allocation wallets
+2	github	5.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/14	Find JUP's locked wallets
+2	github	5.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/13	Find FET's non-circulating wallets
+2	github	5.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/12	Find ONDO's locked allocation wallets
+2	github	5.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/11	Find LINK's non-circulating wallets
+2	github	5.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/10	Add an ENA supply rule with locked wallets excluded
+2	github	5.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/9	Split AVAX locked stake out of the total
+2	github	5.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/8	Read RUNE circulating supply from THORChain
+2	github	5.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/7	Read TON circulating supply
+2	github	5.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/6	Read ALGO circulating supply with Foundation wallets excluded
+2	github	5.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/5	Read APT (Aptos) circulating supply
+0	github	9.7	-	OPEN_ISSUE	https://github.com/Orbit-xyz/Orbit/issues/326	frontend: build live currency rate conversion ticker and testnet asset price widget in navbar
+0	github	9.8	-	OPEN_ISSUE	https://github.com/Orbit-xyz/Orbit/issues/322	widget: implement custom tip / donation add-on selector in checkout drawer
+0	github	20.8	-	OPEN_ISSUE	https://github.com/kindfi-org/kindfi/issues/1134	Keep wallet send on Horizon and return Horizon result codes to the user
+0	github	20.8	-	OPEN_ISSUE	https://github.com/kindfi-org/kindfi/issues/1123	Publish a SEP-1 stellar.toml and a short map of the SEPs KindFi actually depends on
+0	github	38.4	-	OPEN_ISSUE	https://github.com/TrustHire/hiresettle-frontend/issues/88	Show a live per-milestone USDC payout breakdown on the create form
