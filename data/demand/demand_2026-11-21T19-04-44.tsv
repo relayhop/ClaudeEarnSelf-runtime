@@ -1,0 +1,37 @@
+# score	source	age_h	payout_hint	tags	url	title
+6	sn/bitcoin	2.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1618725	I'm looking for testers so I can get Bitcoin Quest on the Google Play store.
+5	github	0.9	$1.00	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4381	[Bounty] [Wave 4: 24 × $1.00 USDC | Observed Catalogue] Batch 1 Open Now (12 Slots · Ethe
+5	github	0.9	$2.00	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4380	[Bounty] [Wave 4: 10 × $2.00 USDC | Control-Plane Watch] Open Now (567 Watched Addresses 
+5	github	2.8	$2.00	OPEN_ISSUE,LOW_COMP	https://github.com/Fractal-Neurons/pacta/issues/161	[Wave 4: 5 × $2.00 USDC | Documents Changed] Open Now (160 Protocols · 246 Quoted Records · Ethereum & Base)
+5	github	3.0	$2.00	OPEN_ISSUE,LOW_COMP	https://github.com/Fractal-Neurons/pacta/issues/159	[Wave 4: 10 × $2.00 USDC | Control-Plane Watch] Open Now (567 Watched Addresses · Ethereum & Base)
+5	github	3.2	$1.00	OPEN_ISSUE,LOW_COMP	https://github.com/Fractal-Neurons/pacta/issues/158	[Wave 4: 24 × $1.00 USDC | Observed Catalogue] Batch 1 Open Now (12 Slots · Ethereum & Base)
+4	github	3.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/56	Add a Bithumb exchange reader (KRW converted to USD)
+4	github	3.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/55	Add an Upbit exchange reader (USDT market)
+4	github	3.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/54	Add a Gemini exchange reader
+4	github	3.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/53	Add a Bitfinex exchange reader
+4	github	3.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/52	Add a Crypto.com Exchange reader
+4	github	3.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/51	Add an HTX (Huobi) exchange reader
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5549	[Bounty] Answer the 2 linked question(s)
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5548	[Bounty] Answer the 2 linked question(s)
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5547	[Bounty] Answer the 2 linked question(s)
+4	github	4.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5546	[Bounty] Answer the 2 linked question(s)
+2	github	4.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/selfcustody/krux/issues/1002	test: native P2WSH has no direct vector on `tests/test_sats_vb.py`,
+2	github	5.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Mansi2007275/PatchPay/issues/9	Show the amount next to each payout tx on the PatchProof page
+2	github	23.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/btclib-org/btclib/issues/3168	No test checks that valid_sats_amount's refusal of a str amount carries no secret
+2	github	48.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/btclib-org/btclib/issues/3162	valid_sats_amount and valid_btc_amount let a dust threshold subclass's own comparisons accept a negative amount
+2	github	49.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/btclib-org/btclib/issues/3160	valid_sats_amount lets a str subclass's own strip and __int__ decide the amount it returns
+2	github	29.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/annoris/kineta/issues/1	🚀 [ANNOUNCEMENT & ROADMAP] Welcome to KINETA v1.0 — Vote on Next Features, WebGL Shaders & Solana Pay Perks!
+2	github	30.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract/issues/1128	sdk: getCAddressBalance is documented to accept G-addresses but asserts a C-address
+2	github	44.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/shakurJJ/chainsettle-frontend/issues/156	docs: Deployment guide and mainnet checklist
+2	github	45.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrustHire/hiresettle-frontend/issues/112	Write a local development guide for Freighter on testnet
+2	github	45.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrustHire/hiresettle-frontend/issues/97	Show a network badge and a testnet warning banner
+2	github	50.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/determined-001/Quay/issues/554	5.50 - Receipt page: show what the buyer paid with
+2	github	50.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/determined-001/Quay/issues/541	5.45 - Show refund status on payments, the link timeline and the buyer's receipt
+2	github	50.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/determined-001/Quay/issues/530	8.29 - REFUNDS_ENABLED flag: refunds stay off on every deployment until the testnet end-to-end test passes
+2	github	50.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/determined-001/Quay/issues/524	7.36 - Docs: replace the retired testnet API host in PROPOSAL and RUNBOOK, and fix the dead Circle USDC link
+0	github	17.2	-	OPEN_ISSUE	https://github.com/Orbit-xyz/Orbit/issues/326	frontend: build live currency rate conversion ticker and testnet asset price widget in navbar
+0	github	17.2	-	OPEN_ISSUE	https://github.com/Orbit-xyz/Orbit/issues/322	widget: implement custom tip / donation add-on selector in checkout drawer
+0	github	28.2	-	OPEN_ISSUE	https://github.com/kindfi-org/kindfi/issues/1134	Keep wallet send on Horizon and return Horizon result codes to the user
+0	github	28.2	-	OPEN_ISSUE	https://github.com/kindfi-org/kindfi/issues/1123	Publish a SEP-1 stellar.toml and a short map of the SEPs KindFi actually depends on
+0	github	45.8	-	OPEN_ISSUE	https://github.com/TrustHire/hiresettle-frontend/issues/88	Show a live per-milestone USDC payout breakdown on the create form
+0	github	51.0	-	OPEN_ISSUE	https://github.com/johnephraim949-web/cypher-gridpay-contracts/issues/421	ui/ux: Design Wallet Onboarding & First-Time Stellar User Education Micro-Flows (Trustlines, XLM Reserves, Passkeys)
