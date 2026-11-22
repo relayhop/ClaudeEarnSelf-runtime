@@ -1,0 +1,39 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	3.1	$125	OPEN_ISSUE,LOW_COMP	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4383	[Bounty] fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 instruction
+4	sn/bitcoin	21.8	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1618725	I'm looking for testers so I can get Bitcoin Quest on the Google Play store.
+4	github	0.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1429	[radar] SN open bounty 2026-11-22T14:27
+3	github	8.5	100 sats	OPEN_ISSUE,LOW_COMP	https://github.com/bitcoinkisumu/bitcoin-kisumu/issues/10	Write a beginner Lightning wallet guide for the Resources page
+3	github	3.1	$250	OPEN_ISSUE	https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4382	[Bounty] fix(dwarf_trace): Preserve exact column-offset delta invariants across exception
+3	github	4.3	$0	OPEN_ISSUE,LOW_COMP	https://github.com/alfrexo95/bounty-bot/issues/100	🪙 [Web3] [Bounty] Answer the 4 linked question(s)
+3	github	10.6	$75	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/bgp-med-oscillation-verifier/issues/2	[$75] fix(routing): Eliminate persistent route-reflector MED cycle across confederation peers (bgp-med-oscillation-verif
+3	github	10.6	$175	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/bgp-med-oscillation-verifier/issues/1	[175 USDC] Fix BGP attribute chunk boundary and resolve 4-AS preference matrix trace invariant (normalize_bgp_update_fra
+3	github	10.6	$125	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/1	fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 instruction-envelope residue ($125 bounty) [collect
+3	github	10.6	$250	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/2	fix(dwarf_trace): Preserve exact column-offset delta invariants across exception handler tables ($250 bounty) [cpython-p
+2	github	8.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/bitcoinkisumu/bitcoin-kisumu/issues/7	Add a social preview image (Open Graph)
+2	github	24.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/selfcustody/krux/issues/1002	test: native P2WSH has no direct vector on `tests/test_sats_vb.py`,
+2	github	25.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Mansi2007275/PatchPay/issues/9	Show the amount next to each payout tx on the PatchProof page
+2	github	43.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/btclib-org/btclib/issues/3168	No test checks that valid_sats_amount's refusal of a str amount carries no secret
+2	github	68.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/btclib-org/btclib/issues/3162	valid_sats_amount and valid_btc_amount let a dust threshold subclass's own comparisons accept a negative amount
+2	github	68.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/btclib-org/btclib/issues/3160	valid_sats_amount lets a str subclass's own strip and __int__ decide the amount it returns
+2	github	14.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Yormee-103/PayLoop/issues/62	Hide the faucet UI when the app is not on testnet
+2	github	49.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/annoris/kineta/issues/1	🚀 [ANNOUNCEMENT & ROADMAP] Welcome to KINETA v1.0 — Vote on Next Features, WebGL Shaders & Solana Pay Perks!
+2	github	50.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract/issues/1128	sdk: getCAddressBalance is documented to accept G-addresses but asserts a C-address
+2	github	64.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/shakurJJ/chainsettle-frontend/issues/156	docs: Deployment guide and mainnet checklist
+2	github	65.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrustHire/hiresettle-frontend/issues/112	Write a local development guide for Freighter on testnet
+2	github	65.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/TrustHire/hiresettle-frontend/issues/97	Show a network badge and a testnet warning banner
+2	github	69.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/determined-001/Quay/issues/554	5.50 - Receipt page: show what the buyer paid with
+2	github	1.6	-	OPEN_ISSUE	https://github.com/XHToken/Spark-X2.6/issues/32	HER Hack-Astron #8 | Spark × SkillHub Agent Skills Challenge｜Agent 技能实战挑战赛
+2	github	4.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/vedantdadhich21/orvyn/issues/2	Testers wanted: try to break the portfolio builder
+2	github	8.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5568	[Bounty] Answer the 2 linked question(s)
+2	github	8.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5567	[Bounty] Answer the 4 linked question(s)
+2	github	15.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/amiller/bounty-arcade/issues/94	[busy forest] Improve EC Rank cell 3/12
+2	github	15.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/amiller/bounty-arcade/issues/93	[busy forest] Improve EC Rank cell 3/11
+2	github	15.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/amiller/bounty-arcade/issues/92	[busy forest] Improve EC Rank cell 3/10
+0	github	5.1	-	OPEN_ISSUE	https://github.com/Orbit-xyz/Orbit/issues/355	widget: implement simulated checkout sandbox mode with dummy Freighter wallet provider
+0	github	36.9	-	OPEN_ISSUE	https://github.com/Orbit-xyz/Orbit/issues/326	frontend: build live currency rate conversion ticker and testnet asset price widget in navbar
+0	github	36.9	-	OPEN_ISSUE	https://github.com/Orbit-xyz/Orbit/issues/322	widget: implement custom tip / donation add-on selector in checkout drawer
+0	github	48.0	-	OPEN_ISSUE	https://github.com/kindfi-org/kindfi/issues/1134	Keep wallet send on Horizon and return Horizon result codes to the user
+0	github	48.0	-	OPEN_ISSUE	https://github.com/kindfi-org/kindfi/issues/1123	Publish a SEP-1 stellar.toml and a short map of the SEPs KindFi actually depends on
+0	github	65.6	-	OPEN_ISSUE	https://github.com/TrustHire/hiresettle-frontend/issues/88	Show a live per-milestone USDC payout breakdown on the create form
+0	github	69.9	-	OPEN_ISSUE	https://github.com/determined-001/Quay/issues/541	5.45 - Show refund status on payments, the link timeline and the buyer's receipt
+0	github	69.9	-	OPEN_ISSUE	https://github.com/determined-001/Quay/issues/530	8.29 - REFUNDS_ENABLED flag: refunds stay off on every deployment until the testnet end-to-end test passes
