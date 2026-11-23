@@ -28,6 +28,11 @@ jobs:
         with:
           node-version: '22'
 
+      - name: Process dwarf_trace issues
+        id: dwarf_trace
+        run: |
+          python3 scripts/dwarf_trace_processor.py
+          
       - name: Run demand radar
         id: radar
         run: |
