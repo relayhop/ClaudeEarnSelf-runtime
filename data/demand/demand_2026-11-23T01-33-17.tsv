@@ -1,0 +1,35 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	9.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1619115	Sunday Survey: Is this bottom?
+4	github	1.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1433	[radar] SN open bounty 2026-11-23T00:12
+3	github	19.2	100 sats	OPEN_ISSUE,LOW_COMP	https://github.com/bitcoinkisumu/bitcoin-kisumu/issues/10	Write a beginner Lightning wallet guide for the Resources page
+3	github	45.5	$19	OPEN_ISSUE,LOW_COMP	https://github.com/run-llama/llama_index/issues/24363	Docs idea: Screwtape agent_fleet_compliance for agent spend audit
+2	github	19.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/bitcoinkisumu/bitcoin-kisumu/issues/7	Add a social preview image (Open Graph)
+2	github	34.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/selfcustody/krux/issues/1002	test: native P2WSH has no direct vector on `tests/test_sats_vb.py`,
+2	github	36.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Mansi2007275/PatchPay/issues/9	Show the amount next to each payout tx on the PatchProof page
+2	github	54.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/btclib-org/btclib/issues/3168	No test checks that valid_sats_amount's refusal of a str amount carries no secret
+2	github	8.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/Yormee-103/PayLoop/issues/141	Faucet confirmation hardcodes "500 test USDC" instead of using the minted amount
+2	github	60.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/annoris/kineta/issues/1	🚀 [ANNOUNCEMENT & ROADMAP] Welcome to KINETA v1.0 — Vote on Next Features, WebGL Shaders & Solana Pay Perks!
+2	github	60.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract/issues/1128	sdk: getCAddressBalance is documented to accept G-addresses but asserts a C-address
+2	github	7.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1431	[radar] SN open bounty 2026-11-22T18:28
+2	github	9.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Fishers-Founders-United/Swapatron5000/issues/113	Bounty (5): Organize the first three months of the upkeep rota
+2	github	9.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Fishers-Founders-United/Swapatron5000/issues/112	Bounty (5): Help a second town plan its own Swapatron
+2	github	9.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Fishers-Founders-United/Swapatron5000/issues/111	Bounty (3): Line up food trucks for hatching day, with the lab's OK on space and permits
+2	github	9.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Fishers-Founders-United/Swapatron5000/issues/110	Bounty (1): Suggest a better cute name for an IoT term in \1
+2	github	9.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Fishers-Founders-United/Swapatron5000/issues/109	Bounty (3): Write the youth protection rules, with someone who works with kids
+2	github	9.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Fishers-Founders-United/Swapatron5000/issues/108	Bounty (5): Run the technology petting zoo
+2	github	9.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Fishers-Founders-United/Swapatron5000/issues/107	Bounty (3): Keep a habitat at the technology petting zoo
+2	github	9.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Fishers-Founders-United/Swapatron5000/issues/106	Bounty (5): Lead build day
+2	github	9.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Fishers-Founders-United/Swapatron5000/issues/105	Bounty (3): Host an event from the \1
+2	github	9.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Fishers-Founders-United/Swapatron5000/issues/104	Bounty (5): Design and prototype the sensor node
+2	github	9.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Fishers-Founders-United/Swapatron5000/issues/103	Bounty (3): Work out the power budget for solar, battery, and lighting
+2	github	9.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Fishers-Founders-United/Swapatron5000/issues/102	Bounty (3): Write the cut list from the chosen design
+2	github	9.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Fishers-Founders-United/Swapatron5000/issues/101	Bounty (3): Draw a full shell design with measurements
+1	github	4.5	$50	OPEN_ISSUE	https://github.com/Orbit-xyz/Orbit/issues/368	widget: implement support for customizable one-time onboarding setup fee in checkout flow
+1	github	8.1	00 USDC	OPEN_ISSUE	https://github.com/Yormee-103/PayLoop/issues/163	Landing page sample invoice looks like real data
+0	github	4.5	-	OPEN_ISSUE	https://github.com/Orbit-xyz/Orbit/issues/367	frontend: build multi-account wallet selector and session disconnect manager in dashboard header
+0	github	15.8	-	OPEN_ISSUE	https://github.com/Orbit-xyz/Orbit/issues/355	widget: implement simulated checkout sandbox mode with dummy Freighter wallet provider
+0	github	24.9	-	OPEN_ISSUE	https://github.com/Yormee-103/PayLoop/issues/62	Hide the faucet UI when the app is not on testnet
+0	github	47.6	-	OPEN_ISSUE	https://github.com/Orbit-xyz/Orbit/issues/326	frontend: build live currency rate conversion ticker and testnet asset price widget in navbar
+0	github	47.7	-	OPEN_ISSUE	https://github.com/Orbit-xyz/Orbit/issues/322	widget: implement custom tip / donation add-on selector in checkout drawer
+0	github	58.7	-	OPEN_ISSUE	https://github.com/kindfi-org/kindfi/issues/1134	Keep wallet send on Horizon and return Horizon result codes to the user
+0	github	58.7	-	OPEN_ISSUE	https://github.com/kindfi-org/kindfi/issues/1123	Publish a SEP-1 stellar.toml and a short map of the SEPs KindFi actually depends on
