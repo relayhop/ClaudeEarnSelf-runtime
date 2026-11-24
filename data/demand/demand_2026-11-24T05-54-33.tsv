@@ -1,0 +1,35 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	github	3.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Miyo-explore/miyo-rpc-labs/issues/37	[wave] Document a CI health-gate example in README
+4	github	3.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Miyo-explore/miyo-rpc-labs/issues/36	[wave] httpConnectivity should honour --no-follow-redirects
+4	github	3.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Miyo-explore/miyo-rpc-labs/issues/35	[wave] Provider-specific error taxonomy
+4	github	3.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Miyo-explore/miyo-rpc-labs/issues/34	[wave] Warn tier for ledger progression (stagnant ledger)
+4	github	3.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Miyo-explore/miyo-rpc-labs/issues/33	[wave] Add built-in getFeeStats check
+4	github	3.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Miyo-explore/miyo-rpc-labs/issues/32	[wave] Fix stale Testnet passphrase in src/network.rs
+3	github	47.5	100 sats	OPEN_ISSUE,LOW_COMP	https://github.com/bitcoinkisumu/bitcoin-kisumu/issues/10	Write a beginner Lightning wallet guide for the Resources page
+3	github	12.8	$0.00	OPEN_ISSUE,LOW_COMP	https://github.com/EliCunninghamDev/haiku-core/issues/1	[BOUNTY] Add printHaiku() — a beautiful haiku to the console (Reward: $0.00 USDC)
+3	github	12.8	$0.00	OPEN_ISSUE,LOW_COMP	https://github.com/EliCunninghamDev/haiku-core/issues/1	[BOUNTY] Add printHaiku() — a beautiful haiku to the console (Reward: $0.00 USDC)
+3	github	24.7	$350	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/2	($350) perf/fix: Align Posted/Non-Posted header credit wrap mask under 256B FLIT packing (pcie-tlp-credit-flow-gate)
+3	github	24.7	$225	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/1	[225 USDC] Resolve TLP frame ceiling boundary and infinite-wrap credit bitvector identity (reassemble_tlp_flit_frames)
+3	github	24.7	$300	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2	[$300] fix(kv_cache): Align prefix-cache copy-on-write watermark across TP=8 shard moduli (vllm-paged-kv-verifier)
+3	github	24.7	$75	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1	ci/kv_cache: Fix KV frame chunk ceiling and reconcile multi-head block stride congruences - Reward $75 USDC
+2	github	47.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/bitcoinkisumu/bitcoin-kisumu/issues/7	Add a social preview image (Open Graph)
+2	github	63.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/selfcustody/krux/issues/1002	test: native P2WSH has no direct vector on `tests/test_sats_vb.py`,
+2	github	64.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Mansi2007275/PatchPay/issues/9	Show the amount next to each payout tx on the PatchProof page
+2	github	36.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Yormee-103/PayLoop/issues/141	Faucet confirmation hardcodes "500 test USDC" instead of using the minted amount
+2	github	8.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1440	[radar] SN open bounty 2026-11-23T21:13
+2	github	11.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5645	[Bounty] Answer the 2 linked question(s)
+2	github	11.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5644	[Bounty] Answer the 2 linked question(s)
+2	github	11.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5643	[Bounty] Answer the 3 linked question(s)
+2	github	11.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5642	[Bounty] Answer the 3 linked question(s)
+2	github	11.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5641	[Bounty] Answer the 4 linked question(s)
+2	github	12.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1439	[radar] SN open bounty 2026-11-23T17:56
+2	github	19.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/alwaystrueio/devx-bounties/issues/1	[Bounty] Test issue (not a real bounty)
+2	github	21.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1436	[radar] SN open bounty 2026-11-23T08:55
+2	github	29.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/relayhop/sn-monetization-runtime/issues/1433	[radar] SN open bounty 2026-11-23T00:12
+1	github	16.1	5usd	OPEN_ISSUE	https://github.com/Agora-Events/agora/issues/1867	[FRONTEND] Reject non-numeric capacity and price values in createEventSchema
+1	github	22.4	99 USDC	OPEN_ISSUE	https://github.com/Neurowealth/Backend/issues/787	onChainAmountSchema float check rejects valid amounts like 19.99 on deposit/withdraw
+1	github	32.9	$50	OPEN_ISSUE	https://github.com/Orbit-xyz/Orbit/issues/368	widget: implement support for customizable one-time onboarding setup fee in checkout flow
+1	github	36.4	00 USDC	OPEN_ISSUE	https://github.com/Yormee-103/PayLoop/issues/163	Landing page sample invoice looks like real data
+0	github	16.1	-	OPEN_ISSUE	https://github.com/Agora-Events/agora/issues/1868	[FRONTEND] Share one in-flight request in fetchUsdcRate
+0	github	16.2	-	OPEN_ISSUE	https://github.com/soumen0818/C-Pay/issues/253	Inconsistent product copy: "pilot credits" vs USDC, misleading recovery text
+0	github	32.9	-	OPEN_ISSUE	https://github.com/Orbit-xyz/Orbit/issues/367	frontend: build multi-account wallet selector and session disconnect manager in dashboard header
