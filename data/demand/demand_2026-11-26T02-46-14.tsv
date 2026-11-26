@@ -1,0 +1,28 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	12.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1620717	EBP: Bitcoin checkout you hold the keys to
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/113	Supply rule for Blur (BLUR)
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/112	Supply rule for MANTRA (MANTRA)
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/111	Supply rule for Plasma (XPL)
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/110	Supply rule for Aster (ASTER)
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/109	Supply rule for Monad (MON)
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/108	Supply rule for Official Trump (TRUMP)
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/107	Supply rule for LayerZero (ZRO)
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/106	Supply rule for Pump.fun (PUMP)
+4	github	1.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/105	Supply rule for Worldcoin (WLD)
+3	github	57.6	$0.00	OPEN_ISSUE,LOW_COMP	https://github.com/EliCunninghamDev/haiku-core/issues/1	[BOUNTY] Add printHaiku() — a beautiful haiku to the console (Reward: $0.00 USDC)
+2	github	47.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Miyo-explore/miyo-rpc-labs/issues/37	Document a CI health-gate example in README
+2	github	47.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Miyo-explore/miyo-rpc-labs/issues/36	httpConnectivity should honour --no-follow-redirects
+2	github	47.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Miyo-explore/miyo-rpc-labs/issues/35	Provider-specific error taxonomy
+2	github	47.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Miyo-explore/miyo-rpc-labs/issues/34	Warn tier for ledger progression (stagnant ledger)
+2	github	47.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Miyo-explore/miyo-rpc-labs/issues/33	Add built-in getFeeStats check
+2	github	47.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Miyo-explore/miyo-rpc-labs/issues/32	Fix stale Testnet passphrase in src/network.rs
+2	github	9.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5811	[Bounty] Answer the 2 linked question(s)
+2	github	9.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5808	[Bounty] Answer the 2 linked question(s)
+1	github	61.0	5usd	OPEN_ISSUE	https://github.com/Agora-Events/agora/issues/1867	[FRONTEND] Reject non-numeric capacity and price values in createEventSchema
+1	github	67.3	99 USDC	OPEN_ISSUE	https://github.com/Neurowealth/Backend/issues/787	onChainAmountSchema float check rejects valid amounts like 19.99 on deposit/withdraw
+0	github	61.0	-	OPEN_ISSUE	https://github.com/Agora-Events/agora/issues/1868	[FRONTEND] Share one in-flight request in fetchUsdcRate
+0	github	61.1	-	OPEN_ISSUE	https://github.com/soumen0818/C-Pay/issues/253	Inconsistent product copy: "pilot credits" vs USDC, misleading recovery text
+0	github	9.1	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/5813	[Bounty] Answer the 2 linked question(s)
+0	github	9.1	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/5812	[Bounty] Answer the 2 linked question(s)
+0	github	9.1	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/5810	[Bounty] Answer the 2 linked question(s)
+0	github	9.1	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/5809	[Bounty] Answer the 2 linked question(s)
