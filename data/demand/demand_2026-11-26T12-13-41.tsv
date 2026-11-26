@@ -1,0 +1,28 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	github	3.0	$250	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/2	[$250] fix(verifier): Tighten 32-bit subregister zero-extension parity across conditional joins (ebpf-verifier-reg-bound
+5	github	3.0	$350	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/1	[350 USDC] Fix ALU64 chunk ceiling boundary and tristate tnum scalar bitmask witness (refine_bpf_tnum_frames)
+5	github	3.0	$175	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/2	ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append descriptors - Reward $175 USDC
+5	github	3.0	$200	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/1	[$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syndrome parity word (unpack_zns_metadata_f
+4	sn/bitcoin	5.0	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1621201	scott aaronsom "holy shit" yes AI "will break currently deployed cryptosystems"
+4	sn/bitcoin	21.4	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1620717	EBP: Bitcoin checkout you hold the keys to
+3	github	67.1	$0.00	OPEN_ISSUE,LOW_COMP	https://github.com/EliCunninghamDev/haiku-core/issues/1	[BOUNTY] Add printHaiku() — a beautiful haiku to the console (Reward: $0.00 USDC)
+2	github	57.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Miyo-explore/miyo-rpc-labs/issues/37	Document a CI health-gate example in README
+2	github	57.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Miyo-explore/miyo-rpc-labs/issues/36	httpConnectivity should honour --no-follow-redirects
+2	github	57.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Miyo-explore/miyo-rpc-labs/issues/35	Provider-specific error taxonomy
+2	github	57.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Miyo-explore/miyo-rpc-labs/issues/34	Warn tier for ledger progression (stagnant ledger)
+2	github	57.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Miyo-explore/miyo-rpc-labs/issues/33	Add built-in getFeeStats check
+2	github	57.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Miyo-explore/miyo-rpc-labs/issues/32	Fix stale Testnet passphrase in src/network.rs
+2	github	10.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/113	Supply rule for Blur (BLUR)
+2	github	10.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/112	Supply rule for MANTRA (MANTRA)
+2	github	10.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/111	Supply rule for Plasma (XPL)
+2	github	10.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/110	Supply rule for Aster (ASTER)
+2	github	10.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/108	Supply rule for Official Trump (TRUMP)
+2	github	10.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/tradermarketcap/tradermarketcap-open/issues/107	Supply rule for LayerZero (ZRO)
+2	github	18.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5811	[Bounty] Answer the 2 linked question(s)
+1	github	70.4	5usd	OPEN_ISSUE	https://github.com/Agora-Events/agora/issues/1867	[FRONTEND] Reject non-numeric capacity and price values in createEventSchema
+0	github	70.4	-	OPEN_ISSUE	https://github.com/Agora-Events/agora/issues/1868	[FRONTEND] Share one in-flight request in fetchUsdcRate
+0	github	70.6	-	OPEN_ISSUE	https://github.com/soumen0818/C-Pay/issues/253	Inconsistent product copy: "pilot credits" vs USDC, misleading recovery text
+0	github	10.6	-	OPEN_ISSUE	https://github.com/tradermarketcap/tradermarketcap-open/issues/109	Supply rule for Monad (MON)
+0	github	18.5	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/5813	[Bounty] Answer the 2 linked question(s)
+0	github	18.5	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/5812	[Bounty] Answer the 2 linked question(s)
+0	github	18.5	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/5810	[Bounty] Answer the 2 linked question(s)
