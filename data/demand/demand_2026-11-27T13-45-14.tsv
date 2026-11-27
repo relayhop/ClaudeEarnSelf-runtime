@@ -1,0 +1,24 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	23.2	$40	OPEN_NEED,LOW_COMP	https://stacker.news/items/1621289	Tether Fun Unbelievable Details - Part VII
+3	sn/bitcoin	20.8	$100	OPEN_NEED	https://stacker.news/items/1621381	Bitcoin Has Become Boring, Finally by Roy
+3	github	12.6	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Meet-hybrid/stellar-guilds/issues/23	[TASK] Web: unit tests for the payout and escrow maths
+2	sn/bitcoin	7.9	-	OPEN_NEED	https://stacker.news/items/1621671	An Intelligent Response to "Bitcoin Has Become Boring"
+2	github	11.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/oscarbol09/solwatch/issues/21	docs(api,openapi): align README webhook example, API docs, architecture notes, and OpenAPI schema with server behavior
+2	github	12.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Meet-hybrid/stellar-guilds/issues/21	[TASK] Web: detect a missing USDC trustline and add it in one click
+2	github	19.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/coreguard-global/CoreGuard/issues/151	Good first issue: 10 named adversarial vectors for Wave 6 (session keys, assets, envelopes)
+2	github	25.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Renanuya/buymeatokens-oss/issues/40	test: cover USDC transfer verification with a mocked RPC
+2	github	6.5	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/browser/issues/1	[Intern] Multi-agent Chrome extension build & local `hanzoai/engine` BYOK smoke test
+2	github	6.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/docs/issues/26	[Intern] Copy-paste audit of Getting Started, Self-Hosting, Mobile, Desktop & OSS Onboarding guides
+2	github	6.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/python-sdk/issues/55	[Intern] Quickstart, async streaming & MCP/IAM example verification on Python 3.12+
+2	github	6.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/o11y/issues/49	[Intern] OpenTelemetry OTLP trace/metric/log ingest smoke test from local `hanzoai/cloud`
+2	github	6.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/esign/issues/2	[Intern] Fresh-clone setup verification & PDF upload/sign/audit-trail smoke test
+2	github	6.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/post/issues/21	[Intern] Social publishing scheduler timezone & media validation unit tests
+2	github	6.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/mail/issues/1	[Intern] Local loopback SMTP/IMAP/webmail smoke test & 5-minute dev recipe
+2	github	6.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/cal/issues/1	[Intern] Local scheduling E2E flow backed by `hanzoai/cloud` (`/v1/base`)
+2	github	6.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/billing/issues/1	[Intern] Plans, invoices & usage dashboard mock-API test suite
+2	github	6.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/ide/issues/20	[Intern] Clean source build, large-repo (`hanzoai/cloud`) open latency profile & warning cleanup
+2	github	6.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/team/issues/43	[Intern] Clean local build, `@hanzo/gui` peer check & core workspace UI smoke tests
+2	github	6.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/extension/issues/30	[Intern] Browser extension (Chrome/Firefox/Edge) + VS Code `.vsix` build & ZAP/MCP bridge QA
+2	github	6.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/gui/issues/21	[Intern] Keyboard navigation, focus-ring & WCAG AA accessibility audit on core primitives
+2	github	6.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/chat/issues/3	[Intern] Static SPA build against local `hanzoai/engine` + Playwright streaming smoke tests
+0	github	6.6	-	OPEN_ISSUE	https://github.com/hanzoai/ui/issues/337	[Intern] Verify `@hanzo/ui` tree-shaking, React 19 / Next.js static export & Storybook/tests
