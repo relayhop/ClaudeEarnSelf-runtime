@@ -1,0 +1,19 @@
+# tag	source	age_h	bounty	ncom	url	title
+FRESH_LOW_COMP	github	4.6	0	0	https://github.com/hanzoai/skills/issues/18	[Intern] Validate top 50 Hanzo skills & 3-tier progressive discovery (`CLAUDE.md` < 8 KB)
+FRESH_LOW_COMP	github	4.6	0	0	https://github.com/hanzoai/browser/issues/1	[Intern] Multi-agent Chrome extension build & local `hanzoai/engine` BYOK smoke test
+FRESH_LOW_COMP	github	4.6	0	0	https://github.com/hanzoai/docs/issues/26	[Intern] Copy-paste audit of Getting Started, Self-Hosting, Mobile, Desktop & OSS Onboarding guides
+FRESH_LOW_COMP	github	4.6	0	0	https://github.com/hanzoai/captable/issues/15	[Intern] Fresh-clone setup verification & stakeholder/option-grant calculation unit tests
+FRESH_LOW_COMP	github	4.6	0	0	https://github.com/hanzoai/o11y/issues/49	[Intern] OpenTelemetry OTLP trace/metric/log ingest smoke test from local `hanzoai/cloud`
+FRESH_LOW_COMP	github	4.6	0	0	https://github.com/hanzoai/esign/issues/2	[Intern] Fresh-clone setup verification & PDF upload/sign/audit-trail smoke test
+FRESH_LOW_COMP	github	4.6	0	0	https://github.com/hanzoai/post/issues/21	[Intern] Social publishing scheduler timezone & media validation unit tests
+FRESH_LOW_COMP	github	4.6	0	0	https://github.com/hanzoai/mail/issues/1	[Intern] Local loopback SMTP/IMAP/webmail smoke test & 5-minute dev recipe
+FRESH_LOW_COMP	github	4.6	0	0	https://github.com/hanzoai/cal/issues/1	[Intern] Local scheduling E2E flow backed by `hanzoai/cloud` (`/v1/base`)
+FRESH_LOW_COMP	github	4.6	0	0	https://github.com/hanzoai/ide/issues/20	[Intern] Clean source build, large-repo (`hanzoai/cloud`) open latency profile & warning cleanup
+FRESH_LOW_COMP	github	4.6	0	0	https://github.com/hanzoai/team/issues/43	[Intern] Clean local build, `@hanzo/gui` peer check & core workspace UI smoke tests
+FRESH	sn/bitcoin	2.8	0	0	https://stacker.news/items/1621705	Sparrow 2.5.7 habilita una opción adicional para cómo ves los números.
+FRESH	sn/bitcoin	2.8	0	0	https://stacker.news/items/1621704	Sparrow 2.5.7 baja el ancho de ventana adaptable a (750 px).
+FRESH	github	4.6	0	2	https://github.com/hanzoai/python-sdk/issues/55	[Intern] Quickstart, async streaming & MCP/IAM example verification on Python 3.12+
+FRESH	github	4.6	0	1	https://github.com/hanzoai/js-sdk/issues/42	[Intern] ESM/CJS/Browser bundle & TypeScript `strict: true` consumer verification
+FRESH	github	4.6	0	1	https://github.com/hanzoai/billing/issues/1	[Intern] Plans, invoices & usage dashboard mock-API test suite
+FRESH	github	4.6	0	1	https://github.com/hanzoai/ui/issues/337	[Intern] Verify `@hanzo/ui` tree-shaking, React 19 / Next.js static export & Storybook/tests
+FRESH	sn/bitcoin	6.0	0	4	https://stacker.news/items/1621671	An Intelligent Response to "Bitcoin Has Become Boring"
