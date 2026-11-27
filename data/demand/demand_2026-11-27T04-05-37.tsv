@@ -1,0 +1,24 @@
+# score	source	age_h	payout_hint	tags	url	title
+5	sn/bitcoin	13.6	$40	OPEN_NEED,LOW_COMP	https://stacker.news/items/1621289	Tether Fun Unbelievable Details - Part VII
+5	sn/bitcoin	11.1	$100	OPEN_NEED,LOW_COMP	https://stacker.news/items/1621381	Bitcoin Has Become Boring, Finally by Roy
+5	github	2.9	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Meet-hybrid/stellar-guilds/issues/23	[TASK] Web: unit tests for the payout and escrow maths
+4	github	2.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/oscarbol09/solwatch/issues/21	docs(api,openapi): align README webhook example, API docs, architecture notes, and OpenAPI schema with server behavior
+4	github	2.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Meet-hybrid/stellar-guilds/issues/21	[TASK] Web: detect a missing USDC trustline and add it in one click
+3	github	18.9	$250	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/2	[$250] fix(verifier): Tighten 32-bit subregister zero-extension parity across conditional joins (ebpf-verifier-reg-bound
+3	github	18.9	$350	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/1	[350 USDC] Fix ALU64 chunk ceiling boundary and tristate tnum scalar bitmask witness (refine_bpf_tnum_frames)
+3	github	18.9	$175	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/2	ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append descriptors - Reward $175 USDC
+3	github	18.9	$200	OPEN_ISSUE,LOW_COMP	https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/1	[$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syndrome parity word (unpack_zns_metadata_f
+2	sn/bitcoin	20.9	-	OPEN_NEED	https://stacker.news/items/1621201	scott aaronsom "holy shit" yes AI "will break currently deployed cryptosystems"
+2	github	9.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/coreguard-global/CoreGuard/issues/151	Good first issue: 10 named adversarial vectors for Wave 6 (session keys, assets, envelopes)
+2	github	15.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Renanuya/buymeatokens-oss/issues/40	test: cover USDC transfer verification with a mocked RPC
+2	github	10.7	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5849	[Bounty] Answer the 2 linked question(s)
+2	github	34.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5811	[Bounty] Answer the 2 linked question(s)
+2	github	34.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5807	[Bounty] Answer the 2 linked question(s)
+2	github	34.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5808	[Bounty] Answer the 2 linked question(s)
+2	github	34.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5806	[Bounty] Answer the 2 linked question(s)
+2	github	34.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5805	[Bounty] Answer the 3 linked question(s)
+0	github	26.5	-	OPEN_ISSUE	https://github.com/tradermarketcap/tradermarketcap-open/issues/109	Supply rule for Monad (MON)
+0	github	34.4	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/5813	[Bounty] Answer the 2 linked question(s)
+0	github	34.4	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/5812	[Bounty] Answer the 2 linked question(s)
+0	github	34.4	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/5810	[Bounty] Answer the 2 linked question(s)
+0	github	34.4	-	OPEN_ISSUE	https://github.com/Ikalus1988/MisakaNet/issues/5809	[Bounty] Answer the 2 linked question(s)
