@@ -1,0 +1,25 @@
+# score	source	age_h	payout_hint	tags	url	title
+4	sn/bitcoin	9.2	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1622056	Two weeks in Czechia without a bank account: paying with Bitcoin
+4	sn/bitcoin	23.7	-	OPEN_NEED,LOW_COMP	https://stacker.news/items/1621795	What If James Bond Was A Bitcoiner?
+3	github	36.9	100 USDC	OPEN_ISSUE,LOW_COMP	https://github.com/Meet-hybrid/stellar-guilds/issues/23	[TASK] Web: unit tests for the payout and escrow maths
+3	github	50.4	$500	OPEN_ISSUE,LOW_COMP	https://github.com/barisparlakk/Cashdiff/issues/56	Pollar track: Google sign-in wallet for payouts (web/)
+2	github	23.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/Steller-escaprt/stellarflow/issues/18	[Wave 100] Add SEP-0001 stellar.toml validator check to frontend CI preflight script
+2	github	36.1	-	OPEN_ISSUE,LOW_COMP	https://github.com/oscarbol09/solwatch/issues/21	docs(api,openapi): align README webhook example, API docs, architecture notes, and OpenAPI schema with server behavior
+2	github	36.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/Meet-hybrid/stellar-guilds/issues/21	[TASK] Web: detect a missing USDC trustline and add it in one click
+2	github	43.3	-	OPEN_ISSUE,LOW_COMP	https://github.com/coreguard-global/CoreGuard/issues/151	Good first issue: 10 named adversarial vectors for Wave 6 (session keys, assets, envelopes)
+2	github	49.6	-	OPEN_ISSUE,LOW_COMP	https://github.com/Renanuya/buymeatokens-oss/issues/40	test: cover USDC transfer verification with a mocked RPC
+2	github	12.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/odiseo159-beep/mergit-demo/issues/63	Add explorerUrl: the GIWA explorer link for a tx, an address or a block
+2	github	12.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/odiseo159-beep/mergit-demo/issues/62	Add formatDeadline: 1796447642 → "Dec 5, 2026, 05:14 UTC"
+2	github	12.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/odiseo159-beep/mergit/issues/29	Show escrow v3 and v4 payments on the builder record
+2	github	12.4	-	OPEN_ISSUE,LOW_COMP	https://github.com/odiseo159-beep/mergit/issues/28	Make mergit_fund_link warn when the issue already has a live bounty
+2	github	21.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5905	[Bounty] Answer the 2 linked question(s)
+2	github	21.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5904	[Bounty] Answer the 2 linked question(s)
+2	github	21.0	-	OPEN_ISSUE,LOW_COMP	https://github.com/Ikalus1988/MisakaNet/issues/5903	[Bounty] Answer the 3 linked question(s)
+2	github	22.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/alfrexo95/bounty-bot/issues/109	🪙 [Web3] [Intern] Verify & modernize all multi-agent handof
+2	github	22.2	-	OPEN_ISSUE,LOW_COMP	https://github.com/alfrexo95/bounty-bot/issues/108	🪙 [Web3] [Intern] Quickstart, async streaming & MCP/IAM exa
+2	github	30.8	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/browser/issues/1	[Intern] Multi-agent Chrome extension build & local `hanzoai/engine` BYOK smoke test
+2	github	30.9	-	OPEN_ISSUE,LOW_COMP	https://github.com/hanzoai/docs/issues/26	[Intern] Copy-paste audit of Getting Started, Self-Hosting, Mobile, Desktop & OSS Onboarding guides
+1	github	18.8	$225	OPEN_ISSUE	https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/2	ci/canonical_abi: Verify zero-reallocation UTF-8 frame lifting under deterministic fuel metering - Reward $225 USDC
+1	github	18.8	$100	OPEN_ISSUE	https://github.com/IES-BoilerRoom/wasm-component-canonical-abi/issues/1	[$100] fix(canonical_abi): Fix canonical string frame ceiling and align deterministic instruction gas polynomial (lift_c
+1	github	18.8	$200	OPEN_ISSUE	https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/2	fix(shader_math): Align WGSL constant-eval Horner polynomial rounding with runtime pipeline ($200 bounty) [wgsl-transcen
+1	github	18.8	$150	OPEN_ISSUE	https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/1	($150) perf/fix: Correct packet frame boundary clamp and 0.5-ULP FMA range-reduction tie-break (fold_wgsl_radiance_frame
